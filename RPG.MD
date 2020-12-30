@@ -1254,7 +1254,11 @@ O personagem cria um campo de calor intenso aumentando consideravelmente a tempe
 
 ### Nível 2: **Incinerar**
 O personagem lança um disparo contra o adversário causando 2D6+3 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
-Nível 3:Purgatório flamejante*- O personagem cria chamas intensas nas mãos que causam 2D6+2 de dano e +1D6 de dano por rank; ou cria chamas mais fortes que causam 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 3: **Purgatório flamejante***
+O personagem cria chamas intensas nas mãos que causam 2D6+2 de dano e +1D6 de dano por rank; ou cria chamas mais fortes que causam 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
 
 <br>
 
@@ -1338,7 +1342,11 @@ O personagem cria um campo de batalha de gelo que diminui consideravelmente a te
 
 ### Nível 2: **Flauta metralha granizo**
 O personagem lança um disparo contra o adversário causando 2D6+4 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
-Nível 3:Espada de gelo*- O personagem cria uma espada de gelo que causa 2D6+2 de dano e +1D6 de dano por rank; ou cria uma espada mais forte que causa 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 3: **Espada de gelo***
+O personagem cria uma espada de gelo que causa 2D6+2 de dano e +1D6 de dano por rank; ou cria uma espada mais forte que causa 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
 
 <br>
 
@@ -1481,7 +1489,11 @@ O personagem lança uma granada contra o adversário causando 2D6+4 de dano por 
 
 ### Nível 3: **Pólvora**
 O personagem invoca várias bombas, a rajada de bombas causa 3D6+4 por rank em cada alvo, o número máximo de oponentes é igual ao rank+4. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
-Nível 4:Aurea espiritual* – O personagem inspira o ar para dentro de si acumulando seu poder, a cor do cabelo do personagem muda e ele recebe um bônus de +1 em todos os seus atributos físicos e pvs por ki gasto.
+
+<br>
+
+### Nível 4: **Aurea espiritual***
+O personagem inspira o ar para dentro de si acumulando seu poder, a cor do cabelo do personagem muda e ele recebe um bônus de +1 em todos os seus atributos físicos e pvs por ki gasto.
 
 <br>
 
@@ -1683,16 +1695,35 @@ O personagem energiza os punhos causando 2D6+2 de dano e +1D6 de dano por rank; 
 
 ### Nível 4: **Golpe de defesa e ataque madoki**
 O personagem quando for alvo de um disparo de nível 5 ou menor pode evitá-lo com esta barreira e absorve um de ki por nível do poder do disparo. Custa o ki do disparo +4.
-Nível 5:Fortalecimento espiritual – O personagem eleva seu espirito de luta e recebe um bônus de +15 em todos os seus atributos físicos, pvs e + 5% no ataque e na defesa por rank. Custa 10 de ki.
+
+<br>
+
+### Nível 5: **Fortalecimento espiritual**
+O personagem eleva seu espirito de luta e recebe um bônus de +15 em todos os seus atributos físicos, pvs e + 5% no ataque e na defesa por rank. Custa 10 de ki.
 
 <br>
 
 ### Nível 6: **Ataque total**
 O personagem lança um disparo contra o adversário causando 5D6+4 de dano por rank. Custa 6 de ki e +1 de ki para cada rank acima do rank E.
-Doutrina do exército do Rei-Kai
+
+<br>
+<br>
+
+## Doutrina do exército do Rei-Kai
+
+<br>
+
 OBS (apenas para membros da elite do rei-kai).
-Nível 1:Voar*- O personagem pode voar e tem o dobro do deslocamento. Custa 3 de ki.
-Nível 2:Energizar*- O personagem aumenta o seu poder e recebe um bônus de +2 de ip e dano para cada ki gasto.
+
+<br>
+
+### Nível 1: **Voar***
+O personagem pode voar e tem o dobro do deslocamento. Custa 3 de ki.
+
+<br>
+
+### Nível 2: **Energizar***
+O personagem aumenta o seu poder e recebe um bônus de +2 de ip e dano para cada ki gasto.
 
 <br>
 
@@ -1704,6 +1735,8 @@ O personagem energiza os punhos causando 2D6+2 de dano e +1D6 de dano por rank; 
 ### Nível 4: **Abrir/fechar portal**
 O personagem pode abrir ou fechar portais que ligam o Ma-kai, Terra (Ningen-kai), Rei-kai. Se o personagem desejar expandir o portal para monstros de categorias superiores passarem, leva uma semana para cada categoria a mais e se for para diminuir o portal para monstros de categoria inferiores passarem leva uma semana para cada categoria a menos. Caso haja ajuda de outros seres com o mesmo poder reduz a proporção em um dia por pessoa ajudando, no mínimo de um dia, precisa trabalhar pelo menos 10 horas por dia. Custa 10 de ki por dia. 
 
+<br>
+
 ### Nível 5: **Aprimoramento espiritual**
 O personagem eleva seu espirito de luta e recebe um bônus de +10 em todos os seus atributos físicos, +30 pvs e + 5% no ataque e na defesa por rank. Custa 10 de ki.
 
@@ -1711,9 +1744,10 @@ O personagem eleva seu espirito de luta e recebe um bônus de +10 em todos os se
 
 ### Nível 6: **Raio maior**
 O personagem lança um raio contra o adversário causando 4D6+5 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
-Lazer light
 
 <br>
+
+## Laser light
 
 ### Nível 1: **Feixe de luz**
 O personagem lança um feixe de luz contra o adversário causando 2D6 de dano por rank. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
@@ -1763,6 +1797,8 @@ O personagem cria uma armadura azul aumentado o seu poder e recebe um bônus de 
 
 ### Nível 4: **Brilho sui seiki**
 O personagem invoca a aura dos anjos sobre si podendo voar com o dobro do deslocamento, e suas doutrinas são elevadas a um rank acima mesmo no rank S Supremo. O bônus da Armadura azul passa a ser +3 em ip, dano e pv para cada ki gasto. Custa 7 de ki.
+
+<br>
 
 ### Nível 5: **Rajada sui seiki**
 O personagem dispara uma rajada de energia sui seiki contra o adversário causando 4D6+4 de dando por rank, esse disparo passa por qualquer tipo de barreira. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
@@ -1826,6 +1862,8 @@ Nível 5:Oscilação shura maior*- O personagem cria uma armadura maior de terra
 ### Nível 6: **Big Bomb Atack**
 Primeiro é necessário usar a oscilação shura maior para poder usar esta técnica, O personagem atingi o oponente com um encontrão, causando 4D6+4 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
 
+<br>
+<br>
 
 ## Espadachim das trevas
 
