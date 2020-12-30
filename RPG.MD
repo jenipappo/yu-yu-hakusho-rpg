@@ -1,0 +1,1746 @@
+#  YUYU HAKUSHO
+
+
+ATUALIZAÇÃO: **27/12/2020**  
+POR **MARCIO ALVES DA SILVA (PEIXE)**  
+Em caso de dúvidas, Endereço de e-mail do autor: marcio.economics@hotmail.com  
+BASEADO NO SUPLEMENTO DE **MARCELO MATOS “GUAXINIM”**, **AJOTA** & **GRUPO DE RPG PVH**  
+
+<br>
+<br>
+
+
+# O Início
+
+<br>
+
+> _Vou usar só 30% do meu poder!_
+**Toguro** (irmão mais velho)
+
+<br>
+
+Tudo começa quando Yusuke Urameshi morre atropelado após salvar a vida de um garotinho, mas é lhe dada a chance de retornar à vida já que não era a hora dele morrer (nada iria acontecer com o garotinho apenas umas leves escoriações e ninguém no mundo sobrenatural iria prever que Yusuke o salvaria). Ele consegue passar no teste após diversas provações e ressuscita, acabando por se tornar detetive do mundo sobrenatural, tendo que resolver diversos casos para Koenma, o filho do regente do mundo sobrenatural. Depois ele resolve um pequeno caso de roubo de três artefatos do mundo espiritual, onde ele conhece seus futuros companheiros de aventura Hiei e Kurama.
+
+<br>
+
+## Toguro & Genkai
+
+Há algum tempo, os ainda jovens Toguro e Genkai começaram a aprender disciplinas de artes marciais. Na época, os dois queriam desenvolver suas capacidades de luta e aprimorá-las. Mas como todo ser humano, com o passar dos anos, a idade foi chegando. Toguro, mesmo ainda jovem, tinha muita dificuldade para aceitar seu envelhecimento. O rapaz começava a trilhar o caminho para o lado das trevas. Em pouco tempo, começaram a rolar várias desavenças entre Toguro e Genkai em função de seus objetivos para o futuro. O grandalhão encanou que queria permanecer jovem para sempre. E isso não bastava para Toguro, ele queria ser o homem mais forte do mundo. Na verdade, o gigante começou a conter suas ambições e passou a treinar outros jovens, uma vez que suas técnicas de luta eram perfeitas. Mas infelizmente seus discípulos acabaram morrendo em combates, faltando-lhes forças para vencer seus adversários. Toguro não agüentou o fracasso e a dor que sentia pelas mortes e decidiu rever seus antigos objetivos. Sem pensar muito nas consequências, Toguro e seu irmão mais novo se levaram para o lado do mal. Eles ganharam muitos poderes, mas pagaram um alto preço. Ambos se tornaram entidades malignas. Os irmãos Toguros passaram a rodar o mundo atrás de desafios.
+
+Por onde passavam só espalhavam o terror. Dos poucos que conseguiram sair com vida dos combates contra a dupla mortífera estão Bui e Karasu. Exatamente esses dois que os Toguros escolheram para fazer parte de seu time no torneio das trevas, apesar de saberem da falta de confiança e o desejo latente de vingança de seus aliados contra eles. Mesmo cheio de poderes, o Toguro mais velho não havia encontrado um desafio a sua altura. O antigo companheiro de Genkai queria testar sua força em 100% de capacidade. Foi nessa época que os irmãos se associaram ao misterioso milionário Sakyo. Acostumado a fazer fortuna criando torneios de artes marciais entre poderosos guerreiros do mundo dos mortais, do mundo espiritual e do mundo inferior; o sinistro ricaço prometeu achar para os irmãos um grande adversário. O destino de Yusuke e Toguro estava sendo selado a partir daquele momento. Enquanto Toguro marcava seu caminho com sangue de inocentes, Genkai seguia sua vida normal. Após a partida de seu colega, a mestra se dedicou a aperfeiçoar suas técnicas de luta. Tamanha foi a perfeição alcançada, que Genkai desenvolveu sua própria doutrina, a Leihadô. Através desta técnica é possível maximizar o Rei-ki, a aura espiritual, e assim disparar uma poderosa onda de luz, o golpe Leikô hadôuken, que chega até a ser mais forte que o Leigan de Yusuke.
+
+Sentindo o peso dos anos, Genkai decidiu que não poderia morrer sem ter passado para alguém mais forte e confiável sua doutrina secreta. Para tanto a mestra criou um torneio de artes marciais para quem quisesse participar. Ao vencedor seria dada a honra de se tornar discípulo de Genkai e aprender os segredos do Leihadô.
+
+<br>
+
+## Suzako, Landou & Yukina
+
+Yusuke recebe a missão de ir ao mundo das trevas acabar com uma rebelião liderado por Suzako, essa turma de monstros queria matar os homens, utilizando uma flauta que controlava os insetos das trevas. Ele recebe a ajuda de Kowabara, de Hiei e Kurama, que iriam ser perdoados pelo mundo espiritual se completassem essa missão e acabam derrotando esses monstros com alguma dificuldade. Logo após isso. Yusuke recebe a missão de capturar Landou, um demônio ladrão de técnicas que havia se infiltrado no torneio de Genkai. Se Landou vencesse, ele ficaria com a doutrina de Genkai e a testaria nos homens, matando milhares deles. Landou já havia roubado 99 técnicas de poderosos mestres, após aprender as técnicas ele os matava. Yusuke entra no torneio com a promessa de ganhar ingressos para ver um campeonato de luta, e vence; mas acaba não indo ao campeonato por ter que treinar para tornar-se sucessor da mestra Genkai. Já Kowabara, apesar de quase ter morrido despertou sua Espada Espiritual, a Leiken. Após receber a doutrina Leikôhadôuken, Yusuke recebe a missão de resgatar a irmã de Hiei, Yukina, que estava presa por um inescrupuloso comerciante - Gonzou Tarukame, porque suas lagrimas tornavam-se pedras preciosas. Ao vencer a Organização Fantasma e os irmãos Toguro, a deusa das neves, por quem Kowabara se apaixonou foi solta.
+
+<br>
+
+## O Torneio das Trevas
+
+Nesse torneio Yusuke e seus amigos deveriam participar ou morrer, eles formaram o time Urameshi. Na primeira fase da competição, o Time Urameshi derrota o Time Rokuyukai (Kuwabara perdeu para Linku; Kurama detonou Loto; Hiei arrepiou Zeru e Yusuke bateu o bêbado Tiyu). O time comandado pelo Dr. Itigaki foi a adversário de Urameshi e sua turma na Segunda fase. Como os integrantes da equipe oponente não estavam lutando por vontade própria, a Mascarada, que entrou na competição ao lado de Yusuke, consegue tirá-los do controle de Itigaki. O doutor ainda se transformou em um monstro, mas foi detonado pelos heróis. Para prejudicar o avanço do time Urameshi os diretores do torneio decidiram colocar Yusuke e companhia logo na primeira luta da terceira fase. Para complicar mais, Hiei e a Mascarada foram impedidos de participar da etapa contra o Time Mashoutsukai por serem reprovados no exame médico (o demônio estava com seu braço muito ferido por ter invocado as Chamas Negras e disparar as Chamas Negras Mortais e a Mascarada usou toda sua energia para salvar o pessoal da equipe Itigaki). Kurama vence as duas primeiras lutas, contra Gama e Touya. Muito ferido o jovem de cabelos vermelhos perde a batalha contra Bakuken, mas o grandalhão é vencido em seguida por Yusuke. O Detetive Espiritual também vence Jin, que tem o poder de controlar os ventos e pode até voar. O herói, usando de grande astúcia, vence o adversário. Kuwabara, empolgado com a chegada de Yukina no estádio, consegue superar seus ferimentos para derrotar Lishou. O Time Urameshi se classifica para as semifinais do torneio.
+
+Enquanto a quarta etapa rola com Hiei detonando Masantarou, Yusuke é levado para fora do estádio pela Mascarada. A misteriosa amiga revela ser a mestre Genkai, a qual decide ensinar ao seu pupilo a técnica final de sua doutrina: Leikoo hadouken. A velha sábia coloca dentro do corpo de Yusuke uma bola energética que condensa sua força ao máximo. Só quem possui o corpo e a alma verdadeiros e puros pode receber tamanho poder, caso contrário morrerá. Genkai ainda endossa alertando que a absorção da energia pode levar dias e Yusuke sentira muita dor. A maior preocupação da mestra era que o rapaz estava recebendo a doutrina muito cedo, apesar de ser qualificado. Yusuke corria o risco de ter seu espírito destruído. Nesse meio tempo o monstro do ovo dourado nasceu. O simpático Piu. De volta aos combates. Hiei enfrenta Kuromomotarou. O integrante da equipe Uraotogi tem a capacidade de mudar seu corpo para evitar os golpes de seu oponente. Mas Hiei mostra sua verdadeira força e arrasa com o coitado. A luta seguinte é entre Kurama e Uraurashitoma. O baixinho bochechudo cai na besteira de usar seu golpe que leva seu adversário de volta a forma original. O amigo de Yusuke assume sua forma de Yoko, o demônio raposa, e liquida com o oponente. Chega a vez de Kowabara encarar Shishiwakamaru. O grandalhão infelizmente não consegue fazer frente ao seu adversário. O demônio do time Uraotogi, entretanto, é derrotado por Genkai, que assume de novo sua forma jovem e mais forte. Kowabara volta a lutar e a ser derrotado, agora contra Onjin Suzuki – que se auto proclamava de Belo Guerreiro, mas Genkai mostra que o seu golpe pode ser belo, mas não passa disso, de um belo golpe. Ajudado por Piu – o monstrinho que nasceu do ovo dourado usado em seu Teste da Ressurreição – Yusuke conseguiu receber a energia de Genkai e ficar vivo. Infelizmente tamanho poder não fez que com que o herói pudesse salvar sua Mestra. Fora do estádio, onde se realizaria a final do torneio, Toguro resolveu liquidar com sua antiga companheira. Usando quase seu poder total, o grandalhão não deu chances para Genkai. Yusuke, ainda fraco pelo tormento que passara para absorver o Leihadô, apenas pode assistir a morte de sua amiga e mestra – Genkai. A final óbvia do Torneio se dá entre os times Urameshi e Toguro. Koenma, em sua forma humana, chega junto de Sakyo para saber quais são suas intenções com a competição. Yusuke continua muito triste pela morte de Genkai. Botan, mesmo sabendo com antecipação do que ocorreria com a Mestra, não consegue se conformar com o fato recém ocorrido. Hiei volta a treinar para controlar suas Chamas Negras. Kurama é outro que está se concentrando nas batalhas finais do torneio. O demônio raposa sabe que enfrentará Karasu, o integrante do time Toguro é mais veloz e mais forte que ele em sua forma normal. Para vencer o inimigo, o herói de cabelos vermelhos sabe que deverá voltar a ser o impiedoso Yoko para sair vitorioso da luta mortal. Em meio as lembranças de seu último encontro com Karasu, Kurama é surpreendido por Kowabara e em seguida por Suzuki. O integrante do time Uraotogi oferece ao demônio o Fruto do Passado – o alimento do Mundo das Trevas que dará a Kurama a capacidade de ficar na forma de Yoko durante quinze minutos – e a Espada Experimental que fará o Leiken de Kowabara ficar muito mais poderosa. Sem compreender a atitude de Suzu__*ki*__, o demônio e Kowabara o indagam sobre o porquê dos presentes. Suzuki conta que fora vencido e humilhado por Toguro no passado e pretendia chegar até a final para se vingar, como não ele conseguiu, decidiu ajudar a moçada do time Urameshi. Antes do início das batalhas finais, o Sr. Sakyo, revela suas intenções. Ele pretende usar todo o dinheiro para abrir um grande buraco entre o Mundo dos Humanos e o Inferno. Assim grandes demônios poderão vir para a Terra – assim eles poderão participar do próximo torneio, proporcionando mais perigo aos participantes e mais diversão a platéia. Já Toguro sabe que se vencer Yusuke ele só poderá encontrar um adversário à altura no Mundo das Trevas. Koenma vai até onde Yusuke chora lastimas pela morte de Genkai. O filho do Rei Enma dá uma dura em Yusuke e conta que antes de morrer a mestra pediu que ele vencesse Toguro de qualquer jeito. A juíza Juli e a apresentadora Koto convoca os dois times para o centro do ringue. Mas há um problema: segundo as regras da competição, devem ocorrer cinco confrontos e os times estão com apenas quatro integrantes. Para completar os times entram Sakyo, para o Toguro, e Koenma para o Urameshi. Antes de iniciar os combates, Sakyo resolve fazer uma aposta. Ele aposta a própria vida e Koenma aceita. Antes de subir ao ringue Kurama revela ter tomado altas doses de fruto do passado. Kurama sabe que em sua forma humana não é páreo para Karasu, então ele tenta manter Karasu o mais distante possível, mas isso é inútil contra as Bombas de Energia de Karasu. Karasu lança suas bombas de energia contra Kurama. Uma grande explosão ocorre. O vilão repara que sua mão está perfurada por uma rosa. Quando ergue os olhos nota que em meio a fumaça há um aterrorizante semblante. É o cruel Yoko. Kurama em sua forma primitiva consegue repelir com facilidade as bombas de emergia de Karasu. Yoko invoca as Mimosas Assassinas para tentar eliminar o seu oponente, mas Karasu é muito ágil e consegue evitar os ataques. As mimosas assassinas de Yoko finalmente aprisionam Karasu, este acaba por perder sua máscara. Numa concentração suprema de suas energias, Karasu consegue exterminar a planta. Karasu, com seus cabelos loiros, torna-se um verdadeiro armazém de explosivos. Então transformando-se numa verdadeira bomba demoníaca, Karasu se lança contra Yoko. A explosão detona metade do estádio, faz Yoko retornar a forma de Kurama. O demônio raposa ficou com pouca energia e não consegue nem controlar plantas pequenas. Kurama parte para o corpo a corpo com seu oponente. Em meio aos golpes, Kurama tenta implantar uma semente da morte no peito de seu adversário. Mas o vilão percebe à tempo e retira a planta de seu coração. Karasu contra-ataca com suas bombas subterrâneas e cria milhares de bombas ao redor de Kurama, esse por sua vez não pode ver as bombas por sua falta de energia. Kurama sangrando muito e sem energias invoca a Planta Sanguessuga que finalmente dá fim ao vilão. A segunda luta tem início. Bui contra Hiei. Bui salta para atacar com seu grande machado, mas Hiei apenas esquiva deixando sua capa e revelando seu braço direito enfaixado de forma especial. Bui usa seu machado para lançar blocos do ringue contra Hiei. O herói quebra os blocos de concreto com suas chamas negras e o contra-ataque do demônio regenerado destrói o machado de Bui. Bui pela primeira vez fala para revelar que sua armadura não é para proteção, mas sim para reter sua energia. Bui conta que prometeu retirar a armadura quando voltasse a enfrentar Toguro, mas seria obrigado a fazer uma exceção. A luta recomeça, Hiei golpeia seu oponente. Irritado, Bui avisa que o matará se ele não usar as Chamas Negras. Hiei começa a desenfaixar o braço e a pedido de Bui invoca as Chamas Negras. Disparando o Dragão Negro contra Bui que por sua vez consegue mandá-lo de volta contra Hiei. Hiei finalmente domina o Dragão Negro ficando muito mais forte não dando chances a Bui. Derrotado, Bui pede para Hiei matá-lo, mas Hiei diz para ele fazer isso sozinho. Kowabara fica sabendo da morte de Genkai ficando irritado com Yusuke por não ter contado. Kowabara sofre ao enfrentar o irmão Toguro mais novo. O Toguro controla totalmente seu corpo sendo impossível derrotá-lo, mas Kowabara com a Espada Experimental dá fim ao Toguro. É chegado a hora do combate tão esperado. Toguro contra Yusuke. A luta se equivale, mas Toguro utiliza os cem porcento de seu poder. Yusuke ainda sentindo a perda de Genkai não luta com vontade, então Toguro ameaça matar os amigos de Yusuke. Por fim Toguro acaba por matar Kowabara, liberando assim a fúria de Yusuke que dispara um super Leigan que Toguro tenta segurar, mas acaba por sucumbir ao poderoso golpe de Yusuke. O Time Urameshi acaba sendo campeão após duras penas. Durante esse torneio, Toguro mata a mestra Genkai, mas Koenma, como prêmio a Yusuke por vencer o torneio, devolve a vida da mestra. Durante o torneio é que Yusuke se torna o mestre do Leihadô recebendo a bola espiritual. Kowabara não havia morrido, já que Toguro nunca pretendeu matá-lo, mas apenas fazer com que Yusuke utiliza-se todo o poder do Leihadô.
+
+<br>
+
+## Sansui & o Torneio de Ma-Kai
+
+Após isso, ele deveria impedir Sansui Shinobu e sua turma de abrir um buraco que ligaria o mundo dos homens ao mundo das trevas, deixando livre passagem para isso, Yusuke e companhia teriam que derrotar Sansui e mais seis amigos dele. Durante essa missão Yusuke enfrenta os poderosos territórios. Yusuke morre e ressuscita como um demônio. Descobre-se então, que ele é filho de Reizen, um dos três Reis do Inferno. Yusuke vai até o Inferno para enfrentar Sansui e acaba por matá-lo, com alguém assumindo o controle de seu corpo. Yusuke é procurado por dois demônios que vieram para busca-lo pois seu pai – Reizen – está morrendo. Yusuke assume o lugar de Reizen que morreu por prometer não comer mais as almas dos homens. Kurama é procurado por Yomi, seu antigo amigo que foi deixado para morrer. Yomi perdeu a visão, e culpa Kurama por isso. Hiei é procurado por Mukuro. Yomi pretende dominar o inferno, para isso ele conta com Shura seu filho. Hiei enfrenta o cirurgião das trevas e vence com alguma dificuldade – chegando a sacrificar um braço para vencer a luta. Mukuro resolve ajudar Hiei a recuperar-se, colocando-o num tanque de regeneração. Yusuke resolve fazer um torneio para decidir quem será o Rei de Ma-Kai. Aquele que vencer será o Rei de Ma-Kai por três anos, após esse prazo deve ser feito outro torneio para decidir quem será o novo Rei. Kurama vence Shura. Yusuke enfrenta Yomi. Yomi invoca uma poderosa arte de defesa – a Defesa Perfeita. Yusuke na forma de demônio dispara vários tiros de Leigan, mas é inútil contra a poderosa defesa de Yomi. Um dos Leigans consegue passar a defesa de Yomi, um a um os Leigans vão vencendo a barreira. Yomi contra-ataca num combate corpo a corpo, por fim Yusuke perde a luta. Hiei enfrenta Mukuro que com o Corte Espacial isola Hiei. Hiei não querendo matar Mukuro dispara o Dragão Negro que ela tenta segurar, após ela vencer o Dragão os seus grilhões são quebrados e é o fim do combate. Mukuro venceu. Em outras fases do torneio: Yomi, Mukuro e Kurama perdem, sendo agora o Rei de Ma-Kai um antigo parceiro de lutas de Reizen. Todos voltam para à Terra, exceto Hiei que continua em Ma-Kai. O fim se dá quando Yusuke se encontra com Keiko na praia...
+
+`Retirado da Revista Herói números: 114, 119, 121, 128 & 129`. 
+
+
+<br>
+<br>
+
+# Os Mundos
+## Terra
+
+A nossa querida casa, sempre invejada, e porque não dizer odiada pela maioria dos seres espirituais. Por termos alcançado uma civilização mais ou menos organizada e boa, ao contrário dos mundos espirituais, que são reinados pela discórdia e pelos mais fortes. Nosso planeta é constantemente visitado pelas criaturas espirituais, por diversos motivos (devorar almas, usar humanos como estoque de carne, e outras coisas tão fúteis...). Poucas pessoas podem defender o planeta dos demônios, e a maioria dessas pessoas simplesmente não se importa em fazer isso, não atacando os demônios, a não ser que esses os incomodem. É na Terra, ou mais precisamente na Ilha do Enforcado, que ocorre o famoso Torneio das Trevas, que é controlado pelos ricos e poderosos do nosso mundo. Aquele que patrocinou o time vencedor ganha muito dinheiro, e se torna muito poderoso e influente.
+
+<br>
+
+## Rei-Kai - Mundo Espiritual
+
+Esse é o lugar para onde as almas vão após morrer, guiadas por Botan, uma deusa menor da morte. Esse lugar é governado por Enma, uma poderosa entidade, mas como o tempo todo ele está ocupado por assuntos que só Deus sabe, quem lida com a bagunça é Koenma, seu filho.
+Apesar da aparência de bebê, ele tem mais de 80 anos. Explicação: Seres como ele vivem muito mais que seres humanos. Nesse lugar, os espíritos serão julgados. Indo para o céu ou para o inferno. Ele é como se fosse a metade da parte de cima do Ma-Kai (para você ver como o mundo dos demônios é maior...). É um inferno burocrático, onde diversos onis menores trabalham o dia inteiro com papeladas e mais papeladas, como vemos no desenho. No Rei-Kai é mantida uma força de elite que eles usam para resolver grandes problemas. Eles agem em grupos de sete com um comandante, e são bastante poderosos, o suficiente para enfrentar demônios de classe A, mas não o suficiente para enfrentar um de classe S.
+
+<br>
+
+## Ma-Kai - Mundo dos Demônios
+
+Esse é o lugar onde os espíritos maus vivem, é governado por demônios poderosos que só não invadem a Terra por causa de uma espécie de barreira (ou barreiras) que os impedem, mas infelizmente essas barreiras não impedem demônios fracos de entrarem na Terra. Esse é um lugar de dor e sofrimento, onde a luta jamais tem fim. É como se fosse o inferno: gigantesco com diversos níveis. É impossível para um Oni de categoria igual ou superior à B (veja o capítulo personagens) atravessar essa barreira em qualquer um dos sentidos (Terra - Ma-Kai ou Ma-Kai - Terra.). Como mostrado no anime, esse local parece ter diversos (centenas...) de níveis, ou andares, o que mostra o quão grande é o mundo dos demônios (ou Onis). Pouco foi mostrado dele no anime, mas pelo que foi visto e explicado, é um lugar bem atrasado em tecnologia, na maioria dos cenários nós vemos florestas, montanhas ou desertos, e os Onis parecem se juntar em comunidades ou aldeias com um líder, que é um monstro de classe A ou S. Essas comunidades são como Reinos, cada qual com seu rei que geralmente estão em conflito. A maioria das pessoas de dada comunidade respeita o rei e segue suas ordens fielmente, mas existem exceções. Três dos reis do mundo das trevas aparecem no desenho. São eles Reizen (ancestral de Yusuke), Mukuru e Yomi. Durante o desenho, foi promovido um torneio no Ma-Kai para a escolha do novo rei do mundo das Trevas. Foi decidido que de agora em diante, a cada três anos, será realizado um novo Torneio das Trevas para se escolher o novo Rei das Trevas, que será respeitado e servido por aqueles derrotados no Torneio.
+
+<br>
+
+### Reinos do Ma-Kai
+
+Os reinos são povoamentos no Ma-Kai. Alguns se tornam grandes cidades cheias de tecnologia e cultura, mas outros servem apenas de moradia para Onis que cansaram de lutar e só querem descanso. O Rei-Kai domina uma pequena parte do Ma-Kai (pequena mesmo) e nessa área foi instituída um posto de vigia e um Portal para os outros mundos, mas pelo qual apenas Soldados de Elite do Mundo Espiritual e Detetives Sobrenaturais podem passar livremente, Doutrinados ou Onis de aparência humana, ou meio-humanos, podem passar apenas caso paguem uma taxa de 500 Zenny. Deste lugar foi demarcado um Ponto Zero do Ma- Kai. A distância para se chegar a um Reino é demarcada a partir deste ponto, no caso demoram X dias para se chegar a um Reino partindo deste Ponto Zero. Existem alguns reinos conhecidos no Ma-Kai:
+
+#### **Reino Gandara**
+Um Reino com uma tecnologia muitíssimo avançada.
+Quem Domina: Um demônio de classe S chamado Yomi.
+**Distancia**: 20 dias.
+
+#### **Reino De Mukuro**
+
+Um Reino com uma tecnologia um pouco avançada.
+Quem Domina: Um demônio de classe S chamado Mukuro.
+**Distancia**: 23 dias.
+
+#### **Reino de Reizen**
+Um Reino com pouca tecnologia.
+Quem Domina: Um demônio de classe S chamado Reizen.
+**Distancia**: 30 dias.
+
+#### **País do Gelo**
+Um Reino bem isolado, acima das nuvens e muito frio para qualquer monstro ou pessoa normal aguentar por muito tempo, apenas Mulheres do Gelo vivem nesse Reino.
+**Quem Domina**: Um conselho formado pelas mais velhas Mulheres de Gelo do Reino.
+**Distancia**: 100 dias, para encontra-lo também precisará da bússola do Detetive Sobrenatural para encontrar o You-__*ki*__ delas então, ou apenas usando o Jagan, fora isso é impossível,
+pois o Reino encontra-se acima das nuvens.\
+
+> **Observacão**  
+Não se pode permanecer mais que 30 dias no País de Gelo, por causa da baixa temperatura, exceto se o personagem for mestre na Doutrina Gelo.
+
+#### **Outros**
+Existem vários outros Reinos no mundo das trevas, pois ele é muito grande e o Rei-Kai apenas conhece pouca parte dele, por isso aventureiros podem partir em busca de novos reinos a serem conquistados, mas é melhor irem logo esperando pelo pior...
+
+<br>
+
+## Mei-Kai - O Outro Mundo
+Esse é um mundo parecido com o Ma-Kai, mas é um lugar habitado por demônios poderosíssimos, a maioria de classe S superior. Antes de existir a barreira entre os mundos, esses demônios eram muito temidos. Eles buscam certos itens que possibilitariam anular a barreira espiritual, e eles já tiveram várias tentativas fracassadas. O governante desse mundo era um demônio poderosíssimo, mais poderoso do que monstros da classe S, como Yusuke Urameshi. É um lugar muito mais terrível de se ver ou viver do que o Ma- Kai, dado o poder das criaturas que vivem por lá. As doutrinas só podem ser adquiridas de duas formas: No momento de criação de personagem comprando-se o aprimoramento Doutrinado, ou durante a aventura, através de um mestre e árduos treinamentos.
+
+<br>
+<br>
+
+# Regras e Sistema
+
+## TABELA DE NÍVEIS E PROEZAS FISÍCAS
+| NÍVEL  | _PV_       | ATRIBUTO  | APRIMOR.  | PERÍCIA   | DOUTRINA  | __*ki*__     | RANK
+|-------:|---------:|----------:|----------:|----------:|----------:|-------:|------
+| 1      | +6       | 111       | 8	        | 400       | 2         | +3     | E-
+| 2      | +12      | +1        | +1	    | +25       | 2         | +6     | E+-
+| 3      | +18      | +2        | +1	    | +50       | +1        | +9     | E+
+| 4      | +24      | +3        | +1	    | +75       | +1        | +12    | D-
+| 5      | +30      | +4        | +2	    | +100      | +2        | +15    | D+-
+| 6      | +36      | +5        | +2	    | +125      | +2        | +18    | D+
+| 7      | +42      | +6        | +2	    | +150      | +3        | +21    | C-
+| 8      | +48      | +7        | +3	    | +175      | +3        | +24    | C+-
+| 9      | +54      | +8        | +3	    | +200      | +4        | +27    | C+
+| 10     | +60      | +9        | +3	    | +225      | +4        | +30    | B-
+| 11     | +66      | +10       | +4	    | +250      | +5        | +33    | B+-
+| 12     | +72      | +11       | +4	    | +275      | +5        | +36    | B+
+| 13     | +78      | +12       | +4	    | +300      | +6        | +39    | A-
+| 14     | +84      | +13       | +5	    | +325      | +6        | +42    | A+-
+| 15     | +90      | +14       | +5	    | +350      | +7        | +45    | A+
+| 16     | +96      | +15       | +5	    | +375      | +7        | +48    | S-
+| 17     | +102     | +16       | +6	    | +400      | +8        | +51    | S+-
+| 18     | +108     | +17       | +6	    | +425      | +8        | +54    | S+
+| 19     | +126     | +20       | +7	    | +500      | +9        | +63    | SS
+
+
+| Atributo	| Carregar (kg)	| Levantar (kg)	| Bônus de dano	| AGI Velocidade (m/s)
+|----------:|--------------:|--------------:|--------------:|---------------------:
+| 1-2	    | 15            | 30            | -3	        | 1,5
+| 3-4	    | 20            | 40            | -2	        | 2
+| 5-6	    | 25            | 50            | -1	        | 2,5
+| 7-8	    | 30            | 60            | -1	        | 3
+| 9	        | 35	        | 70            | 0             | 3,5
+| 10	    | 40            | 80            | 0	            | 4
+| 11	    | 45            | 90            | 0	            | 4,5
+| 12	    | 50            | 100           | 0	            | 5 (Caminhar)
+| 13	    | 55            | 110           | 0	            | 5,5
+| 14	    | 60            | 125           | 0	            | 6
+| 15	    | 70            | 140           | 1	            | 7
+| 16	    | 80            | 160           | 1	            | 8
+| 17	    | 90            | 180           | 2	            | 9
+| 18	    | 100           | 200           | 2	            | 10
+| 19	    | 110           | 225           | 3	            | 11
+| 20	    | 125           | 250           | 3	            | 12
+| 21	    | 140           | 280           | 4	            | 14
+| 22	    | 160           | 310           | 4	            | 16
+| 23	    | 180           | 355           | 5	            | 18
+| 24	    | 200           | 400           | 5	            | 20
+| 25	    | 225           | 450           | 6	            | 22
+| 26	    | 250           | 500           | 6	            | 25
+| 27	    | 280           | 560           | 7	            | 28
+| 28	    | 310           | 630           | 7	            | 30 (100km/h)
+| 29	    | 355           | 710           | 8	            | 35
+| 30	    | 400           | 800           | 8	            | 40
+| 31	    | 450           | 900           | 9	            | 45
+| 32	    | 500           | 1000          | 9	            | 50
+| 33	    | 560           | 1120          | 10	        | 56
+| 34	    | 630           | 1260          | 10	        | 63
+| 35	    | 710           | 1420          | 11	        | 70 (Ferrari)
+| 36	    | 800           | 1600          | 11	        | 80
+| 37	    | 900           | 1800          | 12	        | 90
+| 38	    | 1000          | 2000          | 12	        | 100
+| 39	    | 1100          | 2200          | 13	        | 110
+| 40	    | 1250          | 2500          | 13	        | 125
+| 41	    | 1400          | 2800          | 14	        | 140
+| 42	    | 1600          | 3200          | 14	        | 160
+| 43	    | 1800          | 3600          | 15	        | 180
+| 44	    | 2000          | 4000          | 15	        | 200
+| 45	    | 2200          | 4400          | 16	        | 220
+| 46	    | 2500          | 5000          | 16	        | 250
+| 47	    | 2800          | 5600          | 17	        | 280
+| 48	    | 3200          | 6400          | 17	        | 320
+| 49	    | 3600          | 7200          | 18	        | 360
+| 50	    | 4000          | 8000          | 18	        | 400
+| 51	    | 4400          | 8800          | 19	        | 440
+| 52	    | 5000          | 10000         | 19	        | 500
+| 53	    | 5600          | 11200         | 20	        | 560
+| 54	    | 6400          | 12800         | 20	        | 640
+| 55	    | 7200          | 14400         | 21	        | 720
+| 56	    | 8000          | 16000         | 21	        | 800
+| 57	    | 8800          | 17600         | 22	        | 880
+| 58	    | 10000         | 20000         | 22	        | 1000
+| 59	    | 11200         | 22400         | 23	        | 1120
+| 60	    | 12800         | 25600         | 23	        | 1280
+| 61	    | 14400         | 28800         | 24	        | 1440
+
+<br>
+
+## Regras Adicionais 
+
+<br>
+
+> **Observações**  
+Apesar do sistema daemon ter sido alterado para propiciar melhores condições de jogo, as demais regras que não tem neste livro devem ser consultadas no livro trevas 3ª edição.
+
+### **Criação de Personagem**
+Os personagens começam com **8** pontos de aprimoramentos, **111** pontos de atributos, atributo máximo inicial é **18**, e podem comprar até **3** pontos de aprimoramentos negativos. O __*ki*__ inicial dos seres despertados é igual a soma da _INT_ + _WILL_ dividida por **4** arredondada para cima.
+
+### **Ataques adicionais**
+Algumas doutrinas e atributos elevados permitem o personagem dar ataques adicionais, estes ataques devem ser feitos após o primeiro ataque e depois de todos os ataques adicionais é que deve começar a manobra de ataques múltiplos.
+
+### **Dano mínimo**
+O personagem causará no mínimo 3 de dano, +1 para cada rank acima de E. O dano mínimo não pode ser maior do que o dano máximo. 
+
+### **Dano crítico**
+O dano de armas leves como punhos, bastão, soqueira, faca ou pistolas causam **1D6** de dano, o dano de armas médias como espadas, lanças ou magnum causam **2D6** de dano, e o dano de armas pesadas como machados, espadas largas, tridentes ou rifles causam **3D6** de dano, apenas a quantidade de dano base da arma é dobrada no acerto crítico.
+
+### **Combate**
+Os personagens tem 3 ações no turno: 
+- a ação de movimento; 
+- a ação parcial simples consiste em criar campos, aumentar algum atributo (ex. _IP_, _FOR_, _PV_ ou _ATQ_), criar armas e qualquer coisa do tipo que não vise atingir o oponente diretamente com algo causando dano ou não; 
+- ação parcial complexa consiste em atacar, usar disparos, ou qualquer coisa que atinja especificamente o oponente causando dano ou não. 
+ 
+O personagem pode substituir uma ação parcial complexa por outra simples.
+
+### **Quantidade máxima de doutrinas**
+O personagem só pode ter 2 doutrinas diferentes e caso maximize as duas, e continue recebendo pontos de doutrinas quando passar de nível, esses pontos de doutrina se converterão em pontos de aprimoramento.
+
+### **Aumento dos níveis de doutrinas**
+Um bônus que aumenta o nível das doutrinas não é cumulativo com nenhum outro bônus que aumente o nível das doutrinas. Ex: Fúria e forma reencarnado.
+
+### **Morte**
+O personagem morre quando passa de -10 _PVs_ e + (-1 _PV_) por nível de personagem. 
+
+### **Fúria**
+O mestre decidirá quando o personagem entrará neste estado, geralmente é causado por alguma grande perda, alguns casos de desespero ou humilhação. A fúria fornece um bônus de +10 em todos os seus atributos físicos, _PVs_, rei-ki ou you-__*ki*__, _IP_, dano e as doutrinas são elevadas um rank acima mesmo no rank S Supremo.
+
+### **Aumento de poder**
+O personagem tem um limite de vezes que pode aumentar seu poder durante um combate, com doutrinas e aprimoramentos que elevam características por __*ki*__ gasto, a limitação é de até 10 vezes o bônus base e mais 5 vezes o bônus base para cada rank acima do rank E. Algumas doutrinas tem dinâmicas diferentes, exemplo o nível 5 da doutrina adaptação; trate como 15 vezes o bônus base, já que a disciplina custa 15 de __*ki*__. OBS (as doutrinas de níveis 1, 2 e 3 só podem aumentar seu bônus base até 5 vezes, e as doutrinas de níveis 4 ou mais podem aumentar seu bônus base até 10 vezes).
+
+### **Recuperar energia**
+O personagem recupera 1 _PV_ nível por dia e 1 de __*ki*__ a cada meia hora de descanso.
+
+### **Disputa de rajadas**
+Quando o personagem for alvo de algum disparo ele pode fazer um disparo no turno do oponente, com esta manobra o personagem pula o seu próximo turno. A diferença do dano dos disparos vai atingir o personagem com o disparo mais fraco sem esquiva, a redução do dano com _IP_ é feita normalmente. Não pode haver mais do que 2 rajadas nesta disputa. Este recurso só pode ser utilizado uma vez a cada 5 turnos.
+
+### **Acúmulo de bônus na defesa, no ataque e no teste de resistência de esquiva**
+Qualquer bônus que aumente ou diminua a defesa ou ataque não é cumulativo com o mesmo bônus vindo de outras doutrinas ou aprimoramentos, a menos que o texto diga o contrário.
+
+### **Armas de __*ki*__ e outros aumentos de danos**
+O personagem só pode portar um recurso deste tipo por vez, caso use outro o primeiro se dissipará. 
+
+Ex.:(um usuário da doutrina Ka shou rappa Ken, que está com o nível 3 da doutrina ativo, e em seguida usar o nível 5, o nível 3 irá se dissipar, isso também ocorre com qualquer outra doutrina ou aprimoramento do tipo).
+
+### **Regra para acúmulo de bônus em algumas características dos personagens**
+Bônus que aumentam ou diminua o _IP_, dano, atributos físicos ou outras características não são cumulativos com o mesmo tipo de bônus a menos que o texto informe ao contrário. 
+
+Ex.: um personagem que tenha duas doutrinas que aumentam o _IP_, uma dessas doutrinas aumenta em +1 de _IP_ por __*ki*__ gasto e a outra aumenta em +2 de _IP_ por __*ki*__ gasto, caso o personagem aumente seu _IP_ em +5 com a sua 1º doutrina e +10 de _IP_ com a sua 2º doutrina, o personagem terá um bônus de +10 de _IP_. A única forma do personagem aumentar ainda mais seu _IP_ é através de outras fontes de poder como fúria, forma reencarnado e outros tipos de fontes. O mesmo é válido para aprimoramentos.
+
+### **Nível 19 - Rank S Supremo**
+Este nível é perfeito para aventuras no Mei-Kai onde tem monstros terríveis, e para que os personagens tenham um nível a mais para ser alcançado, neste nível o personagem ganha +1 ponto de aprimoramento e doutrina, +3 pontos de atributos, +9 pontos de __*ki*__, +18 _PVs_, +75 pontos de perícias, e as doutrinas são elevadas a um rank acima mesmo no rank S, o rank S Supremo é considerado outro rank, trate esta evolução como 3 evoluções normais para poder fazer a ficha do personagem. 
+
+### **Força 50**
+Com um simples movimento o personagem pode deslocar o ar em direção ao seu oponente causando uma quantidade de dano igual ao dano de seu golpe físico, teste de agilidade para levar metade do dano, o personagem quando for atingido com um disparo pode fazer o teste de resistência usando sua força em vez de sua agilidade para sofrer metade do dano.
+
+### **Constituição 50**
+O personagem recupera 1 _PV_ por turno, ganha o aprimoramento duro de matar, o personagem quando for atingido com um disparo pode fazer o teste de resistência usando sua constituição em vez de sua agilidade para sofrer metade do dano.
+
+### **Agilidade 50**
+O personagem ganha um ataque adicional.
+
+### **Destreza 50**
+Idem a agilidade 50.
+
+### **Novas Perícias**
+- CONHECIMENTO DE DOUTRINAS (0)
+- CONHECIMENTO DE ONIS (0)
+- CONHECIMENTO DA TERRA (0)
+- CONHECIMENTO DO REI-KAI (0)
+- CONHECIMENTO DO MA-KAI (0)
+- CONHECIMENTO DO MEI-KAI (0)
+- TEORIA DAS DOUTRINAS (0)                                                                                        
+
+<br>
+
+> **Observações**  
+> Para usar doutrinas é preciso ter pelo menos 40 pontos em teoria das doutrinas.
+
+<br>
+<br>
+
+# RAÇAS
+Raças são pacotes de aprimoramentos (positivos e/ou negativos) que só podem ser adquiridos  durante a criação do personagem.
+
+<br> 
+
+> **Observações**  
+> Aprimoramentos marcados com `*` só podem ser adquiridos através da seleção da raça pertinente.
+
+<br>
+
+## Humano doutrinado
+Humano que tem capacidade de usar doutrinas e fazer feitos incríveis.
+
+**Custo**: 2 pontos  
+**Aprimoramentos**
+- Doutrinado (2)
+
+## Reencarnado
+Oni caçado, que fugiu de seu local de origem para viver outra vida, uma criatura poderosa e cheia de segredos. O reencarnado tem um bônus de +10 em todos os seus atributos físicos, _PVs_, you-__*ki*__ e +5 de _IP_, suas doutrinas são elevadas a um rank acima mesmo no rank S Supremo. O personagem só pode controlar a transformação a partir do rank A. 
+
+**Custo**: 5 pontos  
+**Aprimoramentos**
+- Forma You-kai* (7)
+- Doutrinado (2)
+- Má fama no ma-kai (-2)
+- Inimigo (-2)
+ 
+## Oni “Humanos”
+Oni com aparência humana, mas com o poder e tempo de vida de um oni.
+
+**Custo**: 2 pontos  
+**Aprimoramentos**
+- Doutrinado (2)
+
+## Oni Monstruosos
+Oni com aparência grotesca, o oni mais comum de se ver no ma-kai. O oni monstruoso tem um bônus de +5 em força e constituição.
+
+**Custo**: 3 pontos  
+**Aprimoramentos**
+- Doutrinado (2)
+- Estrutura corpórea aprimorada* (4)
+- Monstruoso redutor de -5 em carisma* (-1)
+- Má fama rei-kai (-2) 
+
+## Descendente de Clã Maligno
+Criatura que detém poderes incríveis, portador do sangue da tribo do mal. O descendente de clã maligno tem um bônus de +20 em todos os seus atributos físicos, _PVs_, __*youki*__ e +10 de _IP_, suas doutrinas são elevadas um rank acima mesmo no rank S Supremo. Porém o personagem precisa morrer a partir do rank A para ressuscitar com este poder. O personagem só consegue controlar a transformação a partir do rank S.
+
+**Custo**: 7 pontos  
+**Aprimoramentos**: 
+- Descendente de clã maligno* (14)
+- Doutrinado (2)
+- Caçado pelo Rei-kai (-3)
+- Má fama Rei-kai, Ma-kai e Mei-kai (-6)
+
+<br>
+<br>
+
+# Aprimoramentos
+
+<br>
+
+> **Observações**
+> 1. Quando for encontrado um `*` após o nome dos aprimoramentos, quer dizer que elas duram toda a luta ou cena.
+> 0. O tamanho dos campos, criados pelas doutrinas e aprimoramentos, tem um raio de 25 metros por rank e uma altura de 5 metros por rank, o campo acompanha o personagem.
+
+<br>
+
+## Doutrinado (2 pontos)
+O personagem passou por um rigoroso treinamento e está apto a usar doutrinas, o personagem possui 2 pontos de doutrinas e +9 de __*ki*__ e +45 _PVs_.
+
+
+## Capacidade de extrair os 120% da força* (2 pontos)
+O personagem em momentos críticos pode elevar de forma grandiosa o seu poder, o mestre é quem decide quando o personagem utiliza este poder. O personagem recebe um bônus de +5 em todos os seus atributos físicos, _PVs_, rei-ki, e +3 de _IP_, suas doutrinas são elevadas a um rank acima mesmo no rank S Supremo. O personagem só pode chegar neste estado a partir do rank B, a partir do rank A ele pode extrair este poder no momento que quiser. Pré-requisito não pode ser reencarnado e nem descendente de clã maligno.                                                                                         
+
+## Energia vital (1 ponto)
+O personagem pode converter 2 _PVs_ em 1 de __*ki*__, esta manobra só pode ser usada uma vez por luta, e no máximo pode ser gasto 20 _PVs_, a partir do rank C pode ser gasto no máximo 40 _PVs_.
+
+## Mestre (1 ponto)
+O personagem pode contar com um tutor bastante experiente e forte para doutriná-lo e ajudá-lo quando for realmente necessário.
+
+## Deslocamento avançado* (1 a 2 pontos) 
+- **1 ponto**: O personagem pode saltar até 10 metros, 15 metros no rank B, 20 metros no rank S. 
+- **2 pontos**: O personagem pode voar, o vôo tem o dobro do deslocamento da terra. Custa 3 de __*ki*__.
+
+## Criar área de batalha* (2 pontos)
+O personagem pode criar um campo de batalha semelhante ao efeito esfriar da doutrina do gelo, mas não é necessário que seja um campo de gelo pode ser qualquer outro efeito visual. O personagem recebe um bônus de +5% no ataque e na defesa por rank. Custa 2 de __*ki*__ e +1 de __*ki*__ para cada rank acima do rank E. 
+
+## Criar arma espiritual* (2 pontos)
+O personagem pode criar uma arma ou energizar os golpes corpo a corpo com energia espiritual, semelhante a qualquer doutrina que cause o dano da arma ou dos punhos 2D6+2 de dano e +1D6 de dano por rank; ou amplia a arma espiritual causando 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de __*ki*__. Custa 4 de __*ki*__ +1 de __*ki*__ para cada rank acima do rank E.  
+
+## Último recurso (1 ponto)
+O personagem pode acessar o próximo nível de sua doutrina durante a batalha, e a próxima doutrina usada será elevada a um rank acima mesmo no rank S Supremo. Entretanto, é preciso gastar o __*ki*__ da doutrina e o resto do __*ki*__ que sobrar e mais 5 _PVs_.
+
+## Ataques múltiplos (2 pontos) 
+O personagem pode executar um golpe adicional por rank, caso um dos golpes múltiplos falhe, a manobra acaba.
+
+## Sensitivo (1 ponto)
+O personagem pode sentir o __*ki*__ das pessoas em um raio de 100 metros por rank e ter uma estimativa do poder dessas pessoas, além de poder sentir o tipo de __*ki*__ se é maligno ou benigno.
+
+## Resistência espiritual* (1 ponto)
+O personagem recebe um bônus de +1 de _IP_ por __*ki*__ gasto, podendo chegar até +5 de _IP_; a partir do rank C o bônus pode chegar até +10 de _IP_.
+
+## Força espiritual* (1 ponto)
+O personagem recebe um bônus de +1 de dano por __*ki*__ gasto, podendo chegar até +5 de dano, a partir do rank C o bônus pode chegar até +10 de dano.
+
+## Aura espiritual* (3 pontos)
+O personagem recebe um bônus de +1 de _IP_ e dano por __*ki*__ gasto, podendo chegar até +5 de _IP_ e dano, a partir do rank C o bônus pode chegar até +10 de _IP_ e dano.
+
+## Aumento de atributos físicos* (1 ponto)
+O personagem recebe um bônus de +1 em um de seus atributos físicos por __*ki*__ gasto, podendo chegar até +5 pontos em um de seus atributos, a partir do rank C o bônus pode chegar até +10 pontos. 3 pontos: O personagem recebe um bônus de +1 em todos os seus atributos físicos por __*ki*__ gasto, podendo chegar até +5 pontos em todos os seus atributos, a partir do rank C o bônus pode chegar até +10 pontos.
+
+## Duro de matar (1 ponto)
+O personagem continua em pé lutando, mesmo estando com _PVs_ negativos.
+
+## Vitalidade extra (1 ponto)
+O personagem ganha +12 _PVs_, este aprimoramento pode ser comprado até 3 vezes. A compra deste aprimoramento e Vitalidade maior extra devem ser alternadas a cada 3 níveis.
+
+## Vitalidade maior extra (2 pontos)
+O personagem ganha +30 _PVs_, este aprimoramento pode ser comprado até 2 vezes. A compra deste aprimoramento e Vitalidade extra devem ser alternadas a cada 3 níveis.
+
+## Energia espiritual extra (1 ponto)
+O personagem ganha +6 de __*ki*__, este aprimoramento pode ser comprado até 2 vezes. A compra deste aprimoramento e Energia espiritual maior extra deve ser alternada a cada 3 níveis.
+
+## Energia espiritual maior extra (2 pontos)
+O personagem ganha +15 de __*ki*__, este aprimoramento pode ser comprado até 2 vezes. A compra deste aprimoramento e Energia espiritual devem ser alternadas a cada 3 níveis. 
+
+## Evasão (1 ponto)
+Quando o personagem for alvo de um disparo, e se o personagem tirar um acerto critico no teste de resistência (1/4 da Agilidade no máximo de 25 AGI) de agilidade, o personagem não sofrerá dano.
+
+## Disparo aprimorado (0 a 2 pontos)
+- **0 ponto**: 50% do dano causado pelo seu disparo não pode ser reduzido com _IP_ a um custo de +1 de __*ki*__ para doutrinas de até nível 3, e +2 de __*ki*__ para doutrinas acima do nível 3.
+- **1 ponto**: 60% do dano causado pelo seu disparo não pode ser reduzido com _IP_ a um custo de +1 de __*ki*__ para doutrinas de até nível 3, e +2 de __*ki*__ para doutrinas acima do nível 3; seu disparo não pode ser neutralizado por outras doutrinas a um custo de a um custo de +1 de __*ki*__ para doutrinas de até nível 3, e +2 de __*ki*__ para doutrinas acima do nível 3. 
+- **2 pontos**: 70% do dano causado pelo seu disparo não pode ser reduzido com _IP_ a um custo de +1 de __*ki*__ para doutrinas de até nível 3, e +2 de __*ki*__ para doutrinas acima do nível 3; seu disparo é mais difícil de ser desviado, e o oponente sofre um redutor de -5% de chance de esquiva por rank a um custo de a um custo de +1 de __*ki*__ para doutrinas de até nível 3, e +2 de __*ki*__ para doutrinas acima do nível 3.
+
+## Treinamento árduo (2 pontos)
+O personagem aumenta uma de suas doutrinas em +1 ponto, esse aprimoramento pode ser comprado até 3 vezes, alternando a compra a cada 5 níveis.
+
+## Aparar golpes (1 ponto)
+A partir do quarto ataque corpo a copo sofrido o personagem poderá fazer um teste de aparar com 50% de chance de evitar o golpe, com mais ou menos 10% de chance de acerto para cada rank a mais ou a menos do oponente. Pré-requisito rank C, caso este recurso seja utilizado o personagem não poderá usar doutrinas como contra-ataque ou golpe de ruptura em sequência desta manobra. 
+
+# Aprimoramentos Negativos
+## Detetive sobrenatural (2 pontos)
+O personagem deve favores ao mundo espiritual e sempre está sujeito as ordens do Rei-Kai.
+
+## Inimigo (1 a 2 pontos)
+- **1 ponto**: Seu personagem tem um inimigo do mesmo rank.
+- **2 pontos**: Seu personagem tem dois inimigos do mesmo rank, ou um inimigo um rank acima.
+
+## Caçado (3 pontos:)
+O personagem é caçada por um dos reinos Rei-Kai, Ma-Kai ou Mei-Kai 
+
+## Mal instruído (3 pontos)
+O personagem não teve um bom treinamento e ele não controla bem o seu __*ki*__. Acrescente +2 de __*ki*__ ao custo total de todas as disciplinas e aprimoramentos.
+
+## Código de honra dos heróis (1 ponto)
+O personagem sente que tem o dever de sempre ajudar as pessoas.
+
+## Código de honra da honestidade (1 ponto)
+O personagem sempre fará o que puder para competir em condições iguais, nunca mentir e nem atacar alguém indefeso ou caído.
+
+## Código de honra dos cavaleiros (1 ponto)
+O personagem jamais baterá em uma mulher, e nem permitirá alguém a fazê-lo.
+
+## Incapaz de ocultar o __*ki*__ (1 ponto)
+O personagem não foi bem doutrinada ou ele não tem capacidade de controlar sua energia, por isso não pode ocultar o seu __*ki*__.
+
+## Odiado (2 pontos)
+O personagem sofre um imenso preconceito com certo tipo de raça ou pessoas de um certo lugar, e essas pessoas farão o possível para fazer a sua vida se tornar um inferno.
+
+## Excesso de confiança (1 ponto)
+O personagem acha que suas habilidades são ilimitadas, e nunca vai se dar por vencido e nem fugirá de um desafio.
+
+## Sede de sangue (1 ponto)
+O personagem é sádico e gosta de torturar as pessoas e fazê-las sofrer, apenas derrubar o oponente não é o bastante para se divertir de verdade. 
+
+## Má fama (1 a 2 pontos)
+- **1 ponto**: O personagem é malvisto em uma região ou até mesmo em um país.
+- **2 pontos**: O personagem é malvisto em um plano.
+
+<br>
+<br>
+
+# Doutrinas
+
+<br>
+
+> **Obervações**  
+> 1. Doutrinas marcadas com `*`, duram todo combate ou cena.  
+> 0. O campo de fogo dissipa o campo de gelo e vice-versa, sendo necessário reativar novamente um dos campos.  
+> 0. Todos os disparos causam +XD6+X de dano, onde X é igual quantidade de dados e dano base da doutrina. Exemplo: uma Grande Bola de Fogo causa 3D6+3 de dano por rank, no rank E ela causaria 6D6+6 de dano, no rank D causaria 9D6+9 de dano, no rank C causaria 12D6+12 de dano e assim sucessivamente).
+
+<br>
+<br>
+
+## Heikohadouken
+
+<br>
+
+> **Obervações**   
+> Os níveis 6 da doutrina Heikohadouken são comprados separadamente e não é obrigatório a compra dos dois níveis 6 para poder comprar o nível 7).
+
+<br>
+
+### Nível 1**: Reigun**
+O personagem lança um disparo contra o adversário causando dano por rank. Ao atingir o rank D, esta doutrina é aprimorada, tornando-se mais forte, destrutiva e **custosa**. Alcança potencial máximo a partir do rank C, tornando-se devastadora. 
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **3D6** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Rank D**: **3D6+4** por rank
+- **Custo Rank D**: **4** __*ki*__ e **+1** por rank
+- **Dano Rank C**: **4D6+4** por rank
+- **Custo Rank C**: **5** __*ki*__ e **+1** por rank
+
+<br>
+
+> **Observações**  
+> Nos ranks E e D, o personagem pode usar o reigun até 4 vezes por dia. Nos ranks C e B, o personagem pode usar o reigun até 6 vezes por dia. A partir do rank A, o uso do Reigun é ilimitado. 
+
+<br>
+
+### Nível 2: **Shotgun**
+O personagem lança um disparo que ataca vários oponentes.
+
+- **Tipo**: Disparo
+- **Alvos**: **4** alvos e **+1** por rank
+- **Dano**: **2D6+4** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+
+<br>
+
+### Nível 3: **Energizar golpes***
+O personagem energiza seus golpes corpo a corpo com energia espiritual causando dano por rank. O dano pode ser ampliado ao custo de  adicional de **+1** de __*ki*__. 
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+1D6** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6 +4** **+1D6** por rank 
+- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
+
+<br>
+
+### Nível 4: **Reigun tiro veloz**
+O personagem pode lançar 2 reiguns em um único turno, após o uso deste recurso o personagem fica 2 dias sem poder usar __*ki*__. Perde imediatamente todos os bônus oriundos de doutrinas e aprimoramentos como: armas de __*ki*__, campos de batalha, _Aumento de Atributos_, _IP_ e dano. Isso inclui _Tranca Espiritual_, _Forma Reencarnada_, _Descendente de Clã Maligno_ e _Capacidade de Extrair 120% da Força_ entre outros. 
+
+> **Obserevações**  
+> Bônus passivos como os aprimoramentos _Vitalidade Extra_, _Energia Espiritual Extra_ ou _Evasão_ não são cessados. 
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **4D6+4** por rank
+- **Custo**: **10** __*ki*__ e **+2** por rank. Ao final do disparo, toda a reserva de __*ki*__ restante é zerada
+  
+<br>
+
+### Nível 5: **Reikodan**
+Um golpe que causa dano, porém perde eficiência com a distância.
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **4D6+5** por rank (a cada 1 metro de distância diminui em **1D6**)
+- **Custo**: **4** __*ki*__ e **+1** por rank
+
+<br>
+
+### Nível 6: **Sho**
+O personagem só pode usar esta técnica para tirar a parte maligna de uma pessoa que está em conflito consigo mesmo; se a pessoa decidir desistir do deu lado maligno a parte má da pessoa é destruída; caso contrário, a técnica causa dano.
+
+- **Tipo**: Dispel
+- **Alvos**: 1
+- **Dano**: **6D6** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
+
+<br>
+
+### Nível 6: **Reflexo destrutivo reiko**
+O personagem quando for alvo de um disparo de até nível 6, pode absorvê-lo e depois manda-lo de volta contra o adversário, causando o dano do próprio disparo e absorvendo **1** __*ki*__ por nível do poder do disparo. 
+
+> **Observações**  
+> Este poder só pode ser usado uma vez a cada 3 rodadas.
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: Equivalente ao dano do disparo inicial
+- **Custo**: Equivalente ao custo de __*ki*__ do disparo original **+5**
+
+<br>
+
+### Nível 7: **Tranca espiritual***
+Para se tornar um mestre do Heikohadouken, o personagem precisa dominar a bola espiritual; no início do teste todas as doutrinas e aprimoramentos do personagem são cessados, aliados não podem curá-lo. Para domar a doutrina por completo, deve-se passar em 5 testes de constituição, de um total de 15 testes de resistência. Caso falhe, o destino é a morte. Superando o treinamento, o personagem poderá destrancar toda energia espiritual vinda do treinamento das artes do Heikohadouken. 
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: N/A
+- **Bonus**:
+  - _CONS_: **+15**
+  - _FOR_: **+15**
+  - _AGI_: **+15**
+  - _DES_: **+15**
+  - _PV_: **+15**
+  - _KI_: **+15**
+  - _IP_: **+15**
+  - Dano corpo a corpo (desamardo): **+1D6+1**
+  
+<br>
+<br>
+
+## Reiken
+
+### Nível 1: **Espada simples***
+O personagem cria uma espada que causa dano por rank; ou cria uma espada mais a um custo adicional. 
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6** e **+3** por rank 
+- **Custo**: **2** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+2** e **+3** por rank 
+- **Custo Ampliado**: **3** __*ki*__ e **+1** por rank
+
+<br>
+
+### Nível 2: **Espada vara***
+Este nível aumenta a Espada simples para atacar até **6** metros de distância.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6** e **+3** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+
+<br>
+
+### Nível 3: **Adagas reiken* **
+O personagem cria uma espada que causa dano por rank ou pode potencializá-la causando dano amplificado. 
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+3** e **+1D6** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+5** e **+1D6** por rank 
+- **Custo Ampliado**: **4** __*ki*__ **+1** por rank
+
+<br>
+
+### Nível 4: **Adagas reiken dupla***
+O personagem passa a usar duas adagas reiken, e recebe um bônus de ataque e defesa por rank, ataques adicionais e um bônus de dano. Caso use outra arma apenas receberá o bônus de ataque e defesa. 
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **4** __*ki*__ **+1** por rank
+- **Bonus**: 
+  - Dano: **+2** 
+  - Ataques Adicionais: 1
+  - _ATQ_: **+5%** por rank
+  - _DEF_: **+5%** por rank
+
+<br>
+
+### Nível 5: **Ataque surpresa**
+O personagem faz com que sua espada ataque o adversário por de baixo da terra causando dano por rank. Aplica um redutor de chance de esquiva por rank. 
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **3D6+2** por rank
+- **Custo**: **3** __*ki*__; **+1** por rank
+- **Efeito Adicional**:
+  - Aplica **-5%** por rank de chance de esquiva ao opornente 
+
+<br>
+
+### Nível 6: **Espada maleável**
+Melhora a espada vara tornando-a muito mais flexível e causando dano extra por rank. Aplica um redutor de  chance de esquiva por rank.
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **4D6+2** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Efeito Adicional**:
+  - Aplica **-5%** por rank de chance de esquiva ao opornente 
+
+<br>
+
+### Nível 7: **Espada dimensional***
+O personagem cria uma espada que causa dano e pode atacar o adversário com alcance incrementado. Esta espada destrói qualquer barreira. 
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **3D6+6** e **+1D6+1** por rank
+- **Alcance**: **2** metros por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
+
+<br>
+<br>
+
+## Plantas demoníacas
+<br>
+
+> **Observações**  
+> O pré-requisito desta doutrina é ter a perícia _Herbalismo_ em pelo menos 40%.
+
+<br>
+
+### Nível 1: **Criar vegetal***
+O personagem cria uma arma de vegetal que amplifica seu dano; pode ser potencializada a um custo adicional de __*ki*__. TOrna-se mais devastadora a partir do Rank C.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6** e **+3** por rank 
+- **Custo**: **2** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+2** e **+4** por rank
+- **Custo Ampliado**: **3** __*ki*__ e **+1** por rank
+- **Dano Rank C**: **2D6+2** e **+1D6** por rank 
+- **Custo Rank C**: **3** __*ki*__ e **+1** por rank
+- **Dano Rank C Ampliado**: **2D6+2** e **+4** por rank
+- **Custo Rank C Ampliado**: **4** __*ki*__ e **+1** por rank
+
+<br>
+
+### Nível 2: **Kagon retsuzan shi**
+Confere ao personagem ataques múltiplos pela duração, adicionando também aos ataques um bônus de dano. 
+
+<br>
+
+> **Observações**  
+> 1. Efeito não cumulativo com _Ataques Múltiplos_ ou outras fontes de ataques adicionais.  
+> 0. Não pode ser usado em conjunto com _Shoku you shokubutsu_.
+
+<br>
+
+- **Tipo**: Buff
+- **Duração**: 1 turno
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **4** __*ki*__ (**5** a partir do rank C)
+- **Bônus**
+  - Dano por ataque: **5** (**6** a partir do rank C)
+  - Ataques Múltiplos: **3** (**4** a partir do rank C)
+
+<br>
+
+### Nível 3: **Fuka enbu jin**
+O personagem cria diversas pétalas que cortam como navalhas os adversários causando dano. 
+
+- **Tipo**: Disparo
+- **Alvos**: **4** e **+1** por rank
+- **Dano**: **3D6+3** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
+
+<br>
+
+### Nível 4: **Ojigisou**
+O personagem implanta a planta da morte no oponente, o paralisando após um periodo de tempo. Após a paralização, o oponente morrerá com um comando do personagem. Requer um teste bem-sucedido de _DES_ para implantar a semante na vítima. Requer um teste bem-sucedido de _Conhecimento de Doutrinas_ para não cair no truque. Não funciona com portadores deste nível da doutrina. 
+
+- **Tipo**: Debuff
+- **Duração**: 1 cena
+- **Alvos**: 1
+- **Dano**: N/A
+- **Custo**: **5** __*ki*__
+- **Efeitos Adicionais**
+  - Paraliza o oponente após **1** rodada
+
+<br>
+
+### Nível 5: **Shoku you shokubutsu***
+O personagem invoca a planta demoníaca que causa dano atacando oponentes e/ou quem se mexer, exceto aliados. 
+
+- **Tipo**: Invocação
+- **Alvos**: N/A
+- **Custo**: **5** __*ki*__ e **+1** por rank  
+- **Planta Demoníaca**
+  - **Dano**: **3D6+4** e **+1D6+1** por rank
+
+<br>
+
+### Nível 6: **Sakura**
+O personagem invoca uma imensa cerejeira e, neste campo de batalha, recebe um bônus de ataque, defesa e testes de resistência de esquiva. As plantas também podem defender disparos (trate isso como o aprimoramento _Evasão_). Oponentes recebem um redutor de ataque, defesa e testes de resistência de esquiva. 
+
+- **Tipo**: Invocação
+- **Alvos**: N/A
+- **Custo**: **5** __*ki*__ e **+1** por rank  
+- **Bonus**
+  - _ATQ_: **+5%** por rank
+  - _DEF_: **+5%** por rank
+  - _Esquiva_: **+%5** por rank
+  - _Evasão_ 
+- **Efeitos Adicionais**
+  - Aplica **-5%** por rank de _ATQ_ ao opornente 
+  - Aplica **-5%** por rank de _DEF_ ao opornente 
+  - Aplica **-5%** por rank de _Esquiva_ ao opornente 
+
+<br>
+
+### Nível 7: **Kyu ketsu shokubutsu**
+O personagem invoca a planta sanguessuga que ataca um oponente que estiver ferido causando dano por periodo de tempo. Requer um teste difícil de _AGI_ para se esquivar da invocação. 
+A cada rodada, a vítima pode tentar arrancá-la, requer um teste de _FOR_ vs _FOR_ contra a planta. 
+
+- **Tipo**: Invocação
+- **Alvos**: 1
+- **Custo**: **10** __*ki*__. Ao final da invocação, toda a reserva de __*ki*__ restante é zerada
+- **Planta Sanguessuga**
+  - _FOR_: _FOR_ do invocador **+10**
+  - **Dano**: **3D6** por rank (ignora qualquer absorção de dano)
+
+
+<br>
+<br>
+
+## Ja ou en satsu Ken
+
+<br>
+
+> **Observação**  
+> Humanos não podem ter esse poder.
+
+<br>
+
+### Nível 1: **Aquecer***
+O personagem cria um campo de calor intenso aumentando consideravelmente a temperatura da área e causando 3 de dano por rank a todos os outros seres que estejam dentro da área da doutrina, a regra de dano mínimo não se aplica a esta doutrina. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 2: **En satsu rengoku shou***
+O personagem cria chamas nas mãos ou em uma arma que causam 2D6 de dano e +3 de dano por rank; ou cria uma chama maior que causa 3D6 de dano e +3 de dano por rank a um custo adicional de +2 de ki. Custa 3 de ki e +1 de ki para cada rank acima do rank E. 
+
+<br>
+
+### Nível 3: **Rajada de chamas negras**
+O personagem lança um disparo de chamas negras contra o adversário causando 3D6+4 de dano por rank. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 4: **Ja ou en satsu Ken***
+O personagem cria uma espada de chamas que causa 2D6+2 de dano e +1D6+1 de dano por rank; ou cria uma espada mais forte que causa 2D6+4 de dano e +1D6+1 de dano por rank, a um custo adicional de +1 de ki. Custa 5 de ki +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 5: **En satsu koku ryu há**
+O personagem invoca um dragão negro contra o adversário causando 4D6+5 de dano por rank, ou 4d6+7 de dano por rank se o dragão for invocado no mundo das trevas. O oponente pode tentar devolver o dragão de volta para o invocador ao invés de tentar se esquivar, para isso ele precisa de um acerto crítico no teste de resistência de constituição no máximo de 25 de CONS. O invocador do dragão negro leva 10% do dano sem direito a absorção de dano, e a partir do rank B o dragão estará perfeito e o controlador não receberá dano. Custa 6 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 6: **Absorver as chamas negras***
+Quando o personagem  usar o dragão sobre si mesmo ou quando o dragão for devolvido o personagem pode absorve-lo, recebendo um bônus +20 pvs,+15 em força, constituição e +10 em destreza, agilidade, ip ; após a luta o personagem precisará dormir por pelo menos 4 horas, a partir do rank O personagem perde esta penalidade. 
+
+<br>
+
+## Bakuretsu Ganshō Dan
+
+<br>
+
+> **Observações**  
+> Humanos não podem ter esse poder.
+
+<br>
+
+### Nível 1: **Apedrejar**
+O personagem lança um disparo de pedras contra o adversário causando 2D6 de dano por rank. Custa 2 de ki e +1 de ki para cada rank acima do rank E. 
+
+<br>
+
+### Nível 2: **Braço de pedra***
+O personagem fortifica seu braço com pedras que causam 2D6 de dano e +3 de dano por rank; ou 3D6 de dano e +3 de dano por rank, a um custo adicional de +2 de ki. Custa 3 de ki e +1 de ki para cada rank acima do rank E. A partir do rank B, o bônus oriundo desta doutrina passa a ser 2D6+2 de dano e +1D6 de dano por rank; ou 3D6+2 de dano e +1D6 de dano por rank a um custo adicional de +2 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 3: **Shura tendo toui***
+O personagem aumenta o seu poder e recebe um bônus de +10 em força e +5 em constituição, pv e ip. Custa 5 de ki
+
+<br>
+
+### Nível 4: **Investida shura**
+O personagem atingi o adversário com uma investida vindo de qualquer lugar do solo, causando 3D6+3 de dano por rank, e com -5% de chance de esquiva por rank. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 5: **Pedra explosiva**
+O personagem lança-se em pedaços contra o adversário causando 4D6+3 de dano por rank, se o oponente for bem-sucedido em um teste difícil de percepção ele encontrará a pedra coração entre as rochas, para capturar a pedra é necessário ser atingido pelo disparo e ser bem-sucedido em um teste difícil de destreza. Caso o oponente destrua a pedra coração, o personagem morrerá. Custa 5 de ki e +1 de ki para cada rank acima do rank E. 
+
+<br>
+
+### Nível 6: **Shura tendo toui sugureta***
+O personagem aumenta o seu poder e recebe um bônus de +20 de força, constituição e +15 de ip e pv. Custa 10 de ki.  
+
+<br>
+
+## Mei ko sho kai ha
+
+### Nível 1: **Grito da destruição**
+O personagem lança um disparo contra o adversário causando 2D6 de dano por rank. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 2: **Grito da destruição2**
+O personagem lança um disparo contra o adversário causando 3D6 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 3: **Grito da destruição 3**
+O personagem lança um disparo contra o adversário causando 4D6 de dano por rank. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 4: **Absorção de ki***
+O personagem recebe um bônus de +15 de força, constituição, pvs e suas mordidas e garras passam a causar 2D6+1 de dano. Quando o personagem sofrer algum dano oriundo de alguma doutrina, ela absorverá metade do ki gasto usado na tal doutrina; se o personagem ficar com mais ki do que o máximo dele, ele sofre 2D6 de dano por rank sem absorção de dano. Custa 10 de ki.
+
+<br>
+
+### Nível 5: **Grito da destruição 4**
+O personagem lança um disparo contra o adversário causando 5D6 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+## Ankou Raí jin Ken
+
+### Nível 1: **Eletrocutar**
+O personagem lança um choque da ponta dos dedos contra o adversário causando 2D6 de dano por rank. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 2: **Arco do trovão das trevas**
+O personagem lança um disparo contra o adversário causando 3D6 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 3: **Soco do trovão***
+O personagem energiza raios nas mãos que causam 2D6+2 de dano e +1D6 de dano por rank; ou cria raios mais fortes que causam 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 4: **Kakeru***
+O personagem cria 6 duplicatas de si mesmo e recebe um bônus de +35 pvs e o aprimoramento ataques múltiplos. As 7 personagens partilham da mesma ficha de personagem, vida, ki e teste de resistência, entretanto, se o personagem for alvo de um golpe em área, ela recebe 5% do dano de cada cópia; ex: se as 7 personagens sofrerem 100 de dano final simultaneamente, este dano já foi calculado pós teste de resistência e ip, ou seja o dano final será 100 +5 de cada cópia. Se apenas uma cópia receber dano por vez, o original recebe o dano normalmente. OBS (este poder não faz nenhuma doutrina ou ataque causar 7 vezes o dano). Custa 10 de ki.
+
+<br>
+
+### Nível 5: **Riku Goku ankoku Raí kou há**
+O personagem dividi-se em sete e usa sete choques da ponta dos dedos contra o adversário causando 4D6 de dano por rank. Para usar esta doutrina Kakeru deve estar ativo. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 6: **Ankoku you rou jin**
+O personagem dividi-se em sete e usa sete disparos contra o adversário causando 5D6 de dano por rank. Para usar esta doutrina Kakeru deve estar ativo. Custa 6 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+## Devil yo-yo
+
+### Nível 1: **Yo-yo acrobático***
+O personagem passa a lutar com um estilo de luta bastante exótico com os yo-yos e recebe um bônus de +5% no ataque e na defesa por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 2: **Arremesso**
+O personagem prende o oponente com os yo-yos e o arremessa contra o chão causando 3D6 de dano por rank, teste bem-sucedido de constituição para levar metade do dano. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 3: **Yo-yo demoníaco***
+O personagem potencializa os yo-yos causando 2D6+2 de dano +1D6 de dano por rank; ou potencializa ainda mais os yo-yos causando 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 4: **Yo-yo Paralisante**
+O personagem prende o oponente com os yo-yos durante uma rodada por rank, teste bem-sucedido de constituição para não ser paralisado, caso o oponente seja paralisado e enquanto o poder durar, a cada rodada a vítima poderá fazer um teste de constituição para resistir o efeito. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 5: **Serpentis**
+O personagem lança os yo-yos contra o adversário causando 4D6+3 de dano por rank, e com -5% de chance de esquiva por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+## Mistai
+
+### Nível 1: **Bola de fogo**
+O personagem lança uma bola de fogo contra o adversário causando 2D6 de dano por rank. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 2: **Arma do Makai**
+O personagem cria uma arma que causa 2D6 de dano e +3 de dano por rank; ou cria uma arma maior que causa 3D6 de dano e +3 de dano por rank a um custo adicional de +2 de ki. Custa 3 de ki e +1 de ki para cada rank acima do rank E. A partir do rank C, o bônus oriundo desta doutrina passa a ser 2D6+2 de dano e +1D6 de dano por rank; ou cria uma arma maior que causa 3D6+2 de dano e +1D6 de dano por rank a um custo adicional de +2 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 3: **Vácuo cortante**
+O personagem lança um disparo contra o adversário causando 4D6 de dano por rank. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 4: **Encolhimento***
+O personagem faz uma reza após o termino da reza o oponente encolhe, requer um teste bem-sucedido de conhecimento de doutrinas para o personagem tapar os ouvidos e o efeito voltar contra o usuário da doutrina. Custa 5 de ki.
+
+<br>
+
+### Nível 5: ** Roubar doutrinas***
+Ao ver qualquer doutrina o personagem poderá copiá-la para usá-la durante a luta, custa o ki da doutrina copiada +1 de ki para doutrinas de até nível 3, e custa o ki da doutrina copiada +2 de ki para doutrinas acima do nível 3. Para aprendê-la permanentemente deverá passar no teste inteligência e pagar o custo da doutrina na evolução do personagem. Custo 6 de ki. OBS (é aconselhável que as doutrinas não recomendadas para jogadores não possam ser copiadas, para o personagem aprender permanentemente uma doutrina de nível 7, precisa ter aprendido antes uma doutrina de nível 6).
+
+<br>
+
+## Ka shou rappa Ken
+
+### Nível 1: **Aquecer***
+O personagem cria um campo de calor intenso aumentando consideravelmente a temperatura da área causando 2 de dano por rank a todos os outros seres que estejam dentro da área da doutrina, a regra de dano mínimo não se aplica a esta doutrina. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 2: **Incinerar**
+O personagem lança um disparo contra o adversário causando 2D6+3 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+Nível 3:Purgatório flamejante*- O personagem cria chamas intensas nas mãos que causam 2D6+2 de dano e +1D6 de dano por rank; ou cria chamas mais fortes que causam 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 4: **Grande Bola de fogo**
+O personagem lança uma grande bola de fogo contra seus adversários causando 3D6+3 de dano por rank, o número máximo de oponentes é igual ao rank+4, a área da explosão é de 6m de raio. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 5: **Aura de fogo***
+O personagem cria chamas em todo o corpo que causam 2D6+5 de dano e +1D6+1 de dano por rank. Se o oponente atacá-lo com as mãos nuas, ele levará 2D6 de dano, 3D6 de dano no rank C, e 4D6 de dano no rank A, não se aplica a regra de dano mínimo neste dano. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 6: **Raio de fogo**
+O personagem lança um disparo contra o adversário causando 4D6+4 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+
+## Sui Ken
+### Nível 1: **Movimentos cambaleantes***
+O personagem luta cambaleando estilo kung fu bêbado e recebe um bônus de +5% no ataque e na defesa por rank. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 2: **Chute de ondas**
+O personagem ataca o oponente com um chute, causando 2D6+3 de dano por rank, conta como um disparo. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 3: **Energizar golpes**
+O personagem energiza seus golpes corpo a corpo com energia espiritual causando 2D6+2 de dano e +1D6 de dano por rank; ou amplia a energização causando 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 4: **Bola de energia**
+O personagem lança uma bola de energia contra o adversário causando 3D6+4 de dano por rank. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 5: **Aumento de energia sobrenatural***
+O personagem depois de beber muito ele recebe um bônus de +15 em força e constituição, +20 pvs e 10 de ip. Custa 10 de ki.
+
+<br>
+
+### Nível 6: **Gigante bola de energia**
+O personagem lança uma grande bola de energia contra o adversário causando 4D6+4 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+## Nem Baku Houju no Shou
+
+### Nível 1: **Maquiagem de batalha***
+O personagem após se maquiar recebe um bônus de +1 de ip e dano por ki gasto. A partir do rank C, o bônus oriundo desta doutrina passa a ser +2 de ip e +1 de dano para cada ki gasto. 
+
+<br>
+
+### Nível 2: **Prender membros***
+O personagem após marcar o oponente com o pincel, o oponente sofre um redutor de -5% de chance de acerto no ataque e na defesa por rank, requer um teste de resistência de constituição para o efeito durar apenas uma rodada por rank, caso passe num teste difícil de constituição a vítima resistirá o efeito por completo. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 3: **Chave de prisão***
+Após o oponente ser marcado pelo pincel, o mesmo perde 10 pontos de destreza e agilidade, teste bem-sucedido de constituição para reduzir a penalidade pela metade; caso passe num teste difícil de constituição a vítima resistirá o efeito por completo, custa 5 de ki.
+
+<br>
+
+### Nível 4: **Paralisar**
+O personagem paralisa o oponente, durante uma rodada por rank, teste bem-sucedido de constituição para não ser paralisado, caso o oponente seja paralisado e enquanto o poder durar, a cada rodada a vítima poderá fazer um teste de constituição para resistir o efeito. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 5: **Trancar energia espiritual***
+O personagem afetada por este poder não pode usar suas doutrinas, teste bem-sucedido de Will para o efeito durar apenas uma rodada por rank, caso passe num teste difícil de Will a vítima resistirá o efeito por completo, só pode ser usado em inimigos com o mesmo rank ou menor. Custa 7 de ki.
+
+<br>
+
+## Ju Hyō Tsuka
+
+### Nível 1: **Esfriar***
+O personagem cria um campo de batalha de gelo que diminui consideravelmente a temperatura da área, fornecendo um bônus de +5% no ataque e na defesa por rank. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 2: **Flauta metralha granizo**
+O personagem lança um disparo contra o adversário causando 2D6+4 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+Nível 3:Espada de gelo*- O personagem cria uma espada de gelo que causa 2D6+2 de dano e +1D6 de dano por rank; ou cria uma espada mais forte que causa 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 4: **Congelar**
+O personagem congela praticamente todo o corpo do oponente, durante uma rodada por rank, teste bem-sucedido de constituição para não ser paralisado, caso o oponente seja paralisado e enquanto o poder durar, a cada rodada a vítima poderá fazer um teste de constituição para resistir o efeito; Enquanto a vítima estiver congelada será absorvido 1 de ki por rodada. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 5: **Espírito maligno do dragão congelante**
+O personagem lança um disparo em forma de um dragão de gelo contra o adversário, causando 4D6+3 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+## Shura sempu Ken
+
+### Nível 1: **Voar***
+O personagem pode voar e tem o dobro do deslocamento, custa 3 de ki.
+
+<br>
+
+### Nível 2: **Braços de ar**
+O personagem dispara uma rajada de ar contra o adversário causando 3D6 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 3: **Furacão shura***
+O personagem cria um furacão em um braço que causa 2D6+2 de dano e +1D6 de dano por rank; ou cria um furacão mais forte que causa 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 4: **Fenômeno turbilhão**
+O personagem quando for alvo de um disparo de nível 4 ou menor, ele pode rebatê-lo para um outro lugar, este poder só pode ser usado uma vez a cada três turnos. Custa o ki do disparo +3.
+
+<br>
+
+### Nível 5: **Duplo furacão shura***
+O personagem cria dois furacões um em cada braço que causa 3D6+4 de dano e +1D6+1 de dano por rank. Custa 6 de ki +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 6: **Grande furacão shura**
+O personagem lança um grande furacão contra o adversário causando 4D6+4 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+Angelical energy
+OBS (Se o oponente tiver um rank a menos ele não poderá ver a doutrina tornando os testes de esquiva difíceis).
+
+<br>
+
+### Nível 1: **Arma energética***
+O personagem cria uma arma energética que causa 2D6 de dano e +3 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 2: **Fortalecimento físico***
+O personagem aumenta o seu poder e recebe um bônus de +1 de ip, força e constituição para cada ki gasto. A partir do rank C, o bônus oriundo desta doutrina passa a ser +2 de ip e +1 força e constituição para cada ki gasto.
+
+<br>
+
+### Nível 3: **Aureola**
+O personagem lança chakrans contra o adversário causando 3D6+3 de dano por rank. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 4: **Energia de fúria***
+O personagem aumenta o seu poder e recebe um bônus de +1 em todos os seus atributos físicos e pvs para cada ki gasto.
+
+<br>
+
+### Nível 5: **Golpe devastador**
+O personagem quando toca o adversário causa 4D6+4 de dano por rank. É considerado disparo. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+
+## Adaptação
+OBS (humanos não podem ter este poder, criar um bolinho leva 5 turnos. O personagem pode confeccionar um bolinho das trevas que tanto servem para memorizar golpes, quanto servem para as transformações. O número máximo de bolinhos que podem ser criados e carregados são 3 e +1 para cada rank acima do rank E).
+
+### Nível 1: **Resistência***
+Após o personagem ser atacada ela pode comer um bolinho e ficar resistente ao golpe, podendo absorver metade do dano, a regra de dano mínimo não é eliminada, golpes comuns de luta corpo a corpo sem doutrinas não pode ser memorizados. Custa 3 de ki.
+
+<br>
+
+### Nível 2: **Invulnerabilidade***
+Após o personagem ser atacada ela pode comer um bolinho e ficar imune ao golpe, podendo absorver todo o dano, a regra de dano mínimo não é eliminada, golpes comuns de luta corpo a corpo sem doutrinas não pode ser memorizados. Custa 4 de ki.
+
+<br>
+
+### Nível 3: **Macaco monstro das trevas***
+O personagem após comer o bolinho se transforma em um macaco monstro do mundo das trevas, e recebe um bônus de +10 em força, constituição, +5 pvs e seus golpes físicos causam 2D6 de dano. Custa 5 de ki para se transformar. 
+
+### Nível 4: **Faisão das trevas***
+O personagem após comer o bolinho se transforma em um faisão das trevas, e recebe um bônus de +10 em todos os atributos físicos, pvs e pode voar e seus golpes físicos causam 2D6+1 de dano. Custa 10 de ki para se transformar.
+
+### Nível 5: **Cão monstro das trevas***
+O personagem após comer o bolinho se transforma em um Cão monstro das trevas, e recebe um bônus de +15 em todos os atributos físicos, +20 pvs e +10 de ip, e seus golpes físicos causam 2D6+2 de dano. Custa 15 de ki para se transformar.
+
+<br>
+
+## Sombras demoníacas
+### Nível 1: **Projeção entre mundos**
+O personagem invoca o manto da morte e caso o oponente seja atingido pelo manto da morte ele é tele transportado para um lugar aleatório, teste de agilidade para não ser atingido pelo manto. Custa 3 de ki.
+
+<br>
+
+### Nível 2: **Manipulação de sombras**
+O personagem lança várias sombras contra o adversário causando 2D6+3 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+
+### Nível 3: **Espada negra***
+O personagem cria uma espada que causa 2D6+2 de dano e +1D6 de dano por rank; ou cria um espada mais forte que causa 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki +1 de ki para cada rank acima do rank E.
+
+### Nível 4: **Barreira shobako**
+O personagem cria uma barreira de ondas que evita o dano de disparos de nível 4 ou menor, este poder só pode ser usado uma vez a cada três turnos. Custa o ki do disparo +3.
+
+### Nível 5: **Possessão de sombras***
+O personagem se mescla as sombras e recebe um bônus de +15 em força e constituição, +20 de pvs e +10 de ip. Custa 10 de ki.
+
+### Nível 6: **Espada sonora das trevas***
+O personagem faz sua espada emitir um terrível som fazendo monstros de rank E desmaiarem, e os seus oponentes recebam um redutor de -5% de chance de acerto no ataque e na defesa e nos testes de resistência por rank. Requer teste bem-sucedido de Will para o efeito durar apenas uma rodada por rank. Custa 5 de ki +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 7: **Ondas de sombras demoníacas**
+O personagem lança uma rajada de almas contra os adversários causando 4D6+4 de dano por rank, a quantidade máxima de alvos é um alvo por rank+4. Custa 6 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+## Bomba espiritual
+
+<br>
+
+OBS (Se o oponente tiver um rank a menos ele não pode ver a doutrina tornando os testes de resistência difíceis).
+
+<br>
+
+### Nível 1: **Toque explosivo**
+O personagem toca o adversário causando uma explosão de 1D6+4 de dano por rank, é considerado um disparo. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 2: **Granada espiritual**
+O personagem lança uma granada contra o adversário causando 2D6+4 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 3: **Pólvora**
+O personagem invoca várias bombas, a rajada de bombas causa 3D6+4 por rank em cada alvo, o número máximo de oponentes é igual ao rank+4. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+Nível 4:Aurea espiritual* – O personagem inspira o ar para dentro de si acumulando seu poder, a cor do cabelo do personagem muda e ele recebe um bônus de +1 em todos os seus atributos físicos e pvs por ki gasto.
+
+<br>
+
+### Nível 5: **Espírito explosivo**
+O personagem lança-se contra o adversário causando uma grande explosão de 5D6 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+## Battle aura
+### Nível 1: **Voar***
+O personagem pode voar e tem o dobro do deslocamento, custa 3 de ki. 
+
+<br>
+
+### Nível 2: **Criar machado***
+O personagem cria um machado que causa 3D6 de dano e +3 de dano por rank. Custa 4 de ki e +1 de ki para cada rank acima do rank E. A partir do rank B, o bônus oriundo desta doutrina passa a ser 3D6+2 de dano e +1D6 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 3: **Aura de Batalha de menor***
+O personagem cria uma aura de energia e recebe um bônus de +1 de força, constituição, pv e ip para cada ki gasto.
+
+<br>
+
+### Nível 4: **Ataque energético**
+O personagem lança um disparo teleguiado contra o adversário causando 3D6+4 de dano por rank, e com -5% de chance de esquiva por rank. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 5: **Battle aura***
+O personagem aumenta o seu poder recebendo um bônus de +2 em força e constituição e +1 de ip e pv para cada ki gasto.
+
+<br>
+
+### Nível 6: **Battle aura cross atack**
+O personagem lança um disparo contra o adversário causando 4D6+4 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+## Butai
+
+<br>
+
+OBS (humanos não podem ter esse poder).
+
+<br>
+
+### Nível 1: **Armadura***
+O personagem cria um escudo ou armadura que dá um bônus de +1 de ip, pv e constituição para cada ki gasto. A partir do rank C, o bônus oriundo desta doutrina passa a ser +2 de ip, constituição e +1 pv para cada ki gasto.
+
+<br>
+
+### Nível 2: **Arma***
+O personagem cria uma arma que causa 2D6 de dano e +3 de dano por rank; ou uma arma maior que cause 3D6 de dano e +3 de dano por rank, a um custo adicional de +2 de ki. Custa 3 de ki e +1 de ki para cada rank acima do rank E. A partir do rank C, o bônus oriundo desta doutrina passa a ser 2D6+3 de dano e +3 de dano por rank; ou cria uma arma maior que cause 3D6+3 de dano e +3 de dano por rank a um custo adicional de +2 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 3: **Arma múltipla**
+O personagem estica partes de seu corpo contra os adversários, causando 3D6+3 de dano por rank, o número de alvos máximo é igual ao rank+4. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 4: **Derretimento***
+O personagem fica totalmente maleável, ganhando o aprimoramento evasão e recebe um bônus de +5% no ataque, na defesa e nos testes de resistência de esquiva por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 5: **Imortalidade***
+O personagem é imortal, e regenera o seu dano mínimo +1 por rodada, caso o personagem sofra uma quantidade de dano que o mataria ele vai regenerar 1 pv por rodada.
+
+
+## Kin’ niku Souza
+
+<br>
+
+OBS (apenas para NPCS, os níveis desta doutrina não podem ser utilizados na ordem decrescente, os usuários desta doutrina ganham um bônus de +10 na regra de aumento de poder).
+
+<br>
+
+### Nível 1: **20% da força***
+O personagem aumenta o seu poder e recebe um bônus de +1 de pv, ip e dano para cada ki gasto.
+
+<br>
+
+### Nível 2: **40% da força***
+O personagem aumenta o seu poder e recebe um bônus de +2 de força e constituição para cada ki gasto.
+
+<br>
+
+### Nível 3: **60% da força***
+O personagem aumenta o seu poder e seus golpes físicos passam a causar 2D6 de dano e recebe um bônus de +2 em agilidade e destreza para cada ki gasto.
+
+<br>
+
+### Nível 4: **80% da força***
+O personagem aumenta o seu poder e recebe um bônus de +5 em força para cada ki gasto.
+
+<br>
+
+### Nível 5: **100% da força***
+O personagem aumenta o seu poder assumindo a forma completa de obelisco, e recebe um bônus de +30 de constituição, +25 de ip e +10 pvs. Custa 10 de ki.
+
+<br>
+
+
+### Nível 6: **Absorção de energia vital***
+Os monstros de rank E que estiverem na distância de 30 metros por rank morrem e suas almas são absorvidas, e para cada alma absorvida o personagem recupera 3 de ki e de pv. Seus golpes físicos passam a causar 3D6 de dano. Custa 7 de ki.
+
+
+## Lei shu
+
+<br>
+
+OBS (apenas para NPCS).
+
+<br>
+
+### Nível 1: **Contra-ataque**
+Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um golpe, causando 1D6+3 de dano por rank. Requer um teste bem-sucedido de agilidade com um redutor de -5% por rank para levar metade do dano. Este recurso só pode ser utilizado uma vez a cada 3 rodadas. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 2: **Bola arremessável lei shu**
+O personagem lança uma bola contra o adversário causando 2D6+4 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 3: **Bola lei shu***
+O personagem cria bolas nas mãos que causam 2D6+2 de dano e +1D6 de dano por rank; ou cria bolas mais fortes que causam 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 4: **Granada lei shu**
+O personagem lança várias bolas contra seus adversários causando 3D6+4 de dano por rank, o número máximo de oponentes é igual ao rank+4. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 5: **Gigante bola lei shu**
+O personagem lança uma grande bola contra o adversário causando 4D6+4 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+## Rahiph Mokuro
+
+<br>
+
+OBS (poder exclusivo de Mokuro).
+
+<br>
+
+### Nível 1: **Punho flamejante***
+O personagem aumenta o seu poder e recebe um bônus de +3 em dano para cada ki gasto.
+
+### Nível 2: **Resistência***
+O personagem aumenta o seu poder e recebe um bônus de +3 em ip para cada ki gasto.
+
+<br>
+
+### Nível 3: **Arma energética**
+O personagem energiza os punhos causando 2D6+2 de dano e +1D6 de dano por rank; ou amplia a energização causando 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 4: **Ataque invisível**
+O personagem lança um disparo que causa 4D6+4 de dano por rank e o oponente tem um redutor de -5% de chance de esquiva por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+
+### Nível 5: **Fortalecimento espiritual**
+O personagem eleva seu espirito de luta e recebe um bônus de +15 em todos os seus atributos físicos, pvs e + 5% no ataque e na defesa por rank. Custa 10 de ki.
+
+<br>
+
+### Nível 6: **Corte espacial**
+O personagem corta o espaço onde está o adversário causando 5D6+4 de dano por rank, este poder atravessa qualquer barreira. Custa 6 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+## Yomi Saihs
+
+<br>
+
+OBS (poder exclusivo de Yomi).
+
+<br>
+
+### Nível 1: **Punho flamejante***
+O personagem aumenta o seu poder e recebe um bônus de +3 em dano para cada ki gasto.
+
+<br>
+
+### Nível 2: **Resistência***
+O personagem aumenta o seu poder e recebe um bônus de +3 em ip para cada ki gasto.
+
+<br>
+
+### Nível 3: **Arma energética**
+O personagem energiza os punhos causando 2D6+2 de dano e +1D6 de dano por rank; ou amplia a energização causando 2D6+4 de dano e +1D6 de dano por rank a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 4: **Golpe de defesa e ataque madoki**
+O personagem quando for alvo de um disparo de nível 5 ou menor pode evitá-lo com esta barreira e absorve um de ki por nível do poder do disparo. Custa o ki do disparo +4.
+Nível 5:Fortalecimento espiritual – O personagem eleva seu espirito de luta e recebe um bônus de +15 em todos os seus atributos físicos, pvs e + 5% no ataque e na defesa por rank. Custa 10 de ki.
+
+<br>
+
+### Nível 6: **Ataque total**
+O personagem lança um disparo contra o adversário causando 5D6+4 de dano por rank. Custa 6 de ki e +1 de ki para cada rank acima do rank E.
+Doutrina do exército do Rei-Kai
+OBS (apenas para membros da elite do rei-kai).
+Nível 1:Voar*- O personagem pode voar e tem o dobro do deslocamento. Custa 3 de ki.
+Nível 2:Energizar*- O personagem aumenta o seu poder e recebe um bônus de +2 de ip e dano para cada ki gasto.
+
+<br>
+
+### Nível 3: **Ataque energético**
+O personagem energiza os punhos causando 2D6+2 de dano e +1D6 de dano por rank; ou amplia a energização causando 2D6+4 de dano e +1D6 de dano por rank a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 4: **Abrir/fechar portal**
+O personagem pode abrir ou fechar portais que ligam o Ma-kai, Terra (Ningen-kai), Rei-kai. Se o personagem desejar expandir o portal para monstros de categorias superiores passarem, leva uma semana para cada categoria a mais e se for para diminuir o portal para monstros de categoria inferiores passarem leva uma semana para cada categoria a menos. Caso haja ajuda de outros seres com o mesmo poder reduz a proporção em um dia por pessoa ajudando, no mínimo de um dia, precisa trabalhar pelo menos 10 horas por dia. Custa 10 de ki por dia. 
+
+### Nível 5: **Aprimoramento espiritual**
+O personagem eleva seu espirito de luta e recebe um bônus de +10 em todos os seus atributos físicos, +30 pvs e + 5% no ataque e na defesa por rank. Custa 10 de ki.
+
+<br>
+
+### Nível 6: **Raio maior**
+O personagem lança um raio contra o adversário causando 4D6+5 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+Lazer light
+
+<br>
+
+### Nível 1: **Feixe de luz**
+O personagem lança um feixe de luz contra o adversário causando 2D6 de dano por rank. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 2: **Espectro**
+O personagem lança um espectro contra o adversário causando 2D6+4 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 3: **Aurora hipnótica**
+O personagem lança uma aura hipnótica contra o adversário, teste bem-sucedido de Will para resistir ao efeito, caso falhe no teste o oponente ficará paralisado uma rodada por rank, caso o oponente seja paralisado e enquanto o poder durar, a cada rodada a vítima poderá fazer um teste de Will para resistir o efeito. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+### Nível 4: **Arma radiante***
+O personagem cria uma espada que causa 2D6+2 de dano e +1d6+1 de dano por rank; ou cria uma espada mais forte que causa 2D6+4 de dano e +1D6+1 de dano por rank a um custo adicional de +1 de ki. Custa 5 de ki +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 5: **Ciclone arco-íris**
+O personagem lança um raio na forma de um arco-íris contra o adversário causando 4D6+3 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+## Brilho Sui Seiki
+
+<br>
+
+OBS (Disponível apenas para personagens de rank S, o portador deste poder pode atravessar qualquer tipo de barreira).
+
+<br>
+
+## Nível 1: Armadura dourada*
+O personagem cria uma armadura dourada aumentado o seu poder e recebe um bônus de +1 em ip, pv e dano para cada ki gasto.
+
+<br>
+
+### Nível 2: **Golpe de ruptura**
+Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um tufão, causando 2D6+3 de dano por rank. Requer um teste bem-sucedido de agilidade com um redutor de -5% por rank para levar metade do dano. Este recurso só pode ser utilizado uma vez a cada 3 rodadas. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 3: **Armadura azul***
+O personagem cria uma armadura azul aumentado o seu poder e recebe um bônus de +2 em ip, dano e pv para cada ki gasto.
+
+<br>
+
+### Nível 4: **Brilho sui seiki**
+O personagem invoca a aura dos anjos sobre si podendo voar com o dobro do deslocamento, e suas doutrinas são elevadas a um rank acima mesmo no rank S Supremo. O bônus da Armadura azul passa a ser +3 em ip, dano e pv para cada ki gasto. Custa 7 de ki.
+
+### Nível 5: **Rajada sui seiki**
+O personagem dispara uma rajada de energia sui seiki contra o adversário causando 4D6+4 de dando por rank, esse disparo passa por qualquer tipo de barreira. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+## Olhos demoníacos (jagan)
+
+<br>
+
+OBS (O personagem precisa implantar o olho diabólico, proibido para humanos).
+
+<br>
+
+### Nível 1: **Olhar além do alcance**
+O personagem ao se concentrar ele pode observar qualquer criatura conhecida dentro do mesmo plano, esta visão é limitada a 2 metros de raio tendo o personagem alvo do poder como o centro do raio. Custa 2 de ki.
+Nível 2:Velocidade sobrenatural*- O personagem aumenta a sua velocidade recebendo um bônus de +2 de agilidade e destreza para cada ki gasto.
+
+<br>
+
+### Nível 3: **Olho demoníaco**
+O personagem paralisa o oponente, uma rodada por rank, teste de will para não ser paralisado, caso o oponente seja paralisado e enquanto o poder durar, a cada rodada a vítima poderá fazer um teste de Will para resistir o efeito. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 4: **Verdadeiros olhos demoníacos***
+O personagem faz brotar vários olhos no corpo tendo uma visão de 360°, com essa visão o personagem não precisa fazer teste de percepção quando alguém tentar surpreende-lo por trás, e o personagem recebe um bônus de +15 em força e constituição, pvs +10 de ip e -5 em carisma. Custa 10 de ki para se transformar. 
+
+<br>
+
+### Nível 5: **Dominação**
+O personagem domina seres não despertados ou oponentes com um rank a menos, para o adversário não ser dominado deve ser bem-sucedido em um teste Will. A vítima não obedecerá a nenhuma ordem suicida, se o personagem tentar força-lo a fazer uma dessas ações citadas a dominação é quebrada, a duração é de uma rodada por rank contra oponentes de rank menor. Custa 6 de ki para dominar seres despertados. A quantidade de seres não despertados que pode ser dominada é igual a 3 vezes o rank, e tem uma duração de 2 horas por rank. Custa 6 de ki e +1 de ki para cada 3 seres dominados a mais.
+
+### Nível 6: **Velocidade máxima***
+O portador deste poder recebe um bônus passivo de +10 na iniciativa. O personagem aumenta a sua velocidade recebendo um bônus de +25 de agilidade, destreza e recebe o aprimoramento evasão e mais um ataque adicional. Custa 10 de ki. 
+
+<br>
+
+## Shura Nen Do Tō I
+### Nível 1: **Oscilação shura***
+O personagem cria uma armadura de terra e recebe um bônus de +1 de força, constituição e ip para cada ki gasto.
+
+<br>
+
+### Nível 2: **Fortificação shura***
+O personagem potencializa seu dano, porém é necessário que alguma oscilação shura esteja ativa, causando 2D6 de dano e +3 de dano por rank; ou 3D6 de dano e +3 de dano por rank, a um custo adicional de +2 de ki. Custa 3 de ki e +1 de ki para cada rank acima do rank E. A partir do rank B, o bônus oriundo desta doutrina passa a ser 2D6+2 de dano e +1D6 de dano por rank; ou 3D6+2 de dano e +1D6 de dano por rank a um custo adicional de +2 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 3: **Rajada de pedras**
+O personagem lança um disparo de pedras contra vários adversários causando 3D6 de dano por rank, o número máximo de oponentes é igual ao rank+4. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 4: **Bomb Atack**
+O personagem primeiro precisa usar alguma oscilação shura para poder usar este golpe, o personagem atingi o oponente com um encontrão, causando 3D6+4 de dano por rank. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+Nível 5:Oscilação shura maior*- O personagem cria uma armadura maior de terra e recebe um bônus de +2 de força e constituição, +1 de pv e ip por ki gasto.
+
+<br>
+
+### Nível 6: **Big Bomb Atack**
+Primeiro é necessário usar a oscilação shura maior para poder usar esta técnica, O personagem atingi o oponente com um encontrão, causando 4D6+4 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+
+
+## Espadachim das trevas
+
+### Nível 1: **Estilo de luta exótico***
+O personagem tem um estilo de luta diferenciado que lhe cede um bônus de +5% de chance de acerto no ataque e na defesa por rank. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 2: **Lançar bambolê das trevas***
+O personagem lança o Bambolê das trevas contra o adversário causando 3D6 de dano por rank, que volta no mesmo turno. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 3: **Bambolê das trevas***
+O personagem amplia o dano Bambolê das trevas causando 2D6+2 de dano e +1D6 de dano por rank; ou amplia ainda mais o dano do Bambolê das trevas causando 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 4: **Redemoinho das trevas**
+O personagem quando for alvo de um disparo de nível 4 ou menor ele pode evitá-lo, este poder só pode ser usado uma vez a cada 3 rodadas. Custa o ki do disparo +3.
+
+<br>
+
+### Nível 5: **Turbilhão das trevas**
+O personagem lança um disparo contra o adversário causando 4D6+3 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+## Cura espiritual
+<br>
+
+OBS (o pré-requisito desta doutrina é ter a perícia medicina em pelo menos 40%).
+OBS (Esta doutrina não é apropriada para o combate, a ativação deste poder dura duas rodadas para níveis menor ou igual 3, e para níveis acima do nível 3 dura três rodadas, e a ressurreição dura 10 rodadas).
+
+<br>
+
+### Nível 1: **Cura**
+O personagem pode curar 2D6 de pvs por rank. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 2: **Cura 2**
+O personagem pode curar 2D6+3 de pv por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 3: **Cura 3**
+O personagem pode curar doenças graves e outros efeitos como envenenamento. Custa 4 de ki.
+
+<br>
+
+### Nível 4: **Cura 4**
+O personagem pode curar 3D6+3 de pv por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 5: **Cura 5**
+O personagem pode curar 4D6 +3 de pv por rank. Custa 6 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 6: **Ressurreição**
+O personagem pode ressuscitar qualquer criatura com a permissão do Rei-kai, a criatura ressuscita com todos os pvs e ki, o personagem que vai usar a ressurreição precisa estar com todo o seu ki. Custa todo o ki. 
+
+
+## Mei-Kai Power
+
+<br>
+
+OBS (apenas para habitantes do mei-kai).
+
+<br>
+
+### Nível 1: **Voar***
+O personagem pode voar e tem o triplo do deslocamento. Custa 3 de ki.
+
+<br>
+
+### Nível 2: **Estilo de luta proibido***
+O personagem conhece técnicas marciais secretas de antigos mestres, e este estilo de luta refinado concede um bônus de +5% no ataque, defesa e nos testes de resistência de esquiva por rank. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 3: ** Golpe de ruptura**
+Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um tufão, causando 3D6+4 de dano por rank. Requer um teste bem-sucedido de agilidade com um redutor de -5% por rank para levar metade do dano. Este recurso só pode ser utilizado uma vez a cada 3 rodadas. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 4: **Arma do Mei-kai**
+O personagem cria uma arma espiritual do Mei-kai que causa 3D6+2 de dano e +1D6+1 de dano por rank, ou cria uma arma mais forte que causa 3D6+4 de dano e +1D6 de dano por rank a um custo adicional de +1 de ki. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 5: **Reflexo destrutivo**
+O personagem quando for alvo de um disparo de até nível 6, ele pode absorvê-lo e depois manda-lo de volta contra o adversário causando o dano do próprio disparo. Custa o ki do disparo +5, este poder só pode ser usado uma vez a cada 3 rodadas.
+
+<br>
+
+### Nível 6: **Fortalecimento espiritual***
+O personagem ganha +15 de bônus em todos os atributos físicos, pvs, ip e dano. Custa 10 de ki.
+
+<br>
+
+### Nível 7: ** Copiar poderes***
+O personagem quando ver qualquer doutrina pode copiá-la para usá-la durante a luta, custa o ki da doutrina copiada, para aprende-la deve gastar 7 de ki e um ser bem-sucedido no teste de inteligência e pagar o custo da doutrina na evolução do personagem.
+
+<br>
+
+### Nível 8: **Despertar o mal***
+O personagem faz a parte má de um ser aflorar e pode ser controlada pelo habitante do Mei-kai, requer um teste difícil de Will para resistir, a vítima não pode ser forçada a fazer uma ação suicida, caso seja forçada a dominação se dissipará. A duração do controle é de um dia. Custa 9 de ki.
+
+<br>
+
+### Nível 9: **Ilusão Profunda**
+O personagem cria uma ilusão de acordo com os sentimentos das vítimas, forçando-as a fraquejar, a ilusão envolve até um alvo por rank+4, e requer um teste difícil de Will para resistir, se o oponente sofrer algum dano durante a ilusão, ela será dissipada. A cada rodada durante a ilusão as vítimas precisam de um acerto crítico no teste de Will de no máximo 25 de Will para sair do efeito. Custa 10 de ki e +1 de ki para cada alvo a mais.
+
+<br>
+
+### Nível 10: **Ondas energéticas**
+O personagem lança uma rajada energética contra um adversário por rank+4, causando 6D6+4 de dano por rank. Custa 8 de ki e +1 de ki para cada rank acima do rank E. 
+
+<br>
+<br>
+
+# Territórios
+
+OBS (Os territórios não serão utilizados como as doutrinas, com níveis, mas como aprimoramentos pagando-se pontos por eles. Terrenos são poderosos e não gastam Rei-Ki para serem utilizados. Só podem ser adquiridos na criação de personagem.)
+
+Paralisação (4 pontos de aprimoramentos)
+Pisando em cima da sombra do inimigo, o usuário pode paralisar o oponente por quanto tempo quiser. Após pisar na sombra faça um teste de Will contra a Will do inimigo. Após isso, deve-se permanecer em cima da sombra do inimigo para mantê-lo imóvel.
+
+Tabú (5 pontos de aprimoramentos)
+O personagem com esse poder pode criar um território com regras de fala, como por exemplo proibir o uso de algumas palavras ou letras, podendo ser retiradas aos poucos e etc. Ele sempre deve avisar o inimigo das regras. Esse poder vai acabar virando uma disputa de intelectos entre os dois lados opostos, tentando fazer um quebrar a regra. Quem quebrar a regra perde seu espírito e vira um corpo sem vida e parado no chão.
+
+Cópia (6 pontos de aprimoramentos)
+O personagem que usa esse poder deve tocar em alguém e virará uma cópia exata daquela pessoa, com seus atributos físicos e memórias. Essa cópia durará uma cena, ou até que o
+personagem queira voltar ao normal, ou se alguém causar nele 5 pontos de dano de uma vez só.
+
+Navalha (3 pontos de aprimoramentos)
+O personagem carrega suas mãos de energia, e elas se tornam cortantes como facas. Aumentando o dano de seus ataques em +10 ou pode ser usado para cortar diversas coisas.
+
+Energia Cinética (4 pontos de aprimoramentos)
+O personagem pode carregar algum objeto com energia e dispará-lo contra seus oponentes, fazendo-o ir a uma incrível velocidade. Aumentando o dano dos objetos em +10 e o alcance é de no máximo 1 Km. Após atingir o alvo, o objeto volta ao normal.
+
+Hidro Monstros (5 pontos de aprimoramentos)
+O personagem pode criar pequenos monstros de água jogando um pouco de sangue em uma poça d’água qualquer. O monstro possui apenas 1/2 dos atributos do executor, 50% em ataque e defesa. Caso o Hidro Monstro absorva o oponente com uma manobra de agarrar, ele só poderá sair mediante a um acerto crítico no teste de resistência de força de no máximo 25 de FOR ou se ele puder destruir a Barreira Dimensional com o poder Jigen Tou (Espada Dimensional) da doutrina Leiken. O personagem pode criar um monstro por turno, e a quantidade máxima de monstros criados é sua INT/4 arredondada para cima.
+
+Devorar Energia (6 pontos de aprimoramentos)
+O personagem deve cometer canibalismo para utilizar esse território, que é dentro do seu estômago. O personagem devora uma pessoa e pode utilizar todas as doutrinas que ela possuía durante um mês no máximo. Desnecessário dizer que se alguém
+Presenciar esse ato desumano...
+
+Telepatia (5 pontos de aprimoramentos)
+O personagem pode ler a mente de uma pessoa a até 50 metros de distância. Se o alvo não for despertado não há teste de resistência. Se for, faça um teste resistido de Will entre os dois. Se usado em lutas, o personagem irá sempre vencer a iniciativa, por saber anteriormente as ações do adversário. Isso não pode ser usado para “escanear” a mente do alvo, apenas ler os pensamentos que ele está tendo no momento. Testes de agilidade pra se esquivar tornasse fácil e o personagem recebe um bônus de +30/30 em todas as suas pericias de combate, caso esteja lendo a mente de um inimigo.
+ 
+Videogame (7 pontos de aprimoramentos)
+O personagem transporta os oponentes para dentro de um campo virtual, a regra é que todos joguem algum jogo de videogame, simulando qualquer título existente. Quem perder no jogo perde a alma. 
