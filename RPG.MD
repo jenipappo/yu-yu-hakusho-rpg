@@ -1,7 +1,7 @@
 #  YUYU HAKUSHO
 
 
-ATUALIZAÇÃO: **27/12/2020**  
+ATUALIZAÇÃO: **30/12/2020**  
 POR **MARCIO ALVES DA SILVA (PEIXE)**  
 Em caso de dúvidas, Endereço de e-mail do autor: marcio.economics@hotmail.com  
 BASEADO NO SUPLEMENTO DE **MARCELO MATOS “GUAXINIM”**, **AJOTA** & **GRUPO DE RPG PVH**  
@@ -366,7 +366,7 @@ Criatura que detém poderes incríveis, portador do sangue da tribo do mal. O de
 <br>
 
 ## Doutrinado (2 pontos)
-O personagem passou por um rigoroso treinamento e está apto a usar doutrinas, o personagem possui 2 pontos de doutrinas e +9 de __*ki*__ e +45 _PVs_.
+O personagem passou por um rigoroso treinamento e está apto a usar doutrinas, o personagem possui 2 pontos de doutrinas e +15 de __*ki*__ e +45 _PVs_.
 
 
 ## Capacidade de extrair os 120% da força* (2 pontos)
@@ -487,7 +487,7 @@ O personagem é sádico e gosta de torturar as pessoas e fazê-las sofrer, apena
 > **Obervações**  
 > 1. Doutrinas marcadas com `*`, duram todo combate ou cena.  
 > 0. O campo de fogo dissipa o campo de gelo e vice-versa, sendo necessário reativar novamente um dos campos.  
-> 0. Todos os disparos causam +XD6+X de dano, onde X é igual quantidade de dados e dano base da doutrina. Exemplo: uma Grande Bola de Fogo causa 3D6+3 de dano por rank, no rank E ela causaria 6D6+6 de dano, no rank D causaria 9D6+9 de dano, no rank C causaria 12D6+12 de dano e assim sucessivamente).
+> 0. Todos os disparos causam +XD6+Y de dano, onde X é igual quantidade de dados e Y é igual ao dano base da doutrina. Exemplo: uma Grande Bola de Fogo causa 3D6+3 de dano por rank, no rank E ela causaria 6D6+6 de dano, no rank D causaria 9D6+9 de dano, no rank C causaria 12D6+12 de dano e assim sucessivamente).
 
 <br>
 <br>
