@@ -595,7 +595,7 @@ Para se tornar um mestre do Heikohadouken, o personagem precisa dominar a bola e
 - **Alvos**: Si mesmo
 - **Dano**: N/A
 - **Custo**: N/A
-- **Bonus**:
+- **Bônus**:
   - _CONS_: **+15**
   - _FOR_: **+15**
   - _AGI_: **+15**
@@ -655,7 +655,7 @@ O personagem passa a usar duas adagas reiken, e recebe um bônus de ataque e def
 - **Alvos**: Si mesmo
 - **Dano**: N/A
 - **Custo**: **4** __*ki*__ **+1** por rank
-- **Bonus**: 
+- **Bônus**: 
   - Dano: **+2** 
   - Ataques Adicionais: 1
   - _ATQ_: **+5%** por rank
@@ -670,7 +670,7 @@ O personagem faz com que sua espada ataque o adversário por de baixo da terra c
 - **Alvos**: 1
 - **Dano**: **3D6+2** por rank
 - **Custo**: **3** __*ki*__; **+1** por rank
-- **Efeito Adicional**:
+- **Efeitos Adicionais**:
   - Aplica **-5%** por rank de chance de esquiva ao opornente 
 
 <br>
@@ -682,7 +682,7 @@ Melhora a espada vara tornando-a muito mais flexível e causando dano extra por 
 - **Alvos**: 1
 - **Dano**: **4D6+2** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
-- **Efeito Adicional**:
+- **Efeitos Adicionais**:
   - Aplica **-5%** por rank de chance de esquiva ao opornente 
 
 <br>
@@ -787,7 +787,7 @@ O personagem invoca uma imensa cerejeira e, neste campo de batalha, recebe um b�
 - **Tipo**: Invocação
 - **Alvos**: N/A
 - **Custo**: **5** __*ki*__ e **+1** por rank  
-- **Bonus**
+- **Bônus**
   - _ATQ_: **+5%** por rank
   - _DEF_: **+5%** por rank
   - _Esquiva_: **+%5** por rank
@@ -902,7 +902,7 @@ Quando o personagem  usar o dragão sobre si mesmo ou quando o dragão for devol
 - **Alvos**: Si mesmo
 - **Dano**: N/A
 - **Custo**: N/A
-- **Bonus**:
+- **Bônus**:
   - _CONS_: **+15**
   - _FOR_: **+15**
   - _AGI_: **+10**
@@ -957,7 +957,7 @@ O personagem aumenta o seu poder e recebe um bônus.
 - **Alvos**: Si mesmo
 - **Dano**: N/A
 - **Custo**: **5** __*ki*__
-- **Bonus**:
+- **Bônus**:
   - _CONS_: **+5**
   - _FOR_: **+10**
   - _PV_: **+5**
@@ -1001,7 +1001,7 @@ O personagem aumenta o seu poder e recebe um bônus.
 - **Alvos**: Si mesmo
 - **Dano**: N/A
 - **Custo**: **10** __*ki*__
-- **Bonus**:
+- **Bônus**:
   - _CONS_: **+15**
   - _FOR_: **+20**
   - _PV_: **+15**
@@ -1049,7 +1049,7 @@ O personagem recebe um bônus.
 - **Alvos**: Si mesmo
 - **Dano**: N/A
 - **Custo**: **10** __*ki*__
-- **Bonus**:
+- **Bônus**:
   - _CONS_: **+15**
   - _FOR_: **+15**
   - _PV_: **+15**
@@ -1107,21 +1107,21 @@ O personagem energiza raios nas mãos que causam dano.
 <br>
 
 ### Nível 4: **Kakeru***
-O personagem cria duplicatas e recebe um bonus.
+O personagem cria duplicatas e recebe um bônus.
 
 > **Observações**  
-> O personagem cria 6 duplicatas de si mesmo.
-> Os 7 personagens (original + 6 duplicatas) partilham da mesma ficha de personagem, vida, ki e teste de resistência, entretanto, se o personagem for alvo de um golpe em área, ela recebe 5% do dano de cada cópia.
+> 1. O personagem cria 6 duplicatas de si mesmo.
+> 0. Os 7 personagens (original + 6 duplicatas) partilham da mesma ficha de personagem, vida, ki e teste de resistência, entretanto, se o personagem for alvo de um golpe em área, ela recebe 5% do dano de cada cópia.
 > Ex: se as 7 personagens sofrerem 100 de dano final simultaneamente (tendo este dano já sido calculado pós teste de resistência e ip) o dano final será 100 +5 de cada cópia (total 130 de dano). 
-> O dano adicional é recebido proporcionalmente a quantidade de cópias que forem atingidas (no exemplo, se apenas duas cópias fossem atingidas, seria 110 de dano).
-> Este poder não faz nenhuma doutrina ou ataque multiplicar seus danos por qualquer valor.
+> 0. O dano adicional é recebido proporcionalmente a quantidade de cópias que forem atingidas (no exemplo, se apenas duas cópias fossem atingidas, seria 110 de dano).
+> 0. Este poder não faz nenhuma doutrina ou ataque multiplicar seus danos por qualquer valor.
 
 - **Tipo**: Buff
 - **Duração**: 1 cena
 - **Alvos**: Si mesmo
 - **Dano**: N/A
 - **Custo**: **10** __*ki*__
-- **Bonus**
+- **Bônus**
   - _PV_: **+35**
   - Dano corpo a corpo (garras e dentes): **2D6+1**
 - **Efeitos Adicionais**
@@ -1160,7 +1160,7 @@ O personagem passa a lutar com um estilo de luta bastante exótico, utilizando y
 - **Alvos**: Si mesmo
 - **Dano**: N/A
 - **Custo**: **2** __*ki*__ e **+1** por rank
-- **Bonus**
+- **Bônus**
   - _ATQ_: **+5%** por rank
   - _DEF_: **+5%** por rank
 
@@ -1221,27 +1221,73 @@ O personagem lança os yo-yos contra o adversário causando dano e diminuindo a 
 ## Mistai
 
 ### Nível 1: **Bola de fogo**
-O personagem lança uma bola de fogo contra o adversário causando 2D6 de dano por rank. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança uma bola de fogo contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **2D6** por rank
+- **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 2: **Arma do Makai**
-O personagem cria uma arma que causa 2D6 de dano e +3 de dano por rank; ou cria uma arma maior que causa 3D6 de dano e +3 de dano por rank a um custo adicional de +2 de ki. Custa 3 de ki e +1 de ki para cada rank acima do rank E. A partir do rank C, o bônus oriundo desta doutrina passa a ser 2D6+2 de dano e +1D6 de dano por rank; ou cria uma arma maior que causa 3D6+2 de dano e +1D6 de dano por rank a um custo adicional de +2 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem cria uma arma que causa dano. Pode ser potencializada por um custo extra de __*ki*__.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6** e **+3** por rank
+- **Custo**: **2*** __*ki*__ e **+1** por rank  
+- **Dano Ampliado**: **3D6** e **+3** por rank
+- **Custo Ampliado**: **4*** __*ki*__ e **+1** por rank  
+- **Dano Rank C**: **2D6+2** e **+1D6** por rank
+- **Custo Rank C**: **3*** __*ki*__ e **+1** por rank  
+- **Dano Rank C Ampliado**: **3D6+2** e **+1D6** por rank
+- **Custo Rank C Ampliado**: **5*** __*ki*__ e **+1** por rank  
 
 <br>
 
 ### Nível 3: **Vácuo cortante**
-O personagem lança um disparo contra o adversário causando 4D6 de dano por rank. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança um disparo contra o adversário causando dano. 
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **4D6** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 4: **Encolhimento***
-O personagem faz uma reza após o termino da reza o oponente encolhe, requer um teste bem-sucedido de conhecimento de doutrinas para o personagem tapar os ouvidos e o efeito voltar contra o usuário da doutrina. Custa 5 de ki.
+O personagem faz uma reza, após seu termino, o oponente encolhe. Requer um teste bem-sucedido de _Conhecimento de Doutrinas_ para o personagem tapar os ouvidos e o efeito se voltar contra o usuário. 
+
+> **Observações**
+> Pode ser utilizado novamente num alvo afetado para desfazer o efeito.
+
+- **Tipo**: Debuff
+- **Duração**: 1 cena
+- **Alvos**: 1
+- **Dano**: N/A
+- **Custo**: **5** __*ki*__
+- **Efeitos Adicionais**
+  - O alvo encolhe e fica com 2 centímetros de altura
 
 <br>
 
-### Nível 5: ** Roubar doutrinas***
-Ao ver qualquer doutrina o personagem poderá copiá-la para usá-la durante a luta, custa o ki da doutrina copiada +1 de ki para doutrinas de até nível 3, e custa o ki da doutrina copiada +2 de ki para doutrinas acima do nível 3. Para aprendê-la permanentemente deverá passar no teste inteligência e pagar o custo da doutrina na evolução do personagem. Custo 6 de ki. OBS (é aconselhável que as doutrinas não recomendadas para jogadores não possam ser copiadas, para o personagem aprender permanentemente uma doutrina de nível 7, precisa ter aprendido antes uma doutrina de nível 6).
+### Nível 5: **Roubar doutrinas***
+Ao ver qualquer doutrina o personagem poderá copiá-la para usá-la durante a luta. Para aprendê-la permanentemente, deverá passar no teste _INT_ e pagar o custo da doutrina na evolução do personagem. 
+
+> **Observações**  
+> 1. É aconselhável que as doutrinas não recomendadas para jogadores não possam ser copiadas. 
+> 0. Para o personagem aprender permanentemente uma doutrina de nível 7, é preciso ter aprendido antes uma doutrina de nível 6.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **6** __*ki*__
+- **Efeitos Adicionais**
+  - A habilida copiada possui exatamente as mesmas regras da original
+  - O custo de uso da doutrina copiada temporariamente é acrescido de **+1** de __*ki*__ para doutrinas de até nível **3** ou **+2** para os demais níveis
 
 <br>
 
@@ -1762,6 +1808,8 @@ O personagem lança um espectro contra o adversário causando 2D6+4 de dano por 
 ### Nível 3: **Aurora hipnótica**
 O personagem lança uma aura hipnótica contra o adversário, teste bem-sucedido de Will para resistir ao efeito, caso falhe no teste o oponente ficará paralisado uma rodada por rank, caso o oponente seja paralisado e enquanto o poder durar, a cada rodada a vítima poderá fazer um teste de Will para resistir o efeito. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
 
+<br>
+
 ### Nível 4: **Arma radiante***
 O personagem cria uma espada que causa 2D6+2 de dano e +1d6+1 de dano por rank; ou cria uma espada mais forte que causa 2D6+4 de dano e +1D6+1 de dano por rank a um custo adicional de +1 de ki. Custa 5 de ki +1 de ki para cada rank acima do rank E.
 
@@ -1959,7 +2007,7 @@ O personagem conhece técnicas marciais secretas de antigos mestres, e este esti
 - **Duração**: 1 cena
 - **Alvos**: Si mesmo
 - **Custo**: **3** __*ki*__ e **+1** por rank  
-- **Bonus**
+- **Bônus**
   - _ATQ_: **+5%** por rank
   - _DEF_: **+5%** por rank
   - _Esquiva_: **+%5** por rank
@@ -2010,7 +2058,7 @@ O personagem ganha bônus em todos os atributos físicos, _PV_, _IP_ e dano.
 - **Alvos**: Si mesmo
 - **Dano**: N/A
 - **Custo**: **10** __*ki*__
-- **Bonus**:
+- **Bônus**:
   - _CONS_: **+15**
   - _FOR_: **+15**
   - _AGI_: **+15**
@@ -2029,8 +2077,8 @@ O personagem quando ve qualquer doutrina pode copiá-la para usá-la durante a l
 - **Alvos**: Si mesmo
 - **Dano**: N/A
 - **Custo**: N/A
-- **Efeito Adicional**
-  - A habilida copiada possui exatamente as mesmas caracteristicas da original, incluindo custo, dano, alvos, bonus e efeitos adicionais 
+- **Efeitos Adicionais**
+  - A habilida copiada possui exatamente as mesmas caracteristicas da original
 
 <br>
 
