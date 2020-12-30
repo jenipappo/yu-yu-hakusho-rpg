@@ -487,7 +487,7 @@ O personagem é sádico e gosta de torturar as pessoas e fazê-las sofrer, apena
 > **Obervações**  
 > 1. Doutrinas marcadas com `*`, duram todo combate ou cena.  
 > 0. O campo de fogo dissipa o campo de gelo e vice-versa, sendo necessário reativar novamente um dos campos.  
-> 0. Todos os disparos causam +XD6+X de dano, onde X é igual quantidade de dados e dano base da doutrina. Exemplo: uma Grande Bola de Fogo causa 3D6+3 de dano por rank, no rank E ela causaria 6D6+6 de dano, no rank D causaria 9D6+9 de dano, no rank C causaria 12D6+12 de dano e assim sucessivamente).
+> 0. Todos os disparos causam +XD6+Y de dano, onde X é igual quantidade de dados e Y é igual ao dano base da doutrina. Exemplo: uma Grande Bola de Fogo causa 3D6+3 de dano por rank, no rank E ela causaria 6D6+6 de dano, no rank D causaria 9D6+9 de dano, no rank C causaria 12D6+12 de dano e assim sucessivamente).
 
 <br>
 <br>
