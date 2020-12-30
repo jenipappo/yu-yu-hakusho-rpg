@@ -579,11 +579,9 @@ O personagem só pode usar esta técnica para tirar a parte maligna de uma pesso
 ### Nível 6: **Reflexo destrutivo reiko**
 O personagem quando for alvo de um disparo de até nível 6, pode absorvê-lo e depois manda-lo de volta contra o adversário, causando o dano do próprio disparo e absorvendo **1** __*ki*__ por nível do poder do disparo. 
 
-> **Observações**  
-> Este poder só pode ser usado uma vez a cada 3 rodadas.
-
 - **Tipo**: Disparo
 - **Alvos**: 1
+- **Cooldown**: **3** rodadas
 - **Dano**: Equivalente ao dano do disparo inicial
 - **Custo**: Equivalente ao custo de __*ki*__ do disparo original **+5**
 
@@ -1851,62 +1849,141 @@ O personagem pode curar 4D6 +3 de pv por rank. Custa 6 de ki e +1 de ki para cad
 ### Nível 6: **Ressurreição**
 O personagem pode ressuscitar qualquer criatura com a permissão do Rei-kai, a criatura ressuscita com todos os pvs e ki, o personagem que vai usar a ressurreição precisa estar com todo o seu ki. Custa todo o ki. 
 
+<br>
 
 ## Mei-Kai Power
 
 <br>
 
-OBS (apenas para habitantes do mei-kai).
+> **Observações** 
+> Apenas para habitantes do mei-kai.
 
 <br>
 
-### Nível 1: **Voar***
-O personagem pode voar e tem o triplo do deslocamento. Custa 3 de ki.
+### Nível 1: Voar*
+O personagem pode voar e tem o deslocamento potencializado. 
+
+- **Tipo**: Buff
+- **Duraçào**: Até aterrisar
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **3** __*ki*__
+- **Efeitos Adicionais**
+  - Se desloca com **3** vezes mais velocidade
 
 <br>
 
 ### Nível 2: **Estilo de luta proibido***
-O personagem conhece técnicas marciais secretas de antigos mestres, e este estilo de luta refinado concede um bônus de +5% no ataque, defesa e nos testes de resistência de esquiva por rank. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem conhece técnicas marciais secretas de antigos mestres, e este estilo de luta refinado concede um bônus de _ATQ__, _DEF__ e nos testes de _Esquiva_ por rank. 
 
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Custo**: **3** __*ki*__ e **+1** por rank  
+- **Bonus**
+  - _ATQ_: **+5%** por rank
+  - _DEF_: **+5%** por rank
+  - _Esquiva_: **+%5** por rank
+  
 <br>
 
-### Nível 3: ** Golpe de ruptura**
-Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um tufão, causando 3D6+4 de dano por rank. Requer um teste bem-sucedido de agilidade com um redutor de -5% por rank para levar metade do dano. Este recurso só pode ser utilizado uma vez a cada 3 rodadas. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+### Nível 3: **Golpe de ruptura**
+Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um tufão, causando dano. O oponente deve realizar um teste bem-sucedido de _AGI_ para reduzir o dano recebido pela metade.
+
+- **Tipo**: Contra-ataque
+- **Alvos**: 1
+- **Dano**: **3D6+4** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank  
+- **Efeitos Adicionais**
+  - Oponente recebe **-5%** por rank no teste de _AGI_. 
 
 <br>
 
 ### Nível 4: **Arma do Mei-kai**
-O personagem cria uma arma espiritual do Mei-kai que causa 3D6+2 de dano e +1D6+1 de dano por rank, ou cria uma arma mais forte que causa 3D6+4 de dano e +1D6 de dano por rank a um custo adicional de +1 de ki. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem cria uma arma espiritual do Mei-kai que causa dano e pode ser potencializado por um custo adicional de __*ki*__. 
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **3D6+2** e **+1D6+1** por rank
+- **Custo**: **4*** __*ki*__ e **+1** por rank  
+- **Dano Ampliado**: **3D6+4** e **+1D6+1** por rank
+- **Custo Ampliado**: **5*** __*ki*__ e **+1** por rank  
 
 <br>
 
 ### Nível 5: **Reflexo destrutivo**
-O personagem quando for alvo de um disparo de até nível 6, ele pode absorvê-lo e depois manda-lo de volta contra o adversário causando o dano do próprio disparo. Custa o ki do disparo +5, este poder só pode ser usado uma vez a cada 3 rodadas.
+O personagem quando for alvo de um disparo de até nível 6, ele pode absorvê-lo e depois manda-lo de volta contra o adversário causando o dano do próprio disparo. 
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Cooldown**: **3** rodadas
+- **Dano**: Equivalente ao dano do disparo inicial
+- **Custo**: Equivalente ao custo de __*ki*__ do disparo original **+5**
 
 <br>
 
 ### Nível 6: **Fortalecimento espiritual***
-O personagem ganha +15 de bônus em todos os atributos físicos, pvs, ip e dano. Custa 10 de ki.
+O personagem ganha bônus em todos os atributos físicos, _PV_, _IP_ e dano. 
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **10** __*ki*__
+- **Bonus**:
+  - _CONS_: **+15**
+  - _FOR_: **+15**
+  - _AGI_: **+15**
+  - _DES_: **+15**
+  - _PV_: **+15**
+  - _IP_: **+15**
+  - **Dano**: **+15**
 
 <br>
 
-### Nível 7: ** Copiar poderes***
-O personagem quando ver qualquer doutrina pode copiá-la para usá-la durante a luta, custa o ki da doutrina copiada, para aprende-la deve gastar 7 de ki e um ser bem-sucedido no teste de inteligência e pagar o custo da doutrina na evolução do personagem.
+### Nível 7: **Copiar poderes***
+O personagem quando ve qualquer doutrina pode copiá-la para usá-la durante a luta. Para aprende-la permanentemente, deve gastar **7** de __*ki*__ e ser bem-sucedido no teste de _INT_. Além disso, é preciso pagar o custo da doutrina na evolução do personagem.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: N/A
+- **Efeito Adicional**
+  - A habilida copiada possui exatamente as mesmas caracteristicas da original, incluindo custo, dano, alvos, bonus e efeitos adicionais 
 
 <br>
 
 ### Nível 8: **Despertar o mal***
-O personagem faz a parte má de um ser aflorar e pode ser controlada pelo habitante do Mei-kai, requer um teste difícil de Will para resistir, a vítima não pode ser forçada a fazer uma ação suicida, caso seja forçada a dominação se dissipará. A duração do controle é de um dia. Custa 9 de ki.
+O personagem faz a parte má de um ser aflorar e pode ser controlada pelo habitante do Mei-kai. Requer um teste difícil de _WILL_ para resistir ao efeito. A vítima não pode ser forçada a fazer uma ação suicida, caso seja forçada a dominação se dissipará. A duração do controle é de um dia. 
+
+- **Tipo**: Debuff
+- **Duração**: 1 cena
+- **Alvos**: 1
+- **Dano**: N/A
+- **Custo**: **9** __*ki*__.
 
 <br>
 
 ### Nível 9: **Ilusão Profunda**
-O personagem cria uma ilusão de acordo com os sentimentos das vítimas, forçando-as a fraquejar, a ilusão envolve até um alvo por rank+4, e requer um teste difícil de Will para resistir, se o oponente sofrer algum dano durante a ilusão, ela será dissipada. A cada rodada durante a ilusão as vítimas precisam de um acerto crítico no teste de Will de no máximo 25 de Will para sair do efeito. Custa 10 de ki e +1 de ki para cada alvo a mais.
+O personagem cria uma ilusão de acordo com os sentimentos das vítimas, forçando-as a fraquejar. Requer um teste difícil de _WILL_ para resistir ao efeito. Se o oponente sofrer algum dano durante a ilusão, ela será dissipada. A cada rodada durante a ilusão as vítimas precisam ser bem-sucedidas em um teste difícil de _WILL_ para dissipar o efeito. 
+
+- **Tipo**: Debuff
+- **Duração**: 1 cena
+- **Alvos**: **4** e **+1** por rank
+- **Dano**: N/A
+- **Custo**: **10** __*ki*__ e **+1** por alvo
 
 <br>
 
 ### Nível 10: **Ondas energéticas**
-O personagem lança uma rajada energética contra um adversário por rank+4, causando 6D6+4 de dano por rank. Custa 8 de ki e +1 de ki para cada rank acima do rank E. 
+O personagem lança uma rajada energética causando dano em área.
+
+- **Tipo**: Disparo
+- **Alvos**:  por rank+4
+- **Dano**: **6D6+4** por rank. 
+- **Custo**: **7** __*ki*__ e **+1** por rank
 
 <br>
 <br>
