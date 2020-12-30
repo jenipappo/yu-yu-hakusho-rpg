@@ -838,7 +838,6 @@ O personagem cria um campo de calor intenso aumentando consideravelmente a tempe
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
-<br>
 
 ### Nível 2: **En satsu rengoku shou***
 O personagem cria chamas nas mãos ou em uma arma que causam dano; ou cria uma chama maior que causa 3D6 de dano e +3 de dano por rank a um custo adicional de +2 de ki. Custa 3 de ki e +1 de ki para cada rank acima do rank E. 
@@ -849,9 +848,8 @@ O personagem cria chamas nas mãos ou em uma arma que causam dano; ou cria uma c
 - **Dano**: **2D6** e **+3** por rank 
 - **Custo**: **2** __*ki*__ e **+1** por rank
 - **Dano Ampliado**: **3D6** e **+3** por rank
-- **Custo Ampliado**: **2** __*ki*__ 
+- **Custo Ampliado**: **3** __*ki*__ e **+1** por rank 
 
-<br>
 <br>
 
 ### Nível 3: **Rajada de chamas negras**
@@ -861,8 +859,7 @@ O personagem lança um disparo de chamas negras contra o adversário causando da
 - **Alvos**: **1**
 - **Dano**: **3D6+4** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
-  
-<br>
+
 <br>
 
 ### Nível 4: **Ja ou en satsu Ken***
@@ -874,9 +871,8 @@ O personagem cria uma espada de chamas que causa dano; ou cria uma espada mais f
 - **Dano**: **2D6+2** e **+1D6+1** por rank 
 - **Custo**: **4** __*ki*__ e **+1** por rank
 - **Dano Ampliado**: **2D6+4** e **+1D6+1** por rank
-- **Custo Ampliado**: **1** __*ki*__ 
+- **Custo Ampliado**: **5** __*ki*__ e **+1** por rank 
 
-<br>
 <br>
 
 ### Nível 5: **En satsu koku ryu há**
@@ -895,10 +891,26 @@ O personagem invoca um dragão negro contra o adversário causando dano, este fi
   - **Dano**: **4D6+7** por rank se utilizado no mundo das trevas
 
 <br>
-<br>
 
 ### Nível 6: **Absorver as chamas negras***
-Quando o personagem  usar o dragão sobre si mesmo ou quando o dragão for devolvido o personagem pode absorve-lo, recebendo um bônus +20 pvs,+15 em força, constituição e +10 em destreza, agilidade, ip ; após a luta o personagem precisará dormir por pelo menos 4 horas, a partir do rank O personagem perde esta penalidade. 
+Quando o personagem  usar o dragão sobre si mesmo ou quando o dragão for devolvido o personagem pode absorve-lo, recebendo um bônus.
+
+> **Observações**  
+> 1. Após a luta o personagem precisará dormir por pelo menos 4 horas.
+> 1.1 A partir do rank A o personagem perde esta penalidade. 
+ 
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: N/A
+- **Bonus**:
+  - _CONS_: **+15**
+  - _FOR_: **+15**
+  - _AGI_: **+10**
+  - _DES_: **+10**
+  - _PV_: **+20**
+  - _IP_: **+10**
 
 <br>
 <br>
@@ -915,6 +927,156 @@ Quando o personagem  usar o dragão sobre si mesmo ou quando o dragão for devol
 ### Nível 1: **Apedrejar**
 O personagem lança um disparo de pedras contra o adversário causando dano.
 
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **2D6** por rank
+- **Custo**: **1** __*ki*__ e **+1** por rank
+
+<br>
+
+### Nível 2: **Braço de pedra***
+O personagem fortifica seu braço com pedras que aumentam o seu dano. 
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6** e **+3** por rank 
+- **Custo**: **2** __*ki*__ e **+1** por rank 
+- **Dano Ampliado**: **3D6** e **+3** por rank
+- **Custo Ampliado**: **2** __*ki*__ 
+- **Dano Rank B**: **2D6+2** e **+1D6** por rank 
+- **Custo Rank B**: **3** __*ki*__ e **+1** por rank
+- **Dano Rank B Ampliado**: **3D6+2** e **+1D6** por rank
+- **Custo Rank B Ampliado**: **4** __*ki*__ e **+1** por rank
+
+<br>
+
+### Nível 3: **Shura tendo toui***
+O personagem aumenta o seu poder e recebe um bônus.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **5** __*ki*__
+- **Bonus**:
+  - _CONS_: **+5**
+  - _FOR_: **+10**
+  - _PV_: **+5**
+  - _IP_: **+5**
+
+<br>
+
+### Nível 4: **Investida shura**
+O personagem atinge o adversário com uma investida vindo de qualquer lugar do solo, causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **3D6 +3** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Efeitos Adicionais**
+  - **Esquiva**: O adversário perde **-5%** de sua esquiva contra essa técnica.
+
+<br>
+
+### Nível 5: **Pedra explosiva**
+O personagem lança-se em pedaços contra o adversário causando dano.
+
+> **Observações**  
+> Se o oponente for bem-sucedido em um teste difícil de _PER_, ele encontrará a pedra coração entre as rochas lançadas.
+> Para capturar a pedra coração é necessário ser atingido pelo disparo e ser bem-sucedido em um teste difícil de _DES_. Caso o oponente destrua a pedra coração, o personagem morrerá.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **4D6 +3** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Efeitos Adicionais**
+  - **Esquiva**: O adversário perde **-5%** de sua esquiva contra essa técnica.
+
+<br>
+
+### Nível 6: **Shura tendo toui sugureta***
+O personagem aumenta o seu poder e recebe um bônus.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **10** __*ki*__
+- **Bonus**:
+  - _CONS_: **+15**
+  - _FOR_: **+20**
+  - _PV_: **+15**
+  - _IP_: **+15**
+
+<br>
+<br>
+
+## Mei ko sho kai ha
+
+### Nível 1: **Grito da destruição**
+O personagem lança um disparo contra o adversário causando dano.
+
+ - **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **2D6** por rank
+- **Custo**: **1** __*ki*__ e **+1** por rank
+
+<br>
+
+### Nível 2: **Grito da destruição2**
+O personagem lança um disparo contra o adversário causando dano 
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **3D6** por rank
+- **Custo**: **2** __*ki*__ e **+1** por rank
+<br>
+
+### Nível 3: **Grito da destruição 3**
+O personagem lança um disparo contra o adversário causando dano. 
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **4D6** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
+
+<br>
+
+### Nível 4: **Absorção de ki***
+O personagem recebe um bônus.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **10** __*ki*__
+- **Bonus**:
+  - _CONS_: **+15**
+  - _FOR_: **+15**
+  - _PV_: **+15**
+  - Dano corpo a corpo (garras e dentes): **2D6+1**
+- **Efeitos Adicionais**
+  - Quando o personagem sofrer algum dano oriundo de alguma doutrina, ela absorverá metade do ki gasto usado na tal doutrina.
+  - Se o personagem ficar com mais ki do que o máximo permitido no seu nível, ele sofre 2D6 de dano por rank sem absorção de dano.
+
+<br>
+
+### Nível 5: **Grito da destruição 4**
+O personagem lança um disparo contra o adversário causando dano. 
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **5D6** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
+
+<br>
+<br>
+
+## Ankou Raí jin Ken
+
+### Nível 1: **Eletrocutar**
+O personagem lança um choque da ponta dos dedos contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
@@ -922,90 +1084,72 @@ O personagem lança um disparo de pedras contra o adversário causando dano.
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
-<br>
-
-### Nível 2: **Braço de pedra***
-O personagem fortifica seu braço com pedras que causam 2D6 de dano e +3 de dano por rank; ou 3D6 de dano e +3 de dano por rank, a um custo adicional de +2 de ki. Custa 3 de ki e +1 de ki para cada rank acima do rank E. A partir do rank B, o bônus oriundo desta doutrina passa a ser 2D6+2 de dano e +1D6 de dano por rank; ou 3D6+2 de dano e +1D6 de dano por rank a um custo adicional de +2 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
-
-<br>
-
-### Nível 3: **Shura tendo toui***
-O personagem aumenta o seu poder e recebe um bônus de +10 em força e +5 em constituição, pv e ip. Custa 5 de ki
-
-<br>
-
-### Nível 4: **Investida shura**
-O personagem atingi o adversário com uma investida vindo de qualquer lugar do solo, causando 3D6+3 de dano por rank, e com -5% de chance de esquiva por rank. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
-
-<br>
-
-### Nível 5: **Pedra explosiva**
-O personagem lança-se em pedaços contra o adversário causando 4D6+3 de dano por rank, se o oponente for bem-sucedido em um teste difícil de percepção ele encontrará a pedra coração entre as rochas, para capturar a pedra é necessário ser atingido pelo disparo e ser bem-sucedido em um teste difícil de destreza. Caso o oponente destrua a pedra coração, o personagem morrerá. Custa 5 de ki e +1 de ki para cada rank acima do rank E. 
-
-<br>
-
-### Nível 6: **Shura tendo toui sugureta***
-O personagem aumenta o seu poder e recebe um bônus de +20 de força, constituição e +15 de ip e pv. Custa 10 de ki.  
-
-<br>
-
-## Mei ko sho kai ha
-
-### Nível 1: **Grito da destruição**
-O personagem lança um disparo contra o adversário causando 2D6 de dano por rank. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
-
-<br>
-
-### Nível 2: **Grito da destruição2**
-O personagem lança um disparo contra o adversário causando 3D6 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
-
-<br>
-
-### Nível 3: **Grito da destruição 3**
-O personagem lança um disparo contra o adversário causando 4D6 de dano por rank. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
-
-<br>
-
-### Nível 4: **Absorção de ki***
-O personagem recebe um bônus de +15 de força, constituição, pvs e suas mordidas e garras passam a causar 2D6+1 de dano. Quando o personagem sofrer algum dano oriundo de alguma doutrina, ela absorverá metade do ki gasto usado na tal doutrina; se o personagem ficar com mais ki do que o máximo dele, ele sofre 2D6 de dano por rank sem absorção de dano. Custa 10 de ki.
-
-<br>
-
-### Nível 5: **Grito da destruição 4**
-O personagem lança um disparo contra o adversário causando 5D6 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
-
-<br>
-
-## Ankou Raí jin Ken
-
-### Nível 1: **Eletrocutar**
-O personagem lança um choque da ponta dos dedos contra o adversário causando 2D6 de dano por rank. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
-
-<br>
 
 ### Nível 2: **Arco do trovão das trevas**
-O personagem lança um disparo contra o adversário causando 3D6 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança um disparo contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **3D6** por rank
+- **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 3: **Soco do trovão***
-O personagem energiza raios nas mãos que causam 2D6+2 de dano e +1D6 de dano por rank; ou cria raios mais fortes que causam 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem energiza raios nas mãos que causam dano.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+1D6** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank 
+- **Dano Ampliado**: **2D6 +4** e **+1D6** por rank
+- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank 
 
 <br>
 
 ### Nível 4: **Kakeru***
-O personagem cria 6 duplicatas de si mesmo e recebe um bônus de +35 pvs e o aprimoramento ataques múltiplos. As 7 personagens partilham da mesma ficha de personagem, vida, ki e teste de resistência, entretanto, se o personagem for alvo de um golpe em área, ela recebe 5% do dano de cada cópia; ex: se as 7 personagens sofrerem 100 de dano final simultaneamente, este dano já foi calculado pós teste de resistência e ip, ou seja o dano final será 100 +5 de cada cópia. Se apenas uma cópia receber dano por vez, o original recebe o dano normalmente. OBS (este poder não faz nenhuma doutrina ou ataque causar 7 vezes o dano). Custa 10 de ki.
+O personagem cria duplicatas e recebe um bonus.
+
+> **Observações**  
+> O personagem cria 6 duplicatas de si mesmo.
+> Os 7 personagens (original + 6 duplicatas) partilham da mesma ficha de personagem, vida, ki e teste de resistência, entretanto, se o personagem for alvo de um golpe em área, ela recebe 5% do dano de cada cópia.
+> Ex: se as 7 personagens sofrerem 100 de dano final simultaneamente (tendo este dano já sido calculado pós teste de resistência e ip) o dano final será 100 +5 de cada cópia (total 130 de dano). 
+> O dano adicional é recebido proporcionalmente a quantidade de cópias que forem atingidas (no exemplo, se apenas duas cópias fossem atingidas, seria 110 de dano).
+> Este poder não faz nenhuma doutrina ou ataque multiplicar seus danos por qualquer valor.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **10** __*ki*__
+- **Bonus**
+  - _PV_: **+35**
+  - Dano corpo a corpo (garras e dentes): **2D6+1**
+- **Efeitos Adicionais**
+  - Ao usar essa técnica o personagem recebe o aprimoramento ataques múltiplos.
 
 <br>
 
 ### Nível 5: **Riku Goku ankoku Raí kou há**
-O personagem dividi-se em sete e usa sete choques da ponta dos dedos contra o adversário causando 4D6 de dano por rank. Para usar esta doutrina Kakeru deve estar ativo. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+Após dividir-se em sete (utilizando **Kakeru**), o personagem usa sete choques da ponta dos dedos contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **4D6** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 6: **Ankoku you rou jin**
-O personagem dividi-se em sete e usa sete disparos contra o adversário causando 5D6 de dano por rank. Para usar esta doutrina Kakeru deve estar ativo. Custa 6 de ki e +1 de ki para cada rank acima do rank E.
+Após dividir-se em sete (utilizando **Kakeru**), o personagem usa sete disparos em formato de arco e flecha elétricos contra o adversário causando dano.
 
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **5D6** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
+
+<br>
 <br>
 
 ## Devil yo-yo
