@@ -1,7 +1,7 @@
 #  YUYU HAKUSHO
 
 
-ATUALIZAÇÃO: **27/12/2020**  
+ATUALIZAÇÃO: **30/12/2020**  
 POR **MARCIO ALVES DA SILVA (PEIXE)**  
 Em caso de dúvidas, Endereço de e-mail do autor: marcio.economics@hotmail.com  
 BASEADO NO SUPLEMENTO DE **MARCELO MATOS “GUAXINIM”**, **AJOTA** & **GRUPO DE RPG PVH**  
@@ -366,7 +366,7 @@ Criatura que detém poderes incríveis, portador do sangue da tribo do mal. O de
 <br>
 
 ## Doutrinado (2 pontos)
-O personagem passou por um rigoroso treinamento e está apto a usar doutrinas, o personagem possui 2 pontos de doutrinas e +9 de __*ki*__ e +45 _PVs_.
+O personagem passou por um rigoroso treinamento e está apto a usar doutrinas, o personagem possui 2 pontos de doutrinas e +15 de __*ki*__ e +45 _PVs_.
 
 
 ## Capacidade de extrair os 120% da força* (2 pontos)
