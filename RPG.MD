@@ -711,7 +711,7 @@ O personagem cria uma espada que causa dano e pode atacar o adversário com alca
 <br>
 
 ### Nível 1: **Criar vegetal***
-O personagem cria uma arma de vegetal que amplifica seu dano; pode ser potencializada a um custo adicional de __*ki*__. TOrna-se mais devastadora a partir do Rank C.
+O personagem cria uma arma de vegetal que amplifica seu dano; pode ser potencializada a um custo adicional de __*ki*__. Torna-se mais devastadora a partir do Rank C.
 
 - **Tipo**: Buff
 - **Duração**: 1 cena
@@ -760,7 +760,7 @@ O personagem cria diversas pétalas que cortam como navalhas os adversários cau
 <br>
 
 ### Nível 4: **Ojigisou**
-O personagem implanta a planta da morte no oponente, o paralisando após um periodo de tempo. Após a paralização, o oponente morrerá com um comando do personagem. Requer um teste bem-sucedido de _DES_ para implantar a semante na vítima. Requer um teste bem-sucedido de _Conhecimento de Doutrinas_ para não cair no truque. Não funciona com portadores deste nível da doutrina. 
+O personagem implanta a planta da morte no oponente, o paralisando após um periodo de tempo. Após a paralização, o oponente morrerá com um comando do personagem. Requer um teste bem-sucedido de _DES_ para implantar a semante na vítima. Requer um teste bem-sucedido de _Conhecimento de Doutrinas_ para não cair no truque. Não funciona com quem conhece o golpe. 
 
 - **Tipo**: Debuff
 - **Duração**: 1 cena
@@ -795,9 +795,9 @@ O personagem invoca uma imensa cerejeira e, neste campo de batalha, recebe um b�
   - _Esquiva_: **+%5** por rank
   - _Evasão_ 
 - **Efeitos Adicionais**
-  - Aplica **-5%** por rank de _ATQ_ ao opornente 
-  - Aplica **-5%** por rank de _DEF_ ao opornente 
-  - Aplica **-5%** por rank de _Esquiva_ ao opornente 
+  - Aplica **-5%** de _ATQ_ ao opornente 
+  - Aplica **-5%** de _DEF_ ao opornente 
+  - Aplica **-5%** de _Esquiva_ ao opornente 
 
 <br>
 
@@ -826,33 +826,81 @@ A cada rodada, a vítima pode tentar arrancá-la, requer um teste de _FOR_ vs _F
 <br>
 
 ### Nível 1: **Aquecer***
-O personagem cria um campo de calor intenso aumentando consideravelmente a temperatura da área e causando 3 de dano por rank a todos os outros seres que estejam dentro da área da doutrina, a regra de dano mínimo não se aplica a esta doutrina. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
+O personagem cria um campo de calor intenso aumentando consideravelmente a temperatura da área e causando dano a todos os outros seres que estejam dentro da área da doutrina.
 
+> **Observações**  
+> 1.  A regra de dano mínimo não se aplica a esta doutrina. 
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: N/A
+- **Dano**: 3 por rank
+- **Custo**: **1** __*ki*__ e **+1** por rank
+
+<br>
 <br>
 
 ### Nível 2: **En satsu rengoku shou***
-O personagem cria chamas nas mãos ou em uma arma que causam 2D6 de dano e +3 de dano por rank; ou cria uma chama maior que causa 3D6 de dano e +3 de dano por rank a um custo adicional de +2 de ki. Custa 3 de ki e +1 de ki para cada rank acima do rank E. 
+O personagem cria chamas nas mãos ou em uma arma que causam dano; ou cria uma chama maior que causa 3D6 de dano e +3 de dano por rank a um custo adicional de +2 de ki. Custa 3 de ki e +1 de ki para cada rank acima do rank E. 
 
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6** e **+3** por rank 
+- **Custo**: **2** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **3D6** e **+3** por rank
+- **Custo Ampliado**: **2** __*ki*__ 
+
+<br>
 <br>
 
 ### Nível 3: **Rajada de chamas negras**
-O personagem lança um disparo de chamas negras contra o adversário causando 3D6+4 de dano por rank. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança um disparo de chamas negras contra o adversário causando dano.
 
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **3D6+4** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
+  
+<br>
 <br>
 
 ### Nível 4: **Ja ou en satsu Ken***
-O personagem cria uma espada de chamas que causa 2D6+2 de dano e +1D6+1 de dano por rank; ou cria uma espada mais forte que causa 2D6+4 de dano e +1D6+1 de dano por rank, a um custo adicional de +1 de ki. Custa 5 de ki +1 de ki para cada rank acima do rank E.
+O personagem cria uma espada de chamas que causa dano; ou cria uma espada mais forte que causa 2D6+4 de dano e +1D6+1 de dano por rank, a um custo adicional de +1 de ki. Custa 5 de ki +1 de ki para cada rank acima do rank E.
 
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+1D6+1** por rank 
+- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+4** e **+1D6+1** por rank
+- **Custo Ampliado**: **1** __*ki*__ 
+
+<br>
 <br>
 
 ### Nível 5: **En satsu koku ryu há**
-O personagem invoca um dragão negro contra o adversário causando 4D6+5 de dano por rank, ou 4d6+7 de dano por rank se o dragão for invocado no mundo das trevas. O oponente pode tentar devolver o dragão de volta para o invocador ao invés de tentar se esquivar, para isso ele precisa de um acerto crítico no teste de resistência de constituição no máximo de 25 de CONS. O invocador do dragão negro leva 10% do dano sem direito a absorção de dano, e a partir do rank B o dragão estará perfeito e o controlador não receberá dano. Custa 6 de ki e +1 de ki para cada rank acima do rank E.
+O personagem invoca um dragão negro contra o adversário causando dano, este fica mais forte se invocado no mundo das trevas. O oponente pode tentar devolver o dragão de volta para o invocador ao invés de tentar se esquivar. 
 
+> **Observações**  
+> 1.  Para devolver o dragão ao invocador ao invés de esquivar, o oponente precisa de um acerto crítico no teste de resistência de constituição no máximo de 25 de _CONS_.
+> 2. Ao receber o dragão devolvido pelo oponente, o invocador do dragão negro leva 10% do dano sem direito a absorção de dano.
+> 2.1 A partir do rank B o dragão estará perfeito e o controlador não receberá dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **4D6+5** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Efeitos Adicionais**
+  - **Dano**: **4D6+7** por rank se utilizado no mundo das trevas
+
+<br>
 <br>
 
 ### Nível 6: **Absorver as chamas negras***
 Quando o personagem  usar o dragão sobre si mesmo ou quando o dragão for devolvido o personagem pode absorve-lo, recebendo um bônus +20 pvs,+15 em força, constituição e +10 em destreza, agilidade, ip ; após a luta o personagem precisará dormir por pelo menos 4 horas, a partir do rank O personagem perde esta penalidade. 
 
+<br>
 <br>
 
 ## Bakuretsu Ganshō Dan
@@ -865,8 +913,15 @@ Quando o personagem  usar o dragão sobre si mesmo ou quando o dragão for devol
 <br>
 
 ### Nível 1: **Apedrejar**
-O personagem lança um disparo de pedras contra o adversário causando 2D6 de dano por rank. Custa 2 de ki e +1 de ki para cada rank acima do rank E. 
+O personagem lança um disparo de pedras contra o adversário causando dano.
 
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **2D6** por rank
+- **Custo**: **1** __*ki*__ e **+1** por rank
+
+<br>
 <br>
 
 ### Nível 2: **Braço de pedra***
