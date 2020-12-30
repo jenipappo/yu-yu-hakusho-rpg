@@ -1153,28 +1153,69 @@ Após dividir-se em sete (utilizando **Kakeru**), o personagem usa sete disparos
 ## Devil yo-yo
 
 ### Nível 1: **Yo-yo acrobático***
-O personagem passa a lutar com um estilo de luta bastante exótico com os yo-yos e recebe um bônus de +5% no ataque e na defesa por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+O personagem passa a lutar com um estilo de luta bastante exótico, utilizando yo-yos, e recebe um bônus de _ATQ_ e _DEF_. 
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **2** __*ki*__ e **+1** por rank
+- **Bonus**
+  - _ATQ_: **+5%** por rank
+  - _DEF_: **+5%** por rank
 
 <br>
 
 ### Nível 2: **Arremesso**
-O personagem prende o oponente com os yo-yos e o arremessa contra o chão causando 3D6 de dano por rank, teste bem-sucedido de constituição para levar metade do dano. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem prende o oponente com os yo-yos e o arremessa contra o chão causando dano. 
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **3D6** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Efeitos Adicionais**
+  - O teste de _Esquiva_ usa _CONS_ em vez de _AGI_
+  - Não é posssível usar _Evasão_
 
 <br>
 
 ### Nível 3: **Yo-yo demoníaco***
-O personagem potencializa os yo-yos causando 2D6+2 de dano +1D6 de dano por rank; ou potencializa ainda mais os yo-yos causando 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem potencializa os yo-yos causando dano, podende ser potencializada por um custo adicional.
 
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+1D6** por rank
+- **Custo**: **4*** __*ki*__ e **+1** por rank  
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank
+- **Custo Ampliado**: **5*** __*ki*__ e **+1** por rank  
+ 
 <br>
 
 ### Nível 4: **Yo-yo Paralisante**
-O personagem prende o oponente com os yo-yos durante uma rodada por rank, teste bem-sucedido de constituição para não ser paralisado, caso o oponente seja paralisado e enquanto o poder durar, a cada rodada a vítima poderá fazer um teste de constituição para resistir o efeito. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem prende o oponente com os yo-yos. Para resistir, o alvo deve ser  bem-sucedido num teste de _CONS_. Caso seja paralisado, a vítima poderá repetir o teste de _CONS_ a cada rodada. 
 
+- **Tipo**: Debuff
+- **Duração**: **1** rodada por rank
+- **Alvos**: 1
+- **Dano**: N/A
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Efeitos Adicionais**
+  - O alvo fica paralizado não podendo executar nenhuma ação
+  
 <br>
 
 ### Nível 5: **Serpentis**
-O personagem lança os yo-yos contra o adversário causando 4D6+3 de dano por rank, e com -5% de chance de esquiva por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança os yo-yos contra o adversário causando dano e diminuindo a chance de _Esquiva_. 
 
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **4D6+3** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Efeitos Adicionais**
+  - Durante o ataque, é aplicado ao oponente **-5%** de chance de _Esquiva_ por rank 
+
+<br>
 <br>
 
 ## Mistai
