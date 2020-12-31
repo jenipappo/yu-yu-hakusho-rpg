@@ -1341,7 +1341,7 @@ O personagem lança uma grande bola de fogo contra seus adversários causando da
 <br>
 
 ### Nível 5: **Aura de fogo***
-O personagem cria chamas em todo o corpo que causam 2D6+5 de dano e +1D6+1 de dano por rank. Se o oponente atacá-lo com as mãos nuas, ele levará 2D6 de dano, 3D6 de dano no rank C, e 4D6 de dano no rank A, não se aplica a regra de dano mínimo neste dano. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem cria chamas em todo o corpo, causando dano. 
 
 - **Tipo**: Buff
 - **Duração**: 1 cena
@@ -1412,7 +1412,7 @@ O personagem lança uma bola de energia contra o adversário causando dano.
 <br>
 
 ### Nível 5: **Aumento de energia sobrenatural***
-O personagem depois de beber muito ele recebe um bônus de +15 em força e constituição, +20 pvs e 10 de ip. Custa 10 de ki.
+O personagem, depois de beber muito, recebe um bônus de _FOR_ e _CONS_, _PV_ e _IP_. 
 
 - **Tipo**: Buff
 - **Duração**: 1 cena
@@ -1634,7 +1634,7 @@ O personagem cria um furacão em cada braço ampliando seu dano.
 <br>
 
 ### Nível 6: **Grande furacão shura**
-O personagem lança um grande furacão contra o adversário causando 4D6+4 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança um grande furacão contra o adversário causando dano. 
 
 - **Tipo**: Disparo
 - **Alvos**: 1
