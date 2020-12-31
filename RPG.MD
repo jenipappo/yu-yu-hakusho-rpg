@@ -2411,32 +2411,84 @@ O personagem lança um raio na forma de um arco-íris contra o adversário causa
 
 <br>
 
-OBS (Disponível apenas para personagens de rank S, o portador deste poder pode atravessar qualquer tipo de barreira).
+> **Observações** 
+> Disponível apenas para personagens de rank S. O portador deste poder pode atravessar qualquer tipo de barreira.
 
 <br>
 
 ## Nível 1: Armadura dourada*
-O personagem cria uma armadura dourada aumentado o seu poder e recebe um bônus de +1 em ip, pv e dano para cada ki gasto.
+O personagem cria uma armadura dourada aumentado o seu poder e recebendo um bônus _IP_, _PV_ e dano.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **5** __*ki*__
+- **Bônus**
+  - _IP_: **+5**
+  - _PV_: **+5**
+  - Dano: **+5**
 
 <br>
 
 ### Nível 2: **Golpe de ruptura**
-Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um tufão, causando 2D6+3 de dano por rank. Requer um teste bem-sucedido de agilidade com um redutor de -5% por rank para levar metade do dano. Este recurso só pode ser utilizado uma vez a cada 3 rodadas. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um tufão, causando dano. O oponente deve realizar um teste bem-sucedido de _AGI_ para reduzir o dano recebido pela metade.
+
+- **Tipo**: Contra-ataque
+- **Alvos**: 1
+- **Cooldown**: **3** rodadas
+- **Dano**: **2D6+3** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank  
+- **Efeitos Adicionais**
+  - Oponente recebe **-5%** por rank no teste de _AGI_
 
 <br>
 
 ### Nível 3: **Armadura azul***
-O personagem cria uma armadura azul aumentado o seu poder e recebe um bônus de +2 em ip, dano e pv para cada ki gasto.
+O personagem cria uma armadura dourada aumentado o seu poder e recebendo um bônus _IP_, _PV_ e dano.
 
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **5** __*ki*__
+- **Bônus**
+  - _IP_: **+10**
+  - _PV_: **+10**
+  - Dano: **+10**
+  
 <br>
 
 ### Nível 4: **Brilho sui seiki**
-O personagem invoca a aura dos anjos sobre si podendo voar com o dobro do deslocamento, e suas doutrinas são elevadas a um rank acima mesmo no rank S Supremo. O bônus da Armadura azul passa a ser +3 em ip, dano e pv para cada ki gasto. Custa 7 de ki.
+O personagem invoca a aura dos anjos sobre si podendo voar, ganhando bônus de atributos e elevando seu rank. 
+
+acima mesmo no rank S Supremo. O bônus da Armadura azul passa a ser +3 em ip, dano e pv para cada ki gasto. Custa 7 de ki.
+
+com o dobro do deslocamento
+
+
+- **Tipo**: Buff
+- **Duraçào**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **7** __*ki*__
+- **Bônus**
+  - _IP_: **+21**
+  - _PV_: **+21**
+  - Dano: **+21**
+- **Efeitos Adicionais**
+  - Se desloca com **2** vezes o deslocamento
+  - Eleva **1** rank, mesmo no rank S Supremo
 
 <br>
 
 ### Nível 5: **Rajada sui seiki**
-O personagem dispara uma rajada de energia sui seiki contra o adversário causando 4D6+4 de dando por rank, esse disparo passa por qualquer tipo de barreira. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem dispara uma rajada de energia sui seiki contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **4D6+4** por rank 
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -2813,14 +2865,14 @@ O personagem conhece técnicas marciais secretas de antigos mestres, e este esti
 <br>
 
 ### Nível 3: **Golpe de ruptura**
-Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um tufão, causando dano. O oponente deve realizar um teste bem-sucedido de _AGI_ para reduzir o dano recebido pela metade.
+Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um tufão, causando dano. O oponente deve realizar um teste bem-sucedido de _AGI_ para reduzir o dano recebido pela metade .
 
 - **Tipo**: Contra-ataque
 - **Alvos**: 1
 - **Dano**: **3D6+4** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank  
 - **Efeitos Adicionais**
-  - Oponente recebe **-5%** por rank no teste de _AGI_. 
+  - Oponente recebe **-5%** por rank no teste de _AGI_
 
 <br>
 
