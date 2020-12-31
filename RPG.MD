@@ -1551,15 +1551,15 @@ O personagem cria uma espada de gelo no próprio braço ampliando seu dano.
 <br>
 
 ### Nível 4: **Congelar**
-O personagem congela praticamente todo o corpo do oponente, durante uma rodada por rank, teste bem-sucedido de constituição para não ser paralisado, caso o oponente seja paralisado e enquanto o poder durar, a cada rodada a vítima poderá fazer um teste de constituição para resistir o efeito; Enquanto a vítima estiver congelada será absorvido 1 de ki por rodada. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem congela praticamente todo o corpo do oponente. Requer um teste bem-sucedido de _CONS_ para resistir o efeito.
 
 - **Tipo**: Debuff
-- **Duração**: 1 cena
+- **Duração**: 1 rodada por rank
 - **Alvos**: 1
 - **Dano**: N/A
 - **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
-  - Paraliza o oponente durante **1** rodada por rank e absorve **1** __*ki* por rodada. A cada rodada a vítima poderá fazer um teste de constituição para dissipar o efeito.
+  - Paraliza o oponente durante **1** rodada por rank e absorve **1** __*ki*__ por rodada. A cada rodada a vítima poderá fazer um teste de _CONS_ para dissipar o efeito.
   
 <br>
 
