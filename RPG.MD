@@ -2255,66 +2255,176 @@ OBS (poder exclusivo de Mokuro).
 <br>
 
 ### Nível 1: **Punho flamejante***
-O personagem aumenta o seu poder e recebe um bônus de +3 em dano para cada ki gasto.
+O personagem aumenta o seu poder e recebe um bônus.
 
+ de +3 em dano para cada ki gasto.
+
+- **Tipo**: Buff
+- **Alvos**: Si mesmo
+- **Custo**: **5** __*ki*__
+- **Bônus**: 
+  - **Dano**: **+15**
+  
 ### Nível 2: **Resistência***
-O personagem aumenta o seu poder e recebe um bônus de +3 em ip para cada ki gasto.
+O personagem aumenta o seu poder e recebe um bônus
+
+ de +3 em ip para cada ki gasto.
+
+- **Tipo**: Buff
+- **Alvos**: Si mesmo
+- **Custo**: **5** __*ki*__
+- **Bônus**: 
+  - _IP_: **+15**
 
 <br>
 
 ### Nível 3: **Arma energética**
-O personagem energiza os punhos causando 2D6+2 de dano e +1D6 de dano por rank; ou amplia a energização causando 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem energiza os punhos causando dano.
+
+- **Tipo**: Buff
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+1D6** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank
+- **Custo Ampliado**: **4** _*ki*_ e **+1** por rank 
 
 <br>
 
 ### Nível 4: **Ataque invisível**
-O personagem lança um disparo que causa 4D6+4 de dano por rank e o oponente tem um redutor de -5% de chance de esquiva por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança um disparo que causa dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **4D6+4** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Efeitos Adicionais**
+  - Aplica **-5%** de _Esquiva_ ao oponente por rank
+
+
+<br>
 
 ### Nível 5: **Fortalecimento espiritual**
-O personagem eleva seu espirito de luta e recebe um bônus de +15 em todos os seus atributos físicos, pvs e + 5% no ataque e na defesa por rank. Custa 10 de ki.
+O personagem eleva seu espirito de luta e recebe um bônus.
+
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **10** __*ki*__
+- **Bônus**:
+  - _ATQ_: **+5%** por rank
+  - _DEF_: **+5%** por rank
+  - _CONS_: **+15**
+  - _FOR_: **+15**
+  - _AGI_: **+15**
+  - _DES_: **+15**
+  - _PV_: **+15**
+
 
 <br>
 
 ### Nível 6: **Corte espacial**
-O personagem corta o espaço onde está o adversário causando 5D6+4 de dano por rank, este poder atravessa qualquer barreira. Custa 6 de ki e +1 de ki para cada rank acima do rank E.
+O personagem corta o espaço onde está o adversário causando dano.
 
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **5D6+4** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Efeitos Adicionais**
+  - Este poder pode atravessar qualquer barreira.
+
+<br>
 <br>
 
 ## Yomi Saihs
 
 <br>
 
-OBS (poder exclusivo de Yomi).
+> **Observações**  
+> Poder exclusivo de Yomi.
 
 <br>
 
 ### Nível 1: **Punho flamejante***
-O personagem aumenta o seu poder e recebe um bônus de +3 em dano para cada ki gasto.
+O personagem aumenta o seu poder e recebe um bônus de dano.
 
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **5** __*ki*__
+- **Bônus**
+  - Dano: **+15**
+  
 <br>
 
 ### Nível 2: **Resistência***
-O personagem aumenta o seu poder e recebe um bônus de +3 em ip para cada ki gasto.
+O personagem aumenta o seu poder e recebe um bônus _IP_.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **5** __*ki*__
+- **Bônus**
+  - _IP_: **+15**
 
 <br>
 
 ### Nível 3: **Arma energética**
-O personagem energiza os punhos causando 2D6+2 de dano e +1D6 de dano por rank; ou amplia a energização causando 2D6+4 de dano e +1D6 de dano por rank a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem energiza os punhos elevando o dano causado.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+1D6** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank
+- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 4: **Golpe de defesa e ataque madoki**
-O personagem quando for alvo de um disparo de nível 5 ou menor pode evitá-lo com esta barreira e absorve um de ki por nível do poder do disparo. Custa o ki do disparo +4.
+O personagem, enquanto alvo de um disparo de nível 5 ou menor, pode absorve-lo, recarregando sua reserva de __*ki*__.
+
+- **Tipo**: Contra-ataque
+- **Alvos**: 1
+- **Dano**: N/A
+- **Custo**: Custo do disparo original e **+4**
+- **Efeitos Adicionais**
+  - Regenera **1** __*ki*__ para cada nível do disparo
 
 <br>
 
 ### Nível 5: **Fortalecimento espiritual**
 O personagem eleva seu espirito de luta e recebe um bônus de +15 em todos os seus atributos físicos, pvs e + 5% no ataque e na defesa por rank. Custa 10 de ki.
 
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **10** __*ki*__
+- **Bônus**
+  - _ATQ_: **+5%** por rannk
+  - _DEF_: **+5%** por rannk
+  - _FOR_: **+15**
+  - _CONS_: **+15**
+  - _AGI_: **+15**
+  - _DES_: **+15**
+  - _PV_: **+15**
+  - Dano: **+15**
+
+
 <br>
 
 ### Nível 6: **Ataque total**
-O personagem lança um disparo contra o adversário causando 5D6+4 de dano por rank. Custa 6 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança um disparo contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **5D6+4** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
 <br>
@@ -2385,7 +2495,7 @@ O personagem pode abrir ou fechar portais que ligam o Ma-kai, Terra (Ningen-kai)
 ### Nível 5: **Aprimoramento espiritual**
 O personagem eleva seu espirito de luta e recebe um bônus.
 
- - **Tipo**: Buff
+- **Tipo**: Buff
 - **Duração**: 1 cena
 - **Alvos**: Si mesmo
 - **Dano**: N/A
@@ -2396,6 +2506,7 @@ O personagem eleva seu espirito de luta e recebe um bônus.
   - _CONS_: **+10**
   - _FOR_: **+10**
   - _AGI_: **+10**
+  - _DES_: **+10**
   - _PV_: **+30**
 
 <br>
@@ -2409,6 +2520,7 @@ O personagem lança um raio contra o adversário causando dano.
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
+<br>
 
 ## Laser light
 
@@ -2419,7 +2531,6 @@ O personagem lança um feixe de luz contra o adversário causando dano.
 - **Alvos**: **1**
 - **Dano**: **2D6** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
-
 
 <br>
 
@@ -2471,6 +2582,7 @@ O personagem lança um raio na forma de um arco-íris contra o adversário causa
 - **Dano**: **4D6+3** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
+<br>
 <br>
 
 ## Brilho Sui Seiki
@@ -2626,7 +2738,7 @@ O personagem faz brotar vários olhos no seu corpo ficando mais monstruoso.
 <br>
 
 ### Nível 5: **Dominação**
-O personagem domina um alvo _Despertado_ de rank inferior ou múltiplos alvos _Alheios_ (seres sem rank). O alvo _Despertado_ pode resistir a técnica ao ser bem-sucedido em um teste de _WILL_. 
+O personagem domina um alvo _Despertado_ de rank inferior ou múltiplos alvos _Não-Despertados_ (seres sem rank). O alvo _Despertado_ pode resistir a técnica ao ser bem-sucedido em um teste de _WILL_. 
 
 > **Observações**
 > Dominados não obedecerão ordens suicidas, despertando automaticamente e quebrando o vínculo. 
@@ -2634,14 +2746,14 @@ O personagem domina um alvo _Despertado_ de rank inferior ou múltiplos alvos _A
 - **Tipo**: Debuff
 - **Duração**:
   - _Despertado_: 1 rodada por rank
-  - _Alheios_: 2 horas por rank 
+  - _Não-Despertados_: 2 horas por rank 
 - **Alvos**: 
   - _Despertado_: 1 
-  - _Alheios_: 3 por rank
+  - _Não-Despertados_: 3 por rank
 - **Dano**: N/A
 - **Custo**: 
-  - _Despertado_: **6** __*ki*__ 
-  - _Alheios_: **6** __*ki*__ e **+1** para cada **3** _Alheios_ adicionais
+  - _Despertado_: **5** __*ki*__  e **+1** por rank
+  - _Não-Despertados_: **5** __*ki*__ e **+1** para cada **3** _Não-Despertados_ adicionais
 - **Efeitos Adicionais**
   - Domina o(s) alvo(s), podendo dar-lhe(s) ordem arbitrárias.
 
