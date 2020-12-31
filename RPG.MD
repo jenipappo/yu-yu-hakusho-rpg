@@ -2037,27 +2037,74 @@ OBS (humanos não podem ter esse poder).
 <br>
 
 ### Nível 1: **Armadura***
-O personagem cria um escudo ou armadura que dá um bônus de +1 de ip, pv e constituição para cada ki gasto. A partir do rank C, o bônus oriundo desta doutrina passa a ser +2 de ip, constituição e +1 pv para cada ki gasto.
+O personagem cria um escudo ou armadura para aumentar sua defesa.
 
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **5** __*ki*__
+- **Bônus**:
+  - _CONS_: **+5** (**+10** a partir do rank C)
+  - _IP_: **+5** (**+10** a partir do rank C)
+  - _PV_: **+5**
+ 
 <br>
 
 ### Nível 2: **Arma***
-O personagem cria uma arma que causa 2D6 de dano e +3 de dano por rank; ou uma arma maior que cause 3D6 de dano e +3 de dano por rank, a um custo adicional de +2 de ki. Custa 3 de ki e +1 de ki para cada rank acima do rank E. A partir do rank C, o bônus oriundo desta doutrina passa a ser 2D6+3 de dano e +3 de dano por rank; ou cria uma arma maior que cause 3D6+3 de dano e +3 de dano por rank a um custo adicional de +2 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem cria uma arma. 
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6** e **+3** por rank 
+- **Custo**: **2** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **3D6** e **+3** por rank 
+- **Custo Ampliado**: **3** __*ki*__ e **+1** por rank
+- **Dano Rank C**: **2D6 +3** e **+3** por rank
+- **Custo Rank C**: **3** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **3D6 +3** e **+3** por rank 
+- **Custo Ampliado**: **5** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 3: **Arma múltipla**
 O personagem estica partes de seu corpo contra os adversários, causando 3D6+3 de dano por rank, o número de alvos máximo é igual ao rank+4. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
 
+- **Tipo**: Buff
+- **Duração**: 1 turno
+- **Alvos**: **4** e **+1** por rank
+- **Dano**: **3D6 +3** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+
 <br>
 
 ### Nível 4: **Derretimento***
-O personagem fica totalmente maleável, ganhando o aprimoramento evasão e recebe um bônus de +5% no ataque, na defesa e nos testes de resistência de esquiva por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem fica totalmente maleável, sendo mais difícil de ser atingido.
+
+- **Tipo**: Buff
+- **Alvos**: Si mesmo
+- **Duração**: 1 cena
+- **Custo**: **4** __*ki*__ e **+1** por rank  
+- **Bônus**
+  - _ATQ_: **+5%** por rank
+  - _DEF_: **+5%** por rank
+  - _Esquiva_: **+5%** por rank
+  - _Evasão_ 
 
 <br>
 
 ### Nível 5: **Imortalidade***
-O personagem é imortal, e regenera o seu dano mínimo +1 por rodada, caso o personagem sofra uma quantidade de dano que o mataria ele vai regenerar 1 pv por rodada.
+O personagem torna-se _Imortal_ e ganha _Regeneração_ passivamente.
+
+- **Tipo**: Buff
+- **Duração**: N/A
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: N/A
+- **Efeitos Adicionais**
+  - _Imortal_ : O personagem **1** _PV_ por rodada
+  - _Regeneração_: _Dano Mínimo_ **+1** por rodada
 
 <br>
 <br>
@@ -2247,27 +2294,65 @@ O personagem lança um raio contra o adversário causando 4D6+5 de dano por rank
 ## Laser light
 
 ### Nível 1: **Feixe de luz**
-O personagem lança um feixe de luz contra o adversário causando 2D6 de dano por rank. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança um feixe de luz contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **2D6** por rank
+- **Custo**: **1** __*ki*__ e **+1** por rank
+
 
 <br>
 
 ### Nível 2: **Espectro**
-O personagem lança um espectro contra o adversário causando 2D6+4 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança um espectro contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **2D6+4** por rank
+- **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 3: **Aurora hipnótica**
-O personagem lança uma aura hipnótica contra o adversário, teste bem-sucedido de Will para resistir ao efeito, caso falhe no teste o oponente ficará paralisado uma rodada por rank, caso o oponente seja paralisado e enquanto o poder durar, a cada rodada a vítima poderá fazer um teste de Will para resistir o efeito. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança uma aura hipnótica contra o adversário, paralisando-o enquanto o poder durar.
+
+ > **Observações**  
+> O oponente precisa fazer um teste de _WILL_ para resistir ao efeito. 
+> A cada rodada a vítima pode fazer um teste de _WILL_ para resistir ao efeito.
+
+
+- **Tipo**: Debuff
+- **Alvos**: **1**
+- **Duração**: **1** cena
+- **Dano**: N/A
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Efeitos Adicionais**:
+  - _Paralisado_: O personagem não pode realizar qualquer ação.
 
 <br>
 
 ### Nível 4: **Arma radiante***
-O personagem cria uma espada que causa 2D6+2 de dano e +1d6+1 de dano por rank; ou cria uma espada mais forte que causa 2D6+4 de dano e +1D6+1 de dano por rank a um custo adicional de +1 de ki. Custa 5 de ki +1 de ki para cada rank acima do rank E.
+O personagem cria uma espada que causa dano.
+
+2D6+2 de dano e +1d6+1 de dano por rank; ou cria uma espada mais forte que causa 2D6+4 de dano e +1D6+1 de dano por rank a um custo adicional de +1 de ki. Custa 5 de ki +1 de ki para cada rank acima do rank E.
+
+- **Tipo**: Buff
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+1D6+1** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+4** e **+1D6+1** por rank
+- **Custo Ampliado**: **5** _*ki*_ e **+1** por rank 
 
 <br>
 
 ### Nível 5: **Ciclone arco-íris**
-O personagem lança um raio na forma de um arco-íris contra o adversário causando 4D6+3 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança um raio na forma de um arco-íris contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **4D6+3** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
