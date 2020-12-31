@@ -245,7 +245,7 @@ O personagem morre quando passa de -10 _PVs_ e + (-1 _PV_) por nível de persona
 O mestre decidirá quando o personagem entrará neste estado, geralmente é causado por alguma grande perda, alguns casos de desespero ou humilhação. A fúria fornece um bônus de +10 em todos os seus atributos físicos, _PVs_, rei-ki ou you-ki, _IP_, dano e as doutrinas são elevadas um rank acima mesmo no rank S Supremo.
 
 ### **Aumento de poder**
-O personagem tem um limite de vezes que pode aumentar seu poder durante um combate, com doutrinas e aprimoramentos que elevam características por __*ki*__ gasto, a limitação é de até 10 vezes o bônus base e mais 5 vezes o bônus base para cada rank acima do rank E. Algumas doutrinas tem dinâmicas diferentes, exemplo o nível 5 da doutrina adaptação; trate como 15 vezes o bônus base, já que a disciplina custa 15 de __*ki*__. 
+O personagem tem um limite de vezes que pode aumentar seu poder durante um combate, com doutrinas e aprimoramentos que elevam características por __*ki*__ gasto, a limitação é de até 10 vezes o bônus base e mais 5 vezes o bônus base por rank. Algumas doutrinas tem dinâmicas diferentes, exemplo o nível 5 da doutrina adaptação; trate como 15 vezes o bônus base, já que a disciplina custa 15 de __*ki*__. 
 
 > **Observações**  
 > As doutrinas de níveis 1, 2 e 3 só podem aumentar seu bônus base até 5 vezes, e as doutrinas de níveis 4 ou mais podem aumentar seu bônus base até 10 vezes.
@@ -2135,7 +2135,7 @@ O personagem torna-se _Imortal_ e ganha _Regeneração_ passivamente.
 <br>
 
 ### Nível 1: **20% da força***
-O personagem aumenta sua resistência.
+O personagem aumenta seu poder e resistência.
 
 - **Tipo**: Buff
 - **Duração**: 1 cena
@@ -2143,10 +2143,9 @@ O personagem aumenta sua resistência.
 - **Dano**: N/A
 - **Custo**: **5**
 - **Bônus**:
-  - _IP_: **+15**
-  - _PV_: **+15**
-  - Dano corpo a corpo (desamardo): **+15**
-
+  - _DANO_: **+5**
+  - _IP_: **+5** (**+10** a partir do rank D)
+  
 <br>
 
 ### Nível 2: **40% da força***
@@ -2156,10 +2155,10 @@ O personagem aumenta sua força e resistência.
 - **Duração**: 1 cena
 - **Alvos**: Si mesmo
 - **Dano**: N/A
-- **Custo**: **10**
+- **Custo**: **5**
 - **Bônus**:
-  - _FOR_: **+20**
-  - _CONS_: **+20**
+  - _FOR_: **+10**
+  - _CONS_: **+10**
 
 <br>
 
@@ -2172,25 +2171,50 @@ O personagem aumenta o sua destreza e seus golpes físicos
 - **Dano**: N/A
 - **Custo**: **5**
 - **Bônus**:
-  - _AGI_: **+20**
-  - _DES_: **+20**
+  - _AGI_: **+10**
+  - _DES_: **+10**
   - Dano corpo a corpo (desamardo): **2D6**
 
 <br>
 
 ### Nível 4: **80% da força***
-O personagem aumenta o seu poder e recebe um bônus de +5 em força para cada ki gasto.
+O personagem aumenta incrivelmente sua força.
 
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **10**
+- **Bônus**:
+  - _FOR_: **+50**
+  
 <br>
 
 ### Nível 5: **100% da força***
-O personagem aumenta o seu poder assumindo a forma completa de obelisco, e recebe um bônus de +30 de constituição, +25 de ip e +10 pvs. Custa 10 de ki.
+O personagem aumenta incrivelmente sua resistência, assumindo a forma completa de obelisco. 
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **10**
+- **Bônus**:
+  - _CONS_: **+30**
+  - _IP_: **+25**
+  - _PV_: **+15**
 
 <br>
 
-
 ### Nível 6: **Absorção de energia vital***
-Os monstros de rank E que estiverem na distância de 30 metros por rank morrem e suas almas são absorvidas, e para cada alma absorvida o personagem recupera 3 de ki e de pv. Seus golpes físicos passam a causar 3D6 de dano. Custa 7 de ki.
+Os monstros de rank E que estiverem na distância de 30 metros por rank morrem e suas almas são absorvidas, e para cada alma absorvida o personagem recupera 3 de ki e de pv.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **7**
+- **Bônus**:
+- Dano corpo a corpo (desamardo): **3D6**
 
 <br>
 <br>
