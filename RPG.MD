@@ -2013,8 +2013,8 @@ O personagem aumenta o seu poder recebendo um bônus durante a cena.
 - **Bônus**:
   - _CONS_: **+20**
   - _FOR_: **+20**
-  - _IP_: **+20**
-  - _PV_: **+20**
+  - _IP_: **+10**
+  - _PV_: **+10**
   
 <br>
 
