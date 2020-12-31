@@ -2118,17 +2118,46 @@ OBS (apenas para NPCS, os níveis desta doutrina não podem ser utilizados na or
 <br>
 
 ### Nível 1: **20% da força***
-O personagem aumenta o seu poder e recebe um bônus de +1 de pv, ip e dano para cada ki gasto.
+O personagem aumenta sua resistência.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **5**
+- **Bônus**:
+  - _IP_: **+15**
+  - _PV_: **+15**
+  - Dano corpo a corpo (desamardo): **+15**
 
 <br>
 
 ### Nível 2: **40% da força***
-O personagem aumenta o seu poder e recebe um bônus de +2 de força e constituição para cada ki gasto.
+O personagem aumenta sua força e resistência.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **10**
+- **Bônus**:
+  - _FOR_: **+20**
+  - _CONS_: **+20**
 
 <br>
 
 ### Nível 3: **60% da força***
-O personagem aumenta o seu poder e seus golpes físicos passam a causar 2D6 de dano e recebe um bônus de +2 em agilidade e destreza para cada ki gasto.
+O personagem aumenta o sua destreza e seus golpes físicos
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **5**
+- **Bônus**:
+  - _AGI_: **+20**
+  - _DES_: **+20**
+  - Dano corpo a corpo (desamardo): **2D6**
 
 <br>
 
