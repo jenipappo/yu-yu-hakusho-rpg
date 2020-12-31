@@ -607,7 +607,7 @@ Para se tornar um mestre do Heikohadouken, o personagem precisa dominar a bola e
   - _PV_: **+15**
   - _KI_: **+15**
   - _IP_: **+15**
-  - Dano corpo a corpo (desamardo): **+1D6+1**
+  - _DANO_: **+3**
   
 <br>
 <br>
