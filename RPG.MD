@@ -2147,6 +2147,16 @@ O portador deste poder recebe um bônus passivo de +10 na iniciativa. O personag
 ### Nível 1: **Oscilação shura***
 O personagem cria uma armadura de terra e recebe um bônus de +1 de força, constituição e ip para cada ki gasto.
 
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **5** __*ki*__
+- **Bônus**:
+  - _CONS_: **+5**
+  - _FOR_: **+5**
+  - _IP_: **+5**
+
 <br>
 
 ### Nível 2: **Fortificação shura***
@@ -2174,31 +2184,64 @@ Primeiro é necessário usar a oscilação shura maior para poder usar esta téc
 ## Espadachim das trevas
 
 ### Nível 1: **Estilo de luta exótico***
-O personagem tem um estilo de luta diferenciado que lhe cede um bônus de +5% de chance de acerto no ataque e na defesa por rank. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
+O personagem tem um estilo de luta diferenciado, este estilo de luta refinado concede um bônus de _ATQ__, _DEF__.
+
+Tipo: Buff
+Duração: 1 cena
+Alvos: Si mesmo
+Custo: 2 ki e +1 por rank
+Bônus
+ATQ: +5% por rank
+DEF: +5% por rank
 
 <br>
 
 ### Nível 2: **Lançar bambolê das trevas***
-O personagem lança o Bambolê das trevas contra o adversário causando 3D6 de dano por rank, que volta no mesmo turno. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança o Bambolê das trevas contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**:  1
+- **Dano**: **3D6** por rank. 
+- **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 3: **Bambolê das trevas***
-O personagem amplia o dano Bambolê das trevas causando 2D6+2 de dano e +1D6 de dano por rank; ou amplia ainda mais o dano do Bambolê das trevas causando 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem amplia o dano Bambolê das trevas que causa dano e pode ser potencializado por um custo adicional de __*ki*__. 
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+1D6** por rank
+- **Custo**: **3*** __*ki*__ e **+1** por rank  
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank
+- **Custo Ampliado**: **4*** __*ki*__ e **+1** por rank  
 
 <br>
 
 ### Nível 4: **Redemoinho das trevas**
-O personagem quando for alvo de um disparo de nível 4 ou menor ele pode evitá-lo, este poder só pode ser usado uma vez a cada 3 rodadas. Custa o ki do disparo +3.
+O personagem quando for alvo de um disparo de nível 5 ou menor, ele pode neutralizá-lo fazendo um redemoinho em volta de si mesmo. 
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Cooldown**: **3** rodadas
+- **Dano**: Equivalente ao dano do disparo inicial
+- **Custo**: Equivalente ao custo de __*ki*__ do disparo original **+3**
 
 <br>
 
 ### Nível 5: **Turbilhão das trevas**
-O personagem lança um disparo contra o adversário causando 4D6+3 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem cria um turbilhão em volta de si mesmo e aplica uma investida contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**:  por rank+4
+- **Dano**: **4D6+3** por rank. 
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
 ## Cura espiritual
+
 <br>
 
 OBS (o pré-requisito desta doutrina é ter a perícia medicina em pelo menos 40%).
@@ -2207,32 +2250,75 @@ OBS (Esta doutrina não é apropriada para o combate, a ativação deste poder d
 <br>
 
 ### Nível 1: **Cura**
-O personagem pode curar 2D6 de pvs por rank. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
+O personagem pode curar alguém ferido.
+
+- **Tipo**: Buff
+- **Duração**: 1 turno
+- **Alvos**: 1
+- **Custo**: **1** __*ki*__ e **+1** por rank  
+- **Cura**: **2D6** por rank.
 
 <br>
 
 ### Nível 2: **Cura 2**
-O personagem pode curar 2D6+3 de pv por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+O personagem pode curar alguém ferido.
+
+- **Tipo**: Buff
+- **Duração**: 1 turno
+- **Alvos**: 1
+- **Custo**: **2** __*ki*__ e **+1** por rank  
+- **Cura**: **2D6+3** por rank.
 
 <br>
 
 ### Nível 3: **Cura 3**
 O personagem pode curar doenças graves e outros efeitos como envenenamento. Custa 4 de ki.
 
+- **Tipo**: Buff
+- **Duração**: 1 turno
+- **Alvos**: 1
+- **Custo**: **4** __*ki*__   
+- **Cura**: N/A
+- **Efeitos Adicionais**
+  - Cura doenças graves e outros efeitos como envenenamento
+
 <br>
 
 ### Nível 4: **Cura 4**
-O personagem pode curar 3D6+3 de pv por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem pode curar alguém ferido.
+
+- **Tipo**: Buff
+- **Duração**: 1 turno
+- **Alvos**: 1
+- **Custo**: **4** __*ki*__ e **+1** por rank  
+- **Cura**: **3D6+3** por rank.
 
 <br>
 
 ### Nível 5: **Cura 5**
-O personagem pode curar 4D6 +3 de pv por rank. Custa 6 de ki e +1 de ki para cada rank acima do rank E.
+O personagem pode curar alguém ferido.
+
+- **Tipo**: Buff
+- **Duração**: 1 turno
+- **Alvos**: 1
+- **Custo**: **5** __*ki*__ e **+1** por rank  
+- **Cura**: **4D6+3** por rank.
 
 <br>
 
 ### Nível 6: **Ressurreição**
-O personagem pode ressuscitar qualquer criatura com a permissão do Rei-kai, a criatura ressuscita com todos os pvs e ki, o personagem que vai usar a ressurreição precisa estar com todo o seu ki. Custa todo o ki. 
+O personagem pode ressuscitar qualquer criatura com a permissão do Rei-kai.
+
+> **Observações**  
+> 1.  O alvo ressuscita com **100%** __*PV*__ e __*ki*__.
+
+- **Tipo**: Buff
+- **Duração**: 1 turno
+- **Alvos**: 1
+- **Custo**: **100%** __*ki*__   
+- **Cura**: N/A
+- **Efeitos Adicionais**
+  - Ressucita o alvo
 
 <br>
 
