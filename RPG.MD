@@ -2189,29 +2189,86 @@ OBS (poder exclusivo de Mokuro).
 <br>
 
 ### Nível 1: **Punho flamejante***
-O personagem aumenta o seu poder e recebe um bônus de +3 em dano para cada ki gasto.
+O personagem aumenta o seu poder e recebe um bônus.
 
+ de +3 em dano para cada ki gasto.
+
+- **Tipo**: Buff
+- **Alvos**: Si mesmo
+- **Custo**: **5** __*ki*__
+- **Bônus**: 
+  - **Dano**: **+15**
+  
 ### Nível 2: **Resistência***
-O personagem aumenta o seu poder e recebe um bônus de +3 em ip para cada ki gasto.
+O personagem aumenta o seu poder e recebe um bônus
+
+ de +3 em ip para cada ki gasto.
+
+- **Tipo**: Buff
+- **Alvos**: Si mesmo
+- **Custo**: **5** __*ki*__
+- **Bônus**: 
+  - _IP_: **+15**
 
 <br>
 
 ### Nível 3: **Arma energética**
-O personagem energiza os punhos causando 2D6+2 de dano e +1D6 de dano por rank; ou amplia a energização causando 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem energiza os punhos causando dano.
+
+- **Tipo**: Buff
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+1D6** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank
+- **Custo Ampliado**: **4** _*ki*_ e **+1** por rank 
 
 <br>
 
 ### Nível 4: **Ataque invisível**
-O personagem lança um disparo que causa 4D6+4 de dano por rank e o oponente tem um redutor de -5% de chance de esquiva por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança um disparo que causa dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **4D6+4** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Efeitos Adicionais**
+  - Aplica **-5%** de _Esquiva_ ao oponente por rank
+
+
+<br>
 
 ### Nível 5: **Fortalecimento espiritual**
-O personagem eleva seu espirito de luta e recebe um bônus de +15 em todos os seus atributos físicos, pvs e + 5% no ataque e na defesa por rank. Custa 10 de ki.
+O personagem eleva seu espirito de luta e recebe um bônus.
+
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **10** __*ki*__
+- **Bônus**:
+  - _ATQ_: **+5%** por rank
+  - _DEF_: **+5%** por rank
+  - _CONS_: **+15**
+  - _FOR_: **+15**
+  - _AGI_: **+15**
+  - _DES_: **+15**
+  - _PV_: **+15**
+
 
 <br>
 
 ### Nível 6: **Corte espacial**
-O personagem corta o espaço onde está o adversário causando 5D6+4 de dano por rank, este poder atravessa qualquer barreira. Custa 6 de ki e +1 de ki para cada rank acima do rank E.
+O personagem corta o espaço onde está o adversário causando dano.
 
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **5D6+4** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Efeitos Adicionais**
+  - Este poder pode atravessar qualquer barreira.
+
+<br>
 <br>
 
 ## Yomi Saihs
@@ -2319,7 +2376,7 @@ O personagem pode abrir ou fechar portais que ligam o Ma-kai, Terra (Ningen-kai)
 ### Nível 5: **Aprimoramento espiritual**
 O personagem eleva seu espirito de luta e recebe um bônus.
 
- - **Tipo**: Buff
+- **Tipo**: Buff
 - **Duração**: 1 cena
 - **Alvos**: Si mesmo
 - **Dano**: N/A
@@ -2330,6 +2387,7 @@ O personagem eleva seu espirito de luta e recebe um bônus.
   - _CONS_: **+10**
   - _FOR_: **+10**
   - _AGI_: **+10**
+  - _DES_: **+10**
   - _PV_: **+30**
 
 <br>
@@ -2342,6 +2400,7 @@ O personagem lança um raio contra o adversário causando dano.
 - **Dano**: **4D6+5** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
+<br>
 <br>
 
 ## Laser light
@@ -2405,6 +2464,7 @@ O personagem lança um raio na forma de um arco-íris contra o adversário causa
 - **Dano**: **4D6+3** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
+<br>
 <br>
 
 ## Brilho Sui Seiki
