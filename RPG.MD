@@ -2241,27 +2241,90 @@ OBS (O personagem precisa implantar o olho diabólico, proibido para humanos).
 <br>
 
 ### Nível 1: **Olhar além do alcance**
-O personagem ao se concentrar ele pode observar qualquer criatura conhecida dentro do mesmo plano, esta visão é limitada a 2 metros de raio tendo o personagem alvo do poder como o centro do raio. Custa 2 de ki.
-Nível 2:Velocidade sobrenatural*- O personagem aumenta a sua velocidade recebendo um bônus de +2 de agilidade e destreza para cada ki gasto.
+O personagem ao se concentrar, pode observar qualquer alvo conhecido.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **2** __*ki*__
+**Efeitos Adicionais**
+  - Ao observar um alvo conhecido dentro do mesmo plano, esta visão é limitada a 2 metros de raio tendo o alvo como o ponto de referência
+  
+<br>
+
+### Nível 2: **Velocidade sobrenatural***
+O personagem aumenta a sua velocidade.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **5** __*ki*__
+- **Bônus**:
+  - _AGI_: **+10**
+  - _DES_: **+10**
 
 <br>
 
 ### Nível 3: **Olho demoníaco**
-O personagem paralisa o oponente, uma rodada por rank, teste de will para não ser paralisado, caso o oponente seja paralisado e enquanto o poder durar, a cada rodada a vítima poderá fazer um teste de Will para resistir o efeito. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+O personagem paralisa o oponente.
+
+- **Tipo**: Debuff
+- **Duração**: 1 rodada por rank
+- **Alvos**: 1
+- **Dano**: N/A
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Efeitos Adicionais**
+  - Paraliza o oponente durante **1** rodada por rank. A cada rodada a vítima poderá fazer um teste de _WILL_ para dissipar o efeito.
 
 <br>
 
 ### Nível 4: **Verdadeiros olhos demoníacos***
-O personagem faz brotar vários olhos no corpo tendo uma visão de 360°, com essa visão o personagem não precisa fazer teste de percepção quando alguém tentar surpreende-lo por trás, e o personagem recebe um bônus de +15 em força e constituição, pvs +10 de ip e -5 em carisma. Custa 10 de ki para se transformar. 
+O personagem faz brotar vários olhos no seu corpo ficando mais monstruoso.
 
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **10** __*ki*__
+- **Bônus**:
+  - _CONS_: **+15**
+  - _FOR_: **+15**
+  - _PV_: **+10**
+  - _IP_: **+10**
+  - _CAR_: **-5**
+- **Efeitos Adicionais**
+  - Visão 360°, sendo impossível surpreênde-lo
+  
 <br>
 
 ### Nível 5: **Dominação**
 O personagem domina seres não despertados ou oponentes com um rank a menos, para o adversário não ser dominado deve ser bem-sucedido em um teste Will. A vítima não obedecerá a nenhuma ordem suicida, se o personagem tentar força-lo a fazer uma dessas ações citadas a dominação é quebrada, a duração é de uma rodada por rank contra oponentes de rank menor. Custa 6 de ki para dominar seres despertados. A quantidade de seres não despertados que pode ser dominada é igual a 3 vezes o rank, e tem uma duração de 2 horas por rank. Custa 6 de ki e +1 de ki para cada 3 seres dominados a mais.
 
-### Nível 6: **Velocidade máxima***
-O portador deste poder recebe um bônus passivo de +10 na iniciativa. O personagem aumenta a sua velocidade recebendo um bônus de +25 de agilidade, destreza e recebe o aprimoramento evasão e mais um ataque adicional. Custa 10 de ki. 
+- **Tipo**: Debuff
+- **Duração**: 1 rodada por rank
+- **Alvos**: 1
+- **Dano**: N/A
+- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Efeitos Adicionais**
 
+### Nível 6: **Velocidade máxima***
+O personagem aumenta consideravelmente sua velocidade.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **10** __*ki*__
+- **Bônus**:
+  - _AGI_: **+25**
+  - _DES_: **+25**
+  - _Evasão_
+  - Ataque extra: **+1**
+- **Efeitos Adicionais**
+  - Bônus passivo de **+10** na iniciativa
+  
 <br>
 
 ## Shura Nen Do Tō I
@@ -2283,6 +2346,9 @@ O personagem cria uma armadura de terra e recebe um bônus de _FOR_, _CONS_ e _I
 ### Nível 2: **Fortificação shura***
 O personagem fortifica seu braço com pedras que aumentam o seu dano. 
 
+> **Observações**  
+> O personagem precisa estar com alguma oscilação shura ativa.
+
 - **Tipo**: Buff
 - **Duração**: 1 cena
 - **Alvos**: Si mesmo
@@ -2298,20 +2364,54 @@ O personagem fortifica seu braço com pedras que aumentam o seu dano.
 <br>
 
 ### Nível 3: **Rajada de pedras**
-O personagem lança um disparo de pedras contra vários adversários causando 3D6 de dano por rank, o número máximo de oponentes é igual ao rank+4. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança um disparo de pedras contra os adversários causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **4** alvos e **+1** por rank
+- **Dano**: **3D6** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 4: **Bomb Atack**
-O personagem primeiro precisa usar alguma oscilação shura para poder usar este golpe, o personagem atingi o oponente com um encontrão, causando 3D6+4 de dano por rank. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
-Nível 5:Oscilação shura maior*- O personagem cria uma armadura maior de terra e recebe um bônus de +2 de força e constituição, +1 de pv e ip por ki gasto.
+ Opersonagem atingi o oponente com um encontrão causando dano.
+
+> **Observações**  
+> O personagem precisa estar com alguma oscilação shura ativa.
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **3D6+4** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+
+### Nível 5: **Oscilação shura maior***
+O personagem cria uma armadura de terra maior e recebe um bônus de _FOR_, _CONS_, _PV_ e _IP_.
+
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **5** __*ki*__
+- **Bônus**:
+  - _CONS_: **+20**
+  - _FOR_: **+20**
+  - _PV_: **+10**
+  - _IP_: **+10**
 
 <br>
 
 ### Nível 6: **Big Bomb Atack**
-Primeiro é necessário usar a oscilação shura maior para poder usar esta técnica, O personagem atingi o oponente com um encontrão, causando 4D6+4 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+Opersonagem atingi o oponente com um encontrão causando dano.
 
-<br>
+> **Observações**  
+> O personagem precisa estar com oscilação shura maior ativa.
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **4D6+4** por rank 
+- **Custo**: **4** __*ki*__ e **+1** por rank
+
 <br>
 
 ## Espadachim das trevas
