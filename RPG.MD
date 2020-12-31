@@ -120,88 +120,88 @@ Esse é um mundo parecido com o Ma-Kai, mas é um lugar habitado por demônios p
 # Regras e Sistema
 
 ## TABELA DE NÍVEIS E PROEZAS FISÍCAS
-| NÍVEL  | _PV_       | ATRIBUTO  | APRIMOR.  | PERÍCIA   | DOUTRINA  | __*ki*__     | RANK
-|-------:|---------:|----------:|----------:|----------:|----------:|-------:|------
-| 1      | +6       | 111       | 8	        | 400       | 2         | +3     | E-
-| 2      | +12      | +1        | +1	    | +25       | 2         | +6     | E+-
-| 3      | +18      | +2        | +1	    | +50       | +1        | +9     | E+
-| 4      | +24      | +3        | +1	    | +75       | +1        | +12    | D-
-| 5      | +30      | +4        | +2	    | +100      | +2        | +15    | D+-
-| 6      | +36      | +5        | +2	    | +125      | +2        | +18    | D+
-| 7      | +42      | +6        | +2	    | +150      | +3        | +21    | C-
-| 8      | +48      | +7        | +3	    | +175      | +3        | +24    | C+-
-| 9      | +54      | +8        | +3	    | +200      | +4        | +27    | C+
-| 10     | +60      | +9        | +3	    | +225      | +4        | +30    | B-
-| 11     | +66      | +10       | +4	    | +250      | +5        | +33    | B+-
-| 12     | +72      | +11       | +4	    | +275      | +5        | +36    | B+
-| 13     | +78      | +12       | +4	    | +300      | +6        | +39    | A-
-| 14     | +84      | +13       | +5	    | +325      | +6        | +42    | A+-
-| 15     | +90      | +14       | +5	    | +350      | +7        | +45    | A+
-| 16     | +96      | +15       | +5	    | +375      | +7        | +48    | S-
-| 17     | +102     | +16       | +6	    | +400      | +8        | +51    | S+-
-| 18     | +108     | +17       | +6	    | +425      | +8        | +54    | S+
-| 19     | +126     | +20       | +7	    | +500      | +9        | +63    | SS
+| NÍVEL  | _PV_     | ATRIBUTO  | APRIMOR.  | PERÍCIA   | DOUTRINA  | __*ki*__ | RANK
+|-------:|---------:|----------:|----------:|----------:|----------:|---------:|------
+| 1      | +6       | 111       | 8	        | 400       | 2         | +3       | E-
+| 2      | +12      | +1        | +1	      | +25       | 2         | +6       | E+-
+| 3      | +18      | +2        | +1	      | +50       | +1        | +9       | E+
+| 4      | +24      | +3        | +1	      | +75       | +1        | +12      | D-
+| 5      | +30      | +4        | +2	      | +100      | +2        | +15      | D+-
+| 6      | +36      | +5        | +2	      | +125      | +2        | +18      | D+
+| 7      | +42      | +6        | +2	      | +150      | +3        | +21      | C-
+| 8      | +48      | +7        | +3	      | +175      | +3        | +24      | C+-
+| 9      | +54      | +8        | +3	      | +200      | +4        | +27      | C+
+| 10     | +60      | +9        | +3	      | +225      | +4        | +30      | B-
+| 11     | +66      | +10       | +4	      | +250      | +5        | +33      | B+-
+| 12     | +72      | +11       | +4	      | +275      | +5        | +36      | B+
+| 13     | +78      | +12       | +4	      | +300      | +6        | +39      | A-
+| 14     | +84      | +13       | +5	      | +325      | +6        | +42      | A+-
+| 15     | +90      | +14       | +5	      | +350      | +7        | +45      | A+
+| 16     | +96      | +15       | +5	      | +375      | +7        | +48      | S-
+| 17     | +102     | +16       | +6	      | +400      | +8        | +51      | S+-
+| 18     | +108     | +17       | +6	      | +425      | +8        | +54      | S+
+| 19     | +126     | +20       | +7	      | +500      | +9        | +63      | SS
 
 
 | Atributo	| Carregar (kg)	| Levantar (kg)	| Bônus de dano	| AGI Velocidade (m/s)
 |----------:|--------------:|--------------:|--------------:|---------------------:
-| 1-2	    | 15            | 30            | -3	        | 1,5
-| 3-4	    | 20            | 40            | -2	        | 2
-| 5-6	    | 25            | 50            | -1	        | 2,5
-| 7-8	    | 30            | 60            | -1	        | 3
-| 9	        | 35	        | 70            | 0             | 3,5
-| 10	    | 40            | 80            | 0	            | 4
-| 11	    | 45            | 90            | 0	            | 4,5
-| 12	    | 50            | 100           | 0	            | 5 (Caminhar)
-| 13	    | 55            | 110           | 0	            | 5,5
-| 14	    | 60            | 125           | 0	            | 6
-| 15	    | 70            | 140           | 1	            | 7
-| 16	    | 80            | 160           | 1	            | 8
-| 17	    | 90            | 180           | 2	            | 9
-| 18	    | 100           | 200           | 2	            | 10
-| 19	    | 110           | 225           | 3	            | 11
-| 20	    | 125           | 250           | 3	            | 12
-| 21	    | 140           | 280           | 4	            | 14
-| 22	    | 160           | 310           | 4	            | 16
-| 23	    | 180           | 355           | 5	            | 18
-| 24	    | 200           | 400           | 5	            | 20
-| 25	    | 225           | 450           | 6	            | 22
-| 26	    | 250           | 500           | 6	            | 25
-| 27	    | 280           | 560           | 7	            | 28
-| 28	    | 310           | 630           | 7	            | 30 (100km/h)
-| 29	    | 355           | 710           | 8	            | 35
-| 30	    | 400           | 800           | 8	            | 40
-| 31	    | 450           | 900           | 9	            | 45
-| 32	    | 500           | 1000          | 9	            | 50
-| 33	    | 560           | 1120          | 10	        | 56
-| 34	    | 630           | 1260          | 10	        | 63
-| 35	    | 710           | 1420          | 11	        | 70 (Ferrari)
-| 36	    | 800           | 1600          | 11	        | 80
-| 37	    | 900           | 1800          | 12	        | 90
-| 38	    | 1000          | 2000          | 12	        | 100
-| 39	    | 1100          | 2200          | 13	        | 110
-| 40	    | 1250          | 2500          | 13	        | 125
-| 41	    | 1400          | 2800          | 14	        | 140
-| 42	    | 1600          | 3200          | 14	        | 160
-| 43	    | 1800          | 3600          | 15	        | 180
-| 44	    | 2000          | 4000          | 15	        | 200
-| 45	    | 2200          | 4400          | 16	        | 220
-| 46	    | 2500          | 5000          | 16	        | 250
-| 47	    | 2800          | 5600          | 17	        | 280
-| 48	    | 3200          | 6400          | 17	        | 320
-| 49	    | 3600          | 7200          | 18	        | 360
-| 50	    | 4000          | 8000          | 18	        | 400
-| 51	    | 4400          | 8800          | 19	        | 440
-| 52	    | 5000          | 10000         | 19	        | 500
-| 53	    | 5600          | 11200         | 20	        | 560
-| 54	    | 6400          | 12800         | 20	        | 640
-| 55	    | 7200          | 14400         | 21	        | 720
-| 56	    | 8000          | 16000         | 21	        | 800
-| 57	    | 8800          | 17600         | 22	        | 880
-| 58	    | 10000         | 20000         | 22	        | 1000
-| 59	    | 11200         | 22400         | 23	        | 1120
-| 60	    | 12800         | 25600         | 23	        | 1280
-| 61	    | 14400         | 28800         | 24	        | 1440
+| 1-2	      | 15            | 30            | -3	          | 1,5
+| 3-4	      | 20            | 40            | -2	          | 2
+| 5-6	      | 25            | 50            | -1	          | 2,5
+| 7-8	      | 30            | 60            | -1	          | 3
+| 9	        | 35	          | 70            | 0             | 3,5
+| 10	      | 40            | 80            | 0	            | 4
+| 11	      | 45            | 90            | 0	            | 4,5
+| 12	      | 50            | 100           | 0	            | 5 (Caminhar)
+| 13	      | 55            | 110           | 0	            | 5,5
+| 14	      | 60            | 125           | 0	            | 6
+| 15	      | 70            | 140           | 1	            | 7
+| 16	      | 80            | 160           | 1	            | 8
+| 17	      | 90            | 180           | 2	            | 9
+| 18	      | 100           | 200           | 2	            | 10
+| 19	      | 110           | 225           | 3	            | 11
+| 20	      | 125           | 250           | 3	            | 12
+| 21	      | 140           | 280           | 4	            | 14
+| 22	      | 160           | 310           | 4	            | 16
+| 23	      | 180           | 355           | 5	            | 18
+| 24	      | 200           | 400           | 5	            | 20
+| 25	      | 225           | 450           | 6	            | 22
+| 26	      | 250           | 500           | 6	            | 25
+| 27	      | 280           | 560           | 7	            | 28
+| 28	      | 310           | 630           | 7	            | 30 (100km/h)
+| 29	      | 355           | 710           | 8	            | 35
+| 30	      | 400           | 800           | 8	            | 40
+| 31	      | 450           | 900           | 9	            | 45
+| 32	      | 500           | 1000          | 9	            | 50
+| 33	      | 560           | 1120          | 10	          | 56
+| 34	      | 630           | 1260          | 10	          | 63
+| 35	      | 710           | 1420          | 11	          | 70 (Ferrari)
+| 36	      | 800           | 1600          | 11	          | 80
+| 37	      | 900           | 1800          | 12	          | 90
+| 38	      | 1000          | 2000          | 12	          | 100
+| 39	      | 1100          | 2200          | 13	          | 110
+| 40	      | 1250          | 2500          | 13	          | 125
+| 41	      | 1400          | 2800          | 14	          | 140
+| 42	      | 1600          | 3200          | 14	          | 160
+| 43	      | 1800          | 3600          | 15	          | 180
+| 44	      | 2000          | 4000          | 15	          | 200
+| 45	      | 2200          | 4400          | 16	          | 220
+| 46	      | 2500          | 5000          | 16	          | 250
+| 47	      | 2800          | 5600          | 17	          | 280
+| 48	      | 3200          | 6400          | 17	          | 320
+| 49	      | 3600          | 7200          | 18	          | 360
+| 50	      | 4000          | 8000          | 18	          | 400
+| 51	      | 4400          | 8800          | 19	          | 440
+| 52	      | 5000          | 10000         | 19	          | 500
+| 53	      | 5600          | 11200         | 20	          | 560
+| 54	      | 6400          | 12800         | 20	          | 640
+| 55	      | 7200          | 14400         | 21	          | 720
+| 56	      | 8000          | 16000         | 21	          | 800
+| 57	      | 8800          | 17600         | 22	          | 880
+| 58	      | 10000         | 20000         | 22	          | 1000
+| 59	      | 11200         | 22400         | 23	          | 1120
+| 60	      | 12800         | 25600         | 23	          | 1280
+| 61	      | 14400         | 28800         | 24	          | 1440
 
 <br>
 
@@ -242,10 +242,13 @@ Um bônus que aumenta o nível das doutrinas não é cumulativo com nenhum outro
 O personagem morre quando passa de -10 _PVs_ e + (-1 _PV_) por nível de personagem. 
 
 ### **Fúria**
-O mestre decidirá quando o personagem entrará neste estado, geralmente é causado por alguma grande perda, alguns casos de desespero ou humilhação. A fúria fornece um bônus de +10 em todos os seus atributos físicos, _PVs_, rei-ki ou you-__*ki*__, _IP_, dano e as doutrinas são elevadas um rank acima mesmo no rank S Supremo.
+O mestre decidirá quando o personagem entrará neste estado, geralmente é causado por alguma grande perda, alguns casos de desespero ou humilhação. A fúria fornece um bônus de +10 em todos os seus atributos físicos, _PVs_, rei-ki ou you-ki, _IP_, dano e as doutrinas são elevadas um rank acima mesmo no rank S Supremo.
 
 ### **Aumento de poder**
-O personagem tem um limite de vezes que pode aumentar seu poder durante um combate, com doutrinas e aprimoramentos que elevam características por __*ki*__ gasto, a limitação é de até 10 vezes o bônus base e mais 5 vezes o bônus base para cada rank acima do rank E. Algumas doutrinas tem dinâmicas diferentes, exemplo o nível 5 da doutrina adaptação; trate como 15 vezes o bônus base, já que a disciplina custa 15 de __*ki*__. OBS (as doutrinas de níveis 1, 2 e 3 só podem aumentar seu bônus base até 5 vezes, e as doutrinas de níveis 4 ou mais podem aumentar seu bônus base até 10 vezes).
+O personagem tem um limite de vezes que pode aumentar seu poder durante um combate, com doutrinas e aprimoramentos que elevam características por __*ki*__ gasto, a limitação é de até 10 vezes o bônus base e mais 5 vezes o bônus base para cada rank acima do rank E. Algumas doutrinas tem dinâmicas diferentes, exemplo o nível 5 da doutrina adaptação; trate como 15 vezes o bônus base, já que a disciplina custa 15 de __*ki*__. 
+
+> **Observações**  
+> As doutrinas de níveis 1, 2 e 3 só podem aumentar seu bônus base até 5 vezes, e as doutrinas de níveis 4 ou mais podem aumentar seu bônus base até 10 vezes.
 
 ### **Recuperar energia**
 O personagem recupera 1 _PV_ nível por dia e 1 de __*ki*__ a cada meia hora de descanso.
@@ -316,7 +319,7 @@ Humano que tem capacidade de usar doutrinas e fazer feitos incríveis.
 - Doutrinado (2)
 
 ## Reencarnado
-Oni caçado, que fugiu de seu local de origem para viver outra vida, uma criatura poderosa e cheia de segredos. O reencarnado tem um bônus de +10 em todos os seus atributos físicos, _PVs_, you-__*ki*__ e +5 de _IP_, suas doutrinas são elevadas a um rank acima mesmo no rank S Supremo. O personagem só pode controlar a transformação a partir do rank A. 
+Oni caçado, que fugiu de seu local de origem para viver outra vida, uma criatura poderosa e cheia de segredos. O reencarnado tem um bônus de +10 em todos os seus atributos físicos, _PVs_, you-ki e +5 de _IP_, suas doutrinas são elevadas a um rank acima mesmo no rank S Supremo. O personagem só pode controlar a transformação a partir do rank A. 
 
 **Custo**: 5 pontos  
 **Aprimoramentos**
@@ -1720,7 +1723,9 @@ O personagem energiza sua mão, aonde ele tocar causará um grande estrago.
 <br>
 
 ## Adaptação
-OBS (humanos não podem ter este poder, criar um bolinho leva 5 turnos. O personagem pode confeccionar um bolinho das trevas que tanto servem para memorizar golpes, quanto servem para as transformações. O número máximo de bolinhos que podem ser criados e carregados são 3 e +1 para cada rank acima do rank E).
+
+> **Observações**  
+> Humanos não podem ter este poder, criar um bolinho leva 5 turnos. O personagem pode confeccionar um bolinho das trevas que tanto servem para memorizar golpes, quanto servem para as transformações. O número máximo de bolinhos que podem ser criados e carregados são 3 e +1 para cada rank acima do rank E.
 
 ### Nível 1: **Resistência***
 Após o personagem ser atacado ele pode comer um bolinho e ficar resistente ao golpe, absorvendo metade do dano. 
@@ -1847,7 +1852,7 @@ O personagem cria uma barreira de ondas que evita o dano de disparos de nível 5
 - **Dano**: N/A
 - **Custo**: Equivalente ao custo de __*ki*__ do disparo original **+3**
 
-<b>
+<br>
  
 ### Nível 5: **Possessão de sombras***
 O personagem se mescla as sombras e recebendo bônus durante a cena.
@@ -1894,7 +1899,8 @@ O personagem lança uma rajada de almas contra os adversários causando dano.
 
 <br>
 
-OBS (Se o oponente tiver um rank a menos ele não pode ver a doutrina, tornando os testes de resistência difíceis).
+> **Observações**  
+>  Se o oponente tiver um rank a menos ele não pode ver a doutrina, tornando os testes de resistência difíceis.
 
 <br>
 
@@ -2032,7 +2038,8 @@ O personagem lança um disparo contra o adversário.
 
 <br>
 
-OBS (humanos não podem ter esse poder).
+> **Observaões**
+> Humanos não podem ter esse poder.
 
 <br>
 
@@ -2113,7 +2120,8 @@ O personagem torna-se _Imortal_ e ganha _Regeneração_ passivamente.
 
 <br>
 
-OBS (apenas para NPCS, os níveis desta doutrina não podem ser utilizados na ordem decrescente, os usuários desta doutrina ganham um bônus de +10 na regra de aumento de poder).
+> **Observações**  
+> Apenas para NPCs, os níveis desta doutrina não podem ser utilizados na ordem decrescente, os usuários desta doutrina ganham um bônus de +10 na regra de aumento de poder.
 
 <br>
 
@@ -2182,12 +2190,14 @@ Os monstros de rank E que estiverem na distância de 30 metros por rank morrem e
 
 <br>
 
-OBS (apenas para NPCS).
+> **Observações**  
+> Apenas para NPCs.
 
 <br>
 
 ### Nível 1: **Contra-ataque**
 Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-atacar com um golpe
+
 > **Observações**   
 > O oponente pode pode fazer um teste de _AGI_ para absorver metade do dano.
 
@@ -2250,7 +2260,8 @@ O personagem lança uma grande bola contra o adversário causando dano.
 
 <br>
 
-OBS (poder exclusivo de Mokuro).
+> Observações
+> Poder exclusivo de Mokuro.
 
 <br>
 
@@ -2265,6 +2276,8 @@ O personagem aumenta o seu poder e recebe um bônus.
 - **Bônus**: 
   - **Dano**: **+15**
   
+<br>
+
 ### Nível 2: **Resistência***
 O personagem aumenta o seu poder e recebe um bônus
 
@@ -2306,7 +2319,6 @@ O personagem lança um disparo que causa dano.
 ### Nível 5: **Fortalecimento espiritual**
 O personagem eleva seu espirito de luta e recebe um bônus.
 
-
 - **Tipo**: Buff
 - **Duração**: 1 cena
 - **Alvos**: Si mesmo
@@ -2320,7 +2332,6 @@ O personagem eleva seu espirito de luta e recebe um bônus.
   - _AGI_: **+15**
   - _DES_: **+15**
   - _PV_: **+15**
-
 
 <br>
 
@@ -2433,7 +2444,8 @@ O personagem lança um disparo contra o adversário causando dano.
 
 <br>
 
-OBS (apenas para membros da elite do rei-kai).
+> **Observações**  
+> Apenas para membros da elite do rei-kai.
 
 <br>
 
@@ -2674,7 +2686,8 @@ O personagem dispara uma rajada de energia sui seiki contra o adversário causan
 
 <br>
 
-OBS (O personagem precisa implantar o olho diabólico, proibido para humanos).
+> **Observações**  
+> O personagem precisa implantar o olho diabólico, proibido para humanos.
 
 <br>
 
