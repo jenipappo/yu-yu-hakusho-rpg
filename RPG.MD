@@ -538,7 +538,7 @@ O personagem energiza seus golpes corpo a corpo com energia espiritual causando 
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+2** e **+1D6** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **2D6 +4** **+1D6** por rank 
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank 
 - **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -1101,7 +1101,7 @@ O personagem energiza raios nas mãos que causam dano.
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+2** e **+1D6** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank 
-- **Dano Ampliado**: **2D6 +4** e **+1D6** por rank
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank
 - **Custo Ampliado**: **4** __*ki*__ e **+1** por rank 
 
 <br>
@@ -1302,7 +1302,7 @@ O personagem cria um campo de calor intenso aumentando consideravelmente a tempe
 - **Tipo**: Buff
 - **Duração**: 1 cena
 - **Alvos**: N/A
-- **Dano**: 2 por rank
+- **Dano**: **2** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
@@ -1348,8 +1348,8 @@ O personagem cria chamas em todo o corpo que causam 2D6+5 de dano e +1D6+1 de da
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+5** e **+1D6+1** por rank 
 - **Custo**: **4** __*ki*__ e **+1** por rank
-**Efeitos Adicionais**
-  - Se o oponente atacá-lo com as mãos nuas, ele sofrerá 2D6 de dano, 3D6 de dano no rank C, e 4D6 de dano no rank A, não se aplica a regra de dano mínimo neste dano.
+- **Efeitos Adicionais**
+  - Se o oponente atacá-lo com as mãos nuas, ele sofrerá **2D6** de dano, **3D6** de dano no rank C, e **4D6** de dano no rank A. Não se aplica a regra de dano mínimo neste dano.
 
 <br>
 
@@ -1365,7 +1365,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 ## Sui Ken
 ### Nível 1: **Movimentos cambaleantes***
-O personagem luta cambaleando no estilo kung fu bêbado tornando seus movimentos mais imprevisíveis.
+O personagem luta cambaleando, no estilo kung fu bêbado, tornando seus movimentos mais imprevisíveis.
 
 - **Tipo**: Buff
 - **Duração**: 1 cena
@@ -1383,7 +1383,7 @@ O personagem ataca o oponente com um tremendo chute.
 
 - **Tipo**: Disparo
 - **Alvos**: 1
-- **Dano**: **2D6+3* por rank
+- **Dano**: **2D6+3** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
@@ -1396,7 +1396,7 @@ O personagem energiza seus golpes corpo a corpo com energia espiritual causando 
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+2** e **+1D6** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **2D6 +4** **+1D6** por rank 
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank 
 - **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -1545,7 +1545,7 @@ O personagem cria uma espada de gelo no próprio braço ampliando seu dano.
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+2** e **+1D6** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **2D6 +4** **+1D6** por rank 
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank 
 - **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -1606,7 +1606,7 @@ O personagem cria um furacão em um de seus braços ampliando seu dano.
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+2** e **+1D6** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **2D6 +4** **+1D6** por rank 
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank 
 - **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -1644,7 +1644,11 @@ O personagem lança um grande furacão contra o adversário causando 4D6+4 de da
 <br>
 
 ## Angelical energy
-OBS (Se o oponente tiver um rank a menos ele não poderá ver a doutrina tornando os testes de esquiva difíceis).
+
+<br>
+
+> **Observações**  
+> Se o oponente tiver um rank a menos ele não poderá ver a doutrina tornando os testes de esquiva difíceis.
 
 <br>
 
@@ -1660,7 +1664,7 @@ O personagem cria uma arma energética para atacar seus adversários.
 <br>
 
 ### Nível 2: **Fortalecimento físico***
-O personagem aumenta o seu poder e recebe um bônus de +1 de ip, força e constituição para cada ki gasto. A partir do rank C, o bônus oriundo desta doutrina passa a ser +2 de ip e +1 força e constituição para cada ki gasto.
+O personagem aumenta o seu poder e recebe um bônus de _IP_, _FOR_ e _CONS_. A partir do rank C, o bônus é incrementado.
 
 - **Tipo**: Buff
 - **Duração**: 1 cena
@@ -1862,6 +1866,8 @@ O personagem fica totalmente maleável, ganhando o aprimoramento evasão e receb
 ### Nível 5: **Imortalidade***
 O personagem é imortal, e regenera o seu dano mínimo +1 por rodada, caso o personagem sofra uma quantidade de dano que o mataria ele vai regenerar 1 pv por rodada.
 
+<br>
+<br>
 
 ## Kin’ niku Souza
 
