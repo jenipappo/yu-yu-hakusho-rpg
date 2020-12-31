@@ -2291,59 +2291,148 @@ OBS (apenas para membros da elite do rei-kai).
 <br>
 
 ### Nível 1: **Voar***
-O personagem pode voar e tem o dobro do deslocamento. Custa 3 de ki.
+O personagem pode voar e tem o deslocamento potencializado. 
+
+- **Tipo**: Buff
+- **Duração**: Até aterrisar
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **3** __*ki*__
+- **Efeitos Adicionais**
+  - Se desloca com **2** vezes mais velocidade
 
 <br>
 
 ### Nível 2: **Energizar***
-O personagem aumenta o seu poder e recebe um bônus de +2 de ip e dano para cada ki gasto.
+O personagem aumenta o seu poder.
+
+- **Tipo**: Buff
+- **Alvos**: Si mesmo
+- **Duração**: 1 cena
+- **Custo**: **5** __*ki*__  
+- **Bônus**:
+  - _IP_: **+10**
+  - Dano: **+10** 
+  
 
 <br>
 
 ### Nível 3: **Ataque energético**
-O personagem energiza os punhos causando 2D6+2 de dano e +1D6 de dano por rank; ou amplia a energização causando 2D6+4 de dano e +1D6 de dano por rank a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem energiza os punhos causando dano.
+
+- **Tipo**: Buff
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+1D6** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank
+- **Custo Ampliado**: **4** _*ki*_ e **+1** por rank 
 
 <br>
 
 ### Nível 4: **Abrir/fechar portal**
-O personagem pode abrir ou fechar portais que ligam o Ma-kai, Terra (Ningen-kai), Rei-kai. Se o personagem desejar expandir o portal para monstros de categorias superiores passarem, leva uma semana para cada categoria a mais e se for para diminuir o portal para monstros de categoria inferiores passarem leva uma semana para cada categoria a menos. Caso haja ajuda de outros seres com o mesmo poder reduz a proporção em um dia por pessoa ajudando, no mínimo de um dia, precisa trabalhar pelo menos 10 horas por dia. Custa 10 de ki por dia. 
+O personagem pode abrir ou fechar portais que ligam o Ma-kai, Terra (Ningen-kai), Rei-kai. O portal se abre ou fecha gradativamente a cada período de **Canalização** (incrementando ou decrementando o rank do portal)
+
+> **Observações**   
+> 1. Ex.: Aumentar a abertura de um portal em que passam monstros do nível E para que monstros de nível D passem leva uma semana. Fechar um portal do nível D para o nível E leva o mesmo tempo.
+> 0. Caso haja ajuda de outros seres com o mesmo poder, esse tempo reduz seguindo uma proporção de um dia por pessoa ajudando (o tempo mínimo é de um dia).
+> 0. Cada dia leva em consideração um tempo de trabalho de 10 horas.
+
+  
+- **Canalização**: 1 semana por rank do portal
+- **Custo**: 10 _*ki*_ por dia.
+- **Efeitos Adicionais**
+  - O personagem abre um portal por onde monstros de rank igual ou menor a categoria do portal.
 
 <br>
 
 ### Nível 5: **Aprimoramento espiritual**
-O personagem eleva seu espirito de luta e recebe um bônus de +10 em todos os seus atributos físicos, +30 pvs e + 5% no ataque e na defesa por rank. Custa 10 de ki.
+O personagem eleva seu espirito de luta e recebe um bônus.
+
+ - **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **10** __*ki*__
+- **Bônus**:
+  - _ATQ_: **+5%** por rank
+  - _DEF_: **+5%** por rank
+  - _CONS_: **+10**
+  - _FOR_: **+10**
+  - _AGI_: **+10**
+  - _PV_: **+30**
 
 <br>
 
 ### Nível 6: **Raio maior**
-O personagem lança um raio contra o adversário causando 4D6+5 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança um raio contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **4D6+5** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
 ## Laser light
 
 ### Nível 1: **Feixe de luz**
-O personagem lança um feixe de luz contra o adversário causando 2D6 de dano por rank. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança um feixe de luz contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **2D6** por rank
+- **Custo**: **1** __*ki*__ e **+1** por rank
+
 
 <br>
 
 ### Nível 2: **Espectro**
-O personagem lança um espectro contra o adversário causando 2D6+4 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança um espectro contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **2D6+4** por rank
+- **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 3: **Aurora hipnótica**
-O personagem lança uma aura hipnótica contra o adversário, teste bem-sucedido de Will para resistir ao efeito, caso falhe no teste o oponente ficará paralisado uma rodada por rank, caso o oponente seja paralisado e enquanto o poder durar, a cada rodada a vítima poderá fazer um teste de Will para resistir o efeito. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança uma aura hipnótica contra o adversário, paralisando-o enquanto o poder durar.
+
+> **Observações**  
+> O oponente precisa fazer um teste de _WILL_ para resistir ao efeito. 
+> A cada rodada a vítima pode fazer um teste de _WILL_ para resistir ao efeito.
+
+
+- **Tipo**: Debuff
+- **Alvos**: **1**
+- **Duração**: **1** cena
+- **Dano**: N/A
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Efeitos Adicionais**:
+  - _Paralisado_: O personagem não pode realizar qualquer ação.
 
 <br>
 
 ### Nível 4: **Arma radiante***
-O personagem cria uma espada que causa 2D6+2 de dano e +1d6+1 de dano por rank; ou cria uma espada mais forte que causa 2D6+4 de dano e +1D6+1 de dano por rank a um custo adicional de +1 de ki. Custa 5 de ki +1 de ki para cada rank acima do rank E.
+O personagem cria uma espada que causa dano.
+
+- **Tipo**: Buff
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+1D6+1** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+4** e **+1D6+1** por rank
+- **Custo Ampliado**: **5** _*ki*_ e **+1** por rank 
 
 <br>
 
 ### Nível 5: **Ciclone arco-íris**
-O personagem lança um raio na forma de um arco-íris contra o adversário causando 4D6+3 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança um raio na forma de um arco-íris contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **4D6+3** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -2351,32 +2440,84 @@ O personagem lança um raio na forma de um arco-íris contra o adversário causa
 
 <br>
 
-OBS (Disponível apenas para personagens de rank S, o portador deste poder pode atravessar qualquer tipo de barreira).
+> **Observações** 
+> Disponível apenas para personagens de rank S. O portador deste poder pode atravessar qualquer tipo de barreira.
 
 <br>
 
 ## Nível 1: Armadura dourada*
-O personagem cria uma armadura dourada aumentado o seu poder e recebe um bônus de +1 em ip, pv e dano para cada ki gasto.
+O personagem cria uma armadura dourada aumentado o seu poder e recebendo um bônus _IP_, _PV_ e dano.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **5** __*ki*__
+- **Bônus**
+  - _IP_: **+5**
+  - _PV_: **+5**
+  - Dano: **+5**
 
 <br>
 
 ### Nível 2: **Golpe de ruptura**
-Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um tufão, causando 2D6+3 de dano por rank. Requer um teste bem-sucedido de agilidade com um redutor de -5% por rank para levar metade do dano. Este recurso só pode ser utilizado uma vez a cada 3 rodadas. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um tufão, causando dano. O oponente deve realizar um teste bem-sucedido de _AGI_ para reduzir o dano recebido pela metade.
+
+- **Tipo**: Contra-ataque
+- **Alvos**: 1
+- **Cooldown**: **3** rodadas
+- **Dano**: **2D6+3** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank  
+- **Efeitos Adicionais**
+  - Oponente recebe **-5%** por rank no teste de _AGI_
 
 <br>
 
 ### Nível 3: **Armadura azul***
-O personagem cria uma armadura azul aumentado o seu poder e recebe um bônus de +2 em ip, dano e pv para cada ki gasto.
+O personagem cria uma armadura dourada aumentado o seu poder e recebendo um bônus _IP_, _PV_ e dano.
 
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **5** __*ki*__
+- **Bônus**
+  - _IP_: **+10**
+  - _PV_: **+10**
+  - Dano: **+10**
+  
 <br>
 
 ### Nível 4: **Brilho sui seiki**
-O personagem invoca a aura dos anjos sobre si podendo voar com o dobro do deslocamento, e suas doutrinas são elevadas a um rank acima mesmo no rank S Supremo. O bônus da Armadura azul passa a ser +3 em ip, dano e pv para cada ki gasto. Custa 7 de ki.
+O personagem invoca a aura dos anjos sobre si podendo voar, ganhando bônus de atributos e elevando seu rank. 
+
+acima mesmo no rank S Supremo. O bônus da Armadura azul passa a ser +3 em ip, dano e pv para cada ki gasto. Custa 7 de ki.
+
+com o dobro do deslocamento
+
+
+- **Tipo**: Buff
+- **Duraçào**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **7** __*ki*__
+- **Bônus**
+  - _IP_: **+21**
+  - _PV_: **+21**
+  - Dano: **+21**
+- **Efeitos Adicionais**
+  - Se desloca com **2** vezes o deslocamento
+  - Eleva **1** rank, mesmo no rank S Supremo
 
 <br>
 
 ### Nível 5: **Rajada sui seiki**
-O personagem dispara uma rajada de energia sui seiki contra o adversário causando 4D6+4 de dando por rank, esse disparo passa por qualquer tipo de barreira. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem dispara uma rajada de energia sui seiki contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **4D6+4** por rank 
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -2729,7 +2870,7 @@ O personagem pode ressuscitar qualquer criatura com a permissão do Rei-kai.
 O personagem pode voar e tem o deslocamento potencializado. 
 
 - **Tipo**: Buff
-- **Duraçào**: Até aterrisar
+- **Duração**: Até aterrisar
 - **Alvos**: Si mesmo
 - **Dano**: N/A
 - **Custo**: **3** __*ki*__
@@ -2753,14 +2894,14 @@ O personagem conhece técnicas marciais secretas de antigos mestres, e este esti
 <br>
 
 ### Nível 3: **Golpe de ruptura**
-Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um tufão, causando dano. O oponente deve realizar um teste bem-sucedido de _AGI_ para reduzir o dano recebido pela metade.
+Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um tufão, causando dano. O oponente deve realizar um teste bem-sucedido de _AGI_ para reduzir o dano recebido pela metade .
 
 - **Tipo**: Contra-ataque
 - **Alvos**: 1
 - **Dano**: **3D6+4** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank  
 - **Efeitos Adicionais**
-  - Oponente recebe **-5%** por rank no teste de _AGI_. 
+  - Oponente recebe **-5%** por rank no teste de _AGI_
 
 <br>
 
