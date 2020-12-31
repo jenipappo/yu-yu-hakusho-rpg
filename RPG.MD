@@ -838,7 +838,7 @@ O personagem cria um campo de calor intenso aumentando consideravelmente a tempe
 <br>
 
 ### Nível 2: **En satsu rengoku shou***
-O personagem cria chamas nas mãos ou em uma arma que causam dano; ou cria uma chama maior que causa 3D6 de dano e +3 de dano por rank a um custo adicional de +2 de ki. Custa 3 de ki e +1 de ki para cada rank acima do rank E. 
+O personagem cria chamas nas mãos ou em uma arma aumentando seu dano. 
 
 - **Tipo**: Buff
 - **Duração**: 1 cena
@@ -1294,174 +1294,426 @@ Ao ver qualquer doutrina o personagem poderá copiá-la para usá-la durante a l
 ## Ka shou rappa Ken
 
 ### Nível 1: **Aquecer***
-O personagem cria um campo de calor intenso aumentando consideravelmente a temperatura da área causando 2 de dano por rank a todos os outros seres que estejam dentro da área da doutrina, a regra de dano mínimo não se aplica a esta doutrina. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
+O personagem cria um campo de calor intenso aumentando consideravelmente a temperatura da área e causando dano a todos os outros seres que estejam dentro da área da doutrina.
+
+> **Observações**  
+> 1.  A regra de dano mínimo não se aplica a esta doutrina. 
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: N/A
+- **Dano**: 2 por rank
+- **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 2: **Incinerar**
-O personagem lança um disparo contra o adversário causando 2D6+3 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança um disparo contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **2D6+3** por rank
+- **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 3: **Purgatório flamejante***
-O personagem cria chamas intensas nas mãos que causam 2D6+2 de dano e +1D6 de dano por rank; ou cria chamas mais fortes que causam 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem cria chamas intensas nas mãos ampliando seu dano.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+1D6** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank
+- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 4: **Grande Bola de fogo**
-O personagem lança uma grande bola de fogo contra seus adversários causando 3D6+3 de dano por rank, o número máximo de oponentes é igual ao rank+4, a área da explosão é de 6m de raio. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança uma grande bola de fogo contra seus adversários causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **4** alvos e **+1** por rank
+- **Dano**: **3D6+3** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 5: **Aura de fogo***
 O personagem cria chamas em todo o corpo que causam 2D6+5 de dano e +1D6+1 de dano por rank. Se o oponente atacá-lo com as mãos nuas, ele levará 2D6 de dano, 3D6 de dano no rank C, e 4D6 de dano no rank A, não se aplica a regra de dano mínimo neste dano. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
 
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+5** e **+1D6+1** por rank 
+- **Custo**: **4** __*ki*__ e **+1** por rank
+**Efeitos Adicionais**
+  - Se o oponente atacá-lo com as mãos nuas, ele sofrerá 2D6 de dano, 3D6 de dano no rank C, e 4D6 de dano no rank A, não se aplica a regra de dano mínimo neste dano.
+
 <br>
 
 ### Nível 6: **Raio de fogo**
-O personagem lança um disparo contra o adversário causando 4D6+4 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança um disparo contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **4D6+4** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
+
+<br>
 
 ## Sui Ken
 ### Nível 1: **Movimentos cambaleantes***
-O personagem luta cambaleando estilo kung fu bêbado e recebe um bônus de +5% no ataque e na defesa por rank. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
+O personagem luta cambaleando no estilo kung fu bêbado tornando seus movimentos mais imprevisíveis.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **1** __*ki*__ e **+1** por rank
+- **Bônus**
+  - _ATQ_: **+5%** por rank
+  - _DEF_: **+5%** por rank
 
 <br>
 
 ### Nível 2: **Chute de ondas**
-O personagem ataca o oponente com um chute, causando 2D6+3 de dano por rank, conta como um disparo. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+O personagem ataca o oponente com um tremendo chute.
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **2D6+3* por rank
+- **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 3: **Energizar golpes**
-O personagem energiza seus golpes corpo a corpo com energia espiritual causando 2D6+2 de dano e +1D6 de dano por rank; ou amplia a energização causando 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki +1 de ki para cada rank acima do rank E.
+O personagem energiza seus golpes corpo a corpo com energia espiritual causando mais dano.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+1D6** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6 +4** **+1D6** por rank 
+- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 4: **Bola de energia**
-O personagem lança uma bola de energia contra o adversário causando 3D6+4 de dano por rank. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança uma bola de energia contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **3D6+4* por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 5: **Aumento de energia sobrenatural***
 O personagem depois de beber muito ele recebe um bônus de +15 em força e constituição, +20 pvs e 10 de ip. Custa 10 de ki.
 
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **10** __*ki*__
+- **Bônus**:
+  - _CONS_: **+15**
+  - _FOR_: **+15**
+  - _PV_: **+20**
+  - _IP_: **+10**
+  
 <br>
 
 ### Nível 6: **Gigante bola de energia**
-O personagem lança uma grande bola de energia contra o adversário causando 4D6+4 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança uma grande bola de energia contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **4D6+4* por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
 ## Nem Baku Houju no Shou
 
 ### Nível 1: **Maquiagem de batalha***
-O personagem após se maquiar recebe um bônus de +1 de ip e dano por ki gasto. A partir do rank C, o bônus oriundo desta doutrina passa a ser +2 de ip e +1 de dano para cada ki gasto. 
+O personagem após se maquiar ele fortalece seu corpo.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **5** __*ki*__
+- **Bônus**:
+  - _DANO_: **+5**
+  - _IP_: **+5**
+- **Bônus Rank C**:
+  - _DANO_: **+5**
+  - _IP_: **+10**
 
 <br>
 
 ### Nível 2: **Prender membros***
-O personagem após marcar o oponente com o pincel, o oponente sofre um redutor de -5% de chance de acerto no ataque e na defesa por rank, requer um teste de resistência de constituição para o efeito durar apenas uma rodada por rank, caso passe num teste difícil de constituição a vítima resistirá o efeito por completo. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+O personagem marca o oponente com o pincel aplicando um redutor no ataque e na defesa. Requer um teste de _CONS_ para reduzir a duração do efeito. Caso obtenha um resultado que seja bem sucedido para passar num teste difícil, a vítima resistirá ao efeito por completo.
+
+- **Tipo**: Debuff
+- **Duração**: 1 cena ou (1 rodada por rank, caso bem sucedido em teste)
+- **Alvos**: 1
+- **Dano**: N/A
+- **Custo**: **2** __*ki*__ e **+1** por rank
+- **Efeitos Adicionais**
+  - _ATQ_: **-5%** por rank
+  - _DEF_: **-5%** por rank
 
 <br>
 
 ### Nível 3: **Chave de prisão***
-Após o oponente ser marcado pelo pincel, o mesmo perde 10 pontos de destreza e agilidade, teste bem-sucedido de constituição para reduzir a penalidade pela metade; caso passe num teste difícil de constituição a vítima resistirá o efeito por completo, custa 5 de ki.
+O personagem marca o oponente com o pincel aplicando um redutor de _DES_ e _AGI_. Requer um teste bem sucedido de _CONS_ para reduzir o efeito pela metade. Caso obtenha um resultado que seja bem sucedido para passar num teste difícil, a vítima resistirá ao efeito por completo.
 
+- **Tipo**: Debuff
+- **Duração**: 1 cena
+- **Alvos**: 1
+- **Dano**: N/A
+- **Custo**: **5** __*ki*__
+- **Efeitos Adicionais**
+  - _DES_: **-10**
+  - _AGI_: **-10**
+  
 <br>
 
 ### Nível 4: **Paralisar**
-O personagem paralisa o oponente, durante uma rodada por rank, teste bem-sucedido de constituição para não ser paralisado, caso o oponente seja paralisado e enquanto o poder durar, a cada rodada a vítima poderá fazer um teste de constituição para resistir o efeito. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem paralisa o oponente. Para resistir, o alvo deve ser  bem-sucedido num teste de _CONS_. Caso seja paralisado, a vítima poderá repetir o teste de _CONS_ a cada rodada.
+
+- **Tipo**: Debuff
+- **Duração**: **1** rodada por rank
+- **Alvos**: 1
+- **Dano**: N/A
+- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Efeitos Adicionais**
+  - O alvo fica paralizado não podendo executar nenhuma ação
 
 <br>
 
-### Nível 5: **Trancar energia espiritual***
-O personagem afetada por este poder não pode usar suas doutrinas, teste bem-sucedido de Will para o efeito durar apenas uma rodada por rank, caso passe num teste difícil de Will a vítima resistirá o efeito por completo, só pode ser usado em inimigos com o mesmo rank ou menor. Custa 7 de ki.
+### Nível 5: **Trancar energia espiritual**
+O personagem marca o oponente com o pincel causando _Silênciar_ e _Dissipar_. Caso o personagem passe num teste bem-sucedido de _WILL_ ele resiste ao _Dissipar_. Caso obtenha um resultado que seja bem sucedido para passar num teste difícil, a vítima resistirá ao efeito por completo.
+
+- **Tipo**: Debuff
+- **Duração**: **1** rodada por rank
+- **Alvos**: 1
+- **Dano**: N/A
+- **Custo**: **7** __*ki*__ 
+- **Efeitos Adicionais**
+  - _Silênciar_: O oponente não pode utilizar doutrinas
+  - _Dissipar_: Desativa todos os bônus das doutrinas já aplicados 
 
 <br>
 
 ## Ju Hyō Tsuka
 
 ### Nível 1: **Esfriar***
-O personagem cria um campo de batalha de gelo que diminui consideravelmente a temperatura da área, fornecendo um bônus de +5% no ataque e na defesa por rank. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
+O personagem cria um campo de batalha de gelo que diminui consideravelmente a temperatura da área.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **1** __*ki*__ e **+1** por rank
+- **Bônus**
+  - _ATQ_: **+5%** por rank
+  - _DEF_: **+5%** por rank
 
 <br>
 
 ### Nível 2: **Flauta metralha granizo**
-O personagem lança um disparo contra o adversário causando 2D6+4 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+O personagem dispara diversas estacas de granizo contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **2D6+4* por rank
+- **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 3: **Espada de gelo***
-O personagem cria uma espada de gelo que causa 2D6+2 de dano e +1D6 de dano por rank; ou cria uma espada mais forte que causa 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem cria uma espada de gelo no próprio braço ampliando seu dano.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+1D6** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6 +4** **+1D6** por rank 
+- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 4: **Congelar**
 O personagem congela praticamente todo o corpo do oponente, durante uma rodada por rank, teste bem-sucedido de constituição para não ser paralisado, caso o oponente seja paralisado e enquanto o poder durar, a cada rodada a vítima poderá fazer um teste de constituição para resistir o efeito; Enquanto a vítima estiver congelada será absorvido 1 de ki por rodada. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
 
+- **Tipo**: Debuff
+- **Duração**: 1 cena
+- **Alvos**: 1
+- **Dano**: N/A
+- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Efeitos Adicionais**
+  - Paraliza o oponente durante **1** rodada por rank e absorve **1** __*ki* por rodada. A cada rodada a vítima poderá fazer um teste de constituição para dissipar o efeito.
+  
 <br>
 
 ### Nível 5: **Espírito maligno do dragão congelante**
-O personagem lança um disparo em forma de um dragão de gelo contra o adversário, causando 4D6+3 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem cria um disparo na forma de um dragão de gelo contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **4D6+3* por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
 ## Shura sempu Ken
 
 ### Nível 1: **Voar***
-O personagem pode voar e tem o dobro do deslocamento, custa 3 de ki.
+O personagem pode voar e tem o dobro do deslocamento.
+
+ **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **3** __*ki*__ 
+- **Efeitos Adicionais**
+  - O personagem pode voar e tem o dobro do deslocamento.
 
 <br>
 
 ### Nível 2: **Braços de ar**
-O personagem dispara uma rajada de ar contra o adversário causando 3D6 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+O personagem dispara uma rajada de ar contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **3D6** por rank
+- **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 3: **Furacão shura***
-O personagem cria um furacão em um braço que causa 2D6+2 de dano e +1D6 de dano por rank; ou cria um furacão mais forte que causa 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki +1 de ki para cada rank acima do rank E.
+O personagem cria um furacão em um de seus braços ampliando seu dano. 
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+1D6** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6 +4** **+1D6** por rank 
+- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 4: **Fenômeno turbilhão**
-O personagem quando for alvo de um disparo de nível 4 ou menor, ele pode rebatê-lo para um outro lugar, este poder só pode ser usado uma vez a cada três turnos. Custa o ki do disparo +3.
+O personagem quando for alvo de um disparo de nível 5 ou menor, ele pode desviá-lo com um grande soco para outro lugar que não seja na direção do oponente.
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Cooldown**: **3** rodadas
+- **Dano**: Equivalente ao dano do disparo inicial
+- **Custo**: Equivalente ao custo de __*ki*__ do disparo original **+3**
 
 <br>
 
 ### Nível 5: **Duplo furacão shura***
-O personagem cria dois furacões um em cada braço que causa 3D6+4 de dano e +1D6+1 de dano por rank. Custa 6 de ki +1 de ki para cada rank acima do rank E.
+O personagem cria um furacão em cada braço ampliando seu dano.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **3D6+4** e **+1D6+1** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 6: **Grande furacão shura**
 O personagem lança um grande furacão contra o adversário causando 4D6+4 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
-Angelical energy
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **4D6+4** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
+
+<br>
+
+## Angelical energy
 OBS (Se o oponente tiver um rank a menos ele não poderá ver a doutrina tornando os testes de esquiva difíceis).
 
 <br>
 
 ### Nível 1: **Arma energética***
-O personagem cria uma arma energética que causa 2D6 de dano e +3 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+O personagem cria uma arma energética para atacar seus adversários.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6** e **+3** por rank 
+- **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 2: **Fortalecimento físico***
 O personagem aumenta o seu poder e recebe um bônus de +1 de ip, força e constituição para cada ki gasto. A partir do rank C, o bônus oriundo desta doutrina passa a ser +2 de ip e +1 força e constituição para cada ki gasto.
 
-<br>
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **5** __*ki*__
+- **Bônus**:
+  - _CONS_: **+5**
+  - _FOR_: **+5**
+  - _IP_: **+5**
+- **Bônus Rank C**:
+  - _CONS_: **+5**
+  - _FOR_: **+5**
+  - _IP_: **+10**
+  
+ <br>
 
 ### Nível 3: **Aureola**
-O personagem lança chakrans contra o adversário causando 3D6+3 de dano por rank. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança chakrans contra o adversário causando dano .
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **3D6+3** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 4: **Energia de fúria***
-O personagem aumenta o seu poder e recebe um bônus de +1 em todos os seus atributos físicos e pvs para cada ki gasto.
+O personagem aumenta de forma considerável o seu poder tornando seu corpo mais forte.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **10** __*ki*__
+- **Bônus**:
+  - _CONS_: **+10**
+  - _FOR_: **+10**
+  - _AGI_: **+10**
+  - _DES_: **+10**
+  - _PV_: **+10**
 
 <br>
 
 ### Nível 5: **Golpe devastador**
-O personagem quando toca o adversário causa 4D6+4 de dano por rank. É considerado disparo. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem energiza sua mão, aonde ele tocar causará um grande estrago.
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **4D6+4** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
+
+<br>
 
 ## Adaptação
 OBS (humanos não podem ter este poder, criar um bolinho leva 5 turnos. O personagem pode confeccionar um bolinho das trevas que tanto servem para memorizar golpes, quanto servem para as transformações. O número máximo de bolinhos que podem ser criados e carregados são 3 e +1 para cada rank acima do rank E).
@@ -1500,7 +1752,7 @@ O personagem lança várias sombras contra o adversário causando 2D6+3 de dano 
 O personagem cria uma espada que causa 2D6+2 de dano e +1D6 de dano por rank; ou cria um espada mais forte que causa 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki +1 de ki para cada rank acima do rank E.
 
 ### Nível 4: **Barreira shobako**
-O personagem cria uma barreira de ondas que evita o dano de disparos de nível 4 ou menor, este poder só pode ser usado uma vez a cada três turnos. Custa o ki do disparo +3.
+O personagem cria uma barreira de ondas que evita o dano de disparos de nível 5 ou menor, este poder só pode ser usado uma vez a cada três turnos. Custa o ki do disparo +3.
 
 ### Nível 5: **Possessão de sombras***
 O personagem se mescla as sombras e recebe um bônus de +15 em força e constituição, +20 de pvs e +10 de ip. Custa 10 de ki.
