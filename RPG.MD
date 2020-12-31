@@ -1928,13 +1928,30 @@ O personagem invoca várias bombas. A rajada de bombas causa dano a vários inim
 
 <br>
 
-### Nível 4: **Aurea espiritual***
-O personagem inspira o ar para dentro de si acumulando seu poder, a cor do cabelo do personagem muda e ele recebe um bônus de +1 em todos os seus atributos físicos e pvs por ki gasto.
+### Nível 4: **Aura espiritual***
+O personagem concentra seu __*ki*__ aumentando suas capacidades físicas.
 
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **10** __*ki*__
+- **Bônus**:
+  - _CONS_: **+10**
+  - _FOR_: **+10**
+  - _DES_: **+10**
+  - _AGI_: **+10**
+  - _PV_: **+10**
+ 
 <br>
 
 ### Nível 5: **Espírito explosivo**
-O personagem lança-se contra o adversário causando uma grande explosão de 5D6 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança-se contra o adversário causando uma grande explosão.
+
+- **Tipo**: Disparo
+- **Alvos**: **4** alvos e **+1** por rank
+- **Dano**: **5D6** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -1945,27 +1962,69 @@ O personagem pode voar e tem o dobro do deslocamento, custa 3 de ki.
 <br>
 
 ### Nível 2: **Criar machado***
-O personagem cria um machado que causa 3D6 de dano e +3 de dano por rank. Custa 4 de ki e +1 de ki para cada rank acima do rank E. A partir do rank B, o bônus oriundo desta doutrina passa a ser 3D6+2 de dano e +1D6 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem cria uma arma em forma de machado.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **3D6** e **+3** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Rank B**: **3D6 +2** e **+1D6** por rank
+- **Custo Rank B**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 3: **Aura de Batalha de menor***
-O personagem cria uma aura de energia e recebe um bônus de +1 de força, constituição, pv e ip para cada ki gasto.
+O personagem cria uma aura de energia e recebendo um bônus por uma cena.
 
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **5** __*ki*__
+- **Bônus**:
+  - _CONS_: **+5**
+  - _FOR_: **+5**
+  - _IP_: **+5**
+  - _PV_: **+5**
+  
 <br>
 
 ### Nível 4: **Ataque energético**
-O personagem lança um disparo teleguiado contra o adversário causando 3D6+4 de dano por rank, e com -5% de chance de esquiva por rank. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança um disparo teleguiado contra o adversário causando dano e dificultando sua esquiva.
 
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **3D6+4** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Efeitos Adicionais**
+  - Aplica **-5%** de _Esquiva_ ao oponente por rank
+  
 <br>
 
 ### Nível 5: **Battle aura***
-O personagem aumenta o seu poder recebendo um bônus de +2 em força e constituição e +1 de ip e pv para cada ki gasto.
+O personagem aumenta o seu poder recebendo um bônus durante a cena.
 
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **10** __*ki*__
+- **Bônus**:
+  - _CONS_: **+20**
+  - _FOR_: **+20**
+  - _IP_: **+20**
+  - _PV_: **+20**
+  
 <br>
 
 ### Nível 6: **Battle aura cross atack**
-O personagem lança um disparo contra o adversário causando 4D6+4 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança um disparo contra o adversário.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **4D6+4** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
