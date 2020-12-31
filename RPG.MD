@@ -2313,14 +2313,17 @@ O personagem faz brotar vários olhos no seu corpo ficando mais monstruoso.
 <br>
 
 ### Nível 5: **Dominação**
-O personagem domina seres não despertados ou oponentes com um rank a menos, para o adversário não ser dominado deve ser bem-sucedido em um teste Will. A vítima não obedecerá a nenhuma ordem suicida, se o personagem tentar força-lo a fazer uma dessas ações citadas a dominação é quebrada, a duração é de uma rodada por rank contra oponentes de rank menor. Custa 6 de ki para dominar seres despertados. A quantidade de seres não despertados que pode ser dominada é igual a 3 vezes o rank, e tem uma duração de 2 horas por rank. Custa 6 de ki e +1 de ki para cada 3 seres dominados a mais.
+O personagem domina  ou oponentes com um rank a menos, para o adversário não ser dominado deve ser bem-sucedido em um teste Will. A vítima não obedecerá a nenhuma ordem suicida, se o personagem tentar força-lo a fazer uma dessas ações citadas a dominação é quebrada, a duração é de uma rodada por rank contra oponentes de rank menor. Custa 6 de ki para dominar seres despertados. A quantidade de seres não despertados que pode ser dominada é igual a 3 vezes o rank, e tem uma duração de 2 horas por rank. Custa 6 de ki e +1 de ki para cada 3 seres dominados a mais.
 
 - **Tipo**: Debuff
 - **Duração**: 1 rodada por rank
+  - Seres sem rank: **2** horas por rank 
 - **Alvos**: 1
+  - Seres sem rank: **3** por rank
 - **Dano**: N/A
 - **Custo**: **5** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
+- Domina um alvo de menor rank
 
 ### Nível 6: **Velocidade máxima***
 O personagem aumenta consideravelmente sua velocidade.
