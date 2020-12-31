@@ -1798,7 +1798,6 @@ O personagem após comer o bolinho se transforma em um Cão monstro das trevas, 
   - _FOR_: **+15**
   - _AGI_: **+15**
   - _DES_: **+15**
-  - _PV_: **+20**
   - _IP_: **+10**
   - Dano corpo a corpo (desamardo): **+2D6+2**
 
