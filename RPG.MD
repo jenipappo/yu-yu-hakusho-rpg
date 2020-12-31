@@ -2294,27 +2294,65 @@ O personagem lança um raio contra o adversário causando 4D6+5 de dano por rank
 ## Laser light
 
 ### Nível 1: **Feixe de luz**
-O personagem lança um feixe de luz contra o adversário causando 2D6 de dano por rank. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança um feixe de luz contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **2D6** por rank
+- **Custo**: **1** __*ki*__ e **+1** por rank
+
 
 <br>
 
 ### Nível 2: **Espectro**
-O personagem lança um espectro contra o adversário causando 2D6+4 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança um espectro contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **2D6+4** por rank
+- **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 3: **Aurora hipnótica**
-O personagem lança uma aura hipnótica contra o adversário, teste bem-sucedido de Will para resistir ao efeito, caso falhe no teste o oponente ficará paralisado uma rodada por rank, caso o oponente seja paralisado e enquanto o poder durar, a cada rodada a vítima poderá fazer um teste de Will para resistir o efeito. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança uma aura hipnótica contra o adversário, paralisando-o enquanto o poder durar.
+
+ > **Observações**  
+> O oponente precisa fazer um teste de _WILL_ para resistir ao efeito. 
+> A cada rodada a vítima pode fazer um teste de _WILL_ para resistir ao efeito.
+
+
+- **Tipo**: Debuff
+- **Alvos**: **1**
+- **Duração**: **1** cena
+- **Dano**: N/A
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Efeitos Adicionais**:
+  - _Paralisado_: O personagem não pode realizar qualquer ação.
 
 <br>
 
 ### Nível 4: **Arma radiante***
-O personagem cria uma espada que causa 2D6+2 de dano e +1d6+1 de dano por rank; ou cria uma espada mais forte que causa 2D6+4 de dano e +1D6+1 de dano por rank a um custo adicional de +1 de ki. Custa 5 de ki +1 de ki para cada rank acima do rank E.
+O personagem cria uma espada que causa dano.
+
+2D6+2 de dano e +1d6+1 de dano por rank; ou cria uma espada mais forte que causa 2D6+4 de dano e +1D6+1 de dano por rank a um custo adicional de +1 de ki. Custa 5 de ki +1 de ki para cada rank acima do rank E.
+
+- **Tipo**: Buff
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+1D6+1** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+4** e **+1D6+1** por rank
+- **Custo Ampliado**: **5** _*ki*_ e **+1** por rank 
 
 <br>
 
 ### Nível 5: **Ciclone arco-íris**
-O personagem lança um raio na forma de um arco-íris contra o adversário causando 4D6+3 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança um raio na forma de um arco-íris contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **4D6+3** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
