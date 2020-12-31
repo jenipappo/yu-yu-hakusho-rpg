@@ -671,7 +671,7 @@ O personagem faz com que sua espada ataque o adversário por de baixo da terra c
 - **Dano**: **3D6+2** por rank
 - **Custo**: **3** __*ki*__; **+1** por rank
 - **Efeitos Adicionais**:
-  - Aplica **-5%** por rank de chance de esquiva ao opornente 
+  - Aplica **-5%** por rank de chance de esquiva ao oponente 
 
 <br>
 
@@ -683,7 +683,7 @@ Melhora a espada vara tornando-a muito mais flexível e causando dano extra por 
 - **Dano**: **4D6+2** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**:
-  - Aplica **-5%** por rank de chance de esquiva ao opornente 
+  - Aplica **-5%** por rank de chance de esquiva ao oponente 
 
 <br>
 
@@ -793,9 +793,9 @@ O personagem invoca uma imensa cerejeira e, neste campo de batalha, recebe um b�
   - _Esquiva_: **+%5** por rank
   - _Evasão_ 
 - **Efeitos Adicionais**
-  - Aplica **-5%** de _ATQ_ ao opornente 
-  - Aplica **-5%** de _DEF_ ao opornente 
-  - Aplica **-5%** de _Esquiva_ ao opornente 
+  - Aplica **-5%** de _ATQ_ ao oponente 
+  - Aplica **-5%** de _DEF_ ao oponente 
+  - Aplica **-5%** de _Esquiva_ ao oponente 
 
 <br>
 
@@ -1866,29 +1866,27 @@ O personagem se mescla as sombras e recebendo bônus durante a cena.
  <br>
  
 ### Nível 6: **Espada sonora das trevas***
-O personagem faz sua espada emitir um terrível som fazendo monstros de rank E desmaiarem Requer teste bem-sucedido de Will para o efeito durar apenas uma rodada por rank. Custa 5 de ki +1 de ki para cada rank acima do rank E.
-e os seus oponentes recebam um redutor de -5% de chance de acerto no ataque e na defesa e nos testes de resistência por rank
+O personagem faz sua espada emitir um terrível som fazendo monstros de rank E desmaiarem.
 
-- **Tipo**: Buff
-- **Duração**: 1 cena
+- **Tipo**: Debuff
+- **Duração**: 1 cena (ou uma rodada por rank se bem sucedido no teste de _WILL_)
 - **Alvos**: Si mesmo
 - **Dano**: N/A
 - **Custo**: **4** __*ki*__ e **+1** por rank
-- **Bônus**:
-  - _CONS_: **+10**
-  - _FOR_: **+10**
-  - _AGI_: **+10**
-  - _DES_: **+10**
-  - _PV_: **+10**
-  - Dano corpo a corpo (desamardo): **+2D6+1**
-  - **Efeitos Adicionais**
-  - Aplica **-5%** de _ATQ_ ao opornente 
-  - Aplica **-5%** de _DEF_ ao opornente 
-  - Aplica **-5%** de _Esquiva_ ao opornente 
+- **Efeitos Adicionais**
+  - Aplica **-5%** de _ATQ_ ao oponente por rank
+  - Aplica **-5%** de _DEF_ ao oponente por rank
+  - Aplica **-5%** de _Esquiva_ ao oponente por rank
+  
 <br>
 
 ### Nível 7: **Ondas de sombras demoníacas**
-O personagem lança uma rajada de almas contra os adversários causando 4D6+4 de dano por rank, a quantidade máxima de alvos é um alvo por rank+4. Custa 6 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança uma rajada de almas contra os adversários causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **4** alvos e **+1** por rank
+- **Dano**: **4D6+4** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -1896,22 +1894,37 @@ O personagem lança uma rajada de almas contra os adversários causando 4D6+4 de
 
 <br>
 
-OBS (Se o oponente tiver um rank a menos ele não pode ver a doutrina tornando os testes de resistência difíceis).
+OBS (Se o oponente tiver um rank a menos ele não pode ver a doutrina, tornando os testes de resistência difíceis).
 
 <br>
 
 ### Nível 1: **Toque explosivo**
-O personagem toca o adversário causando uma explosão de 1D6+4 de dano por rank, é considerado um disparo. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
+O personagem toca o adversário causando uma explosão.
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **1D6+4** por rank
+- **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 2: **Granada espiritual**
-O personagem lança uma granada contra o adversário causando 2D6+4 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança uma granada contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **2D6+4** por rank
+- **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 3: **Pólvora**
-O personagem invoca várias bombas, a rajada de bombas causa 3D6+4 por rank em cada alvo, o número máximo de oponentes é igual ao rank+4. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem invoca várias bombas. A rajada de bombas causa dano a vários inimigos na área.
+
+- **Tipo**: Disparo
+- **Alvos**: **4** alvos e **+1** por rank
+- **Dano**: **3D6+4** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
 
