@@ -2676,14 +2676,18 @@ O personagem cria uma armadura azul aumentado o seu poder e recebendo um bônus 
 <br>
 
 ### Nível 4: **Brilho sui seiki**
-O personagem invoca a aura dos anjos sobre si podendo voar, aprimorando seu poder e sua resistência, e elevando o rank de suas doutrinas e aprimoramentos mesmo no rank S Supremo.
+O personagem invoca a aura dos anjos sobre si podendo voar, aprimorando o poder e a resistência de suas armaduras, e elevando o rank de suas doutrinas e aprimoramentos mesmo no rank S Supremo.
 
 - **Tipo**: Buff
 - **Duraçào**: 1 cena
 - **Alvos**: Si mesmo
 - **Dano**: N/A
 - **Custo**: **10** __*ki*__
-- **Bônus**
+- **Bônus da armadura dourada**
+  - _IP_: **+10**
+  - _PV_: **+10**
+  - Dano: **+100**
+- **Bônus da armadura azul**
   - _IP_: **+15**
   - _PV_: **+15**
   - Dano: **+15**
@@ -2698,8 +2702,8 @@ O personagem dispara uma rajada de energia sui seiki contra o adversário causan
 
 - **Tipo**: Disparo
 - **Alvos**: 1
-- **Dano**: **4D6+6** por rank 
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **5D6+3** por rank 
+- **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -3170,7 +3174,7 @@ O personagem lança uma rajada energética causando dano em área.
 
 - **Tipo**: Disparo
 - **Alvos**: **4** e **+1** por rank
-- **Dano**: **6D6+4** por rank. 
+- **Dano**: **6D6+5** por rank. 
 - **Custo**: **7** __*ki*__ e **+1** por rank
 
 <br>
