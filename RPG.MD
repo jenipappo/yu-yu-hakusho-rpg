@@ -1866,8 +1866,25 @@ O personagem se mescla as sombras e recebendo bônus durante a cena.
  <br>
  
 ### Nível 6: **Espada sonora das trevas***
-O personagem faz sua espada emitir um terrível som fazendo monstros de rank E desmaiarem, e os seus oponentes recebam um redutor de -5% de chance de acerto no ataque e na defesa e nos testes de resistência por rank. Requer teste bem-sucedido de Will para o efeito durar apenas uma rodada por rank. Custa 5 de ki +1 de ki para cada rank acima do rank E.
+O personagem faz sua espada emitir um terrível som fazendo monstros de rank E desmaiarem Requer teste bem-sucedido de Will para o efeito durar apenas uma rodada por rank. Custa 5 de ki +1 de ki para cada rank acima do rank E.
+e os seus oponentes recebam um redutor de -5% de chance de acerto no ataque e na defesa e nos testes de resistência por rank
 
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Bônus**:
+  - _CONS_: **+10**
+  - _FOR_: **+10**
+  - _AGI_: **+10**
+  - _DES_: **+10**
+  - _PV_: **+10**
+  - Dano corpo a corpo (desamardo): **+2D6+1**
+  - **Efeitos Adicionais**
+  - Aplica **-5%** de _ATQ_ ao opornente 
+  - Aplica **-5%** de _DEF_ ao opornente 
+  - Aplica **-5%** de _Esquiva_ ao opornente 
 <br>
 
 ### Nível 7: **Ondas de sombras demoníacas**
