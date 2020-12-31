@@ -490,6 +490,7 @@ O personagem é sádico e gosta de torturar as pessoas e fazê-las sofrer, apena
 > **Obervações**  
 > 1. Doutrinas marcadas com `*`, duram todo combate ou cena.  
 > 0. O campo de fogo dissipa o campo de gelo e vice-versa, sendo necessário reativar novamente um dos campos.  
+> 0. O tamanho dos campos, criados pelas doutrinas e aprimoramentos, tem um raio de 25 metros por rank e uma altura de 5 metros por rank, o campo acompanha o personagem.
 > 0. Todos os disparos causam +XD6+Y de dano, onde X é igual quantidade de dados e Y é igual ao dano base da doutrina. Exemplo: uma Grande Bola de Fogo causa 3D6+3 de dano por rank, no rank E ela causaria 6D6+6 de dano, no rank D causaria 9D6+9 de dano, no rank C causaria 12D6+12 de dano e assim sucessivamente).
 
 <br>
@@ -788,7 +789,7 @@ O personagem invoca a planta demoníaca que causa dano atacando oponentes e/ou q
 <br>
 
 ### Nível 6: **Sakura**
-O personagem invoca uma imensa cerejeira e, neste campo de batalha, recebe um bônus de ataque, defesa e testes de resistência de esquiva. As plantas também podem defender disparos (trate isso como o aprimoramento _Evasão_). Oponentes recebem um redutor de ataque, defesa e testes de resistência de esquiva. 
+O personagem invoca uma imensa cerejeira e, neste campo de batalha (tem a mesma dimensão de um campo comum, com exceção da altura ser 50 metros por rank), recebe um bônus de ataque, defesa e testes de resistência de esquiva. As plantas também podem defender disparos (trate isso como o aprimoramento _Evasão_). Oponentes recebem um redutor de ataque, defesa e testes de resistência de esquiva. 
 
 - **Tipo**: Invocação
 - **Alvos**: N/A
