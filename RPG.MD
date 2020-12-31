@@ -1872,11 +1872,11 @@ O personagem se mescla as sombras e recebendo bônus durante a cena.
  <br>
  
 ### Nível 6: **Espada sonora das trevas***
-O personagem faz sua espada emitir um terrível som fazendo monstros de rank E desmaiarem.
+O personagem faz sua espada emitir um terrível som em uma área (semelhante a um campo) fazendo monstros de rank E desmaiarem.
 
 - **Tipo**: Debuff
 - **Duração**: 1 cena (ou uma rodada por rank se bem sucedido no teste de _WILL_)
-- **Alvos**: todos os oponentes.
+- **Alvos**: todos os oponentes na área
 - **Dano**: N/A
 - **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
@@ -2228,7 +2228,17 @@ Os monstros de rank E que estiverem na distância de 30 metros por rank morrem e
 
 <br>
 
-### Nível 1: **Contra-ataque**
+### Nível 1: **Bola arremessável lei shu**
+O personagem lança uma bola contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **2D6+5** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
+
+<br>
+
+### Nível 2: **Contra-ataque**
 Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-atacar com um golpe
 
 > **Observações**   
@@ -2237,20 +2247,10 @@ Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca
 - **Tipo**: Contra-ataque
 - **Alvos**: 1
 - **Cooldown**: **3** rodadas
-- **Dano**: **1D6 +3** por rank
-- **Custo**: **2** __*ki*__ e **+1** por rank  
+- **Dano**: **2D6+3** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank  
 - **Efeitos Adicionais**
   - Oponente recebe **-5%** por rank no teste de _AGI_
-
-<br>
-
-### Nível 2: **Bola arremessável lei shu**
-O personagem lança uma bola contra o adversário causando dano.
-
-- **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **2D6+4** por rank
-- **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -2260,9 +2260,9 @@ O personagem cria bolas nas mãos que amplificam seu dano corpo a corpo.
 - **Tipo**: Buff
 - **Duração**: 1 cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+2** e **+1D6** por rank 
+- **Dano**: **2D6+3** e **+1D6** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **2D6+4** e **+1D6** por rank 
+- **Dano Ampliado**: **2D6+5** e **+1D6** por rank 
 - **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -2272,8 +2272,8 @@ O personagem lança várias bolas contra seus adversários causando dano a múlt
 
 - **Tipo**: Disparo
 - **Alvos**: **4** alvos e **+1** por rank
-- **Dano**: **3D6+4** por rank 
-- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano**: **3D6+5** por rank 
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -2282,10 +2282,9 @@ O personagem lança uma grande bola contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: 1
-- **Dano**: **4D6+4** por rank 
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **4D6+6** por rank 
+- **Custo**: **5** __*ki*__ e **+1** por rank
 
-<br>
 <br>
 
 ## Rahiph Mokuro
@@ -2298,7 +2297,7 @@ O personagem lança uma grande bola contra o adversário causando dano.
 <br>
 
 ### Nível 1: **Punho flamejante***
-O personagem aumenta o seu poder e recebe um bônus.
+O personagem aumenta o seu poder.
 
  de +3 em dano para cada ki gasto.
 
@@ -2311,9 +2310,7 @@ O personagem aumenta o seu poder e recebe um bônus.
 <br>
 
 ### Nível 2: **Resistência***
-O personagem aumenta o seu poder e recebe um bônus
-
- de +3 em ip para cada ki gasto.
+O personagem aumenta o sua resistência.
 
 - **Tipo**: Buff
 - **Alvos**: Si mesmo
@@ -2323,14 +2320,14 @@ O personagem aumenta o seu poder e recebe um bônus
 
 <br>
 
-### Nível 3: **Arma energética**
+### Nível 3: **Arma energética***
 O personagem energiza os punhos causando dano.
 
 - **Tipo**: Buff
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+2** e **+1D6** por rank
+- **Dano**: **2D6+4** e **+1D6** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **2D6+4** e **+1D6** por rank
+- **Dano Ampliado**: **2D6+6** e **+1D6** por rank
 - **Custo Ampliado**: **4** _*ki*_ e **+1** por rank 
 
 <br>
@@ -2340,15 +2337,14 @@ O personagem lança um disparo que causa dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+4** por rank
+- **Dano**: **4D6+5** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - Aplica **-5%** de _Esquiva_ ao oponente por rank
 
-
 <br>
 
-### Nível 5: **Fortalecimento espiritual**
+### Nível 5: **Fortalecimento espiritual***
 O personagem eleva seu espirito de luta e recebe um bônus.
 
 - **Tipo**: Buff
@@ -2372,7 +2368,7 @@ O personagem corta o espaço onde está o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **5D6+4** por rank
+- **Dano**: **5D6+5** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - Este poder pode atravessar qualquer barreira.
@@ -2390,7 +2386,7 @@ O personagem corta o espaço onde está o adversário causando dano.
 <br>
 
 ### Nível 1: **Punho flamejante***
-O personagem aumenta o seu poder e recebe um bônus de dano.
+O personagem aumenta o seu poder.
 
 - **Tipo**: Buff
 - **Duração**: 1 cena
@@ -2403,7 +2399,7 @@ O personagem aumenta o seu poder e recebe um bônus de dano.
 <br>
 
 ### Nível 2: **Resistência***
-O personagem aumenta o seu poder e recebe um bônus _IP_.
+O personagem aumenta o sua resistência.
 
 - **Tipo**: Buff
 - **Duração**: 1 cena
@@ -2421,15 +2417,15 @@ O personagem energiza os punhos elevando o dano causado.
 - **Tipo**: Buff
 - **Duração**: 1 cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+2** e **+1D6** por rank
+- **Dano**: **2D6+4** e **+1D6** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **2D6+4** e **+1D6** por rank
+- **Dano Ampliado**: **2D6+6** e **+1D6** por rank
 - **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 4: **Golpe de defesa e ataque madoki**
-O personagem, enquanto alvo de um disparo de nível 5 ou menor, pode absorve-lo, recarregando sua reserva de __*ki*__.
+O personagem, enquanto alvo de um disparo de nível 6 ou menor, pode absorve-lo, recarregando sua reserva de __*ki*__.
 
 - **Tipo**: Contra-ataque
 - **Alvos**: 1
@@ -2440,8 +2436,8 @@ O personagem, enquanto alvo de um disparo de nível 5 ou menor, pode absorve-lo,
 
 <br>
 
-### Nível 5: **Fortalecimento espiritual**
-O personagem eleva seu espirito de luta e recebe um bônus de +15 em todos os seus atributos físicos, pvs e + 5% no ataque e na defesa por rank. Custa 10 de ki.
+### Nível 5: **Fortalecimento espiritual***
+O personagem eleva seu espirito de luta e recebe um bônus.
 
 - **Tipo**: Buff
 - **Duração**: 1 cena
@@ -2456,8 +2452,6 @@ O personagem eleva seu espirito de luta e recebe um bônus de +15 em todos os se
   - _AGI_: **+15**
   - _DES_: **+15**
   - _PV_: **+15**
-  - Dano: **+15**
-
 
 <br>
 
@@ -2466,7 +2460,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **5D6+4** por rank
+- **Dano**: **5D6+5** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
@@ -2508,14 +2502,14 @@ O personagem aumenta o seu poder.
 
 <br>
 
-### Nível 3: **Ataque energético**
+### Nível 3: **Arma Espiritual***
 O personagem energiza os punhos causando dano.
 
 - **Tipo**: Buff
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+2** e **+1D6** por rank
+- **Dano**: **2D6+3** e **+1D6** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **2D6+4** e **+1D6** por rank
+- **Dano Ampliado**: **2D6+5** e **+1D6** por rank
 - **Custo Ampliado**: **4** _*ki*_ e **+1** por rank 
 
 <br>
@@ -2536,7 +2530,7 @@ O personagem pode abrir ou fechar portais que ligam o Ma-kai, Terra (Ningen-kai)
 
 <br>
 
-### Nível 5: **Aprimoramento espiritual**
+### Nível 5: **Aprimoramento espiritual***
 O personagem eleva seu espirito de luta e recebe um bônus.
 
 - **Tipo**: Buff
@@ -2560,7 +2554,7 @@ O personagem lança um raio contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+5** por rank
+- **Dano**: **4D6+6** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -2595,8 +2589,7 @@ O personagem lança uma aura hipnótica contra o adversário, paralisando-o enqu
 > O oponente precisa fazer um teste de _WILL_ para resistir ao efeito. 
 > A cada rodada a vítima pode fazer um teste de _WILL_ para resistir ao efeito.
 
-
-- **Tipo**: Debuff
+ **Tipo**: Debuff
 - **Alvos**: **1**
 - **Duração**: **1** cena
 - **Dano**: N/A
@@ -2638,7 +2631,7 @@ O personagem lança um raio na forma de um arco-íris contra o adversário causa
 
 <br>
 
-## Nível 1: Armadura dourada*
+## Nível 1: **Armadura dourada***
 O personagem cria uma armadura dourada aumentado o seu poder e recebendo um bônus _IP_, _PV_ e dano.
 
 - **Tipo**: Buff
@@ -2659,7 +2652,7 @@ Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca
 - **Tipo**: Contra-ataque
 - **Alvos**: 1
 - **Cooldown**: **3** rodadas
-- **Dano**: **2D6+3** por rank
+- **Dano**: **2D6+5** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank  
 - **Efeitos Adicionais**
   - Oponente recebe **-5%** por rank no teste de _AGI_
@@ -2667,7 +2660,7 @@ Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca
 <br>
 
 ### Nível 3: **Armadura azul***
-O personagem cria uma armadura dourada aumentado o seu poder e recebendo um bônus _IP_, _PV_ e dano.
+O personagem cria uma armadura azul aumentado o seu poder e recebendo um bônus _IP_, _PV_ e dano.
 
 - **Tipo**: Buff
 - **Duração**: 1 cena
@@ -2682,25 +2675,20 @@ O personagem cria uma armadura dourada aumentado o seu poder e recebendo um bôn
 <br>
 
 ### Nível 4: **Brilho sui seiki**
-O personagem invoca a aura dos anjos sobre si podendo voar, ganhando bônus de atributos e elevando seu rank. 
-
-acima mesmo no rank S Supremo. O bônus da Armadura azul passa a ser +3 em ip, dano e pv para cada ki gasto. Custa 7 de ki.
-
-com o dobro do deslocamento
-
+O personagem invoca a aura dos anjos sobre si podendo voar, aprimorando seu poder e sua resistência, e elevando o rank de suas doutrinas e aprimoramentos mesmo no rank S Supremo.
 
 - **Tipo**: Buff
 - **Duraçào**: 1 cena
 - **Alvos**: Si mesmo
 - **Dano**: N/A
-- **Custo**: **7** __*ki*__
+- **Custo**: **10** __*ki*__
 - **Bônus**
-  - _IP_: **+21**
-  - _PV_: **+21**
-  - Dano: **+21**
+  - _IP_: **+15**
+  - _PV_: **+15**
+  - Dano: **+15**
 - **Efeitos Adicionais**
   - Se desloca com **2** vezes o deslocamento
-  - Eleva **1** rank, mesmo no rank S Supremo
+  - Eleva as doutrinas e aprimooramentos em **1** rank, mesmo no rank S Supremo
 
 <br>
 
@@ -2709,7 +2697,7 @@ O personagem dispara uma rajada de energia sui seiki contra o adversário causan
 
 - **Tipo**: Disparo
 - **Alvos**: 1
-- **Dano**: **4D6+4** por rank 
+- **Dano**: **4D6+6** por rank 
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -2850,7 +2838,7 @@ O personagem fortifica seu braço com pedras que aumentam o seu dano.
 - **Dano**: **2D6** e **+3** por rank 
 - **Custo**: **2** __*ki*__ e **+1** por rank 
 - **Dano Ampliado**: **3D6** e **+3** por rank
-- **Custo Ampliado**: **2** __*ki*__ 
+- **Custo Ampliado**: **3** __*ki*__ 
 - **Dano Rank B**: **2D6+2** e **+1D6** por rank 
 - **Custo Rank B**: **3** __*ki*__ e **+1** por rank
 - **Dano Rank B Ampliado**: **3D6+2** e **+1D6** por rank
@@ -2882,12 +2870,11 @@ O personagem lança um disparo de pedras contra os adversários causando dano.
 ### Nível 5: **Oscilação shura maior***
 O personagem cria uma armadura de terra maior e recebe um bônus de _FOR_, _CONS_, _PV_ e _IP_.
 
-
 - **Tipo**: Buff
 - **Duração**: 1 cena
 - **Alvos**: Si mesmo
 - **Dano**: N/A
-- **Custo**: **5** __*ki*__
+- **Custo**: **10** __*ki*__
 - **Bônus**:
   - _CONS_: **+20**
   - _FOR_: **+20**
@@ -2914,13 +2901,13 @@ Opersonagem atingi o oponente com um encontrão causando dano.
 ### Nível 1: **Estilo de luta exótico***
 O personagem tem um estilo de luta diferenciado, este estilo de luta refinado concede um bônus de _ATQ__, _DEF__.
 
-Tipo: Buff
-Duração: 1 cena
-Alvos: Si mesmo
-Custo: 2 ki e +1 por rank
-Bônus
-ATQ: +5% por rank
-DEF: +5% por rank
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Custo**: 2 ki e +1 por rank
+- **Bônus**:
+  - ATQ: +5% por rank
+  - DEF: +5% por rank
 
 <br>
 
@@ -2984,7 +2971,7 @@ O personagem pode curar alguém ferido.
 - **Tipo**: Buff
 - **Duração**: 1 turno
 - **Alvos**: 1
-- **Custo**: **1** __*ki*__ e **+1** por rank  
+- **Custo**: **2** __*ki*__ e **+1** por rank  
 - **Cura**: **2D6** por rank.
 
 <br>
@@ -2995,7 +2982,7 @@ O personagem pode curar alguém ferido.
 - **Tipo**: Buff
 - **Duração**: 1 turno
 - **Alvos**: 1
-- **Custo**: **2** __*ki*__ e **+1** por rank  
+- **Custo**: **3** __*ki*__ e **+1** por rank  
 - **Cura**: **2D6+3** por rank.
 
 <br>
@@ -3064,7 +3051,7 @@ O personagem pode ressuscitar qualquer criatura com a permissão do Rei-kai.
 O personagem pode voar e tem o deslocamento potencializado. 
 
 - **Tipo**: Buff
-- **Duração**: Até aterrisar
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
 - **Dano**: N/A
 - **Custo**: **3** __*ki*__
@@ -3092,7 +3079,7 @@ Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca
 
 - **Tipo**: Contra-ataque
 - **Alvos**: 1
-- **Dano**: **3D6+4** por rank
+- **Dano**: **3D6+5** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank  
 - **Efeitos Adicionais**
   - Oponente recebe **-5%** por rank no teste de _AGI_
@@ -3105,15 +3092,15 @@ O personagem cria uma arma espiritual do Mei-kai que causa dano e pode ser poten
 - **Tipo**: Buff
 - **Duração**: 1 cena
 - **Alvos**: Si mesmo
-- **Dano**: **3D6+2** e **+1D6+1** por rank
+- **Dano**: **3D6+3** e **+1D6+1** por rank
 - **Custo**: **4*** __*ki*__ e **+1** por rank  
-- **Dano Ampliado**: **3D6+4** e **+1D6+1** por rank
+- **Dano Ampliado**: **3D6+5** e **+1D6+1** por rank
 - **Custo Ampliado**: **5*** __*ki*__ e **+1** por rank  
 
 <br>
 
 ### Nível 5: **Reflexo destrutivo**
-Quando o personagem for alvo de um disparo de nível 6 ou menor, ele pode absorvê-lo e depois manda-lo de volta contra o adversário causando o dano do próprio disparo. 
+Quando o personagem for alvo de um disparo de nível 7 ou menor, ele pode absorvê-lo e depois manda-lo de volta contra o adversário causando o dano do próprio disparo. 
 
 - **Tipo**: Disparo
 - **Alvos**: 1
@@ -3159,7 +3146,7 @@ O personagem quando ve qualquer doutrina pode copiá-la para usá-la durante a l
 O personagem faz a parte má de um ser aflorar e pode ser controlada pelo habitante do Mei-kai. Requer um teste difícil de _WILL_ para resistir ao efeito. A vítima não pode ser forçada a fazer uma ação suicida, caso seja forçada a dominação se dissipará. A duração do controle é de um dia. 
 
 - **Tipo**: Debuff
-- **Duração**: 1 cena
+- **Duração**: 1 dia
 - **Alvos**: 1
 - **Dano**: N/A
 - **Custo**: **9** __*ki*__.
@@ -3181,7 +3168,7 @@ O personagem cria uma ilusão de acordo com os sentimentos das vítimas, forçan
 O personagem lança uma rajada energética causando dano em área.
 
 - **Tipo**: Disparo
-- **Alvos**:  por rank+4
+- **Alvos**: **4** e **+1** por rank
 - **Dano**: **6D6+4** por rank. 
 - **Custo**: **7** __*ki*__ e **+1** por rank
 
