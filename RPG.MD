@@ -2262,32 +2262,85 @@ OBS (apenas para membros da elite do rei-kai).
 <br>
 
 ### Nível 1: **Voar***
-O personagem pode voar e tem o dobro do deslocamento. Custa 3 de ki.
+O personagem pode voar e tem o deslocamento potencializado. 
+
+- **Tipo**: Buff
+- **Duração**: Até aterrisar
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **3** __*ki*__
+- **Efeitos Adicionais**
+  - Se desloca com **2** vezes mais velocidade
 
 <br>
 
 ### Nível 2: **Energizar***
-O personagem aumenta o seu poder e recebe um bônus de +2 de ip e dano para cada ki gasto.
+O personagem aumenta o seu poder.
+
+- **Tipo**: Buff
+- **Alvos**: Si mesmo
+- **Duração**: 1 cena
+- **Custo**: **5** __*ki*__  
+- **Bônus**:
+  - _IP_: **+10**
+  - Dano: **+10** 
+  
 
 <br>
 
 ### Nível 3: **Ataque energético**
-O personagem energiza os punhos causando 2D6+2 de dano e +1D6 de dano por rank; ou amplia a energização causando 2D6+4 de dano e +1D6 de dano por rank a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem energiza os punhos causando dano.
+
+- **Tipo**: Buff
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+1D6** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank
+- **Custo Ampliado**: **4** _*ki*_ e **+1** por rank 
 
 <br>
 
 ### Nível 4: **Abrir/fechar portal**
-O personagem pode abrir ou fechar portais que ligam o Ma-kai, Terra (Ningen-kai), Rei-kai. Se o personagem desejar expandir o portal para monstros de categorias superiores passarem, leva uma semana para cada categoria a mais e se for para diminuir o portal para monstros de categoria inferiores passarem leva uma semana para cada categoria a menos. Caso haja ajuda de outros seres com o mesmo poder reduz a proporção em um dia por pessoa ajudando, no mínimo de um dia, precisa trabalhar pelo menos 10 horas por dia. Custa 10 de ki por dia. 
+O personagem pode abrir ou fechar portais que ligam o Ma-kai, Terra (Ningen-kai), Rei-kai. O portal se abre ou fecha gradativamente a cada período de **Canalização** (incrementando ou decrementando o rank do portal)
+
+> **Observações**   
+> 1. Ex.: Aumentar a abertura de um portal em que passam monstros do nível E para que monstros de nível D passem leva uma semana. Fechar um portal do nível D para o nível E leva o mesmo tempo.
+> 0. Caso haja ajuda de outros seres com o mesmo poder, esse tempo reduz seguindo uma proporção de um dia por pessoa ajudando (o tempo mínimo é de um dia).
+> 0. Cada dia leva em consideração um tempo de trabalho de 10 horas.
+
+  
+- **Canalização**: 1 semana por rank do portal
+- **Custo**: 10 _*ki*_ por dia.
+- **Efeitos Adicionais**
+  - O personagem abre um portal por onde monstros de rank igual ou menor a categoria do portal.
 
 <br>
 
 ### Nível 5: **Aprimoramento espiritual**
-O personagem eleva seu espirito de luta e recebe um bônus de +10 em todos os seus atributos físicos, +30 pvs e + 5% no ataque e na defesa por rank. Custa 10 de ki.
+O personagem eleva seu espirito de luta e recebe um bônus.
+
+ - **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **10** __*ki*__
+- **Bônus**:
+  - _ATQ_: **+5%** por rank
+  - _DEF_: **+5%** por rank
+  - _CONS_: **+10**
+  - _FOR_: **+10**
+  - _AGI_: **+10**
+  - _PV_: **+30**
 
 <br>
 
 ### Nível 6: **Raio maior**
-O personagem lança um raio contra o adversário causando 4D6+5 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança um raio contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **4D6+5** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -2317,7 +2370,7 @@ O personagem lança um espectro contra o adversário causando dano.
 ### Nível 3: **Aurora hipnótica**
 O personagem lança uma aura hipnótica contra o adversário, paralisando-o enquanto o poder durar.
 
- > **Observações**  
+> **Observações**  
 > O oponente precisa fazer um teste de _WILL_ para resistir ao efeito. 
 > A cada rodada a vítima pode fazer um teste de _WILL_ para resistir ao efeito.
 
@@ -2334,8 +2387,6 @@ O personagem lança uma aura hipnótica contra o adversário, paralisando-o enqu
 
 ### Nível 4: **Arma radiante***
 O personagem cria uma espada que causa dano.
-
-2D6+2 de dano e +1d6+1 de dano por rank; ou cria uma espada mais forte que causa 2D6+4 de dano e +1D6+1 de dano por rank a um custo adicional de +1 de ki. Custa 5 de ki +1 de ki para cada rank acima do rank E.
 
 - **Tipo**: Buff
 - **Alvos**: Si mesmo
@@ -2738,7 +2789,7 @@ O personagem pode ressuscitar qualquer criatura com a permissão do Rei-kai.
 O personagem pode voar e tem o deslocamento potencializado. 
 
 - **Tipo**: Buff
-- **Duraçào**: Até aterrisar
+- **Duração**: Até aterrisar
 - **Alvos**: Si mesmo
 - **Dano**: N/A
 - **Custo**: **3** __*ki*__
