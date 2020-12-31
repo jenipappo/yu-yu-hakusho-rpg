@@ -580,7 +580,7 @@ O personagem só pode usar esta técnica para tirar a parte maligna de uma pesso
 <br>
 
 ### Nível 6: **Reflexo destrutivo reiko**
-O personagem quando for alvo de um disparo de até nível 6, pode absorvê-lo e depois manda-lo de volta contra o adversário, causando o dano do próprio disparo e absorvendo **1** __*ki*__ por nível do poder do disparo. 
+O personagem quando for alvo de um disparo de até nível 7, pode absorvê-lo e depois manda-lo de volta contra o adversário, causando o dano do próprio disparo e absorvendo **1** __*ki*__ por nível do poder do disparo. 
 
 - **Tipo**: Disparo
 - **Alvos**: 1
@@ -614,7 +614,7 @@ Para se tornar um mestre do Heikohadouken, o personagem precisa dominar a bola e
 ## Reiken
 
 ### Nível 1: **Espada simples***
-O personagem cria uma espada que causa dano por rank; ou cria uma espada mais a um custo adicional. 
+O personagem cria uma espada que causa dano por rank; ou cria uma espada mais poderosa a um custo adicional. 
 
 - **Tipo**: Buff
 - **Duração**: 1 cena
@@ -632,7 +632,7 @@ Este nível aumenta a Espada simples para atacar até **6** metros de distância
 - **Tipo**: Buff
 - **Duração**: 1 cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6** e **+3** por rank 
+- **Dano**: **3D6** e **+3** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
@@ -723,7 +723,7 @@ O personagem cria uma arma de vegetal que amplifica seu dano; pode ser potencial
 - **Custo Ampliado**: **3** __*ki*__ e **+1** por rank
 - **Dano Rank C**: **2D6+2** e **+1D6** por rank 
 - **Custo Rank C**: **3** __*ki*__ e **+1** por rank
-- **Dano Rank C Ampliado**: **2D6+2** e **+4** por rank
+- **Dano Rank C Ampliado**: **2D6+4** e **+1D6** por rank
 - **Custo Rank C Ampliado**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -775,6 +775,9 @@ O personagem implanta a planta da morte no oponente, o paralisando após um peri
 
 ### Nível 5: **Shoku you shokubutsu***
 O personagem invoca a planta demoníaca que causa dano atacando oponentes e/ou quem se mexer, exceto aliados. 
+
+> **Observações**
+> 1.  A planta demoníaca usa a ação de ataque do invocador para atacar.
 
 - **Tipo**: Invocação
 - **Alvos**: N/A
@@ -864,7 +867,7 @@ O personagem lança um disparo de chamas negras contra o adversário causando da
 <br>
 
 ### Nível 4: **Ja ou en satsu Ken***
-O personagem cria uma espada de chamas que causa dano; ou cria uma espada mais forte que causa 2D6+4 de dano e +1D6+1 de dano por rank, a um custo adicional de +1 de ki. Custa 5 de ki +1 de ki para cada rank acima do rank E.
+O personagem cria uma espada de chamas negras que causa dano, podendo ser potencializada por um custo adicional.
 
 - **Tipo**: Buff
 - **Duração**: 1 cena
@@ -880,7 +883,7 @@ O personagem cria uma espada de chamas que causa dano; ou cria uma espada mais f
 O personagem invoca um dragão negro contra o adversário causando dano, este fica mais forte se invocado no mundo das trevas. O oponente pode tentar devolver o dragão de volta para o invocador ao invés de tentar se esquivar. 
 
 > **Observações**  
-> 1.  Para devolver o dragão ao invocador ao invés de esquivar, o oponente precisa de um acerto crítico no teste de resistência de constituição no máximo de 25 de _CONS_.
+> 1.  Para devolver o dragão ao invocador ao invés de esquivar, o oponente precisa ser bem-sucedido num teste difícil de _CONS_.
 > 2. Ao receber o dragão devolvido pelo oponente, o invocador do dragão negro leva 10% do dano sem direito a absorção de dano.
 > 2.1 A partir do rank B o dragão estará perfeito e o controlador não receberá dano.
 
@@ -1005,7 +1008,7 @@ O personagem aumenta o seu poder e recebe um bônus.
 - **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
-  - _CONS_: **+15**
+  - _CONS_: **+20**
   - _FOR_: **+20**
   - _PV_: **+15**
   - _IP_: **+15**
@@ -1096,20 +1099,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 <br>
 
-### Nível 3: **Soco do trovão***
-O personagem energiza raios nas mãos que causam dano.
-
-- **Tipo**: Buff
-- **Duração**: 1 cena
-- **Alvos**: Si mesmo
-- **Dano**: **2D6+2** e **+1D6** por rank 
-- **Custo**: **3** __*ki*__ e **+1** por rank 
-- **Dano Ampliado**: **2D6+4** e **+1D6** por rank
-- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank 
-
-<br>
-
-### Nível 4: **Kakeru***
+### Nível 3: **Kakeru***
 O personagem cria duplicatas e recebe um bônus.
 
 > **Observações**  
@@ -1125,10 +1115,22 @@ O personagem cria duplicatas e recebe um bônus.
 - **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**
-  - _PV_: **+35**
-  - Dano corpo a corpo (garras e dentes): **2D6+1**
+  - _PV_: **+25**
 - **Efeitos Adicionais**
   - Ao usar essa técnica o personagem recebe o aprimoramento ataques múltiplos.
+
+<br>
+
+### Nível 4: **Soco do trovão***
+O personagem energiza raios nas mãos que causam dano.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+1D6+1** por rank 
+- **Custo**: **4** __*ki*__ e **+1** por rank 
+- **Dano Ampliado**: **2D6+4** e **+1D6+1** por rank
+- **Custo Ampliado**: **5** __*ki*__ e **+1** por rank 
 
 <br>
 
@@ -1183,7 +1185,7 @@ O personagem prende o oponente com os yo-yos e o arremessa contra o chão causan
 <br>
 
 ### Nível 3: **Yo-yo demoníaco***
-O personagem potencializa os yo-yos causando dano, podende ser potencializada por um custo adicional.
+O personagem potencializa os yo-yos causando dano, podendo ser potencializada por um custo adicional.
 
 - **Tipo**: Buff
 - **Duração**: 1 cena
@@ -1261,7 +1263,7 @@ O personagem lança um disparo contra o adversário causando dano.
 <br>
 
 ### Nível 4: **Encolhimento***
-O personagem faz uma reza, após seu termino, o oponente encolhe. Requer um teste bem-sucedido de _Conhecimento de Doutrinas_ para o personagem tapar os ouvidos e o efeito se voltar contra o usuário. 
+O personagem faz uma reza, após seu termino, o oponente encolhe. Requer um teste bem-sucedido de _Conhecimento de Doutrinas_ para o personagem tapar os ouvidos e o efeito se voltar contra o usuário. Caso o personagem conheça a técnica não será preciso nenhum teste para tapar os ouvidos. 
 
 > **Observações**
 > Pode ser utilizado novamente num alvo afetado para desfazer o efeito.
