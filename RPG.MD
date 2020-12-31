@@ -1715,7 +1715,7 @@ O personagem aumenta de forma considerável o seu poder tornando seu corpo mais 
 <br>
 
 ### Nível 5: **Golpe devastador**
-O personagem energiza sua mão, aonde ele tocar causará um grande estrago.
+O personagem energiza sua mão, aonde ele tocar causará um grande onda de destruição.
 
 - **Tipo**: Disparo
 - **Alvos**: 1
@@ -1727,7 +1727,7 @@ O personagem energiza sua mão, aonde ele tocar causará um grande estrago.
 ## Adaptação
 
 > **Observações**  
-> Humanos não podem ter este poder, criar um bolinho leva 5 turnos. O personagem pode confeccionar um bolinho das trevas que tanto servem para memorizar golpes, quanto servem para as transformações. O número máximo de bolinhos que podem ser criados e carregados são 3 e +1 para cada rank acima do rank E.
+> Humanos não podem ter este poder, criar um bolinho leva 5 turnos. O personagem pode confeccionar um bolinho das trevas que tanto servem para memorizar golpes, quanto servem para as transformações. O número máximo de bolinhos que podem ser criados e carregados são 2 e +1 por rank.
 
 ### Nível 1: **Resistência***
 Após o personagem ser atacado ele pode comer um bolinho e ficar resistente ao golpe, absorvendo metade do dano. 
@@ -1827,7 +1827,7 @@ O personagem lança várias sombras contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: 1
 - **Dano**: **2D6+3** por rank
-- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -1876,7 +1876,7 @@ O personagem faz sua espada emitir um terrível som fazendo monstros de rank E d
 
 - **Tipo**: Debuff
 - **Duração**: 1 cena (ou uma rodada por rank se bem sucedido no teste de _WILL_)
-- **Alvos**: Si mesmo
+- **Alvos**: todos os oponentes.
 - **Dano**: N/A
 - **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
@@ -1964,7 +1964,15 @@ O personagem lança-se contra o adversário causando uma grande explosão.
 
 ## Battle aura
 ### Nível 1: **Voar***
-O personagem pode voar e tem o dobro do deslocamento, custa 3 de ki. 
+O personagem pode voar e tem o dobro do deslocamento. 
+
+ **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **3** __*ki*__ 
+- **Efeitos Adicionais**
+  - O personagem pode voar e tem o dobro do deslocamento.
 
 <br>
 
@@ -1976,7 +1984,7 @@ O personagem cria uma arma em forma de machado.
 - **Alvos**: Si mesmo
 - **Dano**: **3D6** e **+3** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Rank B**: **3D6 +2** e **+1D6** por rank
+- **Dano Rank B**: **3D6+2** e **+1D6** por rank
 - **Custo Rank B**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -2072,12 +2080,12 @@ O personagem cria uma arma.
 - **Dano Rank C**: **2D6 +3** e **+3** por rank
 - **Custo Rank C**: **3** __*ki*__ e **+1** por rank
 - **Dano Ampliado**: **3D6 +3** e **+3** por rank 
-- **Custo Ampliado**: **5** __*ki*__ e **+1** por rank
+- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 3: **Arma múltipla**
-O personagem estica partes de seu corpo contra os adversários, causando 3D6+3 de dano por rank, o número de alvos máximo é igual ao rank+4. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem cria diversos tentaculos a partir do próprio corpo que vão de encontro aos adversários causando dano.
 
 - **Tipo**: Buff
 - **Duração**: 1 turno
