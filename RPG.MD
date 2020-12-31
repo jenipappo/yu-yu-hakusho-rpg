@@ -2175,6 +2175,8 @@ O personagem aumenta o seu poder assumindo a forma completa de obelisco, e receb
 ### Nível 6: **Absorção de energia vital***
 Os monstros de rank E que estiverem na distância de 30 metros por rank morrem e suas almas são absorvidas, e para cada alma absorvida o personagem recupera 3 de ki e de pv. Seus golpes físicos passam a causar 3D6 de dano. Custa 7 de ki.
 
+<br>
+<br>
 
 ## Lei shu
 
@@ -2185,28 +2187,63 @@ OBS (apenas para NPCS).
 <br>
 
 ### Nível 1: **Contra-ataque**
-Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um golpe, causando 1D6+3 de dano por rank. Requer um teste bem-sucedido de agilidade com um redutor de -5% por rank para levar metade do dano. Este recurso só pode ser utilizado uma vez a cada 3 rodadas. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-atacar com um golpe
+> **Observações**   
+> O oponente pode pode fazer um teste de _AGI_ para absorver metade do dano.
+
+- **Tipo**: Contra-ataque
+- **Alvos**: 1
+- **Cooldown**: **3** rodadas
+- **Dano**: **1D6 +3** por rank
+- **Custo**: **2** __*ki*__ e **+1** por rank  
+- **Efeitos Adicionais**
+  - Oponente recebe **-5%** por rank no teste de _AGI_
 
 <br>
 
 ### Nível 2: **Bola arremessável lei shu**
-O personagem lança uma bola contra o adversário causando 2D6+4 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança uma bola contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **2D6+4** por rank
+- **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 3: **Bola lei shu***
-O personagem cria bolas nas mãos que causam 2D6+2 de dano e +1D6 de dano por rank; ou cria bolas mais fortes que causam 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem cria bolas nas mãos que amplificam seu dano corpo a corpo.
+ 
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+1D6** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank 
+- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 4: **Granada lei shu**
-O personagem lança várias bolas contra seus adversários causando 3D6+4 de dano por rank, o número máximo de oponentes é igual ao rank+4. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança várias bolas contra seus adversários causando dano a múltiplos alvos.
+
+- **Tipo**: Disparo
+- **Alvos**: **4** alvos e **+1** por rank
+- **Dano**: **3D6+4** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 5: **Gigante bola lei shu**
-O personagem lança uma grande bola contra o adversário causando 4D6+4 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança uma grande bola contra o adversário causando dano.
 
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **4D6+4** por rank 
+- **Custo**: **4** __*ki*__ e **+1** por rank
+
+
+<br>
 <br>
 
 ## Rahiph Mokuro
