@@ -2242,7 +2242,6 @@ O personagem lança uma grande bola contra o adversário causando dano.
 - **Dano**: **4D6+4** por rank 
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
-
 <br>
 <br>
 
