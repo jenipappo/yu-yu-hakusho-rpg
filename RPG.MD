@@ -700,7 +700,7 @@ O personagem cria uma espada que causa dano e pode atacar o adversário com alca
 <br>
 <br>
 
-## Plantas demoníacas
+## Plantas demoníacas 
 <br>
 
 > **Observações**  
@@ -2281,7 +2281,19 @@ O personagem cria uma armadura de terra e recebe um bônus de _FOR_, _CONS_ e _I
 <br>
 
 ### Nível 2: **Fortificação shura***
-O personagem potencializa seu dano, porém é necessário que alguma oscilação shura esteja ativa, causando 2D6 de dano e +3 de dano por rank; ou 3D6 de dano e +3 de dano por rank, a um custo adicional de +2 de ki. Custa 3 de ki e +1 de ki para cada rank acima do rank E. A partir do rank B, o bônus oriundo desta doutrina passa a ser 2D6+2 de dano e +1D6 de dano por rank; ou 3D6+2 de dano e +1D6 de dano por rank a um custo adicional de +2 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+O personagem fortifica seu braço com pedras que aumentam o seu dano. 
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6** e **+3** por rank 
+- **Custo**: **2** __*ki*__ e **+1** por rank 
+- **Dano Ampliado**: **3D6** e **+3** por rank
+- **Custo Ampliado**: **2** __*ki*__ 
+- **Dano Rank B**: **2D6+2** e **+1D6** por rank 
+- **Custo Rank B**: **3** __*ki*__ e **+1** por rank
+- **Dano Rank B Ampliado**: **3D6+2** e **+1D6** por rank
+- **Custo Rank B Ampliado**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
