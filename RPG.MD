@@ -1723,44 +1723,148 @@ O personagem energiza sua mão, aonde ele tocar causará um grande estrago.
 OBS (humanos não podem ter este poder, criar um bolinho leva 5 turnos. O personagem pode confeccionar um bolinho das trevas que tanto servem para memorizar golpes, quanto servem para as transformações. O número máximo de bolinhos que podem ser criados e carregados são 3 e +1 para cada rank acima do rank E).
 
 ### Nível 1: **Resistência***
-Após o personagem ser atacada ela pode comer um bolinho e ficar resistente ao golpe, podendo absorver metade do dano, a regra de dano mínimo não é eliminada, golpes comuns de luta corpo a corpo sem doutrinas não pode ser memorizados. Custa 3 de ki.
+Após o personagem ser atacado ele pode comer um bolinho e ficar resistente ao golpe, absorvendo metade do dano. 
+
+> **Observações**  
+> 1. A regra de dano mínimo não é eliminada. 
+> 0. Golpes comuns de luta corpo a corpo sem doutrinas não pode ser memorizados.
+
+- **Custo**: **3** __*ki*__
 
 <br>
 
 ### Nível 2: **Invulnerabilidade***
-Após o personagem ser atacada ela pode comer um bolinho e ficar imune ao golpe, podendo absorver todo o dano, a regra de dano mínimo não é eliminada, golpes comuns de luta corpo a corpo sem doutrinas não pode ser memorizados. Custa 4 de ki.
+Após o personagem ser atacado ele pode comer um bolinho e ficar imune ao golpe, absorvendo todo o dano.
 
+> **Observações**  
+> 1. A regra de dano mínimo não é eliminada. 
+> 0. Golpes comuns de luta corpo a corpo sem doutrinas não pode ser memorizados.
+
+- **Custo**: **4** __*ki*__
+ 
 <br>
 
 ### Nível 3: **Macaco monstro das trevas***
-O personagem após comer o bolinho se transforma em um macaco monstro do mundo das trevas, e recebe um bônus de +10 em força, constituição, +5 pvs e seus golpes físicos causam 2D6 de dano. Custa 5 de ki para se transformar. 
+O personagem após comer o bolinho se transforma em um macaco monstro do mundo das trevas, recebendo bônus durante a luta.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **5** __*ki*__
+- **Bônus**:
+  - _CONS_: **+10**
+  - _FOR_: **+10**
+  - _PV_: **+5**
+  - Dano corpo a corpo (desamardo): **+2D6**
+
+<br>
 
 ### Nível 4: **Faisão das trevas***
-O personagem após comer o bolinho se transforma em um faisão das trevas, e recebe um bônus de +10 em todos os atributos físicos, pvs e pode voar e seus golpes físicos causam 2D6+1 de dano. Custa 10 de ki para se transformar.
+O personagem após comer o bolinho se transforma em um faisão das trevas, recebendo bônus durante a luta.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **10** __*ki*__
+- **Bônus**:
+  - _CONS_: **+10**
+  - _FOR_: **+10**
+  - _AGI_: **+10**
+  - _DES_: **+10**
+  - _PV_: **+10**
+  - Dano corpo a corpo (desamardo): **+2D6+1**
+  - **Efeitos Adicionais**
+  - Recebe o aprimoramento Vôo
+  
+  <br>
 
 ### Nível 5: **Cão monstro das trevas***
-O personagem após comer o bolinho se transforma em um Cão monstro das trevas, e recebe um bônus de +15 em todos os atributos físicos, +20 pvs e +10 de ip, e seus golpes físicos causam 2D6+2 de dano. Custa 15 de ki para se transformar.
+O personagem após comer o bolinho se transforma em um Cão monstro das trevas, recebendo bônus durante a luta.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: 15
+- **Bônus**:
+  - _CONS_: **+15**
+  - _FOR_: **+15**
+  - _AGI_: **+15**
+  - _DES_: **+15**
+  - _PV_: **+20**
+  - _IP_: **+10**
+  - Dano corpo a corpo (desamardo): **+2D6+2**
 
 <br>
 
 ## Sombras demoníacas
+
 ### Nível 1: **Projeção entre mundos**
-O personagem invoca o manto da morte e caso o oponente seja atingido pelo manto da morte ele é tele transportado para um lugar aleatório, teste de agilidade para não ser atingido pelo manto. Custa 3 de ki.
+O personagem invoca o manto da morte e caso o oponente seja atingido por esse, é teletransportado para um lugar aleatório num raio de 20km.
+
+> **Observações**  
+> 1. Este ataque funciona semelhante como um disparo, com a diferença que o resultado do teste de _AGI_ indica se o alvo será ou não teletransportado.
+
+- **Tipo**: Disparo
+- **Duração**: N/A
+- **Alvos**: **1**
+- **Dano**: N/A
+- **Custo**: **3** __*ki*__
 
 <br>
 
 ### Nível 2: **Manipulação de sombras**
-O personagem lança várias sombras contra o adversário causando 2D6+3 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+O personagem lança várias sombras contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **2D6+3** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
+
+<br>
 
 ### Nível 3: **Espada negra***
-O personagem cria uma espada que causa 2D6+2 de dano e +1D6 de dano por rank; ou cria um espada mais forte que causa 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki +1 de ki para cada rank acima do rank E.
+O personagem cria uma espada que causa dano por rank; ou cria uma espada mais a um custo adicional. 
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+1D6** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank 
+- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
+
+<br>
 
 ### Nível 4: **Barreira shobako**
-O personagem cria uma barreira de ondas que evita o dano de disparos de nível 5 ou menor, este poder só pode ser usado uma vez a cada três turnos. Custa o ki do disparo +3.
+O personagem cria uma barreira de ondas que evita o dano de disparos de nível 5 ou menor. 
 
+- **Tipo**: Buff
+- **Alvos**: Si mesmo
+- **Cooldown**: **3** rodadas
+- **Dano**: N/A
+- **Custo**: Equivalente ao custo de __*ki*__ do disparo original **+3**
+
+<b>
+ 
 ### Nível 5: **Possessão de sombras***
-O personagem se mescla as sombras e recebe um bônus de +15 em força e constituição, +20 de pvs e +10 de ip. Custa 10 de ki.
+O personagem se mescla as sombras e recebendo bônus durante a cena.
 
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **10** __*ki*__
+- **Bônus**:
+  - _CONS_: **+15**
+  - _FOR_: **+15**
+   - _PV_: **+20**
+  - _IP_: **+10**
+ 
+ <br>
+ 
 ### Nível 6: **Espada sonora das trevas***
 O personagem faz sua espada emitir um terrível som fazendo monstros de rank E desmaiarem, e os seus oponentes recebam um redutor de -5% de chance de acerto no ataque e na defesa e nos testes de resistência por rank. Requer teste bem-sucedido de Will para o efeito durar apenas uma rodada por rank. Custa 5 de ki +1 de ki para cada rank acima do rank E.
 
@@ -2147,16 +2251,6 @@ O portador deste poder recebe um bônus passivo de +10 na iniciativa. O personag
 ### Nível 1: **Oscilação shura***
 O personagem cria uma armadura de terra e recebe um bônus de +1 de força, constituição e ip para cada ki gasto.
 
-- **Tipo**: Buff
-- **Duração**: 1 cena
-- **Alvos**: Si mesmo
-- **Dano**: N/A
-- **Custo**: **5** __*ki*__
-- **Bônus**:
-  - _CONS_: **+5**
-  - _FOR_: **+5**
-  - _IP_: **+5**
-
 <br>
 
 ### Nível 2: **Fortificação shura***
@@ -2184,64 +2278,30 @@ Primeiro é necessário usar a oscilação shura maior para poder usar esta téc
 ## Espadachim das trevas
 
 ### Nível 1: **Estilo de luta exótico***
-O personagem tem um estilo de luta diferenciado, este estilo de luta refinado concede um bônus de _ATQ__, _DEF__.
-
-Tipo: Buff
-Duração: 1 cena
-Alvos: Si mesmo
-Custo: 2 ki e +1 por rank
-Bônus
-ATQ: +5% por rank
-DEF: +5% por rank
+O personagem tem um estilo de luta diferenciado que lhe cede um bônus de +5% de chance de acerto no ataque e na defesa por rank. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
 
 <br>
 
 ### Nível 2: **Lançar bambolê das trevas***
-O personagem lança o Bambolê das trevas contra o adversário causando dano.
-
-- **Tipo**: Disparo
-- **Alvos**:  1
-- **Dano**: **3D6** por rank. 
-- **Custo**: **2** __*ki*__ e **+1** por rank
+O personagem lança o Bambolê das trevas contra o adversário causando 3D6 de dano por rank, que volta no mesmo turno. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
 
 <br>
 
 ### Nível 3: **Bambolê das trevas***
-O personagem amplia o dano Bambolê das trevas que causa dano e pode ser potencializado por um custo adicional de __*ki*__. 
-
-- **Tipo**: Buff
-- **Duração**: 1 cena
-- **Alvos**: Si mesmo
-- **Dano**: **2D6+2** e **+1D6** por rank
-- **Custo**: **3*** __*ki*__ e **+1** por rank  
-- **Dano Ampliado**: **2D6+4** e **+1D6** por rank
-- **Custo Ampliado**: **4*** __*ki*__ e **+1** por rank  
+O personagem amplia o dano Bambolê das trevas causando 2D6+2 de dano e +1D6 de dano por rank; ou amplia ainda mais o dano do Bambolê das trevas causando 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
 
 <br>
 
-### Nível 4: **Redemoinho das trevas**
-O personagem quando for alvo de um disparo de nível 5 ou menor, ele pode neutralizá-lo fazendo um redemoinho em volta de si mesmo. 
-
-- **Tipo**: Disparo
-- **Alvos**: 1
-- **Cooldown**: **3** rodadas
-- **Dano**: Equivalente ao dano do disparo inicial
-- **Custo**: Equivalente ao custo de __*ki*__ do disparo original **+3**
+O personagem quando for alvo de um disparo de nível 4 ou menor ele pode evitá-lo, este poder só pode ser usado uma vez a cada 3 rodadas. Custa o ki do disparo +3.
 
 <br>
 
 ### Nível 5: **Turbilhão das trevas**
-O personagem cria um turbilhão em volta de si mesmo e aplica uma investida contra o adversário causando dano.
-
-- **Tipo**: Disparo
-- **Alvos**:  por rank+4
-- **Dano**: **4D6+3** por rank. 
-- **Custo**: **4** __*ki*__ e **+1** por rank
+O personagem lança um disparo contra o adversário causando 4D6+3 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
 
 <br>
 
 ## Cura espiritual
-
 <br>
 
 OBS (o pré-requisito desta doutrina é ter a perícia medicina em pelo menos 40%).
@@ -2250,75 +2310,32 @@ OBS (Esta doutrina não é apropriada para o combate, a ativação deste poder d
 <br>
 
 ### Nível 1: **Cura**
-O personagem pode curar alguém ferido.
-
-- **Tipo**: Buff
-- **Duração**: 1 turno
-- **Alvos**: 1
-- **Custo**: **1** __*ki*__ e **+1** por rank  
-- **Cura**: **2D6** por rank.
+O personagem pode curar 2D6 de pvs por rank. Custa 2 de ki e +1 de ki para cada rank acima do rank E.
 
 <br>
 
 ### Nível 2: **Cura 2**
-O personagem pode curar alguém ferido.
-
-- **Tipo**: Buff
-- **Duração**: 1 turno
-- **Alvos**: 1
-- **Custo**: **2** __*ki*__ e **+1** por rank  
-- **Cura**: **2D6+3** por rank.
+O personagem pode curar 2D6+3 de pv por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
 
 <br>
 
 ### Nível 3: **Cura 3**
 O personagem pode curar doenças graves e outros efeitos como envenenamento. Custa 4 de ki.
 
-- **Tipo**: Buff
-- **Duração**: 1 turno
-- **Alvos**: 1
-- **Custo**: **4** __*ki*__   
-- **Cura**: N/A
-- **Efeitos Adicionais**
-  - Cura doenças graves e outros efeitos como envenenamento
-
 <br>
 
 ### Nível 4: **Cura 4**
-O personagem pode curar alguém ferido.
-
-- **Tipo**: Buff
-- **Duração**: 1 turno
-- **Alvos**: 1
-- **Custo**: **4** __*ki*__ e **+1** por rank  
-- **Cura**: **3D6+3** por rank.
+O personagem pode curar 3D6+3 de pv por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
 
 <br>
 
 ### Nível 5: **Cura 5**
-O personagem pode curar alguém ferido.
-
-- **Tipo**: Buff
-- **Duração**: 1 turno
-- **Alvos**: 1
-- **Custo**: **5** __*ki*__ e **+1** por rank  
-- **Cura**: **4D6+3** por rank.
+O personagem pode curar 4D6 +3 de pv por rank. Custa 6 de ki e +1 de ki para cada rank acima do rank E.
 
 <br>
 
 ### Nível 6: **Ressurreição**
-O personagem pode ressuscitar qualquer criatura com a permissão do Rei-kai.
-
-> **Observações**  
-> 1.  O alvo ressuscita com **100%** __*PV*__ e __*ki*__.
-
-- **Tipo**: Buff
-- **Duração**: 1 turno
-- **Alvos**: 1
-- **Custo**: **100%** __*ki*__   
-- **Cura**: N/A
-- **Efeitos Adicionais**
-  - Ressucita o alvo
+O personagem pode ressuscitar qualquer criatura com a permissão do Rei-kai, a criatura ressuscita com todos os pvs e ki, o personagem que vai usar a ressurreição precisa estar com todo o seu ki. Custa todo o ki. 
 
 <br>
 
@@ -2384,7 +2401,7 @@ O personagem cria uma arma espiritual do Mei-kai que causa dano e pode ser poten
 <br>
 
 ### Nível 5: **Reflexo destrutivo**
-O personagem quando for alvo de um disparo de até nível 6, ele pode absorvê-lo e depois manda-lo de volta contra o adversário causando o dano do próprio disparo. 
+Quando o personagem for alvo de um disparo de nível 6 ou menor, ele pode absorvê-lo e depois manda-lo de volta contra o adversário causando o dano do próprio disparo. 
 
 - **Tipo**: Disparo
 - **Alvos**: 1
