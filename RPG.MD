@@ -491,7 +491,7 @@ O personagem é sádico e gosta de torturar as pessoas e fazê-las sofrer, apena
 > 1. Doutrinas marcadas com `*`, duram todo combate ou cena.  
 > 0. O campo de fogo dissipa o campo de gelo e vice-versa, sendo necessário reativar novamente um dos campos.  
 > 0. O tamanho dos campos, criados pelas doutrinas e aprimoramentos, tem um raio de 25 metros por rank e uma altura de 5 metros por rank, o campo acompanha o personagem.
-> 0. Todos os disparos causam +XD6+Y de dano, onde X é igual quantidade de dados e Y é igual ao dano base da doutrina. Exemplo: uma Grande Bola de Fogo causa 1D6+16 de dano por rank, no rank E ela causaria 2D6+32 de dano, no rank D causaria 3D6+48 de dano, no rank C causaria 4D6+64 de dano e assim sucessivamente).
+> 0. Todos os disparos causam +XD6+Y de dano, onde X é igual quantidade de dados e Y é igual ao dano base da doutrina. Exemplo: uma Grande Bola de Fogo causa 1D6+16 de dano por rank, ela causaria 2D6+32 de dano no rank E, causaria 3D6+48 de dano no rank D. A partir do rank do rank C, todos os disparos causam +3XD6+Y de dano onde X é igual quantidade de dados e Y é igual ao dano base da doutrina. Exemplo: uma Grande Bola de Fogo (no rank C) causaria 5D6+64 de dano, a doutrrina causaria 6D6+80 de dano no rank A, e assim sucessivamente.
 
 <br>
 <br>
