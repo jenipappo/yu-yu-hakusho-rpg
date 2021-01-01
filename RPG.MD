@@ -273,10 +273,10 @@ Ex.: um personagem que tenha duas doutrinas que aumentam o _IP_, uma dessas dout
 Este nível é perfeito para aventuras no Mei-Kai onde tem monstros terríveis, e para que os personagens tenham um nível a mais para ser alcançado, neste nível o personagem ganha +1 ponto de aprimoramento e doutrina, +3 pontos de atributos, +9 pontos de __*ki*__, +18 _PVs_, +75 pontos de perícias, e as doutrinas são elevadas a um rank acima mesmo no rank S, o rank S Supremo é considerado outro rank, trate esta evolução como 3 evoluções normais para poder fazer a ficha do personagem. 
 
 ### **Força 50**
-Com um simples movimento o personagem pode deslocar o ar em direção ao seu oponente causando uma quantidade de dano igual ao dano de seu golpe físico, teste de agilidade para levar metade do dano, o personagem quando for atingido com um disparo pode fazer o teste de resistência usando sua força em vez de sua agilidade para sofrer metade do dano.
+O personagem pode atacar o adversário a 3 metros de distância por rank, deslocando o ar contra ele com sua imensa força; ganha o aprimoramento duro de matar. O personagem quando for atingido com um disparo pode fazer o teste de resistência usando sua força em vez de sua agilidade para sofrer metade do dano.
 
 ### **Constituição 50**
-O personagem recupera 1 _PV_ por turno, ganha o aprimoramento duro de matar, o personagem quando for atingido com um disparo pode fazer o teste de resistência usando sua constituição em vez de sua agilidade para sofrer metade do dano.
+O personagem regenera 2 _PV_ por turno, ganha o aprimoramento duro de matar. O personagem quando for atingido com um disparo pode fazer o teste de resistência usando sua constituição em vez de sua agilidade para sofrer metade do dano.
 
 ### **Agilidade 50**
 O personagem ganha um ataque adicional.
@@ -401,13 +401,13 @@ O personagem pode executar um golpe adicional por rank, caso um dos golpes múlt
 O personagem pode sentir o __*ki*__ das pessoas em um raio de 100 metros por rank e ter uma estimativa do poder dessas pessoas, além de poder sentir o tipo de __*ki*__ se é maligno ou benigno.
 
 ## Resistência espiritual* (1 ponto)
-O personagem recebe um bônus de +1 de _IP_ por __*ki*__ gasto, podendo chegar até +5 de _IP_; a partir do rank C o bônus pode chegar até +10 de _IP_.
+O personagem recebe um bônus de _IP_: **+5**, ao **Custo**: **5** __*ki*__; a partir do rank C, o personagem recebe um bônus de _IP_: **+10**, ao **Custo**: **10** __*ki*__; a partir do rank A, o personagem recebe um bônus de _IP_: **+15**, ao **Custo**: **10** __*ki*__.
 
 ## Força espiritual* (1 ponto)
-O personagem recebe um bônus de +1 de dano por __*ki*__ gasto, podendo chegar até +5 de dano, a partir do rank C o bônus pode chegar até +10 de dano.
+O personagem recebe um bônus de _DANO_: **+5**, ao **Custo**: **5** __*ki*__; a partir do rank C, o personagem recebe um bônus de _DANO_: **+10**, ao **Custo**: **10** __*ki*__.
 
 ## Aura espiritual* (3 pontos)
-O personagem recebe um bônus de +1 de _IP_ e dano por __*ki*__ gasto, podendo chegar até +5 de _IP_ e dano, a partir do rank C o bônus pode chegar até +10 de _IP_ e dano.
+O personagem recebe um bônus de _IP_: **+5** e  _DANO_: **+5**, ao **Custo**: **5** __*ki*__; a partir do rank C, o personagem recebe um bônus de _IP_: **+10** e  _DANO_: **+10**, ao **Custo**: **10** __*ki*__; a partir do rank A, o personagem recebe um bônus de _IP_: **+15** e  _DANO_: **+10**, ao **Custo**: **10** __*ki*__.
 
 ## Aumento de atributos físicos* (1 ponto)
 O personagem recebe um bônus de +1 em um de seus atributos físicos por __*ki*__ gasto, podendo chegar até +5 pontos em um de seus atributos, a partir do rank C o bônus pode chegar até +10 pontos. 3 pontos: O personagem recebe um bônus de +1 em todos os seus atributos físicos por __*ki*__ gasto, podendo chegar até +5 pontos em todos os seus atributos, a partir do rank C o bônus pode chegar até +10 pontos.
@@ -510,7 +510,7 @@ O personagem lança um disparo contra o adversário causando dano por rank. Ao a
 
 - **Tipo**: Disparo
 - **Alvos**: 1
-- **Dano**: **3D6** por rank 
+- **Dano**: **2D6+4** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
 - **Dano Rank D**: **3D6+4** por rank
 - **Custo Rank D**: **4** __*ki*__ e **+1** por rank
@@ -555,7 +555,7 @@ O personagem pode lançar 2 reiguns em um único turno, após o uso deste recurs
 
 - **Tipo**: Disparo
 - **Alvos**: 1
-- **Dano**: **4D6+4** por rank
+- **Dano**: Idem a cada um dos reiguns
 - **Custo**: **10** __*ki*__ e **+2** por rank. Ao final do disparo, toda a reserva de __*ki*__ restante é zerada
   
 <br>
@@ -575,7 +575,7 @@ O personagem só pode usar esta técnica para tirar a parte maligna de uma pesso
 
 - **Tipo**: Dispel
 - **Alvos**: 1
-- **Dano**: **6D6** por rank
+- **Dano**: **5D6+5** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
@@ -698,7 +698,7 @@ O personagem cria uma espada que causa dano e pode atacar o adversário com alca
 - **Duração**: 1 cena
 - **Alvos**: Si mesmo
 - **Dano**: **3D6+6** e **+1D6+1** por rank
-- **Alcance**: **2** metros por rank
+- **Alcance**: **3** metros por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
@@ -934,7 +934,7 @@ O personagem lança um disparo de pedras contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **2D6** por rank
+- **Dano**: **1D6+4** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
@@ -977,7 +977,7 @@ O personagem atinge o adversário com uma investida vindo de qualquer lugar do s
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **3D6 +3** por rank
+- **Dano**: **3D6+3** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - **Esquiva**: O adversário perde **-5%** de sua esquiva contra essa técnica.
@@ -993,7 +993,7 @@ O personagem lança-se em pedaços contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6 +3** por rank
+- **Dano**: **4D6+3** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - **Esquiva**: O adversário perde **-5%** de sua esquiva contra essa técnica.
@@ -1024,7 +1024,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
  - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **2D6** por rank
+- **Dano**: **1D6+4** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
@@ -1034,7 +1034,7 @@ O personagem lança um disparo contra o adversário causando dano
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **3D6** por rank
+- **Dano**: **2D6+4** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 <br>
 
@@ -1043,7 +1043,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6** por rank
+- **Dano**: **3D6+4** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
@@ -1072,7 +1072,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **5D6** por rank
+- **Dano**: **4D6+4** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -1085,7 +1085,7 @@ O personagem lança um choque da ponta dos dedos contra o adversário causando d
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **2D6** por rank
+- **Dano**: **1D6+4** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
@@ -1095,7 +1095,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **3D6** por rank
+- **Dano**: **2D6+4** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
@@ -1140,7 +1140,7 @@ Após dividir-se em sete (utilizando **Kakeru**), o personagem usa sete choques 
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6** por rank
+- **Dano**: **3D6+5** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -1150,7 +1150,7 @@ Após dividir-se em sete (utilizando **Kakeru**), o personagem usa sete disparos
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **5D6** por rank
+- **Dano**: **4D6+5** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
@@ -1177,7 +1177,7 @@ O personagem prende o oponente com os yo-yos e o arremessa contra o chão causan
 
 - **Tipo**: Disparo
 - **Alvos**: 1
-- **Dano**: **3D6** por rank
+- **Dano**: **2D6+3** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - O teste de _Esquiva_ usa _CONS_ em vez de _AGI_
@@ -1231,7 +1231,7 @@ O personagem lança uma bola de fogo contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: 1
-- **Dano**: **2D6** por rank
+- **Dano**: **1D6+4** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
@@ -1258,7 +1258,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: 1
-- **Dano**: **4D6** por rank
+- **Dano**: **3D6+4** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
@@ -1599,7 +1599,7 @@ O personagem dispara uma rajada de ar contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: 1
-- **Dano**: **3D6** por rank
+- **Dano**: **2D6+4** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
@@ -1958,7 +1958,7 @@ O personagem lança-se contra o adversário causando uma grande explosão.
 
 - **Tipo**: Disparo
 - **Alvos**: **4** alvos e **+1** por rank
-- **Dano**: **5D6** por rank
+- **Dano**: **4D6+5** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -2091,7 +2091,7 @@ O personagem cria diversos tentaculos a partir do próprio corpo que vão de enc
 - **Tipo**: Buff
 - **Duração**: 1 turno
 - **Alvos**: **4** e **+1** por rank
-- **Dano**: **3D6 +3** por rank 
+- **Dano**: **3D6+3** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
@@ -2568,7 +2568,7 @@ O personagem lança um feixe de luz contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **2D6** por rank
+- **Dano**: **1D6+4** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
@@ -2856,7 +2856,7 @@ O personagem lança um disparo de pedras contra os adversários causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **4** alvos e **+1** por rank
-- **Dano**: **3D6** por rank 
+- **Dano**: **2D6+4** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
@@ -2921,7 +2921,7 @@ O personagem lança o Bambolê das trevas contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**:  1
-- **Dano**: **3D6** por rank. 
+- **Dano**: **2D6+4** por rank. 
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
@@ -2977,7 +2977,7 @@ O personagem pode curar alguém ferido.
 - **Duração**: 1 turno
 - **Alvos**: 1
 - **Custo**: **2** __*ki*__ e **+1** por rank  
-- **Cura**: **2D6** por rank.
+- **Cura**: **1D6+3** por rank.
 
 <br>
 
