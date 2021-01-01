@@ -803,8 +803,10 @@ O personagem invoca uma imensa cerejeira e, neste campo de batalha (tem a mesma 
 <br>
 
 ### Nível 7: Kyu ketsu shokubutsu
-O personagem invoca a planta sanguessuga que ataca um oponente que estiver ferido causando dano por periodo de tempo. Requer um teste difícil de _AGI_ para se esquivar da invocação. 
-A cada rodada, a vítima pode tentar arrancá-la, requer um teste de _FOR_ vs _FOR_ contra a planta. 
+O personagem invoca a planta sanguessuga que ataca um oponente que estiver ferido causando dano por periodo de tempo. 
+
+> **Observações**
+> Requer um teste difícil de _AGI_ para se esquivar da invocação. A cada rodada, a vítima pode tentar arrancá-la, requer um teste de _FOR_ vs _FOR_ contra a planta. 
 
 - **Tipo**: Invocação
 - **Alvos**: 1
@@ -1195,7 +1197,10 @@ O personagem potencializa os yo-yos causando dano, podendo ser potencializada po
 <br>
 
 ### Nível 4: Yo-yo Paralisante
-O personagem prende o oponente com os yo-yos. Para resistir, o alvo deve ser  bem-sucedido num teste de _CONS_. Caso seja paralisado, a vítima poderá repetir o teste de _CONS_ a cada rodada. 
+O personagem prende o oponente com os yo-yos. 
+
+> **Observações**
+> Para resistir, o alvo deve ser  bem-sucedido num teste de _CONS_. Caso falhe, a vítima poderá repetir o teste a cada rodada para dissipar o efeito. 
 
 - **Tipo**: Debuff
 - **Duração**: **1** rodada por rank
@@ -1459,7 +1464,10 @@ O personagem após se maquiar ele fortalece seu corpo.
 <br>
 
 ### Nível 2: Prender membros
-O personagem marca o oponente com o pincel aplicando um redutor no ataque e na defesa. Requer um teste de _CONS_ para reduzir a duração do efeito. Caso obtenha um resultado que seja bem sucedido para passar num teste difícil, a vítima resistirá ao efeito por completo.
+O personagem marca o oponente com o pincel aplicando um redutor no ataque e na defesa. 
+
+> **Observações**
+> Requer um teste de _CONS_ para reduzir a duração do efeito. Caso obtenha um resultado que seja bem sucedido para passar num teste difícil, a vítima resistirá ao efeito por completo.
 
 - **Tipo**: Debuff
 - **Duração**: 1 cena ou (1 rodada por rank, caso bem sucedido em teste)
@@ -1487,7 +1495,10 @@ O personagem marca o oponente com o pincel aplicando um redutor de _DES_ e _AGI_
 <br>
 
 ### Nível 4: Paralisar
-O personagem paralisa o oponente. Para resistir, o alvo deve ser  bem-sucedido num teste de _CONS_. Caso seja paralisado, a vítima poderá repetir o teste de _CONS_ a cada rodada.
+O personagem paralisa o oponente. 
+
+> **Observações**
+> Para resistir, o alvo deve ser bem-sucedido num teste de _CONS_. Caso seja paralisado, a vítima poderá repetir o teste a cada rodada.
 
 - **Tipo**: Debuff
 - **Duração**: **1** rodada por rank
@@ -1553,7 +1564,10 @@ O personagem cria uma espada de gelo no próprio braço ampliando seu dano.
 <br>
 
 ### Nível 4: Congelar
-O personagem congela praticamente todo o corpo do oponente. Requer um teste bem-sucedido de _CONS_ para resistir o efeito.
+O personagem congela praticamente todo o corpo do oponente. 
+
+> **Observações**
+> Requer um teste bem-sucedido de _CONS_ para resistir o efeito. A cada rodada, a vítima poderá repetir o teste para dissipar o efeito.
 
 - **Tipo**: Debuff
 - **Duração**: 1 rodada por rank
@@ -1561,7 +1575,8 @@ O personagem congela praticamente todo o corpo do oponente. Requer um teste bem-
 - **Dano**: N/A
 - **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
-  - Paraliza o oponente durante **1** rodada por rank e absorve **1** __*ki*__ por rodada. A cada rodada a vítima poderá fazer um teste de _CONS_ para dissipar o efeito.
+  - Paraliza o oponente durante **1** rodada por rank 
+  - Absorve **1** __*ki*__ por rodada
   
 <br>
 
@@ -2644,7 +2659,10 @@ O personagem cria uma armadura dourada aumentado o seu poder e recebendo um bôn
 <br>
 
 ### Nível 2: Golpe de ruptura
-Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um tufão, causando dano. O oponente deve realizar um teste bem-sucedido de _AGI_ para reduzir o dano recebido pela metade.
+Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um tufão, causando dano. 
+
+> **Observações**  
+> O oponente deve realizar um teste bem-sucedido de _AGI_ para reduzir o dano recebido pela metade.
 
 - **Tipo**: Contra-ataque
 - **Alvos**: 1
@@ -2742,13 +2760,16 @@ O personagem aumenta a sua velocidade.
 ### Nível 3: Olho demoníaco
 O personagem paralisa o oponente.
 
+> **Observação**
+> A cada rodada a vítima poderá fazer um teste de _WILL_ para dissipar o efeito.
+
 - **Tipo**: Debuff
 - **Duração**: 1 rodada por rank
 - **Alvos**: 1
 - **Dano**: N/A
 - **Custo**: **3** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
-  - Paraliza o oponente durante **1** rodada por rank. A cada rodada a vítima poderá fazer um teste de _WILL_ para dissipar o efeito.
+  - Paraliza o oponente durante **1** rodada por rank
 
 <br>
 
@@ -2772,10 +2793,11 @@ O personagem faz brotar vários olhos no seu corpo ficando mais monstruoso.
 <br>
 
 ### Nível 5: Dominação
-O personagem domina um alvo _Despertado_ de rank inferior ou múltiplos alvos _Não-Despertados_ (seres sem rank). O alvo _Despertado_ pode resistir a técnica ao ser bem-sucedido em um teste de _WILL_. 
+O personagem domina um alvo _Despertado_ de rank inferior ou múltiplos alvos _Não-Despertados_ (seres sem rank). 
 
 > **Observações**
 > Dominados não obedecerão ordens suicidas, despertando automaticamente e quebrando o vínculo. 
+> O alvo _Despertado_ pode resistir a técnica ao ser bem-sucedido em um teste de _WILL_. 
 
 - **Tipo**: Debuff
 - **Duração**:
@@ -2885,10 +2907,10 @@ O personagem cria uma armadura de terra maior e recebe um bônus de _FOR_, _CONS
 <br>
 
 ### Nível 6: Big Bomb Atack
-Opersonagem atingi o oponente com um encontrão causando dano.
+O personagem atinge o oponente com uma investida, causando dano.
 
 > **Observações**  
-> O personagem precisa estar com oscilação shura maior ativa.
+> Requer oscilação shura maior ativa.
 
 - **Tipo**: Disparo
 - **Alvos**: 1
@@ -2900,15 +2922,15 @@ Opersonagem atingi o oponente com um encontrão causando dano.
 ## Espadachim das trevas
 
 ### Nível 1: Estilo de luta exótico
-O personagem tem um estilo de luta diferenciado, este estilo de luta refinado concede um bônus de _ATQ__, _DEF__.
+O personagem tem um estilo de luta diferenciado, este estilo de luta refinado concede um bônus de _ATQ_, _DEF_.
 
 - **Tipo**: Buff
 - **Duração**: 1 cena
 - **Alvos**: Si mesmo
-- **Custo**: 2 ki e +1 por rank
+- **Custo**: **2** __*ki*__ e **+1** por rank
 - **Bônus**:
-  - ATQ: +5% por rank
-  - DEF: +5% por rank
+  - ATQ: **+5%** por rank
+  - DEF: **+5%** por rank
 
 <br>
 
@@ -3035,7 +3057,7 @@ O personagem pode ressuscitar qualquer criatura com a permissão do Rei-kai.
 - **Custo**: **100%** __*ki*__   
 - **Cura**: N/A
 - **Efeitos Adicionais**
-  - Ressucita o alvo
+  - Ressuscita o alvo
 
 <br>
 
