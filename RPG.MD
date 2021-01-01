@@ -3080,6 +3080,7 @@ Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca
 
 - **Tipo**: Contra-ataque
 - **Alvos**: 1
+- **Cooldown**: **3** rodadas
 - **Dano**: **1D6+19** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank  
 - **Efeitos Adicionais**
