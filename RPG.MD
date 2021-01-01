@@ -84,24 +84,23 @@ Os reinos são povoamentos no Ma-Kai. Alguns se tornam grandes cidades cheias de
 #### **Reino Gandara**
 Um Reino com uma tecnologia muitíssimo avançada.
 Quem Domina: Um demônio de classe S chamado Yomi.
-**Distancia**: 20 dias.
+- **Distancia**: 20 dias.
 
 #### **Reino De Mukuro**
 
 Um Reino com uma tecnologia um pouco avançada.
 Quem Domina: Um demônio de classe S chamado Mukuro.
-**Distancia**: 23 dias.
+- **Distancia**: 23 dias.
 
 #### **Reino de Reizen**
 Um Reino com pouca tecnologia.
 Quem Domina: Um demônio de classe S chamado Reizen.
-**Distancia**: 30 dias.
+- **Distancia**: 30 dias.
 
 #### **País do Gelo**
 Um Reino bem isolado, acima das nuvens e muito frio para qualquer monstro ou pessoa normal aguentar por muito tempo, apenas Mulheres do Gelo vivem nesse Reino.
-**Quem Domina**: Um conselho formado pelas mais velhas Mulheres de Gelo do Reino.
-**Distancia**: 100 dias, para encontra-lo também precisará da bússola do Detetive Sobrenatural para encontrar o You-__*ki*__ delas então, ou apenas usando o Jagan, fora isso é impossível,
-pois o Reino encontra-se acima das nuvens.\
+- **Quem Domina**: Um conselho formado pelas mais velhas Mulheres de Gelo do Reino.
+- **Distancia**: 100 dias, para encontra-lo também precisará da bússola do Detetive Sobrenatural para encontrar o You-__*ki*__ delas então, ou apenas usando o Jagan, fora isso é impossível, pois o Reino encontra-se acima das nuvens.
 
 > **Observacão**  
 Não se pode permanecer mais que 30 dias no País de Gelo, por causa da baixa temperatura, exceto se o personagem for mestre na Doutrina Gelo.
@@ -488,8 +487,7 @@ O personagem é sádico e gosta de torturar as pessoas e fazê-las sofrer, apena
 <br>
 
 > **Obervações**  
-> 1. Doutrinas marcadas com `*`, duram todo combate ou cena.  
-> 0. O campo de fogo dissipa o campo de gelo e vice-versa, sendo necessário reativar novamente um dos campos.  
+> 1. O campo de fogo dissipa o campo de gelo e vice-versa, sendo necessário reativar novamente um dos campos.  
 > 0. O tamanho dos campos, criados pelas doutrinas e aprimoramentos, tem um raio de 25 metros por rank e uma altura de 5 metros por rank, o campo acompanha o personagem.
 > 0. Todos os disparos causam +XD6+Y de dano, onde X é igual quantidade de dados e Y é igual ao dano base da doutrina. Exemplo: uma Grande Bola de Fogo causa 1D6+16 de dano por rank, ela causaria 2D6+32 de dano no rank E, causaria 3D6+48 de dano no rank D. A partir do rank do rank C, todos os disparos causam +2XD6+Y de dano onde X é igual quantidade de dados e Y é igual ao dano base da doutrina. Exemplo: uma Grande Bola de Fogo (no rank C) causaria 5D6+64 de dano, a doutrrina causaria 6D6+80 de dano no rank B, e assim sucessivamente.
 
@@ -505,9 +503,12 @@ O personagem é sádico e gosta de torturar as pessoas e fazê-las sofrer, apena
 
 <br>
 
-### Nível 1**: Reigun**
+### Nível 1: Reigun
 O personagem lança um disparo contra o adversário causando dano por rank. Ao atingir o rank D, esta doutrina é aprimorada, tornando-se mais forte, destrutiva e **custosa**. Alcança potencial máximo a partir do rank C, tornando-se devastadora. 
 
+> **Observações**  
+> Nos ranks E e D, o personagem pode usar o reigun até 4 vezes por dia. Nos ranks C e B, o personagem pode usar o reigun até 6 vezes por dia. A partir do rank A, o uso do Reigun é ilimitado. 
+> 
 - **Tipo**: Disparo
 - **Alvos**: 1
 - **Dano**: **1D6+12** por rank 
@@ -519,12 +520,7 @@ O personagem lança um disparo contra o adversário causando dano por rank. Ao a
 
 <br>
 
-> **Observações**  
-> Nos ranks E e D, o personagem pode usar o reigun até 4 vezes por dia. Nos ranks C e B, o personagem pode usar o reigun até 6 vezes por dia. A partir do rank A, o uso do Reigun é ilimitado. 
-
-<br>
-
-### Nível 2: **Shotgun**
+### Nível 2: Shotgun
 O personagem lança um disparo que ataca vários oponentes.
 
 - **Tipo**: Disparo
@@ -534,7 +530,7 @@ O personagem lança um disparo que ataca vários oponentes.
 
 <br>
 
-### Nível 3: **Energizar golpes***
+### Nível 3: Energizar golpes
 O personagem energiza seus golpes corpo a corpo com energia espiritual causando dano por rank. O dano pode ser ampliado ao custo de  adicional de **+1** de __*ki*__. 
 
 - **Tipo**: Buff
@@ -547,7 +543,7 @@ O personagem energiza seus golpes corpo a corpo com energia espiritual causando 
 
 <br>
 
-### Nível 4: **Reigun tiro veloz**
+### Nível 4: Reigun tiro veloz
 O personagem pode lançar 2 reiguns em um único turno, após o uso deste recurso o personagem fica 2 dias sem poder usar __*ki*__. Perde imediatamente todos os bônus oriundos de doutrinas e aprimoramentos como: armas de __*ki*__, campos de batalha, _Aumento de Atributos_, _IP_ e dano. Isso inclui _Tranca Espiritual_, _Forma Reencarnada_, _Descendente de Clã Maligno_ e _Capacidade de Extrair 120% da Força_ entre outros. 
 
 > **Obserevações**  
@@ -560,7 +556,7 @@ O personagem pode lançar 2 reiguns em um único turno, após o uso deste recurs
   
 <br>
 
-### Nível 5: **Reikodan**
+### Nível 5: Reikodan
 Um golpe que causa dano, porém perde eficiência com a distância.
 
 - **Tipo**: Disparo
@@ -570,7 +566,7 @@ Um golpe que causa dano, porém perde eficiência com a distância.
 
 <br>
 
-### Nível 6: **Sho**
+### Nível 6: Sho
 O personagem só pode usar esta técnica para tirar a parte maligna de uma pessoa que está em conflito consigo mesmo; se a pessoa decidir desistir do deu lado maligno a parte má da pessoa é destruída; caso contrário, a técnica causa dano.
 
 - **Tipo**: Dispel
@@ -580,7 +576,7 @@ O personagem só pode usar esta técnica para tirar a parte maligna de uma pesso
 
 <br>
 
-### Nível 6: **Reflexo destrutivo reiko**
+### Nível 6: Reflexo destrutivo reiko
 O personagem quando for alvo de um disparo de até nível 7, pode absorvê-lo e depois manda-lo de volta contra o adversário, causando o dano do próprio disparo e absorvendo **1** __*ki*__ por nível do poder do disparo. 
 
 - **Tipo**: Disparo
@@ -591,7 +587,7 @@ O personagem quando for alvo de um disparo de até nível 7, pode absorvê-lo e 
 
 <br>
 
-### Nível 7: **Tranca espiritual***
+### Nível 7: Tranca espiritual
 Para se tornar um mestre do Heikohadouken, o personagem precisa dominar a bola espiritual; no início do teste todas as doutrinas e aprimoramentos do personagem são cessados, aliados não podem curá-lo. Para domar a doutrina por completo, deve-se passar em 5 testes de constituição, de um total de 15 testes de resistência. Caso falhe, o destino é a morte. Superando o treinamento, o personagem poderá destrancar toda energia espiritual vinda do treinamento das artes do Heikohadouken. 
 
 - **Tipo**: Buff
@@ -614,7 +610,7 @@ Para se tornar um mestre do Heikohadouken, o personagem precisa dominar a bola e
 
 ## Reiken
 
-### Nível 1: **Espada simples***
+### Nível 1: Espada simples
 O personagem cria uma espada que causa dano por rank; ou cria uma espada mais poderosa a um custo adicional. 
 
 - **Tipo**: Buff
@@ -627,7 +623,7 @@ O personagem cria uma espada que causa dano por rank; ou cria uma espada mais po
 
 <br>
 
-### Nível 2: **Espada vara***
+### Nível 2: Espada vara
 Este nível aumenta a Espada simples para atacar até **6** metros de distância.
 
 - **Tipo**: Buff
@@ -638,7 +634,7 @@ Este nível aumenta a Espada simples para atacar até **6** metros de distância
 
 <br>
 
-### Nível 3: **Adagas reiken* **
+### Nível 3: Adagas reiken
 O personagem cria uma espada que causa dano por rank ou pode potencializá-la causando dano amplificado. 
 
 - **Tipo**: Buff
@@ -651,7 +647,7 @@ O personagem cria uma espada que causa dano por rank ou pode potencializá-la ca
 
 <br>
 
-### Nível 4: **Adagas reiken dupla***
+### Nível 4: Adagas reiken dupla
 O personagem passa a usar duas adagas reiken, e recebe um bônus de ataque e defesa por rank, ataques adicionais e um bônus de dano. Caso use outra arma apenas receberá o bônus de ataque e defesa. 
 
 - **Tipo**: Buff
@@ -667,7 +663,7 @@ O personagem passa a usar duas adagas reiken, e recebe um bônus de ataque e def
 
 <br>
 
-### Nível 5: **Ataque surpresa**
+### Nível 5: Ataque surpresa
 O personagem faz com que sua espada ataque o adversário por de baixo da terra causando dano por rank. Aplica um redutor de chance de esquiva por rank. 
 
 - **Tipo**: Disparo
@@ -679,7 +675,7 @@ O personagem faz com que sua espada ataque o adversário por de baixo da terra c
 
 <br>
 
-### Nível 6: **Espada maleável**
+### Nível 6: Espada maleável
 Melhora a espada vara tornando-a muito mais flexível e causando dano extra por rank. Aplica um redutor de  chance de esquiva por rank.
 
 - **Tipo**: Disparo
@@ -691,7 +687,7 @@ Melhora a espada vara tornando-a muito mais flexível e causando dano extra por 
 
 <br>
 
-### Nível 7: **Espada dimensional***
+### Nível 7: Espada dimensional
 O personagem cria uma espada que causa dano e pode atacar o adversário com alcance incrementado. Esta espada destrói qualquer barreira. 
 
 - **Tipo**: Buff
@@ -712,7 +708,7 @@ O personagem cria uma espada que causa dano e pode atacar o adversário com alca
 
 <br>
 
-### Nível 1: **Criar vegetal***
+### Nível 1: Criar vegetal
 O personagem cria uma arma de vegetal que amplifica seu dano; pode ser potencializada a um custo adicional de __*ki*__. Torna-se mais devastadora a partir do Rank C.
 
 - **Tipo**: Buff
@@ -729,7 +725,7 @@ O personagem cria uma arma de vegetal que amplifica seu dano; pode ser potencial
 
 <br>
 
-### Nível 2: **Kagon retsuzan shi**
+### Nível 2: Kagon retsuzan shi
 Confere ao personagem ataques múltiplos pela duração, adicionando também aos ataques um bônus de dano. 
 
 <br>
@@ -751,7 +747,7 @@ Confere ao personagem ataques múltiplos pela duração, adicionando também aos
 
 <br>
 
-### Nível 3: **Fuka enbu jin**
+### Nível 3: Fuka enbu jin
 O personagem cria diversas pétalas que cortam como navalhas os adversários causando dano. 
 
 - **Tipo**: Disparo
@@ -761,7 +757,7 @@ O personagem cria diversas pétalas que cortam como navalhas os adversários cau
 
 <br>
 
-### Nível 4: **Ojigisou**
+### Nível 4: Ojigisou
 O personagem implanta a planta da morte no oponente, o paralisando após um periodo de tempo. Após a paralização, o oponente morrerá com um comando do personagem. Requer um teste bem-sucedido de _DES_ para implantar a semante na vítima. Requer um teste bem-sucedido de _Conhecimento de Doutrinas_ para não cair no truque. Não funciona com quem conhece o golpe. 
 
 - **Tipo**: Debuff
@@ -774,7 +770,7 @@ O personagem implanta a planta da morte no oponente, o paralisando após um peri
 
 <br>
 
-### Nível 5: **Shoku you shokubutsu***
+### Nível 5: Shoku you shokubutsu
 O personagem invoca a planta demoníaca que causa dano atacando oponentes e/ou quem se mexer, exceto aliados. 
 
 > **Observações**
@@ -788,7 +784,7 @@ O personagem invoca a planta demoníaca que causa dano atacando oponentes e/ou q
 
 <br>
 
-### Nível 6: **Sakura**
+### Nível 6: Sakura
 O personagem invoca uma imensa cerejeira e, neste campo de batalha (tem a mesma dimensão de um campo comum, com exceção da altura ser 50 metros por rank), recebe um bônus de ataque, defesa e testes de resistência de esquiva. As plantas também podem defender disparos (trate isso como o aprimoramento _Evasão_). Oponentes recebem um redutor de ataque, defesa e testes de resistência de esquiva. 
 
 - **Tipo**: Invocação
@@ -806,7 +802,7 @@ O personagem invoca uma imensa cerejeira e, neste campo de batalha (tem a mesma 
 
 <br>
 
-### Nível 7: **Kyu ketsu shokubutsu**
+### Nível 7: Kyu ketsu shokubutsu
 O personagem invoca a planta sanguessuga que ataca um oponente que estiver ferido causando dano por periodo de tempo. Requer um teste difícil de _AGI_ para se esquivar da invocação. 
 A cada rodada, a vítima pode tentar arrancá-la, requer um teste de _FOR_ vs _FOR_ contra a planta. 
 
@@ -830,7 +826,7 @@ A cada rodada, a vítima pode tentar arrancá-la, requer um teste de _FOR_ vs _F
 
 <br>
 
-### Nível 1: **Aquecer***
+### Nível 1: Aquecer
 O personagem cria um campo de calor intenso aumentando consideravelmente a temperatura da área e causando dano a todos os outros seres que estejam dentro da área da doutrina.
 
 > **Observações**  
@@ -844,7 +840,7 @@ O personagem cria um campo de calor intenso aumentando consideravelmente a tempe
 
 <br>
 
-### Nível 2: **En satsu rengoku shou***
+### Nível 2: En satsu rengoku shou
 O personagem cria chamas nas mãos ou em uma arma aumentando seu dano. 
 
 - **Tipo**: Buff
@@ -857,7 +853,7 @@ O personagem cria chamas nas mãos ou em uma arma aumentando seu dano.
 
 <br>
 
-### Nível 3: **Rajada de chamas negras**
+### Nível 3: Rajada de chamas negras
 O personagem lança um disparo de chamas negras contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -867,7 +863,7 @@ O personagem lança um disparo de chamas negras contra o adversário causando da
 
 <br>
 
-### Nível 4: **Ja ou en satsu Ken***
+### Nível 4: Ja ou en satsu Ken*
 O personagem cria uma espada de chamas negras que causa dano, podendo ser potencializada por um custo adicional.
 
 - **Tipo**: Buff
@@ -880,7 +876,7 @@ O personagem cria uma espada de chamas negras que causa dano, podendo ser potenc
 
 <br>
 
-### Nível 5: **En satsu koku ryu há**
+### Nível 5: En satsu koku ryu há
 O personagem invoca um dragão negro contra o adversário causando dano, este fica mais forte se invocado no mundo das trevas. O oponente pode tentar devolver o dragão de volta para o invocador ao invés de tentar se esquivar. 
 
 > **Observações**  
@@ -897,7 +893,7 @@ O personagem invoca um dragão negro contra o adversário causando dano, este fi
 
 <br>
 
-### Nível 6: **Absorver as chamas negras***
+### Nível 6: Absorver as chamas negras
 Quando o personagem  usar o dragão sobre si mesmo ou quando o dragão for devolvido o personagem pode absorve-lo, recebendo um bônus.
 
 > **Observações**  
@@ -929,7 +925,7 @@ Quando o personagem  usar o dragão sobre si mesmo ou quando o dragão for devol
 
 <br>
 
-### Nível 1: **Apedrejar**
+### Nível 1: Apedrejar
 O personagem lança um disparo de pedras contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -939,7 +935,7 @@ O personagem lança um disparo de pedras contra o adversário causando dano.
 
 <br>
 
-### Nível 2: **Braço de pedra***
+### Nível 2: Braço de pedra
 O personagem fortifica seu braço com pedras que aumentam o seu dano. 
 
 - **Tipo**: Buff
@@ -956,7 +952,7 @@ O personagem fortifica seu braço com pedras que aumentam o seu dano.
 
 <br>
 
-### Nível 3: **Shura tendo toui***
+### Nível 3: Shura tendo toui
 O personagem aumenta o seu poder e recebe um bônus.
 
 - **Tipo**: Buff
@@ -972,7 +968,7 @@ O personagem aumenta o seu poder e recebe um bônus.
 
 <br>
 
-### Nível 4: **Investida shura**
+### Nível 4: Investida shura
 O personagem atinge o adversário com uma investida vindo de qualquer lugar do solo, causando dano.
 
 - **Tipo**: Disparo
@@ -984,7 +980,7 @@ O personagem atinge o adversário com uma investida vindo de qualquer lugar do s
 
 <br>
 
-### Nível 5: **Pedra explosiva**
+### Nível 5: Pedra explosiva
 O personagem lança-se em pedaços contra o adversário causando dano.
 
 > **Observações**  
@@ -1000,7 +996,7 @@ O personagem lança-se em pedaços contra o adversário causando dano.
 
 <br>
 
-### Nível 6: **Shura tendo toui sugureta***
+### Nível 6: Shura tendo toui sugureta
 O personagem aumenta o seu poder e recebe um bônus.
 
 - **Tipo**: Buff
@@ -1019,7 +1015,7 @@ O personagem aumenta o seu poder e recebe um bônus.
 
 ## Mei ko sho kai ha
 
-### Nível 1: **Grito da destruição**
+### Nível 1: Grito da destruição
 O personagem lança um disparo contra o adversário causando dano.
 
  - **Tipo**: Disparo
@@ -1029,7 +1025,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 <br>
 
-### Nível 2: **Grito da destruição2**
+### Nível 2: Grito da destruição 2
 O personagem lança um disparo contra o adversário causando dano 
 
 - **Tipo**: Disparo
@@ -1038,7 +1034,7 @@ O personagem lança um disparo contra o adversário causando dano
 - **Custo**: **2** __*ki*__ e **+1** por rank
 <br>
 
-### Nível 3: **Grito da destruição 3**
+### Nível 3: Grito da destruição 3
 O personagem lança um disparo contra o adversário causando dano. 
 
 - **Tipo**: Disparo
@@ -1048,7 +1044,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 <br>
 
-### Nível 4: **Absorção de ki***
+### Nível 4: Absorção de ki*
 O personagem recebe um bônus.
 
 - **Tipo**: Buff
@@ -1067,7 +1063,7 @@ O personagem recebe um bônus.
 
 <br>
 
-### Nível 5: **Grito da destruição 4**
+### Nível 5: Grito da destruição 4
 O personagem lança um disparo contra o adversário causando dano. 
 
 - **Tipo**: Disparo
@@ -1080,7 +1076,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 ## Ankou Raí jin Ken
 
-### Nível 1: **Eletrocutar**
+### Nível 1: Eletrocutar
 O personagem lança um choque da ponta dos dedos contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -1090,7 +1086,7 @@ O personagem lança um choque da ponta dos dedos contra o adversário causando d
 
 <br>
 
-### Nível 2: **Arco do trovão das trevas**
+### Nível 2: Arco do trovão das trevas
 O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -1100,7 +1096,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 <br>
 
-### Nível 3: **Kakeru***
+### Nível 3: Kakeru
 O personagem cria duplicatas e recebe um bônus.
 
 > **Observações**  
@@ -1122,7 +1118,7 @@ O personagem cria duplicatas e recebe um bônus.
 
 <br>
 
-### Nível 4: **Soco do trovão***
+### Nível 4: Soco do trovão
 O personagem energiza raios nas mãos que causam dano.
 
 - **Tipo**: Buff
@@ -1135,7 +1131,7 @@ O personagem energiza raios nas mãos que causam dano.
 
 <br>
 
-### Nível 5: **Riku Goku ankoku Raí kou há**
+### Nível 5: Riku Goku ankoku Raí kou há
 Após dividir-se em sete (utilizando **Kakeru**), o personagem usa sete choques da ponta dos dedos contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -1145,7 +1141,7 @@ Após dividir-se em sete (utilizando **Kakeru**), o personagem usa sete choques 
 
 <br>
 
-### Nível 6: **Ankoku you rou jin**
+### Nível 6: Ankoku you rou jin
 Após dividir-se em sete (utilizando **Kakeru**), o personagem usa sete disparos em formato de arco e flecha elétricos contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -1158,7 +1154,7 @@ Após dividir-se em sete (utilizando **Kakeru**), o personagem usa sete disparos
 
 ## Devil yo-yo
 
-### Nível 1: **Yo-yo acrobático***
+### Nível 1: Yo-yo acrobático
 O personagem passa a lutar com um estilo de luta bastante exótico, utilizando yo-yos, e recebe um bônus de _ATQ_ e _DEF_. 
 
 - **Tipo**: Buff
@@ -1172,7 +1168,7 @@ O personagem passa a lutar com um estilo de luta bastante exótico, utilizando y
 
 <br>
 
-### Nível 2: **Arremesso**
+### Nível 2: Arremesso
 O personagem prende o oponente com os yo-yos e o arremessa contra o chão causando dano. 
 
 - **Tipo**: Disparo
@@ -1185,7 +1181,7 @@ O personagem prende o oponente com os yo-yos e o arremessa contra o chão causan
 
 <br>
 
-### Nível 3: **Yo-yo demoníaco***
+### Nível 3: Yo-yo demoníaco
 O personagem potencializa os yo-yos causando dano, podendo ser potencializada por um custo adicional.
 
 - **Tipo**: Buff
@@ -1198,7 +1194,7 @@ O personagem potencializa os yo-yos causando dano, podendo ser potencializada po
  
 <br>
 
-### Nível 4: **Yo-yo Paralisante**
+### Nível 4: Yo-yo Paralisante
 O personagem prende o oponente com os yo-yos. Para resistir, o alvo deve ser  bem-sucedido num teste de _CONS_. Caso seja paralisado, a vítima poderá repetir o teste de _CONS_ a cada rodada. 
 
 - **Tipo**: Debuff
@@ -1211,7 +1207,7 @@ O personagem prende o oponente com os yo-yos. Para resistir, o alvo deve ser  be
   
 <br>
 
-### Nível 5: **Serpentis**
+### Nível 5: Serpentis
 O personagem lança os yo-yos contra o adversário causando dano e diminuindo a chance de _Esquiva_. 
 
 - **Tipo**: Disparo
@@ -1226,7 +1222,7 @@ O personagem lança os yo-yos contra o adversário causando dano e diminuindo a 
 
 ## Mistai
 
-### Nível 1: **Bola de fogo**
+### Nível 1: Bola de fogo
 O personagem lança uma bola de fogo contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -1236,7 +1232,7 @@ O personagem lança uma bola de fogo contra o adversário causando dano.
 
 <br>
 
-### Nível 2: **Arma do Makai**
+### Nível 2: Arma do Makai
 O personagem cria uma arma que causa dano. Pode ser potencializada por um custo extra de __*ki*__.
 
 - **Tipo**: Buff
@@ -1253,7 +1249,7 @@ O personagem cria uma arma que causa dano. Pode ser potencializada por um custo 
 
 <br>
 
-### Nível 3: **Vácuo cortante**
+### Nível 3: Vácuo cortante
 O personagem lança um disparo contra o adversário causando dano. 
 
 - **Tipo**: Disparo
@@ -1263,7 +1259,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 <br>
 
-### Nível 4: **Encolhimento***
+### Nível 4: Encolhimento
 O personagem faz uma reza, após seu termino, o oponente encolhe. Requer um teste bem-sucedido de _Conhecimento de Doutrinas_ para o personagem tapar os ouvidos e o efeito se voltar contra o usuário. Caso o personagem conheça a técnica não será preciso nenhum teste para tapar os ouvidos. 
 
 > **Observações**
@@ -1279,7 +1275,7 @@ O personagem faz uma reza, após seu termino, o oponente encolhe. Requer um test
 
 <br>
 
-### Nível 5: **Roubar doutrinas***
+### Nível 5: Roubar doutrinas
 Ao ver qualquer doutrina o personagem poderá copiá-la para usá-la durante a luta. Para aprendê-la permanentemente, deverá passar no teste _INT_ e pagar o custo da doutrina na evolução do personagem. 
 
 > **Observações**  
@@ -1299,7 +1295,7 @@ Ao ver qualquer doutrina o personagem poderá copiá-la para usá-la durante a l
 
 ## Ka shou rappa Ken
 
-### Nível 1: **Aquecer***
+### Nível 1: Aquecer
 O personagem cria um campo de calor intenso aumentando consideravelmente a temperatura da área e causando dano a todos os outros seres que estejam dentro da área da doutrina.
 
 > **Observações**  
@@ -1313,7 +1309,7 @@ O personagem cria um campo de calor intenso aumentando consideravelmente a tempe
 
 <br>
 
-### Nível 2: **Incinerar**
+### Nível 2: Incinerar
 O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -1323,7 +1319,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 <br>
 
-### Nível 3: **Purgatório flamejante***
+### Nível 3: Purgatório flamejante
 O personagem cria chamas intensas nas mãos ampliando seu dano.
 
 - **Tipo**: Buff
@@ -1336,7 +1332,7 @@ O personagem cria chamas intensas nas mãos ampliando seu dano.
 
 <br>
 
-### Nível 4: **Grande Bola de fogo**
+### Nível 4: Grande Bola de fogo
 O personagem lança uma grande bola de fogo contra seus adversários causando dano.
 
 - **Tipo**: Disparo
@@ -1346,7 +1342,7 @@ O personagem lança uma grande bola de fogo contra seus adversários causando da
 
 <br>
 
-### Nível 5: **Aura de fogo***
+### Nível 5: Aura de fogo
 O personagem cria chamas em todo o corpo, causando dano. 
 
 - **Tipo**: Buff
@@ -1359,7 +1355,7 @@ O personagem cria chamas em todo o corpo, causando dano.
 
 <br>
 
-### Nível 6: **Raio de fogo**
+### Nível 6: Raio de fogo
 O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -1370,7 +1366,7 @@ O personagem lança um disparo contra o adversário causando dano.
 <br>
 
 ## Sui Ken
-### Nível 1: **Movimentos cambaleantes***
+### Nível 1: Movimentos cambaleantes
 O personagem luta cambaleando, no estilo kung fu bêbado, tornando seus movimentos mais imprevisíveis.
 
 - **Tipo**: Buff
@@ -1384,7 +1380,7 @@ O personagem luta cambaleando, no estilo kung fu bêbado, tornando seus moviment
 
 <br>
 
-### Nível 2: **Chute de ondas**
+### Nível 2: Chute de ondas
 O personagem ataca o oponente com um tremendo chute.
 
 - **Tipo**: Disparo
@@ -1394,7 +1390,7 @@ O personagem ataca o oponente com um tremendo chute.
 
 <br>
 
-### Nível 3: **Energizar golpes**
+### Nível 3: Energizar golpes
 O personagem energiza seus golpes corpo a corpo com energia espiritual causando mais dano.
 
 - **Tipo**: Buff
@@ -1407,7 +1403,7 @@ O personagem energiza seus golpes corpo a corpo com energia espiritual causando 
 
 <br>
 
-### Nível 4: **Bola de energia**
+### Nível 4: Bola de energia
 O personagem lança uma bola de energia contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -1417,7 +1413,7 @@ O personagem lança uma bola de energia contra o adversário causando dano.
 
 <br>
 
-### Nível 5: **Aumento de energia sobrenatural***
+### Nível 5: Aumento de energia sobrenatural
 O personagem, depois de beber muito, recebe um bônus de _FOR_ e _CONS_, _PV_ e _IP_. 
 
 - **Tipo**: Buff
@@ -1433,7 +1429,7 @@ O personagem, depois de beber muito, recebe um bônus de _FOR_ e _CONS_, _PV_ e 
   
 <br>
 
-### Nível 6: **Gigante bola de energia**
+### Nível 6: Gigante bola de energia
 O personagem lança uma grande bola de energia contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -1445,7 +1441,7 @@ O personagem lança uma grande bola de energia contra o adversário causando dan
 
 ## Nem Baku Houju no Shou
 
-### Nível 1: **Maquiagem de batalha***
+### Nível 1: Maquiagem de batalha
 O personagem após se maquiar ele fortalece seu corpo.
 
 - **Tipo**: Buff
@@ -1462,7 +1458,7 @@ O personagem após se maquiar ele fortalece seu corpo.
 
 <br>
 
-### Nível 2: **Prender membros***
+### Nível 2: Prender membros
 O personagem marca o oponente com o pincel aplicando um redutor no ataque e na defesa. Requer um teste de _CONS_ para reduzir a duração do efeito. Caso obtenha um resultado que seja bem sucedido para passar num teste difícil, a vítima resistirá ao efeito por completo.
 
 - **Tipo**: Debuff
@@ -1476,7 +1472,7 @@ O personagem marca o oponente com o pincel aplicando um redutor no ataque e na d
 
 <br>
 
-### Nível 3: **Chave de prisão***
+### Nível 3: Chave de prisão
 O personagem marca o oponente com o pincel aplicando um redutor de _DES_ e _AGI_. Requer um teste bem sucedido de _CONS_ para reduzir o efeito pela metade. Caso obtenha um resultado que seja bem sucedido para passar num teste difícil, a vítima resistirá ao efeito por completo.
 
 - **Tipo**: Debuff
@@ -1490,7 +1486,7 @@ O personagem marca o oponente com o pincel aplicando um redutor de _DES_ e _AGI_
   
 <br>
 
-### Nível 4: **Paralisar**
+### Nível 4: Paralisar
 O personagem paralisa o oponente. Para resistir, o alvo deve ser  bem-sucedido num teste de _CONS_. Caso seja paralisado, a vítima poderá repetir o teste de _CONS_ a cada rodada.
 
 - **Tipo**: Debuff
@@ -1503,7 +1499,7 @@ O personagem paralisa o oponente. Para resistir, o alvo deve ser  bem-sucedido n
 
 <br>
 
-### Nível 5: **Trancar energia espiritual**
+### Nível 5: Trancar energia espiritual
 O personagem marca o oponente com o pincel causando _Silênciar_ e _Dissipar_. Caso o personagem passe num teste bem-sucedido de _WILL_ ele resiste ao _Dissipar_. Caso obtenha um resultado que seja bem sucedido para passar num teste difícil, a vítima resistirá ao efeito por completo.
 
 - **Tipo**: Debuff
@@ -1519,7 +1515,7 @@ O personagem marca o oponente com o pincel causando _Silênciar_ e _Dissipar_. C
 
 ## Ju Hyō Tsuka
 
-### Nível 1: **Esfriar***
+### Nível 1: Esfriar
 O personagem cria um campo de batalha de gelo que diminui consideravelmente a temperatura da área.
 
 - **Tipo**: Buff
@@ -1533,7 +1529,7 @@ O personagem cria um campo de batalha de gelo que diminui consideravelmente a te
 
 <br>
 
-### Nível 2: **Flauta metralha granizo**
+### Nível 2: Flauta metralha granizo
 O personagem dispara diversas estacas de granizo contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -1543,7 +1539,7 @@ O personagem dispara diversas estacas de granizo contra o adversário causando d
 
 <br>
 
-### Nível 3: **Espada de gelo***
+### Nível 3: Espada de gelo
 O personagem cria uma espada de gelo no próprio braço ampliando seu dano.
 
 - **Tipo**: Buff
@@ -1556,7 +1552,7 @@ O personagem cria uma espada de gelo no próprio braço ampliando seu dano.
 
 <br>
 
-### Nível 4: **Congelar**
+### Nível 4: Congelar
 O personagem congela praticamente todo o corpo do oponente. Requer um teste bem-sucedido de _CONS_ para resistir o efeito.
 
 - **Tipo**: Debuff
@@ -1569,7 +1565,7 @@ O personagem congela praticamente todo o corpo do oponente. Requer um teste bem-
   
 <br>
 
-### Nível 5: **Espírito maligno do dragão congelante**
+### Nível 5: Espírito maligno do dragão congelante
 O personagem cria um disparo na forma de um dragão de gelo contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -1581,7 +1577,7 @@ O personagem cria um disparo na forma de um dragão de gelo contra o adversário
 
 ## Shura sempu Ken
 
-### Nível 1: **Voar***
+### Nível 1: Voar
 O personagem pode voar e tem o dobro do deslocamento.
 
  **Tipo**: Buff
@@ -1594,7 +1590,7 @@ O personagem pode voar e tem o dobro do deslocamento.
 
 <br>
 
-### Nível 2: **Braços de ar**
+### Nível 2: Braços de ar
 O personagem dispara uma rajada de ar contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -1604,7 +1600,7 @@ O personagem dispara uma rajada de ar contra o adversário causando dano.
 
 <br>
 
-### Nível 3: **Furacão shura***
+### Nível 3: Furacão shura
 O personagem cria um furacão em um de seus braços ampliando seu dano. 
 
 - **Tipo**: Buff
@@ -1617,7 +1613,7 @@ O personagem cria um furacão em um de seus braços ampliando seu dano.
 
 <br>
 
-### Nível 4: **Fenômeno turbilhão**
+### Nível 4: Fenômeno turbilhão
 O personagem quando for alvo de um disparo de nível 5 ou menor, ele pode desviá-lo com um grande soco para outro lugar que não seja na direção do oponente.
 
 - **Tipo**: Disparo
@@ -1628,7 +1624,7 @@ O personagem quando for alvo de um disparo de nível 5 ou menor, ele pode desvi�
 
 <br>
 
-### Nível 5: **Duplo furacão shura***
+### Nível 5: Duplo furacão shura
 O personagem cria um furacão em cada braço ampliando seu dano.
 
 - **Tipo**: Buff
@@ -1639,7 +1635,7 @@ O personagem cria um furacão em cada braço ampliando seu dano.
 
 <br>
 
-### Nível 6: **Grande furacão shura**
+### Nível 6: Grande furacão shura
 O personagem lança um grande furacão contra o adversário causando dano. 
 
 - **Tipo**: Disparo
@@ -1658,7 +1654,7 @@ O personagem lança um grande furacão contra o adversário causando dano.
 
 <br>
 
-### Nível 1: **Arma energética***
+### Nível 1: Arma energética
 O personagem cria uma arma energética para atacar seus adversários.
 
 - **Tipo**: Buff
@@ -1669,7 +1665,7 @@ O personagem cria uma arma energética para atacar seus adversários.
 
 <br>
 
-### Nível 2: **Fortalecimento físico***
+### Nível 2: Fortalecimento físico
 O personagem aumenta o seu poder e recebe um bônus de _IP_, _FOR_ e _CONS_. A partir do rank C, o bônus é incrementado.
 
 - **Tipo**: Buff
@@ -1688,7 +1684,7 @@ O personagem aumenta o seu poder e recebe um bônus de _IP_, _FOR_ e _CONS_. A p
   
  <br>
 
-### Nível 3: **Aureola**
+### Nível 3: Aureola
 O personagem lança chakrans contra o adversário causando dano .
 
 - **Tipo**: Disparo
@@ -1698,7 +1694,7 @@ O personagem lança chakrans contra o adversário causando dano .
 
 <br>
 
-### Nível 4: **Energia de fúria***
+### Nível 4: Energia de fúria
 O personagem aumenta de forma considerável o seu poder tornando seu corpo mais forte.
 
 - **Tipo**: Buff
@@ -1715,7 +1711,7 @@ O personagem aumenta de forma considerável o seu poder tornando seu corpo mais 
 
 <br>
 
-### Nível 5: **Golpe devastador**
+### Nível 5: Golpe devastador
 O personagem energiza sua mão, aonde ele tocar causará um grande onda de destruição.
 
 - **Tipo**: Disparo
@@ -1730,7 +1726,7 @@ O personagem energiza sua mão, aonde ele tocar causará um grande onda de destr
 > **Observações**  
 > Humanos não podem ter este poder, criar um bolinho leva 5 turnos. O personagem pode confeccionar um bolinho das trevas que tanto servem para memorizar golpes, quanto servem para as transformações. O número máximo de bolinhos que podem ser criados e carregados são 2 e +1 por rank.
 
-### Nível 1: **Resistência***
+### Nível 1: Resistência
 Após o personagem ser atacado ele pode comer um bolinho e ficar resistente ao golpe, absorvendo metade do dano. 
 
 > **Observações**  
@@ -1741,7 +1737,7 @@ Após o personagem ser atacado ele pode comer um bolinho e ficar resistente ao g
 
 <br>
 
-### Nível 2: **Invulnerabilidade***
+### Nível 2: Invulnerabilidade
 Após o personagem ser atacado ele pode comer um bolinho e ficar imune ao golpe, absorvendo todo o dano.
 
 > **Observações**  
@@ -1752,7 +1748,7 @@ Após o personagem ser atacado ele pode comer um bolinho e ficar imune ao golpe,
  
 <br>
 
-### Nível 3: **Macaco monstro das trevas***
+### Nível 3: Macaco monstro das trevas
 O personagem após comer o bolinho se transforma em um macaco monstro do mundo das trevas, recebendo bônus durante a luta.
 
 - **Tipo**: Buff
@@ -1768,7 +1764,7 @@ O personagem após comer o bolinho se transforma em um macaco monstro do mundo d
 
 <br>
 
-### Nível 4: **Faisão das trevas***
+### Nível 4: Faisão das trevas
 O personagem após comer o bolinho se transforma em um faisão das trevas, recebendo bônus durante a luta.
 
 - **Tipo**: Buff
@@ -1788,7 +1784,7 @@ O personagem após comer o bolinho se transforma em um faisão das trevas, receb
   
   <br>
 
-### Nível 5: **Cão monstro das trevas***
+### Nível 5: Cão monstro das trevas
 O personagem após comer o bolinho se transforma em um Cão monstro das trevas, recebendo bônus durante a luta.
 
 - **Tipo**: Buff
@@ -1808,7 +1804,7 @@ O personagem após comer o bolinho se transforma em um Cão monstro das trevas, 
 
 ## Sombras demoníacas
 
-### Nível 1: **Projeção entre mundos**
+### Nível 1: Projeção entre mundos
 O personagem invoca o manto da morte e caso o oponente seja atingido por esse, é teletransportado para um lugar aleatório num raio de 20km.
 
 > **Observações**  
@@ -1822,7 +1818,7 @@ O personagem invoca o manto da morte e caso o oponente seja atingido por esse, �
 
 <br>
 
-### Nível 2: **Manipulação de sombras**
+### Nível 2: Manipulação de sombras
 O personagem lança várias sombras contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -1832,7 +1828,7 @@ O personagem lança várias sombras contra o adversário causando dano.
 
 <br>
 
-### Nível 3: **Espada negra***
+### Nível 3: Espada negra
 O personagem cria uma espada que causa dano por rank; ou cria uma espada mais a um custo adicional. 
 
 - **Tipo**: Buff
@@ -1845,7 +1841,7 @@ O personagem cria uma espada que causa dano por rank; ou cria uma espada mais a 
 
 <br>
 
-### Nível 4: **Barreira shobako**
+### Nível 4: Barreira shobako
 O personagem cria uma barreira de ondas que evita o dano de disparos de nível 5 ou menor. 
 
 - **Tipo**: Buff
@@ -1856,7 +1852,7 @@ O personagem cria uma barreira de ondas que evita o dano de disparos de nível 5
 
 <br>
  
-### Nível 5: **Possessão de sombras***
+### Nível 5: Possessão de sombras
 O personagem se mescla as sombras e recebendo bônus durante a cena.
 
 - **Tipo**: Buff
@@ -1872,7 +1868,7 @@ O personagem se mescla as sombras e recebendo bônus durante a cena.
  
  <br>
  
-### Nível 6: **Espada sonora das trevas***
+### Nível 6: Espada sonora das trevas
 O personagem faz sua espada emitir um terrível som em uma área (semelhante a um campo) fazendo monstros de rank E desmaiarem.
 
 - **Tipo**: Debuff
@@ -1887,7 +1883,7 @@ O personagem faz sua espada emitir um terrível som em uma área (semelhante a u
   
 <br>
 
-### Nível 7: **Ondas de sombras demoníacas**
+### Nível 7: Ondas de sombras demoníacas
 O personagem lança uma rajada de almas contra os adversários causando dano.
 
 - **Tipo**: Disparo
@@ -1906,7 +1902,7 @@ O personagem lança uma rajada de almas contra os adversários causando dano.
 
 <br>
 
-### Nível 1: **Toque explosivo**
+### Nível 1: Toque explosivo
 O personagem toca o adversário causando uma explosão.
 
 - **Tipo**: Disparo
@@ -1916,7 +1912,7 @@ O personagem toca o adversário causando uma explosão.
 
 <br>
 
-### Nível 2: **Granada espiritual**
+### Nível 2: Granada espiritual
 O personagem lança uma granada contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -1926,7 +1922,7 @@ O personagem lança uma granada contra o adversário causando dano.
 
 <br>
 
-### Nível 3: **Pólvora**
+### Nível 3: Pólvora
 O personagem invoca várias bombas. A rajada de bombas causa dano a vários inimigos na área.
 
 - **Tipo**: Disparo
@@ -1936,7 +1932,7 @@ O personagem invoca várias bombas. A rajada de bombas causa dano a vários inim
 
 <br>
 
-### Nível 4: **Aura espiritual***
+### Nível 4: Aura espiritual
 O personagem concentra seu __*ki*__ aumentando suas capacidades físicas.
 
 - **Tipo**: Buff
@@ -1953,7 +1949,7 @@ O personagem concentra seu __*ki*__ aumentando suas capacidades físicas.
  
 <br>
 
-### Nível 5: **Espírito explosivo**
+### Nível 5: Espírito explosivo
 O personagem lança-se contra o adversário causando uma grande explosão.
 
 - **Tipo**: Disparo
@@ -1964,7 +1960,7 @@ O personagem lança-se contra o adversário causando uma grande explosão.
 <br>
 
 ## Battle aura
-### Nível 1: **Voar***
+### Nível 1: Voar
 O personagem pode voar e tem o dobro do deslocamento. 
 
  **Tipo**: Buff
@@ -1977,7 +1973,7 @@ O personagem pode voar e tem o dobro do deslocamento.
 
 <br>
 
-### Nível 2: **Criar machado***
+### Nível 2: Criar machado
 O personagem cria uma arma em forma de machado.
 
 - **Tipo**: Buff
@@ -1990,7 +1986,7 @@ O personagem cria uma arma em forma de machado.
 
 <br>
 
-### Nível 3: **Aura de Batalha de menor***
+### Nível 3: Aura de Batalha de menor
 O personagem cria uma aura de energia e recebendo um bônus por uma cena.
 
 - **Tipo**: Buff
@@ -2006,7 +2002,7 @@ O personagem cria uma aura de energia e recebendo um bônus por uma cena.
   
 <br>
 
-### Nível 4: **Ataque energético**
+### Nível 4: Ataque energético
 O personagem lança um disparo teleguiado contra o adversário causando dano e dificultando sua esquiva.
 
 - **Tipo**: Disparo
@@ -2018,7 +2014,7 @@ O personagem lança um disparo teleguiado contra o adversário causando dano e d
   
 <br>
 
-### Nível 5: **Battle aura***
+### Nível 5: Battle aura
 O personagem aumenta o seu poder recebendo um bônus durante a cena.
 
 - **Tipo**: Buff
@@ -2034,7 +2030,7 @@ O personagem aumenta o seu poder recebendo um bônus durante a cena.
   
 <br>
 
-### Nível 6: **Battle aura cross atack**
+### Nível 6: Battle aura cross atack
 O personagem lança um disparo contra o adversário.
 
 - **Tipo**: Disparo
@@ -2053,7 +2049,7 @@ O personagem lança um disparo contra o adversário.
 
 <br>
 
-### Nível 1: **Armadura***
+### Nível 1: Armadura
 O personagem cria um escudo ou armadura para aumentar sua defesa.
 
 - **Tipo**: Buff
@@ -2068,7 +2064,7 @@ O personagem cria um escudo ou armadura para aumentar sua defesa.
  
 <br>
 
-### Nível 2: **Arma***
+### Nível 2: Arma
 O personagem cria uma arma. 
 
 - **Tipo**: Buff
@@ -2085,7 +2081,7 @@ O personagem cria uma arma.
 
 <br>
 
-### Nível 3: **Arma múltipla**
+### Nível 3: Arma múltipla
 O personagem cria diversos tentaculos a partir do próprio corpo que vão de encontro aos adversários causando dano.
 
 - **Tipo**: Buff
@@ -2096,7 +2092,7 @@ O personagem cria diversos tentaculos a partir do próprio corpo que vão de enc
 
 <br>
 
-### Nível 4: **Derretimento***
+### Nível 4: Derretimento
 O personagem fica totalmente maleável, sendo mais difícil de ser atingido.
 
 - **Tipo**: Buff
@@ -2111,7 +2107,7 @@ O personagem fica totalmente maleável, sendo mais difícil de ser atingido.
 
 <br>
 
-### Nível 5: **Imortalidade***
+### Nível 5: Imortalidade
 O personagem torna-se _Imortal_ e ganha _Regeneração_ passivamente.
 
 - **Tipo**: Buff
@@ -2135,7 +2131,7 @@ O personagem torna-se _Imortal_ e ganha _Regeneração_ passivamente.
 
 <br>
 
-### Nível 1: **20% da força***
+### Nível 1: 20% da força
 O personagem aumenta seu poder e resistência.
 
 - **Tipo**: Buff
@@ -2149,7 +2145,7 @@ O personagem aumenta seu poder e resistência.
   
 <br>
 
-### Nível 2: **40% da força***
+### Nível 2: 40% da força
 O personagem aumenta sua força e resistência.
 
 - **Tipo**: Buff
@@ -2163,7 +2159,7 @@ O personagem aumenta sua força e resistência.
 
 <br>
 
-### Nível 3: **60% da força***
+### Nível 3: 60% da força
 O personagem aumenta o sua destreza e seus golpes físicos
 
 - **Tipo**: Buff
@@ -2178,7 +2174,7 @@ O personagem aumenta o sua destreza e seus golpes físicos
 
 <br>
 
-### Nível 4: **80% da força***
+### Nível 4: 80% da força
 O personagem aumenta incrivelmente sua força.
 
 - **Tipo**: Buff
@@ -2191,7 +2187,7 @@ O personagem aumenta incrivelmente sua força.
   
 <br>
 
-### Nível 5: **100% da força***
+### Nível 5: 100% da força
 O personagem aumenta incrivelmente sua resistência, assumindo a forma completa de obelisco. 
 
 - **Tipo**: Buff
@@ -2206,7 +2202,7 @@ O personagem aumenta incrivelmente sua resistência, assumindo a forma completa 
 
 <br>
 
-### Nível 6: **Absorção de energia vital***
+### Nível 6: Absorção de energia vital
 Os monstros de rank E que estiverem na distância de 30 metros por rank morrem e suas almas são absorvidas, e para cada alma absorvida o personagem recupera 3 de ki e de pv.
 
 - **Tipo**: Buff
@@ -2215,7 +2211,7 @@ Os monstros de rank E que estiverem na distância de 30 metros por rank morrem e
 - **Dano**: N/A
 - **Custo**: **7**
 - **Bônus**:
-- Dano corpo a corpo (desamardo): **3D6**
+  - Dano corpo a corpo (desamardo): **3D6**
 
 <br>
 <br>
@@ -2229,7 +2225,7 @@ Os monstros de rank E que estiverem na distância de 30 metros por rank morrem e
 
 <br>
 
-### Nível 1: **Bola arremessável lei shu**
+### Nível 1: Bola arremessável lei shu
 O personagem lança uma bola contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -2239,7 +2235,7 @@ O personagem lança uma bola contra o adversário causando dano.
 
 <br>
 
-### Nível 2: **Contra-ataque**
+### Nível 2: Contra-ataque
 Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-atacar com um golpe
 
 > **Observações**   
@@ -2255,7 +2251,7 @@ Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca
 
 <br>
 
-### Nível 3: **Bola lei shu***
+### Nível 3: Bola lei shu
 O personagem cria bolas nas mãos que amplificam seu dano corpo a corpo.
  
 - **Tipo**: Buff
@@ -2268,7 +2264,7 @@ O personagem cria bolas nas mãos que amplificam seu dano corpo a corpo.
 
 <br>
 
-### Nível 4: **Granada lei shu**
+### Nível 4: Granada lei shu
 O personagem lança várias bolas contra seus adversários causando dano a múltiplos alvos.
 
 - **Tipo**: Disparo
@@ -2278,7 +2274,7 @@ O personagem lança várias bolas contra seus adversários causando dano a múlt
 
 <br>
 
-### Nível 5: **Gigante bola lei shu**
+### Nível 5: Gigante bola lei shu
 O personagem lança uma grande bola contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -2297,7 +2293,7 @@ O personagem lança uma grande bola contra o adversário causando dano.
 
 <br>
 
-### Nível 1: **Punho flamejante***
+### Nível 1: Punho flamejante
 O personagem aumenta o seu poder.
 
  de +3 em dano para cada ki gasto.
@@ -2310,7 +2306,7 @@ O personagem aumenta o seu poder.
   
 <br>
 
-### Nível 2: **Resistência***
+### Nível 2: Resistência
 O personagem aumenta o sua resistência.
 
 - **Tipo**: Buff
@@ -2321,7 +2317,7 @@ O personagem aumenta o sua resistência.
 
 <br>
 
-### Nível 3: **Arma energética***
+### Nível 3: Arma energética
 O personagem energiza os punhos causando dano.
 
 - **Tipo**: Buff
@@ -2333,7 +2329,7 @@ O personagem energiza os punhos causando dano.
 
 <br>
 
-### Nível 4: **Ataque invisível**
+### Nível 4: Ataque invisível
 O personagem lança um disparo que causa dano.
 
 - **Tipo**: Disparo
@@ -2345,7 +2341,7 @@ O personagem lança um disparo que causa dano.
 
 <br>
 
-### Nível 5: **Fortalecimento espiritual***
+### Nível 5: Fortalecimento espiritual
 O personagem eleva seu espirito de luta e recebe um bônus.
 
 - **Tipo**: Buff
@@ -2364,7 +2360,7 @@ O personagem eleva seu espirito de luta e recebe um bônus.
 
 <br>
 
-### Nível 6: **Corte espacial**
+### Nível 6: Corte espacial
 O personagem corta o espaço onde está o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -2386,7 +2382,7 @@ O personagem corta o espaço onde está o adversário causando dano.
 
 <br>
 
-### Nível 1: **Punho flamejante***
+### Nível 1: Punho flamejante
 O personagem aumenta o seu poder.
 
 - **Tipo**: Buff
@@ -2399,7 +2395,7 @@ O personagem aumenta o seu poder.
   
 <br>
 
-### Nível 2: **Resistência***
+### Nível 2: Resistência
 O personagem aumenta o sua resistência.
 
 - **Tipo**: Buff
@@ -2412,7 +2408,7 @@ O personagem aumenta o sua resistência.
 
 <br>
 
-### Nível 3: **Arma energética**
+### Nível 3: Arma energética
 O personagem energiza os punhos elevando o dano causado.
 
 - **Tipo**: Buff
@@ -2425,7 +2421,7 @@ O personagem energiza os punhos elevando o dano causado.
 
 <br>
 
-### Nível 4: **Golpe de defesa e ataque madoki**
+### Nível 4: Golpe de defesa e ataque madoki
 O personagem, enquanto alvo de um disparo de nível 6 ou menor, pode absorve-lo, recarregando sua reserva de __*ki*__.
 
 - **Tipo**: Contra-ataque
@@ -2437,7 +2433,7 @@ O personagem, enquanto alvo de um disparo de nível 6 ou menor, pode absorve-lo,
 
 <br>
 
-### Nível 5: **Fortalecimento espiritual***
+### Nível 5: Fortalecimento espiritual
 O personagem eleva seu espirito de luta e recebe um bônus.
 
 - **Tipo**: Buff
@@ -2456,7 +2452,7 @@ O personagem eleva seu espirito de luta e recebe um bônus.
 
 <br>
 
-### Nível 6: **Ataque total**
+### Nível 6: Ataque total
 O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -2476,7 +2472,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 <br>
 
-### Nível 1: **Voar***
+### Nível 1: Voar
 O personagem pode voar e tem o deslocamento potencializado. 
 
 - **Tipo**: Buff
@@ -2489,7 +2485,7 @@ O personagem pode voar e tem o deslocamento potencializado.
 
 <br>
 
-### Nível 2: **Energizar***
+### Nível 2: Energizar
 O personagem aumenta o seu poder.
 
 - **Tipo**: Buff
@@ -2503,7 +2499,7 @@ O personagem aumenta o seu poder.
 
 <br>
 
-### Nível 3: **Arma Espiritual***
+### Nível 3: Arma Espiritual
 O personagem energiza os punhos causando dano.
 
 - **Tipo**: Buff
@@ -2515,7 +2511,7 @@ O personagem energiza os punhos causando dano.
 
 <br>
 
-### Nível 4: **Abrir/fechar portal**
+### Nível 4: Abrir/fechar portal
 O personagem pode abrir ou fechar portais que ligam o Ma-kai, Terra (Ningen-kai), Rei-kai. O portal se abre ou fecha gradativamente a cada período de **Canalização** (incrementando ou decrementando o rank do portal)
 
 > **Observações**   
@@ -2531,7 +2527,7 @@ O personagem pode abrir ou fechar portais que ligam o Ma-kai, Terra (Ningen-kai)
 
 <br>
 
-### Nível 5: **Aprimoramento espiritual***
+### Nível 5: Aprimoramento espiritual
 O personagem eleva seu espirito de luta e recebe um bônus.
 
 - **Tipo**: Buff
@@ -2550,7 +2546,7 @@ O personagem eleva seu espirito de luta e recebe um bônus.
 
 <br>
 
-### Nível 6: **Raio maior**
+### Nível 6: Raio maior
 O personagem lança um raio contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -2563,7 +2559,7 @@ O personagem lança um raio contra o adversário causando dano.
 
 ## Laser light
 
-### Nível 1: **Feixe de luz**
+### Nível 1: Feixe de luz
 O personagem lança um feixe de luz contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -2573,7 +2569,7 @@ O personagem lança um feixe de luz contra o adversário causando dano.
 
 <br>
 
-### Nível 2: **Espectro**
+### Nível 2: Espectro
 O personagem lança um espectro contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -2583,7 +2579,7 @@ O personagem lança um espectro contra o adversário causando dano.
 
 <br>
 
-### Nível 3: **Aurora hipnótica**
+### Nível 3: Aurora hipnótica
 O personagem lança uma aura hipnótica contra o adversário, paralisando-o enquanto o poder durar.
 
 > **Observações**  
@@ -2600,7 +2596,7 @@ O personagem lança uma aura hipnótica contra o adversário, paralisando-o enqu
 
 <br>
 
-### Nível 4: **Arma radiante***
+### Nível 4: Arma radiante
 O personagem cria uma espada que causa dano.
 
 - **Tipo**: Buff
@@ -2612,7 +2608,7 @@ O personagem cria uma espada que causa dano.
 
 <br>
 
-### Nível 5: **Ciclone arco-íris**
+### Nível 5: Ciclone arco-íris
 O personagem lança um raio na forma de um arco-íris contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -2632,7 +2628,7 @@ O personagem lança um raio na forma de um arco-íris contra o adversário causa
 
 <br>
 
-## Nível 1: **Armadura dourada***
+### Nível 1: Armadura dourada
 O personagem cria uma armadura dourada aumentado o seu poder e recebendo um bônus _IP_, _PV_ e dano.
 
 - **Tipo**: Buff
@@ -2647,7 +2643,7 @@ O personagem cria uma armadura dourada aumentado o seu poder e recebendo um bôn
 
 <br>
 
-### Nível 2: **Golpe de ruptura**
+### Nível 2: Golpe de ruptura
 Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um tufão, causando dano. O oponente deve realizar um teste bem-sucedido de _AGI_ para reduzir o dano recebido pela metade.
 
 - **Tipo**: Contra-ataque
@@ -2660,7 +2656,7 @@ Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca
 
 <br>
 
-### Nível 3: **Armadura azul***
+### Nível 3: Armadura azul
 O personagem cria uma armadura azul aumentado o seu poder e recebendo um bônus _IP_, _PV_ e dano.
 
 - **Tipo**: Buff
@@ -2675,7 +2671,7 @@ O personagem cria uma armadura azul aumentado o seu poder e recebendo um bônus 
   
 <br>
 
-### Nível 4: **Brilho sui seiki**
+### Nível 4: Brilho sui seiki
 O personagem invoca a aura dos anjos sobre si podendo voar, aprimorando o poder e a resistência de suas armaduras, e elevando o rank de suas doutrinas e aprimoramentos mesmo no rank S Supremo.
 
 - **Tipo**: Buff
@@ -2697,7 +2693,7 @@ O personagem invoca a aura dos anjos sobre si podendo voar, aprimorando o poder 
 
 <br>
 
-### Nível 5: **Rajada sui seiki**
+### Nível 5: Rajada sui seiki
 O personagem dispara uma rajada de energia sui seiki contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -2716,7 +2712,7 @@ O personagem dispara uma rajada de energia sui seiki contra o adversário causan
 
 <br>
 
-### Nível 1: **Olhar além do alcance**
+### Nível 1: Olhar além do alcance
 O personagem ao se concentrar, pode observar qualquer alvo conhecido.
 
 - **Tipo**: Buff
@@ -2729,7 +2725,7 @@ O personagem ao se concentrar, pode observar qualquer alvo conhecido.
   
 <br>
 
-### Nível 2: **Velocidade sobrenatural***
+### Nível 2: Velocidade sobrenatural
 O personagem aumenta a sua velocidade.
 
 - **Tipo**: Buff
@@ -2743,7 +2739,7 @@ O personagem aumenta a sua velocidade.
 
 <br>
 
-### Nível 3: **Olho demoníaco**
+### Nível 3: Olho demoníaco
 O personagem paralisa o oponente.
 
 - **Tipo**: Debuff
@@ -2756,7 +2752,7 @@ O personagem paralisa o oponente.
 
 <br>
 
-### Nível 4: **Verdadeiros olhos demoníacos***
+### Nível 4: Verdadeiros olhos demoníacos
 O personagem faz brotar vários olhos no seu corpo ficando mais monstruoso.
 
 - **Tipo**: Buff
@@ -2775,7 +2771,7 @@ O personagem faz brotar vários olhos no seu corpo ficando mais monstruoso.
   
 <br>
 
-### Nível 5: **Dominação**
+### Nível 5: Dominação
 O personagem domina um alvo _Despertado_ de rank inferior ou múltiplos alvos _Não-Despertados_ (seres sem rank). O alvo _Despertado_ pode resistir a técnica ao ser bem-sucedido em um teste de _WILL_. 
 
 > **Observações**
@@ -2797,7 +2793,7 @@ O personagem domina um alvo _Despertado_ de rank inferior ou múltiplos alvos _N
 
 <br>
 
-### Nível 6: **Velocidade máxima***
+### Nível 6: Velocidade máxima
 O personagem aumenta consideravelmente sua velocidade.
 
 - **Tipo**: Buff
@@ -2816,7 +2812,7 @@ O personagem aumenta consideravelmente sua velocidade.
 <br>
 
 ## Shura Nen Do Tō I
-### Nível 1: **Oscilação shura***
+### Nível 1: Oscilação shura
 O personagem cria uma armadura de terra e recebe um bônus de _FOR_, _CONS_ e _IP_.
 
 - **Tipo**: Buff
@@ -2831,7 +2827,7 @@ O personagem cria uma armadura de terra e recebe um bônus de _FOR_, _CONS_ e _I
 
 <br>
 
-### Nível 2: **Fortificação shura***
+### Nível 2: Fortificação shura
 O personagem fortifica seu braço com pedras que aumentam o seu dano. 
 
 > **Observações**  
@@ -2851,7 +2847,7 @@ O personagem fortifica seu braço com pedras que aumentam o seu dano.
 
 <br>
 
-### Nível 3: **Rajada de pedras**
+### Nível 3: Rajada de pedras
 O personagem lança um disparo de pedras contra os adversários causando dano.
 
 - **Tipo**: Disparo
@@ -2861,7 +2857,7 @@ O personagem lança um disparo de pedras contra os adversários causando dano.
 
 <br>
 
-### Nível 4: **Bomb Atack**
+### Nível 4: Bomb Atack
  Opersonagem atingi o oponente com um encontrão causando dano.
 
 > **Observações**  
@@ -2872,7 +2868,7 @@ O personagem lança um disparo de pedras contra os adversários causando dano.
 - **Dano**: **3D6+4** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
 
-### Nível 5: **Oscilação shura maior***
+### Nível 5: Oscilação shura maior
 O personagem cria uma armadura de terra maior e recebe um bônus de _FOR_, _CONS_, _PV_ e _IP_.
 
 - **Tipo**: Buff
@@ -2888,7 +2884,7 @@ O personagem cria uma armadura de terra maior e recebe um bônus de _FOR_, _CONS
 
 <br>
 
-### Nível 6: **Big Bomb Atack**
+### Nível 6: Big Bomb Atack
 Opersonagem atingi o oponente com um encontrão causando dano.
 
 > **Observações**  
@@ -2903,7 +2899,7 @@ Opersonagem atingi o oponente com um encontrão causando dano.
 
 ## Espadachim das trevas
 
-### Nível 1: **Estilo de luta exótico***
+### Nível 1: Estilo de luta exótico
 O personagem tem um estilo de luta diferenciado, este estilo de luta refinado concede um bônus de _ATQ__, _DEF__.
 
 - **Tipo**: Buff
@@ -2916,7 +2912,7 @@ O personagem tem um estilo de luta diferenciado, este estilo de luta refinado co
 
 <br>
 
-### Nível 2: **Lançar bambolê das trevas***
+### Nível 2: Lançar bambolê das trevas
 O personagem lança o Bambolê das trevas contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -2926,7 +2922,7 @@ O personagem lança o Bambolê das trevas contra o adversário causando dano.
 
 <br>
 
-### Nível 3: **Bambolê das trevas***
+### Nível 3: Bambolê das trevas
 O personagem amplia o dano Bambolê das trevas que causa dano e pode ser potencializado por um custo adicional de __*ki*__. 
 
 - **Tipo**: Buff
@@ -2939,7 +2935,7 @@ O personagem amplia o dano Bambolê das trevas que causa dano e pode ser potenci
 
 <br>
 
-### Nível 4: **Redemoinho das trevas**
+### Nível 4: Redemoinho das trevas
 O personagem quando for alvo de um disparo de nível 5 ou menor, ele pode neutralizá-lo fazendo um redemoinho em volta de si mesmo. 
 
 - **Tipo**: Disparo
@@ -2950,7 +2946,7 @@ O personagem quando for alvo de um disparo de nível 5 ou menor, ele pode neutra
 
 <br>
 
-### Nível 5: **Turbilhão das trevas**
+### Nível 5: Turbilhão das trevas
 O personagem cria um turbilhão em volta de si mesmo e aplica uma investida contra o adversário causando dano.
 
 - **Tipo**: Disparo
@@ -2970,7 +2966,7 @@ O personagem cria um turbilhão em volta de si mesmo e aplica uma investida cont
 
 <br>
 
-### Nível 1: **Cura**
+### Nível 1: Cura
 O personagem pode curar alguém ferido.
 
 - **Tipo**: Buff
@@ -2981,7 +2977,7 @@ O personagem pode curar alguém ferido.
 
 <br>
 
-### Nível 2: **Cura 2**
+### Nível 2: Cura 2
 O personagem pode curar alguém ferido.
 
 - **Tipo**: Buff
@@ -2992,7 +2988,7 @@ O personagem pode curar alguém ferido.
 
 <br>
 
-### Nível 3: **Cura 3**
+### Nível 3: Cura 3
 O personagem pode curar doenças graves e outros efeitos como envenenamento. 
 
 - **Tipo**: Buff
@@ -3005,7 +3001,7 @@ O personagem pode curar doenças graves e outros efeitos como envenenamento.
 
 <br>
 
-### Nível 4: **Cura 4**
+### Nível 4: Cura 4
 O personagem pode curar alguém ferido.
 
 - **Tipo**: Buff
@@ -3016,7 +3012,7 @@ O personagem pode curar alguém ferido.
 
 <br>
 
-### Nível 5: **Cura 5**
+### Nível 5: Cura 5
 O personagem pode curar alguém ferido.
 
 - **Tipo**: Buff
@@ -3027,7 +3023,7 @@ O personagem pode curar alguém ferido.
 
 <br>
 
-### Nível 6: **Ressurreição**
+### Nível 6: Ressurreição
 O personagem pode ressuscitar qualquer criatura com a permissão do Rei-kai.
 
 > **Observações**  
@@ -3052,7 +3048,7 @@ O personagem pode ressuscitar qualquer criatura com a permissão do Rei-kai.
 
 <br>
 
-### Nível 1: Voar*
+### Nível 1: Voar
 O personagem pode voar e tem o deslocamento potencializado. 
 
 - **Tipo**: Buff
@@ -3065,7 +3061,7 @@ O personagem pode voar e tem o deslocamento potencializado.
 
 <br>
 
-### Nível 2: **Estilo de luta proibido***
+### Nível 2: Estilo de luta proibido
 O personagem conhece técnicas marciais secretas de antigos mestres, e este estilo de luta refinado concede um bônus de _ATQ__, _DEF__ e nos testes de _Esquiva_ por rank. 
 
 - **Tipo**: Buff
@@ -3079,7 +3075,7 @@ O personagem conhece técnicas marciais secretas de antigos mestres, e este esti
   
 <br>
 
-### Nível 3: **Golpe de ruptura**
+### Nível 3: Golpe de ruptura
 Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um tufão, causando dano. O oponente deve realizar um teste bem-sucedido de _AGI_ para reduzir o dano recebido pela metade .
 
 - **Tipo**: Contra-ataque
@@ -3091,7 +3087,7 @@ Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca
 
 <br>
 
-### Nível 4: **Arma do Mei-kai**
+### Nível 4: Arma do Mei-kai
 O personagem cria uma arma espiritual do Mei-kai que causa dano e pode ser potencializado por um custo adicional de __*ki*__. 
 
 - **Tipo**: Buff
@@ -3104,7 +3100,7 @@ O personagem cria uma arma espiritual do Mei-kai que causa dano e pode ser poten
 
 <br>
 
-### Nível 5: **Reflexo destrutivo**
+### Nível 5: Reflexo destrutivo
 Quando o personagem for alvo de um disparo de nível 7 ou menor, ele pode absorvê-lo e depois manda-lo de volta contra o adversário causando o dano do próprio disparo. 
 
 - **Tipo**: Disparo
@@ -3115,7 +3111,7 @@ Quando o personagem for alvo de um disparo de nível 7 ou menor, ele pode absorv
 
 <br>
 
-### Nível 6: **Fortalecimento espiritual***
+### Nível 6: Fortalecimento espiritual
 O personagem ganha bônus em todos os atributos físicos, _PV_, _IP_ e dano. 
 
 - **Tipo**: Buff
@@ -3134,7 +3130,7 @@ O personagem ganha bônus em todos os atributos físicos, _PV_, _IP_ e dano.
 
 <br>
 
-### Nível 7: **Copiar poderes***
+### Nível 7: Copiar poderes
 O personagem quando ve qualquer doutrina pode copiá-la para usá-la durante a luta. Para aprende-la permanentemente, deve gastar **7** de __*ki*__ e ser bem-sucedido no teste de _INT_. Além disso, é preciso pagar o custo da doutrina na evolução do personagem.
 
 - **Tipo**: Buff
@@ -3147,7 +3143,7 @@ O personagem quando ve qualquer doutrina pode copiá-la para usá-la durante a l
 
 <br>
 
-### Nível 8: **Despertar o mal***
+### Nível 8: Despertar o mal
 O personagem faz a parte má de um ser aflorar e pode ser controlada pelo habitante do Mei-kai. Requer um teste difícil de _WILL_ para resistir ao efeito. A vítima não pode ser forçada a fazer uma ação suicida, caso seja forçada a dominação se dissipará. A duração do controle é de um dia. 
 
 - **Tipo**: Debuff
@@ -3158,7 +3154,7 @@ O personagem faz a parte má de um ser aflorar e pode ser controlada pelo habita
 
 <br>
 
-### Nível 9: **Ilusão Profunda**
+### Nível 9: Ilusão Profunda
 O personagem cria uma ilusão de acordo com os sentimentos das vítimas, forçando-as a fraquejar. Requer um teste difícil de _WILL_ para resistir ao efeito. Se o oponente sofrer algum dano durante a ilusão, ela será dissipada. A cada rodada durante a ilusão as vítimas precisam ser bem-sucedidas em um teste difícil de _WILL_ para dissipar o efeito. 
 
 - **Tipo**: Debuff
@@ -3169,7 +3165,7 @@ O personagem cria uma ilusão de acordo com os sentimentos das vítimas, forçan
 
 <br>
 
-### Nível 10: **Ondas energéticas**
+### Nível 10:*Ondas energéticas
 O personagem lança uma rajada energética causando dano em área.
 
 - **Tipo**: Disparo
