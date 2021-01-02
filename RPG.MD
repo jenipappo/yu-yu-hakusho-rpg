@@ -547,15 +547,13 @@ O personagem lança um disparo que ataca vários oponentes.
 <br>
 
 ### Nível 3: Energizar golpes
-O personagem energiza seus golpes corpo a corpo com energia espiritual causando dano por rank. O dano pode ser ampliado ao custo de  adicional de **+1** de __*ki*__. 
+O personagem energiza seus golpes corpo a corpo com energia espiritual, causando mais dano.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+2** e **+1D6** por rank 
-- **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **2D6+4** e **+1D6** por rank 
-- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **2D6+4** e **+1D6** por rank 
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -626,15 +624,13 @@ Para se tornar um mestre do Heikohadouken, o personagem precisa dominar a bola e
 ## Reiken
 
 ### Nível 1: Espada simples
-O personagem cria uma espada que causa dano por rank; ou cria uma espada mais poderosa a um custo adicional. 
+O personagem cria uma espada que causa dano adicional. 
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6** e **+3** por rank 
-- **Custo**: **2** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **2D6+2** e **+3** por rank 
-- **Custo Ampliado**: **3** __*ki*__ e **+1** por rank
+- **Dano**: **2D6+2** e **+3** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -650,15 +646,13 @@ Este nível aumenta a Espada simples para atacar até **6** metros de distância
 <br>
 
 ### Nível 3: Adagas reiken
-O personagem cria uma espada que causa dano por rank ou pode potencializá-la causando dano amplificado. 
+O personagem cria uma espada que causa mais dano. 
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+3** e **+1D6** por rank 
-- **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **2D6+5** e **+1D6** por rank 
-- **Custo Ampliado**: **4** __*ki*__ **+1** por rank
+- **Dano**: **2D6+5** e **+1D6** por rank 
+- **Custo**: **4** __*ki*__ **+1** por rank
 
 <br>
 
@@ -723,19 +717,15 @@ O personagem cria uma espada que causa dano e pode atacar o adversário com alca
 <br>
 
 ### Nível 1: Criar vegetal
-O personagem cria uma arma de vegetal que amplifica seu dano; pode ser potencializada a um custo adicional de __*ki*__. Torna-se mais devastadora a partir do Rank C.
+O personagem cria uma arma de vegetal que amplifica seu dano.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6** e **+3** por rank 
-- **Custo**: **2** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **2D6+2** e **+4** por rank
-- **Custo Ampliado**: **3** __*ki*__ e **+1** por rank
-- **Dano Rank C**: **2D6+2** e **+1D6** por rank 
-- **Custo Rank C**: **3** __*ki*__ e **+1** por rank
-- **Dano Rank C Ampliado**: **2D6+4** e **+1D6** por rank
-- **Custo Rank C Ampliado**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **2D6+2** e **+4** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Rank C**: **2D6+4** e **+1D6** por rank
+- **Custo Rank C**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -855,10 +845,8 @@ O personagem cria chamas nas mãos ou em uma arma aumentando seu dano.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6** e **+3** por rank 
-- **Custo**: **2** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **3D6** e **+3** por rank
-- **Custo Ampliado**: **3** __*ki*__ e **+1** por rank 
+- **Dano**: **3D6** e **+3** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank 
 
 <br>
 
@@ -873,15 +861,13 @@ O personagem lança um disparo de chamas negras contra o adversário causando da
 <br>
 
 ### Nível 4: Ja ou en satsu Ken*
-O personagem cria uma espada de chamas negras que causa dano, podendo ser potencializada por um custo adicional.
+O personagem cria uma espada de chamas negras que causa dano adicional.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+2** e **+1D6+1** por rank 
-- **Custo**: **4** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **2D6+4** e **+1D6+1** por rank
-- **Custo Ampliado**: **5** __*ki*__ e **+1** por rank 
+- **Dano**: **2D6+4** e **+1D6+1** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank 
 
 <br>
 
@@ -946,14 +932,10 @@ O personagem fortifica seu braço com pedras que aumentam o seu dano.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6** e **+3** por rank 
-- **Custo**: **2** __*ki*__ e **+1** por rank 
-- **Dano Ampliado**: **3D6** e **+3** por rank
-- **Custo Ampliado**: **2** __*ki*__ 
-- **Dano Rank B**: **2D6+2** e **+1D6** por rank 
-- **Custo Rank B**: **3** __*ki*__ e **+1** por rank
-- **Dano Rank B Ampliado**: **3D6+2** e **+1D6** por rank
-- **Custo Rank B Ampliado**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **3D6** e **+3** por rank
+- **Custo**: **2** __*ki*__ 
+- **Dano Rank B**: **3D6+2** e **+1D6** por rank
+- **Custo Rank B**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -1120,15 +1102,13 @@ O personagem cria duplicatas e recebe um bônus.
 <br>
 
 ### Nível 4: Soco do trovão
-O personagem energiza raios nas mãos que causam dano.
+O personagem energiza raios nas mãos que causam mais dano.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+2** e **+1D6+1** por rank 
-- **Custo**: **4** __*ki*__ e **+1** por rank 
-- **Dano Ampliado**: **2D6+4** e **+1D6+1** por rank
-- **Custo Ampliado**: **5** __*ki*__ e **+1** por rank 
+- **Dano**: **2D6+4** e **+1D6+1** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank 
 
 <br>
 
@@ -1182,15 +1162,13 @@ O personagem prende o oponente com os yo-yos e o arremessa contra o chão causan
 <br>
 
 ### Nível 3: Yo-yo demoníaco
-O personagem potencializa os yo-yos causando dano, podendo ser potencializada por um custo adicional.
+O personagem potencializa os yo-yos causando mais dano.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+2** e **+1D6** por rank
-- **Custo**: **4*** __*ki*__ e **+1** por rank  
-- **Dano Ampliado**: **2D6+4** e **+1D6** por rank
-- **Custo Ampliado**: **5*** __*ki*__ e **+1** por rank  
+- **Dano**: **2D6+4** e **+1D6** por rank
+- **Custo**: **5*** __*ki*__ e **+1** por rank  
  
 <br>
 
@@ -1235,19 +1213,15 @@ O personagem lança uma bola de fogo contra o adversário causando dano.
 <br>
 
 ### Nível 2: Arma do Makai
-O personagem cria uma arma que causa dano. Pode ser potencializada por um custo extra de __*ki*__.
+O personagem cria uma arma causando mais dano.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6** e **+3** por rank
-- **Custo**: **2*** __*ki*__ e **+1** por rank  
-- **Dano Ampliado**: **3D6** e **+3** por rank
-- **Custo Ampliado**: **4*** __*ki*__ e **+1** por rank  
-- **Dano Rank C**: **2D6+2** e **+1D6** por rank
-- **Custo Rank C**: **3*** __*ki*__ e **+1** por rank  
-- **Dano Rank C Ampliado**: **3D6+2** e **+1D6** por rank
-- **Custo Rank C Ampliado**: **5*** __*ki*__ e **+1** por rank  
+- **Dano**: **3D6** e **+3** por rank
+- **Custo**: **4*** __*ki*__ e **+1** por rank  
+- **Dano Rank C**: **3D6+2** e **+1D6** por rank
+- **Custo Rank C**: **5*** __*ki*__ e **+1** por rank  
 
 <br>
 
@@ -1324,10 +1298,8 @@ O personagem cria chamas intensas nas mãos ampliando seu dano.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+2** e **+1D6** por rank 
-- **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **2D6+4** e **+1D6** por rank
-- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **2D6+4** e **+1D6** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -1394,10 +1366,8 @@ O personagem energiza seus golpes corpo a corpo com energia espiritual causando 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+2** e **+1D6** por rank 
-- **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **2D6+4** e **+1D6** por rank 
-- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **2D6+4** e **+1D6** por rank 
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -1539,10 +1509,8 @@ O personagem cria uma espada de gelo no próprio braço ampliando seu dano.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+2** e **+1D6** por rank 
-- **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **2D6+4** e **+1D6** por rank 
-- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **2D6+4** e **+1D6** por rank 
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -1602,10 +1570,8 @@ O personagem cria um furacão em um de seus braços ampliando seu dano.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+2** e **+1D6** por rank 
-- **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **2D6+4** e **+1D6** por rank 
-- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **2D6+4** e **+1D6** por rank 
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -1814,15 +1780,13 @@ O personagem lança várias sombras contra o adversário causando dano.
 <br>
 
 ### Nível 3: Espada negra
-O personagem cria uma espada que causa dano por rank; ou cria uma espada mais a um custo adicional. 
+O personagem cria uma espada que amplifica o dano.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+2** e **+1D6** por rank 
-- **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **2D6+4** e **+1D6** por rank 
-- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **2D6+4** e **+1D6** por rank 
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -2042,19 +2006,15 @@ O personagem cria um escudo ou armadura para aumentar sua defesa.
 <br>
 
 ### Nível 2: Arma
-O personagem cria uma arma. 
+O personagem cria uma arma que amplifica o dano. 
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6** e **+3** por rank 
-- **Custo**: **2** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **3D6** e **+3** por rank 
-- **Custo Ampliado**: **3** __*ki*__ e **+1** por rank
-- **Dano Rank C**: **2D6 +3** e **+3** por rank
-- **Custo Rank C**: **3** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **3D6 +3** e **+3** por rank 
-- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **3D6** e **+3** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Rank C**: **3D6+3** e **+3** por rank 
+- **Custo Rank C**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -2226,10 +2186,8 @@ O personagem cria bolas nas mãos que amplificam seu dano corpo a corpo.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+3** e **+1D6** por rank 
-- **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **2D6+5** e **+1D6** por rank 
-- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **2D6+5** e **+1D6** por rank 
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -2285,14 +2243,12 @@ O personagem aumenta o sua resistência.
 <br>
 
 ### Nível 3: Arma energética
-O personagem energiza os punhos causando dano.
+O personagem energiza os punhos amplificando o dano.
 
 - **Tipo**: Buff
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+4** e **+1D6** por rank
-- **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **2D6+6** e **+1D6** por rank
-- **Custo Ampliado**: **4** _*ki*_ e **+1** por rank 
+- **Dano**: **2D6+6** e **+1D6** por rank
+- **Custo**: **4** _*ki*_ e **+1** por rank 
 
 <br>
 
@@ -2378,10 +2334,8 @@ O personagem energiza os punhos elevando o dano causado.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+4** e **+1D6** por rank
-- **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **2D6+6** e **+1D6** por rank
-- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **2D6+6** e **+1D6** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -2461,14 +2415,12 @@ O personagem aumenta o seu poder.
 <br>
 
 ### Nível 3: Arma Espiritual
-O personagem energiza os punhos causando dano.
+O personagem energiza os punhos amplificando o dano.
 
 - **Tipo**: Buff
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+3** e **+1D6** por rank
-- **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **2D6+5** e **+1D6** por rank
-- **Custo Ampliado**: **4** _*ki*_ e **+1** por rank 
+- **Dano**: **2D6+5** e **+1D6** por rank
+- **Custo**: **4** _*ki*_ e **+1** por rank 
 
 <br>
 
@@ -2556,14 +2508,12 @@ O personagem lança uma aura hipnótica contra o adversário, paralisando-o enqu
 <br>
 
 ### Nível 4: Arma radiante
-O personagem cria uma espada que causa dano.
+O personagem cria uma espada que amplifica o dano.
 
 - **Tipo**: Buff
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+2** e **+1D6+1** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank
-- **Dano Ampliado**: **2D6+4** e **+1D6+1** por rank
-- **Custo Ampliado**: **5** _*ki*_ e **+1** por rank 
+- **Dano**: **2D6+4** e **+1D6+1** por rank
+- **Custo**: **5** _*ki*_ e **+1** por rank 
 
 <br>
 
@@ -2793,14 +2743,10 @@ O personagem fortifica seu braço com pedras que aumentam o seu dano.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6** e **+3** por rank 
-- **Custo**: **2** __*ki*__ e **+1** por rank 
-- **Dano Ampliado**: **3D6** e **+3** por rank
-- **Custo Ampliado**: **3** __*ki*__ 
-- **Dano Rank B**: **2D6+2** e **+1D6** por rank 
-- **Custo Rank B**: **3** __*ki*__ e **+1** por rank
-- **Dano Rank B Ampliado**: **3D6+2** e **+1D6** por rank
-- **Custo Rank B Ampliado**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **3D6** e **+3** por rank
+- **Custo**: **3** __*ki*__
+- **Dano Rank B**: **3D6+2** e **+1D6** por rank
+- **Custo Rank B**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -2879,15 +2825,13 @@ O personagem lança o Bambolê das trevas contra o adversário causando dano.
 <br>
 
 ### Nível 3: Bambolê das trevas
-O personagem amplia o dano Bambolê das trevas que causa dano e pode ser potencializado por um custo adicional de __*ki*__. 
+O personagem amplia o dano Bambolê das trevas que amplifica o dano. 
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+2** e **+1D6** por rank
-- **Custo**: **3*** __*ki*__ e **+1** por rank  
-- **Dano Ampliado**: **2D6+4** e **+1D6** por rank
-- **Custo Ampliado**: **4*** __*ki*__ e **+1** por rank  
+- **Dano**: **2D6+4** e **+1D6** por rank
+- **Custo **: **4*** __*ki*__ e **+1** por rank  
 
 <br>
 
@@ -3044,15 +2988,13 @@ Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca
 <br>
 
 ### Nível 4: Arma do Mei-kai
-O personagem cria uma arma espiritual do Mei-kai que causa dano e pode ser potencializado por um custo adicional de __*ki*__. 
+O personagem cria uma arma espiritual do Mei-kai que amplifica o dano. 
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **3D6+3** e **+1D6+1** por rank
-- **Custo**: **4*** __*ki*__ e **+1** por rank  
-- **Dano Ampliado**: **3D6+5** e **+1D6+1** por rank
-- **Custo Ampliado**: **5*** __*ki*__ e **+1** por rank  
+- **Dano**: **3D6+5** e **+1D6+1** por rank
+- **Custo**: **5*** __*ki*__ e **+1** por rank  
 
 <br>
 
