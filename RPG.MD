@@ -501,7 +501,7 @@ O personagem é sádico e gosta de torturar as pessoas e fazê-las sofrer, apena
 > **Obervações**  
 > 1. O campo de fogo dissipa o campo de gelo e vice-versa, sendo necessário reativar novamente um dos campos.  
 > 0. O tamanho dos campos, criados pelas doutrinas e aprimoramentos, tem um raio de 25 metros por rank e uma altura de 5 metros por rank, o campo acompanha o personagem.
-> 0. Todos os disparos de rank E causam +2XD6+Y de dano, onde X é igual quantidade de dados e Y é igual ao dano base da doutrina. Exemplo: uma Grande Bola de Fogo causa 1D6+16 de dano por rank, ela causaria 3D6+32 de dano no rank E. Todos os disparos de rank D causam +3XD6 de dano, uma Grande Bola de Fogo causaria 5D6+32 de dano no rank D. Todos os disparos de rank C causam +3XD6 de dano, uma Grande Bola de Fogo causaria 6D6+48 de dano no rank C. Todos os disparos de rank B causam +XD6 de dano, uma Grande Bola de Fogo causaria 5D6+64 de dano no rank B. A partir do rank A as doutrinas não ganham bônus oriundo de outras mecânicas que não sejam das próprias doutrinas. Uma Grande Bola de Fogo causaria 5D6+80 de dano no rank A. Uma Grande Bola de Fogo causaria 6D6+96 de dano no rank S. Uma Grande Bola de Fogo causaria 7D6+112 de dano no rank SS.  
+ 
 <br>
 <br>
 
@@ -522,22 +522,24 @@ O personagem lança um disparo contra o adversário causando dano por rank. Ao a
 > 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+12** por rank 
+- **Dano**: **4D6+10** e **+15** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Rank D**: **1D6+16** por rank
+- **Dano Rank D**: **4D6+12** e **+17** por rank
 - **Custo Rank D**: **4** __*ki*__ e **+1** por rank
-- **Dano Rank C**: **1D6+20** por rank
+- **Dano Rank C**: **4D6+14** e **+20** por rank
 - **Custo Rank C**: **5** __*ki*__ e **+1** por rank
 
 <br>
 
 ### Nível 2: Shotgun
-O personagem lança um disparo que ataca vários oponentes.
+O personagem lança um disparo que ataca vários oponentes. Ao atingir o rank C, esta doutrina é aprimorada.
 
 - **Tipo**: Disparo
 - **Alvos**: **4** alvos e **+1** por rank
-- **Dano**: **1D6+12** por rank 
+- **Dano**: **4D6+10** e **+15** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Rank C**: **4D6+12** e **+17** por rank
+- **Custo Rank C**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -570,7 +572,7 @@ Um golpe que causa dano, porém perde eficiência com a distância.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+21** por rank (a cada 1 metro de distância diminui em **4**)
+- **Dano**: **4D6+14** e **+21** por rank (a cada 1 metro de distância diminui em **4**)
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -580,7 +582,7 @@ O personagem só pode usar esta técnica para tirar a parte maligna de uma pesso
 
 - **Tipo**: Dispel
 - **Alvos**: **1**
-- **Dano**: **1D6+25** por rank
+- **Dano**: **4D6+14** e **+23** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
@@ -671,8 +673,8 @@ O personagem faz com que sua espada ataque o adversário por de baixo da terra c
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+13** por rank
-- **Custo**: **3** __*ki*__; **+1** por rank
+- **Dano**: **4D6+12** e **+16** por rank
+- **Custo**: **4** __*ki*__; **+1** por rank
 - **Efeitos Adicionais**:
   - Aplica **-5%** por rank de chance de esquiva ao oponente 
 
@@ -683,8 +685,8 @@ Melhora a espada vara tornando-a muito mais flexível e causando dano extra por 
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+16** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **4D6+14** e **+18** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**:
   - Aplica **-5%** por rank de chance de esquiva ao oponente 
 
@@ -750,7 +752,7 @@ O personagem cria diversas pétalas que cortam como navalhas os adversários cau
 
 - **Tipo**: Disparo
 - **Alvos**: **4** e **+1** por rank
-- **Dano**: **1D6+14** por rank
+- **Dano**: **4D6+10** e **+15** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -808,7 +810,7 @@ O personagem invoca a planta sanguessuga que ataca um oponente que estiver ferid
 - **Custo**: **10** __*ki*__. Ao final da invocação, toda a reserva de __*ki*__ restante é zerada
 - **Planta Sanguessuga**
   - _FOR_: _FOR_ do invocador **+10**
-  - **Dano**: **1D6+10** por rank (ignora qualquer absorção de dano)
+  - **Dano**: **4D6+14** e **+5** por rank (ignora qualquer absorção de dano)
 
 
 <br>
@@ -850,7 +852,7 @@ O personagem lança um disparo de chamas negras contra o adversário causando da
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+15** por rank
+- **Dano**: **4D6+10** e **+15** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
@@ -876,7 +878,7 @@ O personagem invoca um dragão negro contra o adversário causando dano, este fi
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+21** por rank
+- **Dano**: **4D6+14** e **+21** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - **Dano**: **1D6+23** por rank se utilizado no mundo das trevas
@@ -916,7 +918,7 @@ O personagem lança um disparo de pedras contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+9** por rank
+- **Dano**: **4D6+8** e **+13** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
@@ -954,7 +956,7 @@ O personagem atinge o adversário com uma investida vindo de qualquer lugar do s
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+16** por rank
+- **Dano**: **4D6+12** e **+16** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - **Esquiva**: O adversário perde **-5%** de sua esquiva contra essa técnica.
@@ -970,7 +972,7 @@ O personagem lança-se em pedaços contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+20** por rank
+- **Dano**: **4D6+14** e **+20** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - **Esquiva**: O adversário perde **-5%** de sua esquiva contra essa técnica.
@@ -1000,7 +1002,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
  - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+9** por rank
+- **Dano**: **4D6+8** e **+13** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
@@ -1010,7 +1012,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+12** por rank
+- **Dano**: **4D6+10** e **+15** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 <br>
 
@@ -1019,7 +1021,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+16** por rank
+- **Dano**: **4D6+12** e **+17** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
@@ -1047,7 +1049,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+20** por rank
+- **Dano**: **4D6+14** e **+20** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -1060,7 +1062,7 @@ O personagem lança um choque da ponta dos dedos contra o adversário causando d
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+9** por rank
+- **Dano**: **4D6+8** e **+13** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
@@ -1070,7 +1072,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+12** por rank
+- **Dano**: **4D6+10** e **+15** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
@@ -1090,7 +1092,7 @@ O personagem cria duplicatas e recebe um bônus.
 - **Alvos**: Si mesmo
 - **Custo**: **10** __*ki*__
 - **Bônus**
-  - _PV_: **+25**
+  - _PV_: **+20**
 - **Efeitos Adicionais**
   - Ao usar essa técnica o personagem recebe o aprimoramento _Ataques Múltiplos_.
 
@@ -1112,7 +1114,7 @@ Após dividir-se em sete (utilizando **Kakeru**), o personagem usa sete choques 
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+17** por rank
+- **Dano**: **4D6+12** e **+18** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -1122,7 +1124,7 @@ Após dividir-se em sete (utilizando **Kakeru**), o personagem usa sete disparos
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+21** por rank
+- **Dano**: **4D6+14** e **+21** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
@@ -1148,7 +1150,7 @@ O personagem prende o oponente com os yo-yos e o arremessa contra o chão causan
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+12** por rank
+- **Dano**: **4D6+10** e **+15** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - O teste de _Esquiva_ usa _CONS_ em vez de _AGI_
@@ -1187,7 +1189,7 @@ O personagem lança os yo-yos contra o adversário causando dano e diminuindo a 
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+18** por rank
+- **Dano**: **4D6+14** e **+19** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - Durante o ataque, é aplicado ao oponente **-5%** de chance de _Esquiva_ por rank 
@@ -1202,7 +1204,7 @@ O personagem lança uma bola de fogo contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+9** por rank
+- **Dano**: **4D6+8** e **+13** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
@@ -1220,17 +1222,7 @@ O personagem cria uma arma causando mais dano.
 
 <br>
 
-### Nível 3: Vácuo cortante
-O personagem lança um disparo contra o adversário causando dano. 
-
-- **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **1D6+16** por rank
-- **Custo**: **3** __*ki*__ e **+1** por rank
-
-<br>
-
-### Nível 4: Encolhimento
+### Nível 3: Encolhimento
 O personagem faz uma reza, após seu termino, o oponente encolhe. Requer um teste bem-sucedido de _Conhecimento de Doutrinas_ para o personagem tapar os ouvidos e o efeito se voltar contra o usuário. Caso o personagem conheça a técnica não será preciso nenhum teste para tapar os ouvidos. 
 
 > **Observações**
@@ -1239,9 +1231,19 @@ O personagem faz uma reza, após seu termino, o oponente encolhe. Requer um test
 - **Tipo**: Debuff
 - **Duração**: **1** cena
 - **Alvos**: **1**
-- **Custo**: **5** __*ki*__
+- **Custo**: **9** __*ki*__
 - **Efeitos Adicionais**
   - O alvo encolhe e fica com 2 centímetros de altura
+
+<br>
+
+### Nível 4: Vácuo cortante
+O personagem lança um disparo contra o adversário causando dano. 
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **4D6+12** e **+17** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -1282,7 +1284,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+12** por rank
+- **Dano**: **4D6+10** e **+15** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
@@ -1303,7 +1305,7 @@ O personagem lança uma grande bola de fogo contra seus adversários causando da
 
 - **Tipo**: Disparo
 - **Alvos**: **4** alvos e **+1** por rank
-- **Dano**: **1D6+16** por rank 
+- **Dano**: **4D6+12** e **+17** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
@@ -1326,7 +1328,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+20** por rank
+- **Dano**: **4D6+14** e **+20** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -1350,7 +1352,7 @@ O personagem ataca o oponente com um tremendo chute.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+12** por rank
+- **Dano**: **4D6+10** e **+15** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
@@ -1371,7 +1373,7 @@ O personagem lança uma bola de energia contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+16* por rank
+- **Dano**: **4D6+12** e **+17** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
@@ -1396,7 +1398,7 @@ O personagem lança uma grande bola de energia contra o adversário causando dan
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+20* por rank
+- **Dano**: **4D6+14** e **+20** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -1493,7 +1495,7 @@ O personagem dispara diversas estacas de granizo contra o adversário causando d
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+12* por rank
+- **Dano**: **4D6+10** e **+15** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
@@ -1530,7 +1532,7 @@ O personagem cria um disparo na forma de um dragão de gelo contra o adversário
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+19* por rank
+- **Dano**: **4D6+14** e **+19** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -1554,7 +1556,7 @@ O personagem dispara uma rajada de ar contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+12** por rank
+- **Dano**: **4D6+10** e **+15** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
@@ -1597,7 +1599,7 @@ O personagem lança um grande furacão contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+20** por rank
+- **Dano**: **4D6+14** e **+20** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -1641,7 +1643,7 @@ O personagem lança chakrans contra o adversário causando dano .
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+15** por rank
+- **Dano**: **4D6+12** e **+16** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
@@ -1667,7 +1669,7 @@ O personagem energiza sua mão, aonde ele tocar causará um grande onda de destr
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+20** por rank
+- **Dano**: **4D6+14** e **+19** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -1769,7 +1771,7 @@ O personagem lança várias sombras contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+12** por rank
+- **Dano**: **4D6+10** e **+15** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
@@ -1829,7 +1831,7 @@ O personagem lança uma rajada de almas contra os adversários causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **4** alvos e **+1** por rank
-- **Dano**: **1D6+20** por rank
+- **Dano**: **4D6+14** e **+20** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
@@ -1848,7 +1850,7 @@ O personagem toca o adversário causando uma explosão.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+9** por rank
+- **Dano**: **4D6+8** e **+13** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
@@ -1858,7 +1860,7 @@ O personagem lança uma granada contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+12** por rank
+- **Dano**: **4D6+10** e **+15** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
@@ -1868,8 +1870,8 @@ O personagem invoca várias bombas. A rajada de bombas causa dano a vários inim
 
 - **Tipo**: Disparo
 - **Alvos**: **4** alvos e **+1** por rank
-- **Dano**: **1D6+16** por rank
-- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano**: **4D6+12** e **+16** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -1894,8 +1896,8 @@ O personagem lança-se contra o adversário causando uma grande explosão.
 
 - **Tipo**: Disparo
 - **Alvos**: **4** alvos e **+1** por rank
-- **Dano**: **1D6+21** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **4D6+14** e **+20** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -1945,7 +1947,7 @@ O personagem lança um disparo teleguiado contra o adversário causando dano e d
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+16** por rank
+- **Dano**: **4D6+12** e **+16** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - Aplica **-5%** de _Esquiva_ ao oponente por rank
@@ -1972,7 +1974,7 @@ O personagem lança um disparo contra o adversário.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+20** por rank
+- **Dano**: **4D6+14** e **+20** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -2013,29 +2015,28 @@ O personagem cria uma arma que amplifica o dano.
 
 <br>
 
-### Nível 3: Arma múltipla
-O personagem cria diversos tentaculos a partir do próprio corpo que vão de encontro aos adversários causando dano.
-
-- **Tipo**: Buff
-- **Duração**: **1** turno
-- **Alvos**: **4** e **+1** por rank
-- **Dano**: **1D6+15** por rank 
-- **Custo**: **3** __*ki*__ e **+1** por rank
-
-<br>
-
-### Nível 4: Derretimento
+### Nível 3: Derretimento
 O personagem fica totalmente maleável, sendo mais difícil de ser atingido.
 
 - **Tipo**: Buff
 - **Alvos**: Si mesmo
 - **Duração**: **1** cena
-- **Custo**: **4** __*ki*__ e **+1** por rank  
+- **Custo**: **3** __*ki*__ e **+1** por rank  
 - **Bônus**
   - _ATQ_: **+5%** por rank
   - _DEF_: **+5%** por rank
-  - _Esquiva_: **+5%** por rank
   - _Evasão_ 
+
+<br>
+
+### Nível 4: Arma múltipla
+O personagem cria diversos tentaculos a partir do próprio corpo que vão de encontro aos adversários causando dano.
+
+- **Tipo**: Disparo
+- **Duração**: **1** turno
+- **Alvos**: **4** e **+1** por rank
+- **Dano**: **4D6+12** e **+17** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
