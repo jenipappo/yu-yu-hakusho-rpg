@@ -114,15 +114,16 @@ Existem vários outros Reinos no mundo das trevas, pois ele é muito grande e o 
 ## Mei-Kai - O Outro Mundo
 Esse é um mundo parecido com o Ma-Kai, mas é um lugar habitado por demônios poderosíssimos, a maioria de classe S superior. Antes de existir a barreira entre os mundos, esses demônios eram muito temidos. Eles buscam certos itens que possibilitariam anular a barreira espiritual, e eles já tiveram várias tentativas fracassadas. O governante desse mundo era um demônio poderosíssimo, mais poderoso do que monstros da classe S, como Yusuke Urameshi. É um lugar muito mais terrível de se ver ou viver do que o Ma- Kai, dado o poder das criaturas que vivem por lá. As doutrinas só podem ser adquiridas de duas formas: No momento de criação de personagem comprando-se o aprimoramento Doutrinado, ou durante a aventura, através de um mestre e árduos treinamentos.
 
-<br>
-<br>
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
 </div>
 
 # Regras e Sistema
 
-## TABELA DE NÍVEIS E PROEZAS FISÍCAS
+<br>
+
+## Tabela de níveis
+
 | NÍVEL  | _PV_     | ATRIBUTO  | APRIMOR.  | PERÍCIA   | DOUTRINA  | __*ki*__ | RANK
 |-------:|---------:|----------:|----------:|----------:|----------:|---------:|------
 | 1      | +6       | 111       | 8	        | 400       | 2         | +3       | E-
@@ -145,6 +146,11 @@ Esse é um mundo parecido com o Ma-Kai, mas é um lugar habitado por demônios p
 | 18     | +108     | +17       | +6	      | +425      | +8        | +54      | S+
 | 19     | +126     | +20       | +7	      | +500      | +9        | +63      | SS
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+ ## Tabela de Proezas Físicas
 
 | Atributo	| Carregar (kg)	| Levantar (kg)	| Bônus de dano	| AGI Velocidade (m/s)
 |----------:|--------------:|--------------:|--------------:|---------------------:
@@ -206,7 +212,9 @@ Esse é um mundo parecido com o Ma-Kai, mas é um lugar habitado por demônios p
 | 60	      | 12800         | 25600         | 23	          | 1280
 | 61	      | 14400         | 28800         | 24	          | 1440
 
-<br>
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## Regras Adicionais 
 
@@ -1476,7 +1484,7 @@ O personagem marca o oponente com o pincel aplicando um redutor de _DES_ e _AGI_
 O personagem paralisa o oponente. 
 
 > **Observações**
-> Para resistir, o alvo deve ser bem-sucedido num teste de _CONS_. Caso seja paralisado, a vítima poderá repetir o teste a cada rodada.
+> Para resistir, o alvo deve ser bem-sucedido num teste de _CONS_. Caso seja paralisado, a vítima poderá repetir o teste a cada rodada para dissipar o efeito.
 
 - **Tipo**: Debuff
 - **Duração**: **1** rodada por rank
@@ -2692,7 +2700,8 @@ O personagem aumenta a sua velocidade.
 O personagem paralisa o oponente.
 
 > **Observação**
-> A cada rodada a vítima poderá fazer um teste de _WILL_ para dissipar o efeito.
+> Para resistir, o alvo deve ser bem-sucedido num teste de _WILL_. Caso seja paralisado, a vítima poderá repetir o teste a cada rodada para dissipar o efeito.
+
 
 - **Tipo**: Debuff
 - **Duração**: **1** rodada por rank
