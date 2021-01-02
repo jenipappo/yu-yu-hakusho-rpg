@@ -2155,7 +2155,7 @@ O personagem lança uma bola contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+13** por rank
+- **Dano**: **4D6+11** e **+15** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
@@ -2169,8 +2169,8 @@ Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca
 - **Tipo**: Contra-ataque
 - **Alvos**: **1**
 - **Cooldown**: **3** rodadas
-- **Dano**: **1D6+14** por rank
-- **Custo**: **3** __*ki*__ e **+1** por rank  
+- **Dano**: **4D6+13** e **+17** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank  
 - **Efeitos Adicionais**
   - Oponente recebe **-5%** por rank no teste de _AGI_
 
@@ -2192,8 +2192,8 @@ O personagem lança várias bolas contra seus adversários causando dano a múlt
 
 - **Tipo**: Disparo
 - **Alvos**: **4** alvos e **+1** por rank
-- **Dano**: **1D6+18** por rank 
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **4D6+15** e **+19** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -2202,8 +2202,8 @@ O personagem lança uma grande bola contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+22** por rank 
-- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Dano**: **4D6+17** e **+21** por rank
+- **Custo**: **6** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -2253,7 +2253,7 @@ O personagem lança um disparo que causa dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+21** por rank
+- **Dano**: **4D6+17** e **+21** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - Aplica **-5%** de _Esquiva_ ao oponente por rank
@@ -2283,7 +2283,7 @@ O personagem corta o espaço onde está o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+25** por rank
+- **Dano**: **4D6+19** e **+23** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - Este poder pode atravessar qualquer barreira.
@@ -2340,7 +2340,7 @@ O personagem, enquanto alvo de um disparo de nível 6 ou menor, pode absorve-lo,
 
 - **Tipo**: Contra-ataque
 - **Alvos**: **1**
-- **Custo**: Custo do disparo original e **+4**
+- **Custo**: Custo do disparo original e **+3**
 - **Efeitos Adicionais**
   - Regenera **1** __*ki*__ para cada nível do disparo
 
@@ -2369,7 +2369,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+25** por rank
+- **Dano**: **4D6+19** e **+23** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
@@ -2459,7 +2459,7 @@ O personagem lança um raio contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+22** por rank
+- **Dano**: **4D6+17** e **+21** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -2472,7 +2472,7 @@ O personagem lança um feixe de luz contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+9** por rank
+- **Dano**: **4D6+8** e **+13** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
@@ -2482,7 +2482,7 @@ O personagem lança um espectro contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+12** por rank
+- **Dano**: **4D6+10** e **+15** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
@@ -2518,7 +2518,7 @@ O personagem lança um raio na forma de um arco-íris contra o adversário causa
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+19** por rank
+- **Dano**: **4D6+14** e **+19** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -2603,7 +2603,7 @@ O personagem dispara uma rajada de energia sui seiki contra o adversário causan
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+23** por rank 
+- **Dano**: **4D6+18** e **+22** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
@@ -2751,7 +2751,7 @@ O personagem lança um disparo de pedras contra os adversários causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **4** alvos e **+1** por rank
-- **Dano**: **1D6+16** por rank 
+- **Dano**: **4D6+10** e **+14** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
@@ -2764,7 +2764,7 @@ O personagem lança um disparo de pedras contra os adversários causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **3D6+4** por rank 
+- **Dano**: **4D6+12** e **+17** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 
 ### Nível 5: Oscilação shura maior
@@ -2790,7 +2790,7 @@ O personagem atinge o oponente com uma investida, causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+20** por rank 
+- **Dano**: **4D6+14** e **+20** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -2815,7 +2815,7 @@ O personagem lança o Bambolê das trevas contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**:  1
-- **Dano**: **1D6+12** por rank. 
+- **Dano**: **4D6+12** e **+15** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
@@ -2847,7 +2847,7 @@ O personagem cria um turbilhão em volta de si mesmo e aplica uma investida cont
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+19** por rank. 
+- **Dano**: **4D6+14** e **+19** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -2869,7 +2869,7 @@ O personagem pode curar alguém ferido.
 - **Duração**: **1** turno
 - **Alvos**: **1**
 - **Custo**: **2** __*ki*__ e **+1** por rank  
-- **Cura**: **1D6+10** por rank.
+- **Cura**: **4D6+8** e **+13** por rank
 
 <br>
 
@@ -2880,7 +2880,7 @@ O personagem pode curar alguém ferido.
 - **Duração**: **1** turno
 - **Alvos**: **1**
 - **Custo**: **3** __*ki*__ e **+1** por rank  
-- **Cura**: **1D6+13** por rank.
+- **Cura**: **4D6+10** e **+15** por rank
 
 <br>
 
@@ -2904,7 +2904,7 @@ O personagem pode curar alguém ferido.
 - **Duração**: **1** turno
 - **Alvos**: **1**
 - **Custo**: **4** __*ki*__ e **+1** por rank  
-- **Cura**: **1D6+16** por rank.
+- **Cura**: **4D6+12** e **+17** por rank
 
 <br>
 
@@ -2915,7 +2915,7 @@ O personagem pode curar alguém ferido.
 - **Duração**: **1** turno
 - **Alvos**: **1**
 - **Custo**: **5** __*ki*__ e **+1** por rank  
-- **Cura**: **1D6+19** por rank.
+- **Cura**: **4D6+14** e **+19** por rank
 
 <br>
 
