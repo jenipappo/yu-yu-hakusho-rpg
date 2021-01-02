@@ -1,10 +1,25 @@
-#  YUYU HAKUSHO
+#  Yu Yu Hakusho RPG
+
+<br>
+
+![YuYu Hakusho RPG Logo](https://raw.githubusercontent.com/jenipappo/yu-yu-hakusho-rpg/main/img/yuyuhakusho.jpg)
 
 
-ATUALIZAÇÃO: **30/12/2020**  
-POR **Marcio Alves da Silva (Peixe), Anderson Paulo da Silva (Dinho), Erico Granja e Bruno Vinicius Dias da Silva**  
-Em caso de dúvidas, Endereço de e-mail do autor: marcio.economics@hotmail.com  
-BASEADO NO SUPLEMENTO DE **MARCELO MATOS “GUAXINIM”**, **AJOTA** & **GRUPO DE RPG PVH**  
+<br>
+
+##### ATUALIZAÇÃO: **01/01/2021**  
+##### POR 
+- Marcio Alves (**Peixe**)
+- Anderson Silva (**Dinho**)
+- Erico Granja (**Knighmare**)
+- Bruno Silva  (**Tera**)
+
+Em caso de dúvidas, visite https://github.com/jenipappo/yu-yu-hakusho-rpg
+
+Baseado no suplemento de: Marcelo Matos (**Guaxinim**), **Ajota** e **Grupo de RPG PVH**  
+
+
+
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
