@@ -18,12 +18,8 @@ Em caso de dúvidas, visite https://github.com/jenipappo/yu-yu-hakusho-rpg
 
 Baseado no suplemento de: Marcelo Matos (**Guaxinim**), **Ajota** e **Grupo de RPG PVH**  
 
+<div style="page-break-after: always; visibility: hidden"></div>
 
-
-
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
 
 # O Início
 
@@ -67,11 +63,8 @@ Após isso, ele deveria impedir Sansui Shinobu e sua turma de abrir um buraco qu
 `Retirado da Revista Herói números: 114, 119, 121, 128 & 129`. 
 
 
-<br>
-<br>
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
+<div style="page-break-after: always; visibility: hidden"></div>
+
 
 # Os Mundos
 ## Terra
@@ -129,9 +122,7 @@ Existem vários outros Reinos no mundo das trevas, pois ele é muito grande e o 
 ## Mei-Kai - O Outro Mundo
 Esse é um mundo parecido com o Ma-Kai, mas é um lugar habitado por demônios poderosíssimos, a maioria de classe S superior. Antes de existir a barreira entre os mundos, esses demônios eram muito temidos. Eles buscam certos itens que possibilitariam anular a barreira espiritual, e eles já tiveram várias tentativas fracassadas. O governante desse mundo era um demônio poderosíssimo, mais poderoso do que monstros da classe S, como Yusuke Urameshi. É um lugar muito mais terrível de se ver ou viver do que o Ma- Kai, dado o poder das criaturas que vivem por lá. As doutrinas só podem ser adquiridas de duas formas: No momento de criação de personagem comprando-se o aprimoramento Doutrinado, ou durante a aventura, através de um mestre e árduos treinamentos.
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
+<div style="page-break-after: always; visibility: hidden"></div>
 
 # Regras e Sistema
 
@@ -161,9 +152,7 @@ Esse é um mundo parecido com o Ma-Kai, mas é um lugar habitado por demônios p
 | 18     | +108     | +17       | +6	      | +425      | +8        | +54      | S+
 | 19     | +126     | +20       | +7	      | +500      | +9        | +63      | SS
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
+<div style="page-break-after: always; visibility: hidden"></div>
 
  ## Tabela de Proezas Físicas
 
@@ -227,9 +216,8 @@ Esse é um mundo parecido com o Ma-Kai, mas é um lugar habitado por demônios p
 | 60	      | 12800         | 25600         | 23	          | 1280
 | 61	      | 14400         | 28800         | 24	          | 1440
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
+<div style="page-break-after: always; visibility: hidden"></div>
+
 
 ## Regras Adicionais 
 
@@ -324,9 +312,7 @@ O personagem ganha **+1** _Ataques Adicionais_.
 > **Observações**  
 > Para usar doutrinas é preciso ter pelo menos 40 pontos em teoria das doutrinas.
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
+<div style="page-break-after: always; visibility: hidden"></div>
 
 # RAÇAS
 Raças são pacotes de aprimoramentos (positivos e/ou negativos) que só podem ser adquiridos  durante a criação do personagem.
@@ -382,9 +368,7 @@ Criatura que detém poderes incríveis, portador do sangue da tribo do mal. O de
 - Caçado pelo Rei-kai (-3)
 - Má fama Rei-kai, Ma-kai e Mei-kai (-6)
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
+<div style="page-break-after: always; visibility: hidden"></div>
 
 # Aprimoramentos
 
@@ -467,9 +451,7 @@ O personagem aumenta uma de suas doutrinas em +1 ponto, esse aprimoramento pode 
 ## Aparar golpes (1 ponto)
 A partir do quarto ataque corpo a copo sofrido o personagem poderá fazer um teste de aparar com 50% de chance de evitar o golpe, com mais ou menos 10% de chance de acerto para cada rank a mais ou a menos do oponente. Pré-requisito rank C, caso este recurso seja utilizado o personagem não poderá usar doutrinas como contra-ataque ou golpe de ruptura em sequência desta manobra. 
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
+<div style="page-break-after: always; visibility: hidden"></div>
 
 # Aprimoramentos Negativos
 ## Detetive sobrenatural (2 pontos)
@@ -510,9 +492,7 @@ O personagem é sádico e gosta de torturar as pessoas e fazê-las sofrer, apena
 - **1 ponto**: O personagem é malvisto em uma região ou até mesmo em um país.
 - **2 pontos**: O personagem é malvisto em um plano.
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
+<div style="page-break-after: always; visibility: hidden"></div>
 
 # Doutrinas
 
@@ -3082,9 +3062,7 @@ O personagem lança uma rajada energética causando dano em área.
 - **Dano**: **1D6+29** por rank. 
 - **Custo**: **7** __*ki*__ e **+1** por rank
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
+<div style="page-break-after: always; visibility: hidden"></div>
 
 # Territórios
 
