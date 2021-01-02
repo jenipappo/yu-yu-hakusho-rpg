@@ -969,7 +969,7 @@ O personagem atinge o adversário com uma investida vindo de qualquer lugar do s
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+14** por rank
+- **Dano**: **1D6+16** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - **Esquiva**: O adversário perde **-5%** de sua esquiva contra essa técnica.
@@ -985,7 +985,7 @@ O personagem lança-se em pedaços contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+18** por rank
+- **Dano**: **1D6+20** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - **Esquiva**: O adversário perde **-5%** de sua esquiva contra essa técnica.
