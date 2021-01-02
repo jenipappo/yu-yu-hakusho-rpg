@@ -6,16 +6,14 @@ POR **Marcio Alves da Silva (Peixe), Anderson Paulo da Silva (Dinho), Erico Gran
 Em caso de dúvidas, Endereço de e-mail do autor: marcio.economics@hotmail.com  
 BASEADO NO SUPLEMENTO DE **MARCELO MATOS “GUAXINIM”**, **AJOTA** & **GRUPO DE RPG PVH**  
 
-<br>
-<br>
-
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 # O Início
 
-<br>
-
-> _Vou usar só 30% do meu poder!_
-**Toguro** (irmão mais velho)
+> _Vou usar só 30% do meu poder!_  
+> **Toguro**, Irmão mais velho
 
 <br>
 
@@ -56,6 +54,9 @@ Após isso, ele deveria impedir Sansui Shinobu e sua turma de abrir um buraco qu
 
 <br>
 <br>
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 # Os Mundos
 ## Terra
@@ -83,27 +84,27 @@ Os reinos são povoamentos no Ma-Kai. Alguns se tornam grandes cidades cheias de
 
 #### **Reino Gandara**
 Um Reino com uma tecnologia muitíssimo avançada.
-Quem Domina: Um demônio de classe S chamado Yomi.
+- **Quem Domina**: Um demônio de classe S chamado Yomi.
 - **Distancia**: 20 dias.
 
 #### **Reino De Mukuro**
 
 Um Reino com uma tecnologia um pouco avançada.
-Quem Domina: Um demônio de classe S chamado Mukuro.
+- **Quem Domina**: Um demônio de classe S chamado Mukuro.
 - **Distancia**: 23 dias.
 
 #### **Reino de Reizen**
 Um Reino com pouca tecnologia.
-Quem Domina: Um demônio de classe S chamado Reizen.
+- **Quem Domina**: Um demônio de classe S chamado Reizen.
 - **Distancia**: 30 dias.
 
 #### **País do Gelo**
 Um Reino bem isolado, acima das nuvens e muito frio para qualquer monstro ou pessoa normal aguentar por muito tempo, apenas Mulheres do Gelo vivem nesse Reino.
 - **Quem Domina**: Um conselho formado pelas mais velhas Mulheres de Gelo do Reino.
-- **Distancia**: 100 dias, para encontra-lo também precisará da bússola do Detetive Sobrenatural para encontrar o You-__*ki*__ delas então, ou apenas usando o Jagan, fora isso é impossível, pois o Reino encontra-se acima das nuvens.
+- **Distancia**: 100 dias, para encontra-lo também precisará da bússola do Detetive Sobrenatural para encontrar o You-ki delas então, ou apenas usando o Jagan, fora isso é impossível, pois o Reino encontra-se acima das nuvens.
 
 > **Observacão**  
-Não se pode permanecer mais que 30 dias no País de Gelo, por causa da baixa temperatura, exceto se o personagem for mestre na Doutrina Gelo.
+Em função baixa temperatura, não se pode permanecer mais que 30 dias no País de Gelo, exceto se o personagem for mestre na Doutrina Gelo.
 
 #### **Outros**
 Existem vários outros Reinos no mundo das trevas, pois ele é muito grande e o Rei-Kai apenas conhece pouca parte dele, por isso aventureiros podem partir em busca de novos reinos a serem conquistados, mas é melhor irem logo esperando pelo pior...
@@ -115,6 +116,9 @@ Esse é um mundo parecido com o Ma-Kai, mas é um lugar habitado por demônios p
 
 <br>
 <br>
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 # Regras e Sistema
 
@@ -272,16 +276,16 @@ Ex.: um personagem que tenha duas doutrinas que aumentam o _IP_, uma dessas dout
 Este nível é perfeito para aventuras no Mei-Kai onde tem monstros terríveis, e para que os personagens tenham um nível a mais para ser alcançado, neste nível o personagem ganha +1 ponto de aprimoramento e doutrina, +3 pontos de atributos, +9 pontos de __*ki*__, +18 _PVs_, +75 pontos de perícias, e as doutrinas são elevadas a um rank acima mesmo no rank S, o rank S Supremo é considerado outro rank, trate esta evolução como 3 evoluções normais para poder fazer a ficha do personagem. 
 
 ### **Força 50**
-O personagem pode atacar o adversário a 3 metros de distância por rank, deslocando o ar contra ele com sua imensa força; ganha o aprimoramento duro de matar. O personagem quando for atingido com um disparo pode fazer o teste de resistência usando sua força em vez de sua agilidade para sofrer metade do dano.
+O personagem pode atacar o adversário a 3 metros de distância por rank, deslocando o ar contra ele com sua imensa força; ganha o aprimoramento _Duro de Matar_. O personagem quando for atingido com um disparo pode fazer o teste de resistência usando sua força em vez de sua agilidade para sofrer metade do dano.
 
 ### **Constituição 50**
-O personagem regenera 2 _PV_ por turno, ganha o aprimoramento duro de matar. O personagem quando for atingido com um disparo pode fazer o teste de resistência usando sua constituição em vez de sua agilidade para sofrer metade do dano.
+O personagem regenera 2 _PV_ por turno, ganha o aprimoramento _Duro de Matar_. O personagem quando for atingido com um disparo pode fazer o teste de resistência usando sua constituição em vez de sua agilidade para sofrer metade do dano.
 
 ### **Agilidade 50**
-O personagem ganha um ataque adicional.
+O personagem ganha **+1** _Ataques Adicionais_.
 
 ### **Destreza 50**
-Idem a agilidade 50.
+O personagem ganha **+1** _Ataques Adicionais_.
 
 ### **Novas Perícias**
 - CONHECIMENTO DE DOUTRINAS (0)
@@ -297,8 +301,9 @@ Idem a agilidade 50.
 > **Observações**  
 > Para usar doutrinas é preciso ter pelo menos 40 pontos em teoria das doutrinas.
 
-<br>
-<br>
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 # RAÇAS
 Raças são pacotes de aprimoramentos (positivos e/ou negativos) que só podem ser adquiridos  durante a criação do personagem.
@@ -354,8 +359,9 @@ Criatura que detém poderes incríveis, portador do sangue da tribo do mal. O de
 - Caçado pelo Rei-kai (-3)
 - Má fama Rei-kai, Ma-kai e Mei-kai (-6)
 
-<br>
-<br>
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 # Aprimoramentos
 
@@ -370,10 +376,8 @@ Criatura que detém poderes incríveis, portador do sangue da tribo do mal. O de
 ## Doutrinado (2 pontos)
 O personagem passou por um rigoroso treinamento e está apto a usar doutrinas, o personagem possui 2 pontos de doutrinas e +15 de __*ki*__ e +45 _PVs_.
 
-
 ## Capacidade de extrair os 120% da força* (2 pontos)
 O personagem em momentos críticos pode elevar de forma grandiosa o seu poder, o mestre é quem decide quando o personagem utiliza este poder. O personagem recebe um bônus de +5 em todos os seus atributos físicos, _PVs_, rei-ki, e +3 de _IP_, suas doutrinas são elevadas a um rank acima mesmo no rank S Supremo. O personagem só pode chegar neste estado a partir do rank B, a partir do rank A ele pode extrair este poder no momento que quiser. Pré-requisito não pode ser reencarnado e nem descendente de clã maligno.                                                                                         
-
 ## Energia vital (1 ponto)
 O personagem pode converter 2 _PVs_ em 1 de __*ki*__, esta manobra só pode ser usada uma vez por luta, e no máximo pode ser gasto 20 _PVs_, a partir do rank C pode ser gasto no máximo 40 _PVs_.
 
@@ -440,6 +444,10 @@ O personagem aumenta uma de suas doutrinas em +1 ponto, esse aprimoramento pode 
 ## Aparar golpes (1 ponto)
 A partir do quarto ataque corpo a copo sofrido o personagem poderá fazer um teste de aparar com 50% de chance de evitar o golpe, com mais ou menos 10% de chance de acerto para cada rank a mais ou a menos do oponente. Pré-requisito rank C, caso este recurso seja utilizado o personagem não poderá usar doutrinas como contra-ataque ou golpe de ruptura em sequência desta manobra. 
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 # Aprimoramentos Negativos
 ## Detetive sobrenatural (2 pontos)
 O personagem deve favores ao mundo espiritual e sempre está sujeito as ordens do Rei-Kai.
@@ -479,8 +487,9 @@ O personagem é sádico e gosta de torturar as pessoas e fazê-las sofrer, apena
 - **1 ponto**: O personagem é malvisto em uma região ou até mesmo em um país.
 - **2 pontos**: O personagem é malvisto em um plano.
 
-<br>
-<br>
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 # Doutrinas
 
@@ -510,7 +519,7 @@ O personagem lança um disparo contra o adversário causando dano por rank. Ao a
 > Nos ranks E e D, o personagem pode usar o reigun até 4 vezes por dia. Nos ranks C e B, o personagem pode usar o reigun até 6 vezes por dia. A partir do rank A, o uso do Reigun é ilimitado. 
 > 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+12** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
 - **Dano Rank D**: **1D6+16** por rank
@@ -534,7 +543,7 @@ O personagem lança um disparo que ataca vários oponentes.
 O personagem energiza seus golpes corpo a corpo com energia espiritual causando dano por rank. O dano pode ser ampliado ao custo de  adicional de **+1** de __*ki*__. 
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+2** e **+1D6** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
@@ -550,7 +559,7 @@ O personagem pode lançar 2 reiguns em um único turno, após o uso deste recurs
 > Bônus passivos como os aprimoramentos _Vitalidade Extra_, _Energia Espiritual Extra_ ou _Evasão_ não são cessados. 
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: Idem a cada um dos reiguns
 - **Custo**: **10** __*ki*__ e **+2** por rank. Ao final do disparo, toda a reserva de __*ki*__ restante é zerada
   
@@ -560,7 +569,7 @@ O personagem pode lançar 2 reiguns em um único turno, após o uso deste recurs
 Um golpe que causa dano, porém perde eficiência com a distância.
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+21** por rank (a cada 1 metro de distância diminui em **4**)
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
@@ -570,7 +579,7 @@ Um golpe que causa dano, porém perde eficiência com a distância.
 O personagem só pode usar esta técnica para tirar a parte maligna de uma pessoa que está em conflito consigo mesmo; se a pessoa decidir desistir do deu lado maligno a parte má da pessoa é destruída; caso contrário, a técnica causa dano.
 
 - **Tipo**: Dispel
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+25** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
@@ -580,7 +589,7 @@ O personagem só pode usar esta técnica para tirar a parte maligna de uma pesso
 O personagem quando for alvo de um disparo de até nível 7, pode absorvê-lo e depois manda-lo de volta contra o adversário, causando o dano do próprio disparo e absorvendo **1** __*ki*__ por nível do poder do disparo. 
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Cooldown**: **3** rodadas
 - **Dano**: Equivalente ao dano do disparo inicial
 - **Custo**: Equivalente ao custo de __*ki*__ do disparo original **+5**
@@ -591,9 +600,8 @@ O personagem quando for alvo de um disparo de até nível 7, pode absorvê-lo e 
 Para se tornar um mestre do Heikohadouken, o personagem precisa dominar a bola espiritual; no início do teste todas as doutrinas e aprimoramentos do personagem são cessados, aliados não podem curá-lo. Para domar a doutrina por completo, deve-se passar em 5 testes de constituição, de um total de 15 testes de resistência. Caso falhe, o destino é a morte. Superando o treinamento, o personagem poderá destrancar toda energia espiritual vinda do treinamento das artes do Heikohadouken. 
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: N/A
 - **Bônus**:
   - _CONS_: **+15**
@@ -614,7 +622,7 @@ Para se tornar um mestre do Heikohadouken, o personagem precisa dominar a bola e
 O personagem cria uma espada que causa dano por rank; ou cria uma espada mais poderosa a um custo adicional. 
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6** e **+3** por rank 
 - **Custo**: **2** __*ki*__ e **+1** por rank
@@ -627,7 +635,7 @@ O personagem cria uma espada que causa dano por rank; ou cria uma espada mais po
 Este nível aumenta a Espada simples para atacar até **6** metros de distância.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **3D6** e **+3** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
@@ -638,7 +646,7 @@ Este nível aumenta a Espada simples para atacar até **6** metros de distância
 O personagem cria uma espada que causa dano por rank ou pode potencializá-la causando dano amplificado. 
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+3** e **+1D6** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
@@ -651,15 +659,14 @@ O personagem cria uma espada que causa dano por rank ou pode potencializá-la ca
 O personagem passa a usar duas adagas reiken, e recebe um bônus de ataque e defesa por rank, ataques adicionais e um bônus de dano. Caso use outra arma apenas receberá o bônus de ataque e defesa. 
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **4** __*ki*__ **+1** por rank
 - **Bônus**: 
-  - Dano: **+2** 
-  - Ataques Adicionais: 1
+  - _DANO_: **+2** 
   - _ATQ_: **+5%** por rank
   - _DEF_: **+5%** por rank
+  - _Ataques Adicionais_: **+1**
 
 <br>
 
@@ -667,7 +674,7 @@ O personagem passa a usar duas adagas reiken, e recebe um bônus de ataque e def
 O personagem faz com que sua espada ataque o adversário por de baixo da terra causando dano por rank. Aplica um redutor de chance de esquiva por rank. 
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+13** por rank
 - **Custo**: **3** __*ki*__; **+1** por rank
 - **Efeitos Adicionais**:
@@ -679,7 +686,7 @@ O personagem faz com que sua espada ataque o adversário por de baixo da terra c
 Melhora a espada vara tornando-a muito mais flexível e causando dano extra por rank. Aplica um redutor de  chance de esquiva por rank.
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+16** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**:
@@ -691,7 +698,7 @@ Melhora a espada vara tornando-a muito mais flexível e causando dano extra por 
 O personagem cria uma espada que causa dano e pode atacar o adversário com alcance incrementado. Esta espada destrói qualquer barreira. 
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **3D6+6** e **+1D6+1** por rank
 - **Alcance**: **3** metros por rank
@@ -712,7 +719,7 @@ O personagem cria uma espada que causa dano e pode atacar o adversário com alca
 O personagem cria uma arma de vegetal que amplifica seu dano; pode ser potencializada a um custo adicional de __*ki*__. Torna-se mais devastadora a partir do Rank C.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6** e **+3** por rank 
 - **Custo**: **2** __*ki*__ e **+1** por rank
@@ -726,7 +733,7 @@ O personagem cria uma arma de vegetal que amplifica seu dano; pode ser potencial
 <br>
 
 ### Nível 2: Kagon retsuzan shi
-Confere ao personagem ataques múltiplos pela duração, adicionando também aos ataques um bônus de dano. 
+Confere ao personagem _Ataques Adicionais_ pela duração, adicionando também aos ataques um bônus de dano. 
 
 <br>
 
@@ -737,13 +744,12 @@ Confere ao personagem ataques múltiplos pela duração, adicionando também aos
 <br>
 
 - **Tipo**: Buff
-- **Duração**: 1 turno
+- **Duração**: **1** turno
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **4** __*ki*__ (**5** a partir do rank C)
 - **Bônus**
-  - Dano por ataque: **5** (**6** a partir do rank C)
-  - Ataques Múltiplos: **3** (**4** a partir do rank C)
+  - _DANO_: **+5** (**+6** a partir do rank C)
+  - _Ataques Adicionais_: **+2** (**+3** a partir do rank C)
 
 <br>
 
@@ -761,9 +767,8 @@ O personagem cria diversas pétalas que cortam como navalhas os adversários cau
 O personagem implanta a planta da morte no oponente, o paralisando após um periodo de tempo. Após a paralização, o oponente morrerá com um comando do personagem. Requer um teste bem-sucedido de _DES_ para implantar a semante na vítima. Requer um teste bem-sucedido de _Conhecimento de Doutrinas_ para não cair no truque. Não funciona com quem conhece o golpe. 
 
 - **Tipo**: Debuff
-- **Duração**: 1 cena
-- **Alvos**: 1
-- **Dano**: N/A
+- **Duração**: **1** cena
+- **Alvos**: **1**
 - **Custo**: **5** __*ki*__
 - **Efeitos Adicionais**
   - Paraliza o oponente após **1** rodada
@@ -777,7 +782,6 @@ O personagem invoca a planta demoníaca que causa dano atacando oponentes e/ou q
 > 1.  A planta demoníaca usa a ação de ataque do invocador para atacar.
 
 - **Tipo**: Invocação
-- **Alvos**: N/A
 - **Custo**: **5** __*ki*__ e **+1** por rank  
 - **Planta Demoníaca**
   - **Dano**: **3D6+4** e **+1D6+1** por rank
@@ -788,7 +792,6 @@ O personagem invoca a planta demoníaca que causa dano atacando oponentes e/ou q
 O personagem invoca uma imensa cerejeira e, neste campo de batalha (tem a mesma dimensão de um campo comum, com exceção da altura ser 50 metros por rank), recebe um bônus de ataque, defesa e testes de resistência de esquiva. As plantas também podem defender disparos (trate isso como o aprimoramento _Evasão_). Oponentes recebem um redutor de ataque, defesa e testes de resistência de esquiva. 
 
 - **Tipo**: Invocação
-- **Alvos**: N/A
 - **Custo**: **5** __*ki*__ e **+1** por rank  
 - **Bônus**
   - _ATQ_: **+5%** por rank
@@ -809,7 +812,7 @@ O personagem invoca a planta sanguessuga que ataca um oponente que estiver ferid
 > Requer um teste difícil de _AGI_ para se esquivar da invocação. A cada rodada, a vítima pode tentar arrancá-la, requer um teste de _FOR_ vs _FOR_ contra a planta. 
 
 - **Tipo**: Invocação
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Custo**: **10** __*ki*__. Ao final da invocação, toda a reserva de __*ki*__ restante é zerada
 - **Planta Sanguessuga**
   - _FOR_: _FOR_ do invocador **+10**
@@ -821,8 +824,6 @@ O personagem invoca a planta sanguessuga que ataca um oponente que estiver ferid
 
 ## Ja ou en satsu Ken
 
-<br>
-
 > **Observação**  
 > Humanos não podem ter esse poder.
 
@@ -832,12 +833,11 @@ O personagem invoca a planta sanguessuga que ataca um oponente que estiver ferid
 O personagem cria um campo de calor intenso aumentando consideravelmente a temperatura da área e causando dano a todos os outros seres que estejam dentro da área da doutrina.
 
 > **Observações**  
-> 1.  A regra de dano mínimo não se aplica a esta doutrina. 
+> A regra de dano mínimo não se aplica a esta doutrina. 
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
-- **Alvos**: N/A
-- **Dano**: 3 por rank
+- **Duração**: **1** cena
+- **Dano**: **+3** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
@@ -846,7 +846,7 @@ O personagem cria um campo de calor intenso aumentando consideravelmente a tempe
 O personagem cria chamas nas mãos ou em uma arma aumentando seu dano. 
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6** e **+3** por rank 
 - **Custo**: **2** __*ki*__ e **+1** por rank
@@ -869,7 +869,7 @@ O personagem lança um disparo de chamas negras contra o adversário causando da
 O personagem cria uma espada de chamas negras que causa dano, podendo ser potencializada por um custo adicional.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+2** e **+1D6+1** por rank 
 - **Custo**: **4** __*ki*__ e **+1** por rank
@@ -899,13 +899,11 @@ O personagem invoca um dragão negro contra o adversário causando dano, este fi
 Quando o personagem  usar o dragão sobre si mesmo ou quando o dragão for devolvido o personagem pode absorve-lo, recebendo um bônus.
 
 > **Observações**  
-> 1. Após a luta o personagem precisará dormir por pelo menos 4 horas.
-> 1.1 A partir do rank A o personagem perde esta penalidade. 
+> Após a luta o personagem precisará dormir por pelo menos 4 horas. A partir do rank A o personagem não recebe mais esta penalidade. 
  
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: N/A
 - **Bônus**:
   - _CONS_: **+15**
@@ -919,8 +917,6 @@ Quando o personagem  usar o dragão sobre si mesmo ou quando o dragão for devol
 <br>
 
 ## Bakuretsu Ganshō Dan
-
-<br>
 
 > **Observações**  
 > Humanos não podem ter esse poder.
@@ -941,7 +937,7 @@ O personagem lança um disparo de pedras contra o adversário causando dano.
 O personagem fortifica seu braço com pedras que aumentam o seu dano. 
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6** e **+3** por rank 
 - **Custo**: **2** __*ki*__ e **+1** por rank 
@@ -958,9 +954,8 @@ O personagem fortifica seu braço com pedras que aumentam o seu dano.
 O personagem aumenta o seu poder e recebe um bônus.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **5** __*ki*__
 - **Bônus**:
   - _CONS_: **+5**
@@ -999,12 +994,11 @@ O personagem lança-se em pedaços contra o adversário causando dano.
 <br>
 
 ### Nível 6: Shura tendo toui sugureta
-O personagem aumenta o seu poder e recebe um bônus.
+O personagem aumenta o seu poder e recebe um bônus em alguns atributos.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
   - _CONS_: **+20**
@@ -1028,7 +1022,7 @@ O personagem lança um disparo contra o adversário causando dano.
 <br>
 
 ### Nível 2: Grito da destruição 2
-O personagem lança um disparo contra o adversário causando dano 
+O personagem lança um disparo contra o adversário causando dano. 
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
@@ -1047,18 +1041,17 @@ O personagem lança um disparo contra o adversário causando dano.
 <br>
 
 ### Nível 4: Absorção de ki*
-O personagem recebe um bônus.
+O personagem recebe um bônus em alguns atributos.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
   - _CONS_: **+15**
   - _FOR_: **+15**
   - _PV_: **+15**
-  - Dano corpo a corpo (garras e dentes): **2D6+1**
+  - _DANO_: **2D6+1** (apenas quando atacando desamardo)
 - **Efeitos Adicionais**
   - Quando o personagem sofrer algum dano oriundo de alguma doutrina, ela absorverá metade do ki gasto usado na tal doutrina.
   - Se o personagem ficar com mais ki do que o máximo permitido no seu nível, ele sofre 2D6 de dano por rank sem absorção de dano.
@@ -1109,14 +1102,13 @@ O personagem cria duplicatas e recebe um bônus.
 > 0. Este poder não faz nenhuma doutrina ou ataque multiplicar seus danos por qualquer valor.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**
   - _PV_: **+25**
 - **Efeitos Adicionais**
-  - Ao usar essa técnica o personagem recebe o aprimoramento ataques múltiplos.
+  - Ao usar essa técnica o personagem recebe o aprimoramento _Ataques Múltiplos_.
 
 <br>
 
@@ -1124,7 +1116,7 @@ O personagem cria duplicatas e recebe um bônus.
 O personagem energiza raios nas mãos que causam dano.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+2** e **+1D6+1** por rank 
 - **Custo**: **4** __*ki*__ e **+1** por rank 
@@ -1160,9 +1152,8 @@ Após dividir-se em sete (utilizando **Kakeru**), o personagem usa sete disparos
 O personagem passa a lutar com um estilo de luta bastante exótico, utilizando yo-yos, e recebe um bônus de _ATQ_ e _DEF_. 
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **2** __*ki*__ e **+1** por rank
 - **Bônus**
   - _ATQ_: **+5%** por rank
@@ -1174,7 +1165,7 @@ O personagem passa a lutar com um estilo de luta bastante exótico, utilizando y
 O personagem prende o oponente com os yo-yos e o arremessa contra o chão causando dano. 
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+12** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
@@ -1187,7 +1178,7 @@ O personagem prende o oponente com os yo-yos e o arremessa contra o chão causan
 O personagem potencializa os yo-yos causando dano, podendo ser potencializada por um custo adicional.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+2** e **+1D6** por rank
 - **Custo**: **4*** __*ki*__ e **+1** por rank  
@@ -1204,8 +1195,7 @@ O personagem prende o oponente com os yo-yos.
 
 - **Tipo**: Debuff
 - **Duração**: **1** rodada por rank
-- **Alvos**: 1
-- **Dano**: N/A
+- **Alvos**: **1**
 - **Custo**: **3** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - O alvo fica paralizado não podendo executar nenhuma ação
@@ -1216,7 +1206,7 @@ O personagem prende o oponente com os yo-yos.
 O personagem lança os yo-yos contra o adversário causando dano e diminuindo a chance de _Esquiva_. 
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+18** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
@@ -1231,7 +1221,7 @@ O personagem lança os yo-yos contra o adversário causando dano e diminuindo a 
 O personagem lança uma bola de fogo contra o adversário causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+8** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
@@ -1241,7 +1231,7 @@ O personagem lança uma bola de fogo contra o adversário causando dano.
 O personagem cria uma arma que causa dano. Pode ser potencializada por um custo extra de __*ki*__.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6** e **+3** por rank
 - **Custo**: **2*** __*ki*__ e **+1** por rank  
@@ -1258,7 +1248,7 @@ O personagem cria uma arma que causa dano. Pode ser potencializada por um custo 
 O personagem lança um disparo contra o adversário causando dano. 
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+16** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 
@@ -1271,9 +1261,8 @@ O personagem faz uma reza, após seu termino, o oponente encolhe. Requer um test
 > Pode ser utilizado novamente num alvo afetado para desfazer o efeito.
 
 - **Tipo**: Debuff
-- **Duração**: 1 cena
-- **Alvos**: 1
-- **Dano**: N/A
+- **Duração**: **1** cena
+- **Alvos**: **1**
 - **Custo**: **5** __*ki*__
 - **Efeitos Adicionais**
   - O alvo encolhe e fica com 2 centímetros de altura
@@ -1288,9 +1277,8 @@ Ao ver qualquer doutrina o personagem poderá copiá-la para usá-la durante a l
 > 0. Para o personagem aprender permanentemente uma doutrina de nível 7, é preciso ter aprendido antes uma doutrina de nível 6.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **6** __*ki*__
 - **Efeitos Adicionais**
   - A habilida copiada possui exatamente as mesmas regras da original
@@ -1307,8 +1295,7 @@ O personagem cria um campo de calor intenso aumentando consideravelmente a tempe
 > 1.  A regra de dano mínimo não se aplica a esta doutrina. 
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
-- **Alvos**: N/A
+- **Duração**: **1** cena
 - **Dano**: **2** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
@@ -1318,7 +1305,7 @@ O personagem cria um campo de calor intenso aumentando consideravelmente a tempe
 O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+12** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
@@ -1328,7 +1315,7 @@ O personagem lança um disparo contra o adversário causando dano.
 O personagem cria chamas intensas nas mãos ampliando seu dano.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+2** e **+1D6** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
@@ -1351,7 +1338,7 @@ O personagem lança uma grande bola de fogo contra seus adversários causando da
 O personagem cria chamas em todo o corpo, causando dano. 
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+5** e **+1D6+1** por rank 
 - **Custo**: **4** __*ki*__ e **+1** por rank
@@ -1364,7 +1351,7 @@ O personagem cria chamas em todo o corpo, causando dano.
 O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+20** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
@@ -1375,9 +1362,8 @@ O personagem lança um disparo contra o adversário causando dano.
 O personagem luta cambaleando, no estilo kung fu bêbado, tornando seus movimentos mais imprevisíveis.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **1** __*ki*__ e **+1** por rank
 - **Bônus**
   - _ATQ_: **+5%** por rank
@@ -1389,7 +1375,7 @@ O personagem luta cambaleando, no estilo kung fu bêbado, tornando seus moviment
 O personagem ataca o oponente com um tremendo chute.
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+12** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
@@ -1399,7 +1385,7 @@ O personagem ataca o oponente com um tremendo chute.
 O personagem energiza seus golpes corpo a corpo com energia espiritual causando mais dano.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+2** e **+1D6** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
@@ -1412,7 +1398,7 @@ O personagem energiza seus golpes corpo a corpo com energia espiritual causando 
 O personagem lança uma bola de energia contra o adversário causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+16* por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 
@@ -1422,9 +1408,8 @@ O personagem lança uma bola de energia contra o adversário causando dano.
 O personagem, depois de beber muito, recebe um bônus de _FOR_ e _CONS_, _PV_ e _IP_. 
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
   - _CONS_: **+15**
@@ -1438,7 +1423,7 @@ O personagem, depois de beber muito, recebe um bônus de _FOR_ e _CONS_, _PV_ e 
 O personagem lança uma grande bola de energia contra o adversário causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+20* por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
@@ -1450,16 +1435,12 @@ O personagem lança uma grande bola de energia contra o adversário causando dan
 O personagem após se maquiar ele fortalece seu corpo.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **5** __*ki*__
 - **Bônus**:
   - _DANO_: **+5**
-  - _IP_: **+5**
-- **Bônus Rank C**:
-  - _DANO_: **+5**
-  - _IP_: **+10**
+  - _IP_: **+5** (**+10** a partir do rank C)
 
 <br>
 
@@ -1470,9 +1451,8 @@ O personagem marca o oponente com o pincel aplicando um redutor no ataque e na d
 > Requer um teste de _CONS_ para reduzir a duração do efeito. Caso obtenha um resultado que seja bem sucedido para passar num teste difícil, a vítima resistirá ao efeito por completo.
 
 - **Tipo**: Debuff
-- **Duração**: 1 cena ou (1 rodada por rank, caso bem sucedido em teste)
-- **Alvos**: 1
-- **Dano**: N/A
+- **Duração**: **1** cena ou (**1** rodada por rank, caso bem sucedido em teste)
+- **Alvos**: **1**
 - **Custo**: **2** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - _ATQ_: **-5%** por rank
@@ -1484,9 +1464,8 @@ O personagem marca o oponente com o pincel aplicando um redutor no ataque e na d
 O personagem marca o oponente com o pincel aplicando um redutor de _DES_ e _AGI_. Requer um teste bem sucedido de _CONS_ para reduzir o efeito pela metade. Caso obtenha um resultado que seja bem sucedido para passar num teste difícil, a vítima resistirá ao efeito por completo.
 
 - **Tipo**: Debuff
-- **Duração**: 1 cena
-- **Alvos**: 1
-- **Dano**: N/A
+- **Duração**: **1** cena
+- **Alvos**: **1**
 - **Custo**: **5** __*ki*__
 - **Efeitos Adicionais**
   - _DES_: **-10**
@@ -1502,8 +1481,7 @@ O personagem paralisa o oponente.
 
 - **Tipo**: Debuff
 - **Duração**: **1** rodada por rank
-- **Alvos**: 1
-- **Dano**: N/A
+- **Alvos**: **1**
 - **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - O alvo fica paralizado não podendo executar nenhuma ação
@@ -1515,8 +1493,7 @@ O personagem marca o oponente com o pincel causando _Silênciar_ e _Dissipar_. C
 
 - **Tipo**: Debuff
 - **Duração**: **1** rodada por rank
-- **Alvos**: 1
-- **Dano**: N/A
+- **Alvos**: **1**
 - **Custo**: **7** __*ki*__ 
 - **Efeitos Adicionais**
   - _Silênciar_: O oponente não pode utilizar doutrinas
@@ -1530,9 +1507,8 @@ O personagem marca o oponente com o pincel causando _Silênciar_ e _Dissipar_. C
 O personagem cria um campo de batalha de gelo que diminui consideravelmente a temperatura da área.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **1** __*ki*__ e **+1** por rank
 - **Bônus**
   - _ATQ_: **+5%** por rank
@@ -1544,7 +1520,7 @@ O personagem cria um campo de batalha de gelo que diminui consideravelmente a te
 O personagem dispara diversas estacas de granizo contra o adversário causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+12* por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
@@ -1554,7 +1530,7 @@ O personagem dispara diversas estacas de granizo contra o adversário causando d
 O personagem cria uma espada de gelo no próprio braço ampliando seu dano.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+2** e **+1D6** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
@@ -1570,9 +1546,8 @@ O personagem congela praticamente todo o corpo do oponente.
 > Requer um teste bem-sucedido de _CONS_ para resistir o efeito. A cada rodada, a vítima poderá repetir o teste para dissipar o efeito.
 
 - **Tipo**: Debuff
-- **Duração**: 1 rodada por rank
-- **Alvos**: 1
-- **Dano**: N/A
+- **Duração**: **1** rodada por rank
+- **Alvos**: **1**
 - **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - Paraliza o oponente durante **1** rodada por rank 
@@ -1584,7 +1559,7 @@ O personagem congela praticamente todo o corpo do oponente.
 O personagem cria um disparo na forma de um dragão de gelo contra o adversário causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+19* por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
@@ -1596,9 +1571,8 @@ O personagem cria um disparo na forma de um dragão de gelo contra o adversário
 O personagem pode voar e tem o dobro do deslocamento.
 
  **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **3** __*ki*__ 
 - **Efeitos Adicionais**
   - O personagem pode voar e tem o dobro do deslocamento.
@@ -1609,7 +1583,7 @@ O personagem pode voar e tem o dobro do deslocamento.
 O personagem dispara uma rajada de ar contra o adversário causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+12** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
@@ -1619,7 +1593,7 @@ O personagem dispara uma rajada de ar contra o adversário causando dano.
 O personagem cria um furacão em um de seus braços ampliando seu dano. 
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+2** e **+1D6** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
@@ -1632,7 +1606,7 @@ O personagem cria um furacão em um de seus braços ampliando seu dano.
 O personagem quando for alvo de um disparo de nível 5 ou menor, ele pode desviá-lo com um grande soco para outro lugar que não seja na direção do oponente.
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Cooldown**: **3** rodadas
 - **Dano**: Equivalente ao dano do disparo inicial
 - **Custo**: Equivalente ao custo de __*ki*__ do disparo original **+3**
@@ -1643,7 +1617,7 @@ O personagem quando for alvo de um disparo de nível 5 ou menor, ele pode desvi�
 O personagem cria um furacão em cada braço ampliando seu dano.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **3D6+4** e **+1D6+1** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
@@ -1654,7 +1628,7 @@ O personagem cria um furacão em cada braço ampliando seu dano.
 O personagem lança um grande furacão contra o adversário causando dano. 
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+20** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
@@ -1673,7 +1647,7 @@ O personagem lança um grande furacão contra o adversário causando dano.
 O personagem cria uma arma energética para atacar seus adversários.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6** e **+3** por rank 
 - **Custo**: **2** __*ki*__ e **+1** por rank
@@ -1681,21 +1655,16 @@ O personagem cria uma arma energética para atacar seus adversários.
 <br>
 
 ### Nível 2: Fortalecimento físico
-O personagem aumenta o seu poder e recebe um bônus de _IP_, _FOR_ e _CONS_. A partir do rank C, o bônus é incrementado.
+O personagem aumenta o seu poder e recebe um bônus de _IP_, _FOR_ e _CONS_.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **5** __*ki*__
 - **Bônus**:
   - _CONS_: **+5**
   - _FOR_: **+5**
-  - _IP_: **+5**
-- **Bônus Rank C**:
-  - _CONS_: **+5**
-  - _FOR_: **+5**
-  - _IP_: **+10**
+  - _IP_: **+5** (**+10** a partir do rank C)
   
  <br>
 
@@ -1703,7 +1672,7 @@ O personagem aumenta o seu poder e recebe um bônus de _IP_, _FOR_ e _CONS_. A p
 O personagem lança chakrans contra o adversário causando dano .
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+15** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 
@@ -1713,9 +1682,8 @@ O personagem lança chakrans contra o adversário causando dano .
 O personagem aumenta de forma considerável o seu poder tornando seu corpo mais forte.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
   - _CONS_: **+10**
@@ -1730,7 +1698,7 @@ O personagem aumenta de forma considerável o seu poder tornando seu corpo mais 
 O personagem energiza sua mão, aonde ele tocar causará um grande onda de destruição.
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+20** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
@@ -1767,15 +1735,14 @@ Após o personagem ser atacado ele pode comer um bolinho e ficar imune ao golpe,
 O personagem após comer o bolinho se transforma em um macaco monstro do mundo das trevas, recebendo bônus durante a luta.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **5** __*ki*__
 - **Bônus**:
   - _CONS_: **+10**
   - _FOR_: **+10**
   - _PV_: **+5**
-  - Dano corpo a corpo (desamardo): **+2D6**
+  - _DANO_: **+2D6** (apenas quando atacando desamardo)
 
 <br>
 
@@ -1783,9 +1750,8 @@ O personagem após comer o bolinho se transforma em um macaco monstro do mundo d
 O personagem após comer o bolinho se transforma em um faisão das trevas, recebendo bônus durante a luta.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
   - _CONS_: **+10**
@@ -1793,8 +1759,8 @@ O personagem após comer o bolinho se transforma em um faisão das trevas, receb
   - _AGI_: **+10**
   - _DES_: **+10**
   - _PV_: **+10**
-  - Dano corpo a corpo (desamardo): **+2D6+1**
-  - **Efeitos Adicionais**
+  - _DANO_: **+2D6+1** (apenas quando atacando desamardo)
+- **Efeitos Adicionais**
   - Recebe o aprimoramento Vôo
   
   <br>
@@ -1803,9 +1769,8 @@ O personagem após comer o bolinho se transforma em um faisão das trevas, receb
 O personagem após comer o bolinho se transforma em um Cão monstro das trevas, recebendo bônus durante a luta.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: 15
 - **Bônus**:
   - _CONS_: **+15**
@@ -1813,7 +1778,7 @@ O personagem após comer o bolinho se transforma em um Cão monstro das trevas, 
   - _AGI_: **+15**
   - _DES_: **+15**
   - _IP_: **+10**
-  - Dano corpo a corpo (desamardo): **+2D6+2**
+  - _DANO_: **+2D6+2** (apenas quando atacando desamardo)
 
 <br>
 
@@ -1826,9 +1791,7 @@ O personagem invoca o manto da morte e caso o oponente seja atingido por esse, �
 > 1. Este ataque funciona semelhante como um disparo, com a diferença que o resultado do teste de _AGI_ indica se o alvo será ou não teletransportado.
 
 - **Tipo**: Disparo
-- **Duração**: N/A
 - **Alvos**: **1**
-- **Dano**: N/A
 - **Custo**: **3** __*ki*__
 
 <br>
@@ -1837,7 +1800,7 @@ O personagem invoca o manto da morte e caso o oponente seja atingido por esse, �
 O personagem lança várias sombras contra o adversário causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+12** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
@@ -1847,7 +1810,7 @@ O personagem lança várias sombras contra o adversário causando dano.
 O personagem cria uma espada que causa dano por rank; ou cria uma espada mais a um custo adicional. 
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+2** e **+1D6** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
@@ -1862,7 +1825,6 @@ O personagem cria uma barreira de ondas que evita o dano de disparos de nível 5
 - **Tipo**: Buff
 - **Alvos**: Si mesmo
 - **Cooldown**: **3** rodadas
-- **Dano**: N/A
 - **Custo**: Equivalente ao custo de __*ki*__ do disparo original **+3**
 
 <br>
@@ -1871,14 +1833,13 @@ O personagem cria uma barreira de ondas que evita o dano de disparos de nível 5
 O personagem se mescla as sombras e recebendo bônus durante a cena.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
   - _CONS_: **+15**
   - _FOR_: **+15**
-   - _PV_: **+20**
+  - _PV_: **+20**
   - _IP_: **+10**
  
  <br>
@@ -1887,9 +1848,8 @@ O personagem se mescla as sombras e recebendo bônus durante a cena.
 O personagem faz sua espada emitir um terrível som em uma área (semelhante a um campo) fazendo monstros de rank E desmaiarem.
 
 - **Tipo**: Debuff
-- **Duração**: 1 cena (ou uma rodada por rank se bem sucedido no teste de _WILL_)
+- **Duração**: **1** cena (ou uma rodada por rank se bem sucedido no teste de _WILL_)
 - **Alvos**: todos os oponentes na área
-- **Dano**: N/A
 - **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - Aplica **-5%** de _ATQ_ ao oponente por rank
@@ -1921,7 +1881,7 @@ O personagem lança uma rajada de almas contra os adversários causando dano.
 O personagem toca o adversário causando uma explosão.
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+8** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
@@ -1931,7 +1891,7 @@ O personagem toca o adversário causando uma explosão.
 O personagem lança uma granada contra o adversário causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+12** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
@@ -1951,9 +1911,8 @@ O personagem invoca várias bombas. A rajada de bombas causa dano a vários inim
 O personagem concentra seu __*ki*__ aumentando suas capacidades físicas.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
   - _CONS_: **+10**
@@ -1979,9 +1938,8 @@ O personagem lança-se contra o adversário causando uma grande explosão.
 O personagem pode voar e tem o dobro do deslocamento. 
 
  **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **3** __*ki*__ 
 - **Efeitos Adicionais**
   - O personagem pode voar e tem o dobro do deslocamento.
@@ -1992,7 +1950,7 @@ O personagem pode voar e tem o dobro do deslocamento.
 O personagem cria uma arma em forma de machado.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **3D6** e **+3** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
@@ -2005,9 +1963,8 @@ O personagem cria uma arma em forma de machado.
 O personagem cria uma aura de energia e recebendo um bônus por uma cena.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **5** __*ki*__
 - **Bônus**:
   - _CONS_: **+5**
@@ -2033,9 +1990,8 @@ O personagem lança um disparo teleguiado contra o adversário causando dano e d
 O personagem aumenta o seu poder recebendo um bônus durante a cena.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
   - _CONS_: **+20**
@@ -2068,9 +2024,8 @@ O personagem lança um disparo contra o adversário.
 O personagem cria um escudo ou armadura para aumentar sua defesa.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **5** __*ki*__
 - **Bônus**:
   - _CONS_: **+5** (**+10** a partir do rank C)
@@ -2083,7 +2038,7 @@ O personagem cria um escudo ou armadura para aumentar sua defesa.
 O personagem cria uma arma. 
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6** e **+3** por rank 
 - **Custo**: **2** __*ki*__ e **+1** por rank
@@ -2100,7 +2055,7 @@ O personagem cria uma arma.
 O personagem cria diversos tentaculos a partir do próprio corpo que vão de encontro aos adversários causando dano.
 
 - **Tipo**: Buff
-- **Duração**: 1 turno
+- **Duração**: **1** turno
 - **Alvos**: **4** e **+1** por rank
 - **Dano**: **1D6+15** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
@@ -2112,7 +2067,7 @@ O personagem fica totalmente maleável, sendo mais difícil de ser atingido.
 
 - **Tipo**: Buff
 - **Alvos**: Si mesmo
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Custo**: **4** __*ki*__ e **+1** por rank  
 - **Bônus**
   - _ATQ_: **+5%** por rank
@@ -2126,9 +2081,7 @@ O personagem fica totalmente maleável, sendo mais difícil de ser atingido.
 O personagem torna-se _Imortal_ e ganha _Regeneração_ passivamente.
 
 - **Tipo**: Buff
-- **Duração**: N/A
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: N/A
 - **Efeitos Adicionais**
   - _Imortal_ : O personagem **1** _PV_ por rodada
@@ -2150,9 +2103,8 @@ O personagem torna-se _Imortal_ e ganha _Regeneração_ passivamente.
 O personagem aumenta seu poder e resistência.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **5**
 - **Bônus**:
   - _DANO_: **+5**
@@ -2164,9 +2116,8 @@ O personagem aumenta seu poder e resistência.
 O personagem aumenta sua força e resistência.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **5**
 - **Bônus**:
   - _FOR_: **+10**
@@ -2178,14 +2129,13 @@ O personagem aumenta sua força e resistência.
 O personagem aumenta o sua destreza e seus golpes físicos
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **5**
 - **Bônus**:
   - _AGI_: **+10**
   - _DES_: **+10**
-  - Dano corpo a corpo (desamardo): **2D6**
+  - _DANO_: **2D6** (apenas quando atacando desamardo)
 
 <br>
 
@@ -2193,9 +2143,8 @@ O personagem aumenta o sua destreza e seus golpes físicos
 O personagem aumenta incrivelmente sua força.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **10**
 - **Bônus**:
   - _FOR_: **+50**
@@ -2206,9 +2155,8 @@ O personagem aumenta incrivelmente sua força.
 O personagem aumenta incrivelmente sua resistência, assumindo a forma completa de obelisco. 
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **10**
 - **Bônus**:
   - _CONS_: **+30**
@@ -2221,12 +2169,11 @@ O personagem aumenta incrivelmente sua resistência, assumindo a forma completa 
 Os monstros de rank E que estiverem na distância de 30 metros por rank morrem e suas almas são absorvidas, e para cada alma absorvida o personagem recupera 3 de ki e de pv.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **7**
 - **Bônus**:
-  - Dano corpo a corpo (desamardo): **3D6**
+  - _DANO_: **3D6** (apenas quando atacando desamardo)
 
 <br>
 <br>
@@ -2257,7 +2204,7 @@ Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca
 > O oponente pode pode fazer um teste de _AGI_ para absorver metade do dano.
 
 - **Tipo**: Contra-ataque
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Cooldown**: **3** rodadas
 - **Dano**: **1D6+14** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank  
@@ -2270,7 +2217,7 @@ Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca
 O personagem cria bolas nas mãos que amplificam seu dano corpo a corpo.
  
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+3** e **+1D6** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
@@ -2293,7 +2240,7 @@ O personagem lança várias bolas contra seus adversários causando dano a múlt
 O personagem lança uma grande bola contra o adversário causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+22** por rank 
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
@@ -2311,13 +2258,11 @@ O personagem lança uma grande bola contra o adversário causando dano.
 ### Nível 1: Punho flamejante
 O personagem aumenta o seu poder.
 
- de +3 em dano para cada ki gasto.
-
 - **Tipo**: Buff
 - **Alvos**: Si mesmo
 - **Custo**: **5** __*ki*__
 - **Bônus**: 
-  - **Dano**: **+15**
+  - _DANO_: **+15**
   
 <br>
 
@@ -2360,9 +2305,8 @@ O personagem lança um disparo que causa dano.
 O personagem eleva seu espirito de luta e recebe um bônus.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
   - _ATQ_: **+5%** por rank
@@ -2401,12 +2345,11 @@ O personagem corta o espaço onde está o adversário causando dano.
 O personagem aumenta o seu poder.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **5** __*ki*__
 - **Bônus**
-  - Dano: **+15**
+  - _DANO_: **+15**
   
 <br>
 
@@ -2414,9 +2357,8 @@ O personagem aumenta o seu poder.
 O personagem aumenta o sua resistência.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **5** __*ki*__
 - **Bônus**
   - _IP_: **+15**
@@ -2427,7 +2369,7 @@ O personagem aumenta o sua resistência.
 O personagem energiza os punhos elevando o dano causado.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+4** e **+1D6** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
@@ -2440,8 +2382,7 @@ O personagem energiza os punhos elevando o dano causado.
 O personagem, enquanto alvo de um disparo de nível 6 ou menor, pode absorve-lo, recarregando sua reserva de __*ki*__.
 
 - **Tipo**: Contra-ataque
-- **Alvos**: 1
-- **Dano**: N/A
+- **Alvos**: **1**
 - **Custo**: Custo do disparo original e **+4**
 - **Efeitos Adicionais**
   - Regenera **1** __*ki*__ para cada nível do disparo
@@ -2452,9 +2393,8 @@ O personagem, enquanto alvo de um disparo de nível 6 ou menor, pode absorve-lo,
 O personagem eleva seu espirito de luta e recebe um bônus.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**
   - _ATQ_: **+5%** por rannk
@@ -2491,9 +2431,8 @@ O personagem lança um disparo contra o adversário causando dano.
 O personagem pode voar e tem o deslocamento potencializado. 
 
 - **Tipo**: Buff
-- **Duração**: Até aterrisar
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **3** __*ki*__
 - **Efeitos Adicionais**
   - Se desloca com **2** vezes mais velocidade
@@ -2505,11 +2444,11 @@ O personagem aumenta o seu poder.
 
 - **Tipo**: Buff
 - **Alvos**: Si mesmo
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Custo**: **5** __*ki*__  
 - **Bônus**:
   - _IP_: **+10**
-  - Dano: **+10** 
+  - _DANO_: **+10** 
   
 
 <br>
@@ -2546,9 +2485,8 @@ O personagem pode abrir ou fechar portais que ligam o Ma-kai, Terra (Ningen-kai)
 O personagem eleva seu espirito de luta e recebe um bônus.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
   - _ATQ_: **+5%** por rank
@@ -2604,7 +2542,6 @@ O personagem lança uma aura hipnótica contra o adversário, paralisando-o enqu
  **Tipo**: Debuff
 - **Alvos**: **1**
 - **Duração**: **1** cena
-- **Dano**: N/A
 - **Custo**: **3** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**:
   - _Paralisado_: O personagem não pode realizar qualquer ação.
@@ -2647,14 +2584,13 @@ O personagem lança um raio na forma de um arco-íris contra o adversário causa
 O personagem cria uma armadura dourada aumentado o seu poder e recebendo um bônus _IP_, _PV_ e dano.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **5** __*ki*__
 - **Bônus**
   - _IP_: **+5**
   - _PV_: **+5**
-  - Dano: **+5**
+  - _DANO_: **+5**
 
 <br>
 
@@ -2665,7 +2601,7 @@ Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca
 > O oponente deve realizar um teste bem-sucedido de _AGI_ para reduzir o dano recebido pela metade.
 
 - **Tipo**: Contra-ataque
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Cooldown**: **3** rodadas
 - **Dano**: **1D6+15** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank  
@@ -2678,14 +2614,13 @@ Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca
 O personagem cria uma armadura azul aumentado o seu poder e recebendo um bônus _IP_, _PV_ e dano.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **5** __*ki*__
 - **Bônus**
   - _IP_: **+10**
   - _PV_: **+10**
-  - Dano: **+10**
+  - _DANO_: **+10**
   
 <br>
 
@@ -2693,9 +2628,8 @@ O personagem cria uma armadura azul aumentado o seu poder e recebendo um bônus 
 O personagem invoca a aura dos anjos sobre si podendo voar, aprimorando o poder e a resistência de suas armaduras, e elevando o rank de suas doutrinas e aprimoramentos mesmo no rank S Supremo.
 
 - **Tipo**: Buff
-- **Duraçào**: 1 cena
+- **Duraçào**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus da armadura dourada**
   - _IP_: **+10**
@@ -2715,7 +2649,7 @@ O personagem invoca a aura dos anjos sobre si podendo voar, aprimorando o poder 
 O personagem dispara uma rajada de energia sui seiki contra o adversário causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+23** por rank 
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
@@ -2734,12 +2668,11 @@ O personagem dispara uma rajada de energia sui seiki contra o adversário causan
 O personagem ao se concentrar, pode observar qualquer alvo conhecido.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **2** __*ki*__
 - **Efeitos Adicionais**
-  - Ao observar um alvo conhecido dentro do mesmo plano, esta visão é limitada a 2 metros de raio tendo o alvo como o ponto de referência
+  - Ao observar um alvo conhecido dentro do mesmo plano, esta visão é limitada a **2** metros de raio tendo o alvo como o ponto de referência
   
 <br>
 
@@ -2747,9 +2680,8 @@ O personagem ao se concentrar, pode observar qualquer alvo conhecido.
 O personagem aumenta a sua velocidade.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **5** __*ki*__
 - **Bônus**:
   - _AGI_: **+10**
@@ -2764,9 +2696,8 @@ O personagem paralisa o oponente.
 > A cada rodada a vítima poderá fazer um teste de _WILL_ para dissipar o efeito.
 
 - **Tipo**: Debuff
-- **Duração**: 1 rodada por rank
-- **Alvos**: 1
-- **Dano**: N/A
+- **Duração**: **1** rodada por rank
+- **Alvos**: **1**
 - **Custo**: **3** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - Paraliza o oponente durante **1** rodada por rank
@@ -2777,9 +2708,8 @@ O personagem paralisa o oponente.
 O personagem faz brotar vários olhos no seu corpo ficando mais monstruoso.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
   - _CONS_: **+15**
@@ -2801,12 +2731,11 @@ O personagem domina um alvo _Despertado_ de rank inferior ou múltiplos alvos _N
 
 - **Tipo**: Debuff
 - **Duração**:
-  - _Despertado_: 1 rodada por rank
-  - _Não-Despertados_: 2 horas por rank 
+  - _Despertado_: **1** rodada por rank
+  - _Não-Despertados_: **2** horas por rank 
 - **Alvos**: 
-  - _Despertado_: 1 
-  - _Não-Despertados_: 3 por rank
-- **Dano**: N/A
+  - _Despertado_: **1**
+  - _Não-Despertados_: **3** por rank
 - **Custo**: 
   - _Despertado_: **5** __*ki*__  e **+1** por rank
   - _Não-Despertados_: **5** __*ki*__ e **+1** para cada **3** _Não-Despertados_ adicionais
@@ -2819,15 +2748,14 @@ O personagem domina um alvo _Despertado_ de rank inferior ou múltiplos alvos _N
 O personagem aumenta consideravelmente sua velocidade.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
   - _AGI_: **+25**
   - _DES_: **+25**
+  - _Ataques Adicionais_: **+1**
   - _Evasão_
-  - Ataque extra: **+1**
 - **Efeitos Adicionais**
   - Bônus passivo de **+10** na iniciativa
   
@@ -2838,9 +2766,8 @@ O personagem aumenta consideravelmente sua velocidade.
 O personagem cria uma armadura de terra e recebe um bônus de _FOR_, _CONS_ e _IP_.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **5** __*ki*__
 - **Bônus**:
   - _CONS_: **+5**
@@ -2856,7 +2783,7 @@ O personagem fortifica seu braço com pedras que aumentam o seu dano.
 > O personagem precisa estar com alguma oscilação shura ativa.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6** e **+3** por rank 
 - **Custo**: **2** __*ki*__ e **+1** por rank 
@@ -2886,7 +2813,7 @@ O personagem lança um disparo de pedras contra os adversários causando dano.
 > O personagem precisa estar com alguma oscilação shura ativa.
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **3D6+4** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
 
@@ -2894,9 +2821,8 @@ O personagem lança um disparo de pedras contra os adversários causando dano.
 O personagem cria uma armadura de terra maior e recebe um bônus de _FOR_, _CONS_, _PV_ e _IP_.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
   - _CONS_: **+20**
@@ -2913,7 +2839,7 @@ O personagem atinge o oponente com uma investida, causando dano.
 > Requer oscilação shura maior ativa.
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Dano**: **1D6+20** por rank 
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
@@ -2925,12 +2851,12 @@ O personagem atinge o oponente com uma investida, causando dano.
 O personagem tem um estilo de luta diferenciado, este estilo de luta refinado concede um bônus de _ATQ_, _DEF_.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Custo**: **2** __*ki*__ e **+1** por rank
 - **Bônus**:
-  - ATQ: **+5%** por rank
-  - DEF: **+5%** por rank
+  - _ATQ_: **+5%** por rank
+  - _DEF_: **+5%** por rank
 
 <br>
 
@@ -2948,7 +2874,7 @@ O personagem lança o Bambolê das trevas contra o adversário causando dano.
 O personagem amplia o dano Bambolê das trevas que causa dano e pode ser potencializado por um custo adicional de __*ki*__. 
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+2** e **+1D6** por rank
 - **Custo**: **3*** __*ki*__ e **+1** por rank  
@@ -2961,7 +2887,7 @@ O personagem amplia o dano Bambolê das trevas que causa dano e pode ser potenci
 O personagem quando for alvo de um disparo de nível 5 ou menor, ele pode neutralizá-lo fazendo um redemoinho em volta de si mesmo. 
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Cooldown**: **3** rodadas
 - **Dano**: Equivalente ao dano do disparo inicial
 - **Custo**: Equivalente ao custo de __*ki*__ do disparo original **+3**
@@ -2972,7 +2898,7 @@ O personagem quando for alvo de um disparo de nível 5 ou menor, ele pode neutra
 O personagem cria um turbilhão em volta de si mesmo e aplica uma investida contra o adversário causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**:  por rank+4
+- **Alvos**: **1**
 - **Dano**: **1D6+19** por rank. 
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
@@ -2992,8 +2918,8 @@ O personagem cria um turbilhão em volta de si mesmo e aplica uma investida cont
 O personagem pode curar alguém ferido.
 
 - **Tipo**: Buff
-- **Duração**: 1 turno
-- **Alvos**: 1
+- **Duração**: **1** turno
+- **Alvos**: **1**
 - **Custo**: **2** __*ki*__ e **+1** por rank  
 - **Cura**: **1D6+10** por rank.
 
@@ -3003,8 +2929,8 @@ O personagem pode curar alguém ferido.
 O personagem pode curar alguém ferido.
 
 - **Tipo**: Buff
-- **Duração**: 1 turno
-- **Alvos**: 1
+- **Duração**: **1** turno
+- **Alvos**: **1**
 - **Custo**: **3** __*ki*__ e **+1** por rank  
 - **Cura**: **1D6+13** por rank.
 
@@ -3014,8 +2940,8 @@ O personagem pode curar alguém ferido.
 O personagem pode curar doenças graves e outros efeitos como envenenamento. 
 
 - **Tipo**: Buff
-- **Duração**: 1 turno
-- **Alvos**: 1
+- **Duração**: **1** turno
+- **Alvos**: **1**
 - **Custo**: **4** __*ki*__   
 - **Cura**: N/A
 - **Efeitos Adicionais**
@@ -3027,8 +2953,8 @@ O personagem pode curar doenças graves e outros efeitos como envenenamento.
 O personagem pode curar alguém ferido.
 
 - **Tipo**: Buff
-- **Duração**: 1 turno
-- **Alvos**: 1
+- **Duração**: **1** turno
+- **Alvos**: **1**
 - **Custo**: **4** __*ki*__ e **+1** por rank  
 - **Cura**: **1D6+16** por rank.
 
@@ -3038,8 +2964,8 @@ O personagem pode curar alguém ferido.
 O personagem pode curar alguém ferido.
 
 - **Tipo**: Buff
-- **Duração**: 1 turno
-- **Alvos**: 1
+- **Duração**: **1** turno
+- **Alvos**: **1**
 - **Custo**: **5** __*ki*__ e **+1** por rank  
 - **Cura**: **1D6+19** por rank.
 
@@ -3052,8 +2978,8 @@ O personagem pode ressuscitar qualquer criatura com a permissão do Rei-kai.
 > 1.  O alvo ressuscita com **100%** __*PV*__ e __*ki*__.
 
 - **Tipo**: Buff
-- **Duração**: 1 turno
-- **Alvos**: 1
+- **Duração**: **1** turno
+- **Alvos**: **1**
 - **Custo**: **100%** __*ki*__   
 - **Cura**: N/A
 - **Efeitos Adicionais**
@@ -3074,9 +3000,8 @@ O personagem pode ressuscitar qualquer criatura com a permissão do Rei-kai.
 O personagem pode voar e tem o deslocamento potencializado. 
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **3** __*ki*__
 - **Efeitos Adicionais**
   - Se desloca com **3** vezes mais velocidade
@@ -3087,7 +3012,7 @@ O personagem pode voar e tem o deslocamento potencializado.
 O personagem conhece técnicas marciais secretas de antigos mestres, e este estilo de luta refinado concede um bônus de _ATQ__, _DEF__ e nos testes de _Esquiva_ por rank. 
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Custo**: **3** __*ki*__ e **+1** por rank  
 - **Bônus**
@@ -3101,7 +3026,7 @@ O personagem conhece técnicas marciais secretas de antigos mestres, e este esti
 Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um tufão, causando dano. O oponente deve realizar um teste bem-sucedido de _AGI_ para reduzir o dano recebido pela metade .
 
 - **Tipo**: Contra-ataque
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Cooldown**: **3** rodadas
 - **Dano**: **1D6+19** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank  
@@ -3114,7 +3039,7 @@ Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca
 O personagem cria uma arma espiritual do Mei-kai que causa dano e pode ser potencializado por um custo adicional de __*ki*__. 
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **3D6+3** e **+1D6+1** por rank
 - **Custo**: **4*** __*ki*__ e **+1** por rank  
@@ -3127,7 +3052,7 @@ O personagem cria uma arma espiritual do Mei-kai que causa dano e pode ser poten
 Quando o personagem for alvo de um disparo de nível 7 ou menor, ele pode absorvê-lo e depois manda-lo de volta contra o adversário causando o dano do próprio disparo. 
 
 - **Tipo**: Disparo
-- **Alvos**: 1
+- **Alvos**: **1**
 - **Cooldown**: **3** rodadas
 - **Dano**: Equivalente ao dano do disparo inicial
 - **Custo**: Equivalente ao custo de __*ki*__ do disparo original **+5**
@@ -3138,9 +3063,8 @@ Quando o personagem for alvo de um disparo de nível 7 ou menor, ele pode absorv
 O personagem ganha bônus em todos os atributos físicos, _PV_, _IP_ e dano. 
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
   - _CONS_: **+15**
@@ -3157,9 +3081,8 @@ O personagem ganha bônus em todos os atributos físicos, _PV_, _IP_ e dano.
 O personagem quando ve qualquer doutrina pode copiá-la para usá-la durante a luta. Para aprende-la permanentemente, deve gastar **7** de __*ki*__ e ser bem-sucedido no teste de _INT_. Além disso, é preciso pagar o custo da doutrina na evolução do personagem.
 
 - **Tipo**: Buff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: N/A
 - **Custo**: N/A
 - **Efeitos Adicionais**
   - A habilida copiada possui exatamente as mesmas caracteristicas da original
@@ -3170,9 +3093,8 @@ O personagem quando ve qualquer doutrina pode copiá-la para usá-la durante a l
 O personagem faz a parte má de um ser aflorar e pode ser controlada pelo habitante do Mei-kai. Requer um teste difícil de _WILL_ para resistir ao efeito. A vítima não pode ser forçada a fazer uma ação suicida, caso seja forçada a dominação se dissipará. A duração do controle é de um dia. 
 
 - **Tipo**: Debuff
-- **Duração**: 1 dia
-- **Alvos**: 1
-- **Dano**: N/A
+- **Duração**: **1** dia
+- **Alvos**: **1**
 - **Custo**: **9** __*ki*__.
 
 <br>
@@ -3181,9 +3103,8 @@ O personagem faz a parte má de um ser aflorar e pode ser controlada pelo habita
 O personagem cria uma ilusão de acordo com os sentimentos das vítimas, forçando-as a fraquejar. Requer um teste difícil de _WILL_ para resistir ao efeito. Se o oponente sofrer algum dano durante a ilusão, ela será dissipada. A cada rodada durante a ilusão as vítimas precisam ser bem-sucedidas em um teste difícil de _WILL_ para dissipar o efeito. 
 
 - **Tipo**: Debuff
-- **Duração**: 1 cena
+- **Duração**: **1** cena
 - **Alvos**: **4** e **+1** por rank
-- **Dano**: N/A
 - **Custo**: **10** __*ki*__ e **+1** por alvo
 
 <br>
@@ -3196,8 +3117,9 @@ O personagem lança uma rajada energética causando dano em área.
 - **Dano**: **1D6+29** por rank. 
 - **Custo**: **7** __*ki*__ e **+1** por rank
 
-<br>
-<br>
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 # Territórios
 
