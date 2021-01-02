@@ -489,8 +489,7 @@ O personagem é sádico e gosta de torturar as pessoas e fazê-las sofrer, apena
 > **Obervações**  
 > 1. O campo de fogo dissipa o campo de gelo e vice-versa, sendo necessário reativar novamente um dos campos.  
 > 0. O tamanho dos campos, criados pelas doutrinas e aprimoramentos, tem um raio de 25 metros por rank e uma altura de 5 metros por rank, o campo acompanha o personagem.
-> 0. Todos os disparos causam +XD6+Y de dano, onde X é igual quantidade de dados e Y é igual ao dano base da doutrina. Exemplo: uma Grande Bola de Fogo causa 1D6+16 de dano por rank, ela causaria 2D6+32 de dano no rank E, causaria 3D6+48 de dano no rank D. A partir do rank do rank C, todos os disparos causam +2XD6+Y de dano onde X é igual quantidade de dados e Y é igual ao dano base da doutrina. Exemplo: uma Grande Bola de Fogo (no rank C) causaria 5D6+64 de dano, a doutrrina causaria 6D6+80 de dano no rank B, e assim sucessivamente.
-
+> 0. Todos os disparos de rank E causam +2XD6+Y de dano, onde X é igual quantidade de dados e Y é igual ao dano base da doutrina. Exemplo: uma Grande Bola de Fogo causa 1D6+16 de dano por rank, ela causaria 3D6+32 de dano no rank E. Todos os disparos de rank D causam +3XD6 de dano, uma Grande Bola de Fogo causaria 5D6+32 de dano no rank D. Todos os disparos de rank C causam +3XD6 de dano, uma Grande Bola de Fogo causaria 6D6+48 de dano no rank C. Todos os disparos de rank B causam +XD6 de dano, uma Grande Bola de Fogo causaria 5D6+64 de dano no rank B. A partir do rank A as doutrinas não ganham bônus oriundo de outras mecânicas que não sejam das próprias doutrinas. Uma Grande Bola de Fogo causaria 5D6+80 de dano no rank A. Uma Grande Bola de Fogo causaria 6D6+96 de dano no rank S. Uma Grande Bola de Fogo causaria 7D6+112 de dano no rank SS.  
 <br>
 <br>
 
@@ -932,7 +931,7 @@ O personagem lança um disparo de pedras contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+8** por rank
+- **Dano**: **1D6+9** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
@@ -1022,7 +1021,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
  - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+8** por rank
+- **Dano**: **1D6+9** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
@@ -1083,7 +1082,7 @@ O personagem lança um choque da ponta dos dedos contra o adversário causando d
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+8** por rank
+- **Dano**: **1D6+9** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
@@ -1232,7 +1231,7 @@ O personagem lança uma bola de fogo contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: 1
-- **Dano**: **1D6+8** por rank
+- **Dano**: **1D6+9** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
@@ -1922,7 +1921,7 @@ O personagem toca o adversário causando uma explosão.
 
 - **Tipo**: Disparo
 - **Alvos**: 1
-- **Dano**: **1D6+8** por rank
+- **Dano**: **1D6+9** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
@@ -2579,7 +2578,7 @@ O personagem lança um feixe de luz contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **1D6+8** por rank
+- **Dano**: **1D6+9** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
