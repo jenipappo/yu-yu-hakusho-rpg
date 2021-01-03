@@ -532,7 +532,7 @@ O personagem lança um disparo contra o adversário causando dano.
 O personagem lança um disparo que ataca vários oponentes. Ao atingir o rank C, esta doutrina é aprimorada.
 
 - **Tipo**: Disparo
-- **Alvos**: **4** alvos e **+1** por rank
+- **Alvos**: **4** e **+1** por rank
 - **Dano**: **4D6+8** e **+18** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
@@ -805,7 +805,7 @@ O personagem invoca a planta sanguessuga que ataca um oponente que estiver ferid
 - **Custo**: **10** __*ki*__. Ao final da invocação, toda a reserva de __*ki*__ restante é zerada
 - **Planta Sanguessuga**
   - _FOR_: _FOR_ do invocador **+10**
-  - **Dano**: **4D6+14** e **+5** por rank (ignora qualquer absorção de dano)
+  - _DANO_: **4D6+14** e **+5** por rank (ignora qualquer absorção de dano)
 
 
 <br>
@@ -852,7 +852,7 @@ O personagem lança um disparo de chamas negras contra o adversário causando da
 
 <br>
 
-### Nível 4: Ja ou en satsu Ken*
+### Nível 4: Ja ou en satsu Ken
 O personagem cria uma espada de chamas negras que causa dano adicional.
 
 - **Tipo**: Buff
@@ -1021,7 +1021,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 <br>
 
-### Nível 4: Absorção de ki*
+### Nível 4: Absorção de ki
 O personagem recebe um bônus em alguns atributos.
 
 - **Tipo**: Buff
@@ -3050,7 +3050,7 @@ O personagem cria uma ilusão de acordo com os sentimentos das vítimas, forçan
 
 <br>
 
-### Nível 10:*Ondas energéticas
+### Nível 10: Ondas energéticas
 O personagem lança uma rajada energética causando dano em área.
 
 - **Tipo**: Disparo
