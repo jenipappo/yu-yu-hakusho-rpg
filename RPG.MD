@@ -567,7 +567,7 @@ Um golpe que causa dano, porém perde eficiência com a distância.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+14** e **+21** por rank (a cada 1 metro de distância diminui em **4**)
+- **Dano**: **4D6+15** e **+21** por rank (a cada 1 metro de distância diminui em **4**)
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -872,10 +872,10 @@ O personagem invoca um dragão negro contra o adversário causando dano, este fi
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+14** e **+21** por rank
+- **Dano**: **4D6+15** e **+21** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
-  - **Dano**: **4D6+17** e **+21** por rank por rank se utilizado no mundo das trevas
+  - **Dano**: **4D6+18** e **+21** por rank por rank se utilizado no mundo das trevas
 
 <br>
 
@@ -1043,7 +1043,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+14** e **+21** por rank
+- **Dano**: **4D6+15** e **+21** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
@@ -1118,7 +1118,7 @@ Após dividir-se em sete (utilizando **Kakeru**), o personagem usa sete disparos
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+14** e **+21** por rank
+- **Dano**: **4D6+15** e **+21** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
@@ -1891,7 +1891,7 @@ O personagem lança-se contra o adversário causando uma grande explosão.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+14** e **+21** por rank
+- **Dano**: **4D6+15** e **+21** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
@@ -2606,7 +2606,7 @@ O personagem lança um raio contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+17** e **+21** por rank
+- **Dano**: **4D6+18** e **+21** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
@@ -2672,7 +2672,7 @@ O personagem lança uma grande bola contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+17** e **+21** por rank
+- **Dano**: **4D6+18** e **+21** por rank
 - **Custo**: **6** __*ki*__ e **+1** por rank
 
 <br>
@@ -2756,7 +2756,7 @@ O personagem dispara uma rajada de energia sui seiki contra o adversário causan
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+18** e **+22** por rank
+- **Dano**: **4D6+19** e **+22** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
@@ -2807,7 +2807,7 @@ O personagem lança um disparo que causa dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+17** e **+21** por rank
+- **Dano**: **4D6+18** e **+21** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - Aplica **-5%** de _Esquiva_ ao oponente por rank
@@ -2837,7 +2837,7 @@ O personagem corta o espaço onde está o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+19** e **+23** por rank
+- **Dano**: **4D6+20** e **+23** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - Este poder pode atravessar qualquer barreira.
@@ -2922,7 +2922,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+19** e **+23** por rank
+- **Dano**: **4D6+20** e **+23** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
@@ -3052,7 +3052,7 @@ O personagem lança uma rajada energética causando dano em área.
 
 - **Tipo**: Disparo
 - **Alvos**: **4** e **+1** por rank
-- **Dano**: **4D6+21** e **+25** por rank
+- **Dano**: **4D6+22** e **+25** por rank
 - **Custo**: **7** __*ki*__ e **+1** por rank
 
 <div style="page-break-after: always; visibility: hidden"></div>
