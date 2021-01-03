@@ -876,7 +876,7 @@ O personagem invoca um dragão negro contra o adversário causando dano, este fi
 - **Dano**: **4D6+14** e **+21** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
-  - **Dano**: **1D6+23** por rank se utilizado no mundo das trevas
+  - **Dano**: **4D6+17** e **+21** por rank por rank se utilizado no mundo das trevas
 
 <br>
 
@@ -925,7 +925,7 @@ O personagem fortifica seu braço com pedras que aumentam o seu dano.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **3D6** e **+3** por rank
-- **Custo**: **2** __*ki*__ 
+- **Custo**: **3** __*ki*__ e **+1** por rank
 - **Dano Rank B**: **3D6+2** e **+1D6** por rank
 - **Custo Rank B**: **4** __*ki*__ e **+1** por rank
 
@@ -1160,7 +1160,7 @@ O personagem potencializa os yo-yos causando mais dano.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+4** e **+1D6** por rank
-- **Custo**: **5*** __*ki*__ e **+1** por rank  
+- **Custo**: **4*** __*ki*__ e **+1** por rank  
  
 <br>
 
@@ -1184,7 +1184,7 @@ O personagem lança os yo-yos contra o adversário causando dano e diminuindo a 
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+14** e **+19** por rank
+- **Dano**: **4D6+14** e **+18** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - Durante o ataque, é aplicado ao oponente **-5%** de chance de _Esquiva_ por rank 
@@ -1312,7 +1312,7 @@ O personagem cria chamas em todo o corpo, causando dano.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+5** e **+1D6+1** por rank 
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - Se o oponente atacá-lo com as mãos nuas, ele sofrerá **2D6** de dano, **3D6** de dano no rank C, e **4D6** de dano no rank A. Não se aplica a regra de dano mínimo neste dano.
 
@@ -2735,7 +2735,7 @@ O personagem fortifica seu braço com pedras que aumentam o seu dano.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **3D6** e **+3** por rank
-- **Custo**: **3** __*ki*__
+- **Custo**: **3** __*ki*__ e **+1** por rank
 - **Dano Rank B**: **3D6+2** e **+1D6** por rank
 - **Custo Rank B**: **4** __*ki*__ e **+1** por rank
 
