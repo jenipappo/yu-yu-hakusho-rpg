@@ -515,19 +515,16 @@ O personagem é sádico e gosta de torturar as pessoas e fazê-las sofrer, apena
 <br>
 
 ### Nível 1: Reigun
-O personagem lança um disparo contra o adversário causando dano por rank. Ao atingir o rank D, esta doutrina é aprimorada, tornando-se mais forte, destrutiva e **custosa**. Alcança potencial máximo a partir do rank C, tornando-se devastadora. 
+O personagem lança um disparo contra o adversário causando dano. 
 
 > **Observações**  
-> Nos ranks E e D, o personagem pode usar o reigun até 4 vezes por dia. Nos ranks C e B, o personagem pode usar o reigun até 6 vezes por dia. A partir do rank A, o uso do Reigun é ilimitado. 
-> 
+> 1. Nos ranks E e D, o personagem pode usar o reigun até 4 vezes por dia. Nos ranks C e B, o personagem pode usar o reigun até 6 vezes por dia. A partir do rank A, o uso do Reigun é ilimitado. 
+> 0. Esta doutrina passa a ter nível 3 no rank D e nível 5 a partir do rank C.
+
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+10** e **+15** por rank 
-- **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Rank D**: **4D6+12** e **+17** por rank
-- **Custo Rank D**: **4** __*ki*__ e **+1** por rank
-- **Dano Rank C**: **4D6+14** e **+20** por rank
-- **Custo Rank C**: **5** __*ki*__ e **+1** por rank
+- **Dano**: **4D6+5** e **+22** por rank 
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -536,10 +533,8 @@ O personagem lança um disparo que ataca vários oponentes. Ao atingir o rank C,
 
 - **Tipo**: Disparo
 - **Alvos**: **4** alvos e **+1** por rank
-- **Dano**: **4D6+10** e **+15** por rank
-- **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Rank C**: **4D6+12** e **+17** por rank
-- **Custo Rank C**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **4D6+8** e **+18** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
