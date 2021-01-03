@@ -714,7 +714,7 @@ O personagem cria uma arma de vegetal que amplifica seu dano.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+2** e **+4** por rank
+- **Dano**: **2D6+2** e **+3** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 - **Dano Rank C**: **2D6+4** e **+1D6** por rank
 - **Custo Rank C**: **4** __*ki*__ e **+1** por rank
@@ -735,7 +735,7 @@ Confere ao personagem _Ataques Adicionais_ pela duração, adicionando também a
 - **Tipo**: Buff
 - **Duração**: **1** turno
 - **Alvos**: Si mesmo
-- **Custo**: **4** __*ki*__ (**5** a partir do rank C)
+- **Custo**: **5** __*ki*__ (**6** a partir do rank C)
 - **Bônus**
   - _DANO_: **+5** (**+6** a partir do rank C)
   - _Ataques Adicionais_: **+2** (**+3** a partir do rank C)
