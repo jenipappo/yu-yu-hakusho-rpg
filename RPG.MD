@@ -763,7 +763,7 @@ O personagem implanta a planta da morte no oponente, o paralisando após um peri
 - **Tipo**: Debuff
 - **Duração**: **1** cena
 - **Alvos**: **1**
-- **Custo**: **5** __*ki*__
+- **Custo**: **7** __*ki*__
 - **Efeitos Adicionais**
   - Paraliza o oponente após **1** rodada
 
@@ -2556,8 +2556,8 @@ Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca
 - **Tipo**: Contra-ataque
 - **Alvos**: **1**
 - **Cooldown**: **3** rodadas
-- **Dano**: **1D6+15** por rank
-- **Custo**: **3** __*ki*__ e **+1** por rank  
+- **Dano**: **4D6+14** e **+18** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank  
 - **Efeitos Adicionais**
   - Oponente recebe **-5%** por rank no teste de _AGI_
 
@@ -2976,7 +2976,7 @@ Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca
 - **Tipo**: Contra-ataque
 - **Alvos**: **1**
 - **Cooldown**: **3** rodadas
-- **Dano**: **1D6+19** por rank
+- **Dano**: **4D6+15** e **+19** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank  
 - **Efeitos Adicionais**
   - Oponente recebe **-5%** por rank no teste de _AGI_
@@ -3060,7 +3060,7 @@ O personagem lança uma rajada energética causando dano em área.
 
 - **Tipo**: Disparo
 - **Alvos**: **4** e **+1** por rank
-- **Dano**: **1D6+29** por rank. 
+- **Dano**: **4D6+21** e **+25** por rank
 - **Custo**: **7** __*ki*__ e **+1** por rank
 
 <div style="page-break-after: always; visibility: hidden"></div>
