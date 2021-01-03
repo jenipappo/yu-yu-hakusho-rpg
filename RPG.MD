@@ -1890,7 +1890,7 @@ O personagem concentra seu __*ki*__ aumentando suas capacidades físicas.
 O personagem lança-se contra o adversário causando uma grande explosão.
 
 - **Tipo**: Disparo
-- **Alvos**: **4** alvos e **+1** por rank
+- **Alvos**: **1**
 - **Dano**: **4D6+14** e **+20** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
