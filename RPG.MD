@@ -2993,7 +2993,7 @@ Quando o personagem for alvo de um disparo de nível 7 ou menor, ele pode absorv
 - **Alvos**: **1**
 - **Cooldown**: **3** rodadas
 - **Dano**: Equivalente ao dano do disparo inicial
-- **Custo**: Equivalente ao custo de __*ki*__ do disparo original **+5**
+- **Custo**: Equivalente ao custo de __*ki*__ do disparo original **+4**
 
 <br>
 
