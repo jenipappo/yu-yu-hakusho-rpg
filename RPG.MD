@@ -753,14 +753,14 @@ O personagem cria diversas pétalas que cortam como navalhas os adversários cau
 <br>
 
 ### Nível 4: Ojigisou
-O personagem implanta a planta da morte no oponente, o paralisando após um periodo de tempo. Após a paralização, o oponente morrerá com um comando do personagem. Requer um teste bem-sucedido de _DES_ para implantar a semante na vítima. Requer um teste bem-sucedido de _Conhecimento de Doutrinas_ para não cair no truque. Não funciona com quem conhece o golpe. 
+O personagem implanta a planta da morte no oponente, o paralisando após um periodo de tempo. Após a paralisação, o oponente morrerá com um comando do personagem. Requer um teste bem-sucedido de _DES_ para implantar a semante na vítima. Requer um teste bem-sucedido de _Conhecimento de Doutrinas_ para não cair no truque. Não funciona com quem conhece o golpe. 
 
 - **Tipo**: Debuff
 - **Duração**: **1** cena
 - **Alvos**: **1**
 - **Custo**: **8** __*ki*__
 - **Efeitos Adicionais**
-  - Paraliza o oponente após **1** rodada
+  - Paralisa o oponente após **1** rodada
 
 <br>
 
@@ -1172,9 +1172,9 @@ O personagem prende o oponente com os yo-yos.
 - **Tipo**: Debuff
 - **Duração**: **1** rodada por rank
 - **Alvos**: **1**
-- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
-  - O alvo fica paralizado não podendo executar nenhuma ação
+  - O alvo fica paralisado não podendo executar nenhuma ação
   
 <br>
 
@@ -1451,9 +1451,9 @@ O personagem paralisa o oponente.
 - **Tipo**: Debuff
 - **Duração**: **1** rodada por rank
 - **Alvos**: **1**
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
-  - O alvo fica paralizado não podendo executar nenhuma ação
+  - O alvo fica paralisado não podendo executar nenhuma ação
 
 <br>
 
@@ -1515,9 +1515,9 @@ O personagem congela praticamente todo o corpo do oponente.
 - **Tipo**: Debuff
 - **Duração**: **1** rodada por rank
 - **Alvos**: **1**
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
-  - Paraliza o oponente durante **1** rodada por rank 
+  - Paralisa o oponente durante **1** rodada por rank 
   - Absorve **1** __*ki*__ por rodada
   
 <br>
@@ -2081,7 +2081,7 @@ O personagem lança uma aura hipnótica contra o adversário, paralisando-o enqu
  **Tipo**: Debuff
 - **Alvos**: **1**
 - **Duração**: **1** cena
-- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**:
   - _Paralisado_: O personagem não pode realizar qualquer ação.
 
@@ -2151,9 +2151,9 @@ O personagem paralisa o oponente.
 - **Tipo**: Debuff
 - **Duração**: **1** rodada por rank
 - **Alvos**: **1**
-- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
-  - Paraliza o oponente durante **1** rodada por rank
+  - Paralisa o oponente durante **1** rodada por rank
 
 <br>
 
