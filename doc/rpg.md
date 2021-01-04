@@ -423,6 +423,9 @@ O personagem pode saltar longas distâncias.
 ## Voar (2 pontos)
 O personagem pode voar.
 
+> **Observações**
+> Caso já possua _Saltar_, o **jogador** pode aprender este aprimoramento por apenas **1** ponto.
+
   - **Custo**: **3** __*ki*__
   - **Duração**:" **1** cena
   - **Efeitos Adicionais**
@@ -609,7 +612,7 @@ Um golpe que causa dano, porém perde eficiência com a distância.
 ### Nível 6: Sho
 O personagem só pode usar esta técnica para tirar a parte maligna de uma pessoa que está em conflito consigo mesmo; se a pessoa decidir desistir do deu lado maligno a parte má da pessoa é destruída; caso contrário, a técnica causa dano.
 
-- **Tipo**: Dispel
+- **Tipo**: Dissipar
 - **Alvos**: **1**
 - **Dano**: **4D6+14** e **+23** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
@@ -2392,7 +2395,7 @@ O personagem cria um turbilhão em volta de si mesmo e aplica uma investida cont
 
 > **Observações**  
 > 1. O pré-requisito desta doutrina é ter a perícia medicina em pelo menos **40%**.
-> 0. Esta doutrina não é apropriada para o combate. A ativação deste poder dura **2** rodadas até o nível **3** e **3** rodadas nos demais. A ressurreição dura **10** rodadas.
+> 0. Esta doutrina não é apropriada para o combate. 
 > Apenas para NPCs.
 
 <br>
@@ -2400,8 +2403,8 @@ O personagem cria um turbilhão em volta de si mesmo e aplica uma investida cont
 ### Nível 1: Cura
 O personagem pode curar alguém ferido.
 
-- **Tipo**: Buff
-- **Duração**: **1** turno
+- **Tipo**: Encantamento
+- **Canalização**: **2** rodadas
 - **Alvos**: **1**
 - **Custo**: **2** __*ki*__ e **+1** por rank  
 - **Cura**: **4D6+8** e **+13** por rank
@@ -2411,8 +2414,8 @@ O personagem pode curar alguém ferido.
 ### Nível 2: Cura 2
 O personagem pode curar alguém ferido.
 
-- **Tipo**: Buff
-- **Duração**: **1** turno
+- **Tipo**: Encantamento
+- **Canalização**: **2** rodadas
 - **Alvos**: **1**
 - **Custo**: **3** __*ki*__ e **+1** por rank  
 - **Cura**: **4D6+10** e **+15** por rank
@@ -2422,8 +2425,8 @@ O personagem pode curar alguém ferido.
 ### Nível 3: Cura 3
 O personagem pode curar doenças graves e outros efeitos como envenenamento. 
 
-- **Tipo**: Buff
-- **Duração**: **1** turno
+- **Tipo**: Encantamento
+- **Canalização**: **2** rodadas
 - **Alvos**: **1**
 - **Custo**: **4** __*ki*__   
 - **Cura**: N/A
@@ -2435,8 +2438,8 @@ O personagem pode curar doenças graves e outros efeitos como envenenamento.
 ### Nível 4: Cura 4
 O personagem pode curar alguém ferido.
 
-- **Tipo**: Buff
-- **Duração**: **1** turno
+- **Tipo**: Encantamento
+- **Canalização**: **3** rodadas
 - **Alvos**: **1**
 - **Custo**: **4** __*ki*__ e **+1** por rank  
 - **Cura**: **4D6+12** e **+17** por rank
@@ -2446,8 +2449,8 @@ O personagem pode curar alguém ferido.
 ### Nível 5: Cura 5
 O personagem pode curar alguém ferido.
 
-- **Tipo**: Buff
-- **Duração**: **1** turno
+- **Tipo**: Encantamento
+- **Canalização**: **3** rodadas
 - **Alvos**: **1**
 - **Custo**: **5** __*ki*__ e **+1** por rank  
 - **Cura**: **4D6+14** e **+19** por rank
@@ -2457,16 +2460,13 @@ O personagem pode curar alguém ferido.
 ### Nível 6: Ressurreição
 O personagem pode ressuscitar qualquer criatura com a permissão do Rei-kai.
 
-> **Observações**  
-> 1.  O alvo ressuscita com **100%** __*PV*__ e __*ki*__.
-
-- **Tipo**: Buff
-- **Duração**: **1** turno
+- **Tipo**: Encantamento
+- **Canalização**: **10** rodadas
 - **Alvos**: **1**
 - **Custo**: **100%** __*ki*__   
 - **Cura**: N/A
 - **Efeitos Adicionais**
-  - Ressuscita o alvo
+  - Ressuscita o alvo com **100%** __*PV*__ e __*ki*__.
 
 <br>
 
@@ -2602,7 +2602,7 @@ O personagem energiza os punhos amplificando o dano.
 <br>
 
 ### Nível 4: Abrir/fechar portal
-O personagem pode abrir ou fechar portais que ligam o Ma-kai, Terra (Ningen-kai), Rei-kai. O portal se abre ou fecha gradativamente a cada período de **Canalização** (incrementando ou decrementando o rank do portal)
+O personagem pode abrir ou fechar portais que ligam o Ma-kai, Terra (Ningen-kai), Rei-kai. O portal se abre ou fecha gradativamente a cada período de _Canalização_(incrementando ou decrementando o rank do portal)
 
 > **Observações**   
 > 1. Ex.: Aumentar a abertura de um portal em que passam monstros do nível E para que monstros de nível D passem leva uma semana. Fechar um portal do nível D para o nível E leva o mesmo tempo.
@@ -2610,8 +2610,8 @@ O personagem pode abrir ou fechar portais que ligam o Ma-kai, Terra (Ningen-kai)
 > 0. Cada dia leva em consideração um tempo de trabalho de 10 horas.
 
   
-- **Canalização**: 1 semana por rank do portal
-- **Custo**: 10 _*ki*_ por dia.
+- **Canalização**: **1** semana por rank do portal
+- **Custo**: **10** __*ki*__ por dia.
 - **Efeitos Adicionais**
   - O personagem abre um portal por onde monstros de rank igual ou menor a categoria do portal.
 
