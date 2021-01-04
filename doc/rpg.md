@@ -381,9 +381,12 @@ Criatura que detém poderes incríveis, portador do sangue da tribo do mal. O de
 
 ## Doutrinado (2 pontos)
 O personagem passou por um rigoroso treinamento e está apto a usar doutrinas. 
-- **2** _Pontos de Doutrina_
-- **+15** __*ki*__ 
-- **+45** _PV_.
+
+- **Bônus**
+  - _PV_: **+45**.
+  - _KI_: **+15**
+- **Efeitos Adicionais**
+  - Concede **+2** _Pontos de Doutrina_ adicionais 
 
 ## Capacidade de extrair os 120% da força* (2 pontos)
 O personagem em momentos críticos pode elevar de forma grandiosa o seu poder.
