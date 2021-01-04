@@ -34,6 +34,7 @@ jobs:
         id: version
         uses: paulhatch/semantic-version@v3.2
         with:
+          branch: "main"
           change_path: "doc"
 
       - name: 📋 Get Commits since last Release
