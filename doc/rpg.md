@@ -343,13 +343,13 @@ Oni caçado, que fugiu de seu local de origem para viver outra vida, uma criatur
 - Má fama no ma-kai (-2)
 - Inimigo (-2)
  
-## Oni “Humanos”
+## Oni “Humanos” (2 pontos)
 Oni com aparência humana, mas com o poder e tempo de vida de um oni.
 
-**Custo**: 2 pontos  
 **Aprimoramentos**
 - Doutrinado (2)
 
+<br>
 ## Oni Monstruoso (3 pontos)
 Oni com aparência grotesca, o oni mais comum de se ver no ma-kai.
 
