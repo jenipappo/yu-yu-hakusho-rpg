@@ -457,8 +457,6 @@ O personagem cria uma arma ou energiza seus golpes corpo a corpo com energia esp
 ## Último recurso (1 ponto)
 O personagem pode acessar o próximo nível de sua doutrina durante a batalha.
 
-- **Custo**: N/A
-- **Duração**:" **1** cena
 - **Bônus**
   - O personagem pode usar o próximo nível de uma de suas doutrinas e a doutrina escolhida contará como um rank acima do atual.
 - **Efeitos Adicionais**
@@ -478,7 +476,7 @@ O personagem executar golpes adicionais num mesmo turno.
 O personagem pode sentir o __*ki*__ das pessoas em um raio de 100 metros por rank e ter uma estimativa do poder dessas pessoas, além de poder sentir o tipo de __*ki*__ se é maligno ou benigno.
 
 ## Resistência espiritual* (1 ponto)
-O personagem recebe um bônus de _IP_: **+5**, ao **Custo**: **5** __*ki*__; a partir do rank C, o personagem recebe um bônus de _IP_: **+10**, ao **Custo**: **10** __*ki*__; a partir do rank A, o personagem recebe um bônus de _IP_: **+15**, ao **Custo**: **10** __*ki*__.
+O personagem recebe um bônus de _IP_, aumentando o bônus a medida alcança novos ranks. 
 
 - **Custo**: **5** __*ki*__
 -  **Bônus**
@@ -491,7 +489,7 @@ O personagem recebe um bônus de _IP_: **+5**, ao **Custo**: **5** __*ki*__; a p
   - _IP_: **+15** 
 
 ## Força espiritual* (1 ponto)
-O personagem recebe um bônus de _DANO_: **+5**, ao **Custo**: **5** __*ki*__; a partir do rank C, o personagem recebe um bônus de _DANO_: **+10**, ao **Custo**: **10** __*ki*__.
+O personagem recebe um bônus de _DANO_, aumentando o bônus a medida alcança novos ranks.
 
 - **Custo**: **5** __*ki*__
 -  **Bônus**
@@ -501,7 +499,20 @@ O personagem recebe um bônus de _DANO_: **+5**, ao **Custo**: **5** __*ki*__; a
   - _DANO_: **+10**
 
 ## Aura espiritual* (3 pontos)
-O personagem recebe um bônus de _IP_: **+5** e  _DANO_: **+5**, ao **Custo**: **5** __*ki*__; a partir do rank C, o personagem recebe um bônus de _IP_: **+10** e  _DANO_: **+10**, ao **Custo**: **10** __*ki*__; a partir do rank A, o personagem recebe um bônus de _IP_: **+15** e  _DANO_: **+10**, ao **Custo**: **10** __*ki*__.
+O personagem recebe um bônus de _IP_ e  _DANO_, aumentando o bônus a medida alcança novos ranks.
+
+- **Custo**: **5** __*ki*__
+-  **Bônus**
+  - _IP_: **+5** 
+  - _DANO_: **+5**
+- **Custo**: **10** __*ki*__ a partir do rank C
+-  **Bônus**
+  - _IP_: **+10**
+  - _DANO_: **+10**
+- **Custo**: **10** __*ki*__ a partir do rank A
+-  **Bônus**
+  - _IP_: **+15**
+  - _DANO_: **+10**
 
 ## Aumento de atributos físicos* (1 ponto)
 O personagem recebe um bônus de +1 em um de seus atributos físicos por __*ki*__ gasto, podendo chegar até +5 pontos em um de seus atributos, a partir do rank C o bônus pode chegar até +10 pontos. 3 pontos: O personagem recebe um bônus de +1 em todos os seus atributos físicos por __*ki*__ gasto, podendo chegar até +5 pontos em todos os seus atributos, a partir do rank C o bônus pode chegar até +10 pontos.
