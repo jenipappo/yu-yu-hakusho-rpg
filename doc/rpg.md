@@ -465,7 +465,15 @@ O personagem pode acessar o próximo nível de sua doutrina durante a batalha.
   - A próxima doutrina a ser executada custará seu valor de __*ki*__, o restante da reserva de __*ki*__ e mais 5 _PVS_.
   
 ## Ataques múltiplos (2 pontos) 
-O personagem pode executar um golpe adicional por rank, caso um dos golpes múltiplos falhe, a manobra acaba.
+O personagem executar golpes adicionais num mesmo turno.
+
+> **Observações**  
+> 1. Caso um dos golpes múltiplos erre o alvo, a manobra acaba.
+
+- **Custo**: N/A
+- **Duração**:N/A
+- **Bônus**
+  - **+1** golpe adicional por rank
 
 ## Sensitivo (1 ponto)
 O personagem pode sentir o __*ki*__ das pessoas em um raio de 100 metros por rank e ter uma estimativa do poder dessas pessoas, além de poder sentir o tipo de __*ki*__ se é maligno ou benigno.
