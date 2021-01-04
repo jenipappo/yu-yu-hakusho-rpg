@@ -1298,7 +1298,7 @@ O personagem cria chamas intensas nas mãos ampliando seu dano.
 O personagem lança uma grande bola de fogo contra seus adversários causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: **4** alvos e **+1** por rank
+- **Alvos**: **4** e **+1** por rank
 - **Dano**: **4D6+12** e **+17** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
@@ -1825,7 +1825,7 @@ O personagem faz sua espada emitir um terrível som em uma área (semelhante a u
 O personagem lança uma rajada de almas contra os adversários causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: **4** alvos e **+1** por rank
+- **Alvos**: **4** e **+1** por rank
 - **Dano**: **4D6+14** e **+20** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
@@ -1864,7 +1864,7 @@ O personagem lança uma granada contra o adversário causando dano.
 O personagem invoca várias bombas. A rajada de bombas causa dano a vários inimigos na área.
 
 - **Tipo**: Disparo
-- **Alvos**: **4** alvos e **+1** por rank
+- **Alvos**: **4** e **+1** por rank
 - **Dano**: **4D6+12** e **+16** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
@@ -2250,7 +2250,7 @@ O personagem fortifica seu braço com pedras que aumentam o seu dano.
 O personagem lança um disparo de pedras contra os adversários causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: **4** alvos e **+1** por rank
+- **Alvos**: **4** e **+1** por rank
 - **Dano**: **4D6+10** e **+14** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 
@@ -2661,7 +2661,7 @@ O personagem cria bolas nas mãos que amplificam seu dano corpo a corpo.
 O personagem lança várias bolas contra seus adversários causando dano a múltiplos alvos.
 
 - **Tipo**: Disparo
-- **Alvos**: **4** alvos e **+1** por rank
+- **Alvos**: **4** e **+1** por rank
 - **Dano**: **4D6+15** e **+19** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
