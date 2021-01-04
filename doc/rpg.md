@@ -386,7 +386,24 @@ O personagem passou por um rigoroso treinamento e está apto a usar doutrinas.
 - **+45** _PV_.
 
 ## Capacidade de extrair os 120% da força* (2 pontos)
-O personagem em momentos críticos pode elevar de forma grandiosa o seu poder, o mestre é quem decide quando o personagem utiliza este poder. O personagem recebe um bônus de +5 em todos os seus atributos físicos, _PVs_, rei-ki, e +3 de _IP_, suas doutrinas são elevadas a um rank acima mesmo no rank S Supremo. O personagem só pode chegar neste estado a partir do rank B, a partir do rank A ele pode extrair este poder no momento que quiser. Pré-requisito não pode ser reencarnado e nem descendente de clã maligno.                                                                                         
+O personagem em momentos críticos pode elevar de forma grandiosa o seu poder.
+
+> **Observações**  
+> 1. Não pode ser adquirido por personagens das raças _Reencarnado_ ou _Descendente de Clã Maligno_.
+> 0. Apenas disponível a partir do rank B. Inicialmente, apenas o __*mestre*__ pode decidir quando ativar este poder. Do rank A em diante o jogador pode ativá-lo quando desejar. 
+
+- **Bônus**
+  - _FOR_: **+5** 
+  - _CONS_: **+5** 
+  - _AGI_: **+5** 
+  - _DES_: **+5** 
+  - _PV_: **+5** 
+  - _KI_: **+5** 
+  - _IP_: **+3** 
+- **Efeitos Adicionais**
+  - Eleva as doutrinas e aprimooramentos em **1** rank, mesmo no rank S Supremo
+
+
 ## Energia vital (1 ponto)
 O personagem pode converter 2 _PVs_ em 1 de __*ki*__, esta manobra só pode ser usada uma vez por luta, e no máximo pode ser gasto 20 _PVs_, a partir do rank C pode ser gasto no máximo 40 _PVs_.
 
