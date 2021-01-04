@@ -326,45 +326,72 @@ Raças são pacotes de aprimoramentos (positivos e/ou negativos) que só podem s
 
 <br>
 
-## Humano doutrinado
+## Humano Doutrinado (2 pontos)
 Humano que tem capacidade de usar doutrinas e fazer feitos incríveis.
 
-- **Custo**: **2** pontos  
 - **Aprimoramentos**
   - Doutrinado (**2**)
 
-## Reencarnado
-Oni caçado, que fugiu de seu local de origem para viver outra vida, uma criatura poderosa e cheia de segredos. O reencarnado tem um bônus de +10 em todos os seus atributos físicos, _PVs_, you-ki e +5 de _IP_, suas doutrinas são elevadas a um rank acima mesmo no rank S Supremo. O personagem só pode controlar a transformação a partir do rank A. 
+<br>
 
-**Custo**: 5 pontos  
-**Aprimoramentos**
-- Forma You-kai* (7)
-- Doutrinado (2)
-- Má fama no ma-kai (-2)
-- Inimigo (-2)
- 
+## Reencarnado (5 pontos)
+Oni caçado, que fugiu de seu local de origem para viver outra vida; uma criatura poderosa e cheia de segredos. O personagem precisa ter uma experiência única para que essa para ter acesso a _Transformação You-Kai_. 
+
+- **Aprimoramentos**
+  - Forma You-kai* (7)
+  - Doutrinado (2)
+  - Má fama no ma-kai (-2)
+  - Inimigo (-2)
+
+### Transformação You-Kai
+O personagem assume a sua forma You-Kai, recebendo bônus em seus atributos e doutrinas.
+
+> **Observações**
+> Inicialmente, apenas o **narrador** pode decidir quando ativar este poder. Do rank A em diante o jogador pode ativá-lo quando desejar. 
+
+- **Bônus**
+  - _FOR_: **+10**
+  - _CONS_: **+10**
+  - _AGI_: **+10**
+  - _DES_: **+10**
+  - _PV_: **+10**
+  - _KI_: **+10**
+  - _IP_: **+5**
+- **Efeitos Adicionais**
+  - Eleva as doutrinas e aprimoramentos em **1** rank, mesmo no rank S Supremo
+
+<br>
+
 ## Oni “Humanos” (2 pontos)
 Oni com aparência humana, mas com o poder e tempo de vida de um oni.
 
-**Aprimoramentos**
-- Doutrinado (2)
+- **Aprimoramentos**
+  - Doutrinado (2)
 
 <br>
+
 ## Oni Monstruoso (3 pontos)
 Oni com aparência grotesca, o oni mais comum de se ver no ma-kai.
 
 - **Bônus**
   - _FOR_: **+5**
   - _CONS_: **+5** 
-**Aprimoramentos**
-- Doutrinado (2)
-- Estrutura corpórea aprimorada* (4)
-- Monstruoso redutor de -5 em carisma* (-1)
-- Má fama rei-kai (-2) 
+- **Aprimoramentos**
+  - Doutrinado (2)
+  - Estrutura corpórea aprimorada* (4)
+  - Monstruoso redutor de -5 em carisma* (-1)
+  - Má fama rei-kai (-2) 
 
 <br>
+
 ## Descendente de Clã Maligno (7 pontos)
-Criatura que detém poderes incríveis, portador do sangue da tribo do mal. O personagem precisa morrer a partir do rank A para ressuscitar com este poder e só consegue controlar a transformação a partir do rank S.
+Criatura que detém poderes incríveis, portador do sangue da tribo do mal. O personagem precisa ter uma experiência única para que essa para ter acesso a _Transformação You-Kai_.
+
+### Transformação You-Kai
+O personagem assume a sua forma You-Kai, recebendo bônus em seus atributos e doutrinas.
+
+> **Observações**
+> Inicialmente, apenas o **narrador** pode decidir quando ativar este poder. Do rank S em diante o jogador pode ativá-lo quando desejar. 
 
  - **Bônus**
   - _FOR_: **+20**
@@ -378,11 +405,12 @@ Criatura que detém poderes incríveis, portador do sangue da tribo do mal. O pe
   - Eleva as doutrinas e aprimoramentos em **1** rank, mesmo no rank S Supremo 
 
 <br>
-**Aprimoramentos**: 
-- Descendente de clã maligno* (14)
-- Doutrinado (2)
-- Caçado pelo Rei-kai (-3)
-- Má fama Rei-kai, Ma-kai e Mei-kai (-6)
+
+- **Aprimoramentos**: 
+  - Descendente de clã maligno* (14)
+  - Doutrinado (2)
+  - Caçado pelo Rei-kai (-3)
+  - Má fama Rei-kai, Ma-kai e Mei-kai (-6)
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
