@@ -326,9 +326,9 @@ Raças são pacotes de aprimoramentos (positivos e/ou negativos) que só podem s
 ## Humano doutrinado
 Humano que tem capacidade de usar doutrinas e fazer feitos incríveis.
 
-**Custo**: 2 pontos  
-**Aprimoramentos**
-- Doutrinado (2)
+- **Custo**: **2** pontos  
+- **Aprimoramentos**
+  - Doutrinado (**2**)
 
 ## Reencarnado
 Oni caçado, que fugiu de seu local de origem para viver outra vida, uma criatura poderosa e cheia de segredos. O reencarnado tem um bônus de +10 em todos os seus atributos físicos, _PVs_, you-ki e +5 de _IP_, suas doutrinas são elevadas a um rank acima mesmo no rank S Supremo. O personagem só pode controlar a transformação a partir do rank A. 
@@ -380,7 +380,10 @@ Criatura que detém poderes incríveis, portador do sangue da tribo do mal. O de
 <br>
 
 ## Doutrinado (2 pontos)
-O personagem passou por um rigoroso treinamento e está apto a usar doutrinas, o personagem possui 2 pontos de doutrinas e +15 de __*ki*__ e +45 _PVs_.
+O personagem passou por um rigoroso treinamento e está apto a usar doutrinas. 
+- **2** _Pontos de Doutrina_
+- **+15** __*ki*__ 
+- **+45** _PV_.
 
 ## Capacidade de extrair os 120% da força* (2 pontos)
 O personagem em momentos críticos pode elevar de forma grandiosa o seu poder, o mestre é quem decide quando o personagem utiliza este poder. O personagem recebe um bônus de +5 em todos os seus atributos físicos, _PVs_, rei-ki, e +3 de _IP_, suas doutrinas são elevadas a um rank acima mesmo no rank S Supremo. O personagem só pode chegar neste estado a partir do rank B, a partir do rank A ele pode extrair este poder no momento que quiser. Pré-requisito não pode ser reencarnado e nem descendente de clã maligno.                                                                                         
