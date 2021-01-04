@@ -457,27 +457,91 @@ O personagem recebe um bônus de _IP_: **+5** e  _DANO_: **+5**, ao **Custo**: *
 O personagem recebe um bônus de +1 em um de seus atributos físicos por __*ki*__ gasto, podendo chegar até +5 pontos em um de seus atributos, a partir do rank C o bônus pode chegar até +10 pontos. 3 pontos: O personagem recebe um bônus de +1 em todos os seus atributos físicos por __*ki*__ gasto, podendo chegar até +5 pontos em todos os seus atributos, a partir do rank C o bônus pode chegar até +10 pontos.
 
 ## Duro de matar (1 ponto)
-O personagem continua em pé lutando, mesmo estando com _PVs_ negativos.
+O personagem possui uma persistência de luta fora do normal, ficando em pé mesmo quando deveria estar _Desacordado_.
 
-## Vitalidade extra (1 ponto)
-O personagem ganha +12 _PVs_, este aprimoramento pode ser comprado até 3 vezes. A compra deste aprimoramento e Vitalidade maior extra devem ser alternadas a cada 3 níveis.
+## Vitalidade extra 1 (1 ponto)
+O personagem possui uma vitalidade maior que o normal.
 
-## Vitalidade maior extra (2 pontos)
-O personagem ganha +30 _PVs_, este aprimoramento pode ser comprado até 2 vezes. A compra deste aprimoramento e Vitalidade extra devem ser alternadas a cada 3 níveis.
+> **Observações**  
+> 1. Este aprimoramento pode ser comprado até o máximo de **3** vezes
+> 0. O aprimoramento só pode ser comprado a cada **3** níveis.
 
-## Energia espiritual extra (1 ponto)
-O personagem ganha +6 de __*ki*__, este aprimoramento pode ser comprado até 2 vezes. A compra deste aprimoramento e Energia espiritual maior extra deve ser alternada a cada 3 níveis.
+- **Efeitos Adicionais**
+  - O personagem ganha **+12** __PV__
 
-## Energia espiritual maior extra (2 pontos)
-O personagem ganha +15 de __*ki*__, este aprimoramento pode ser comprado até 2 vezes. A compra deste aprimoramento e Energia espiritual devem ser alternadas a cada 3 níveis. 
+
+## Vitalidade extra 2 (1 ponto)
+O personagem possui uma vitalidade muito maior que o comum.
+
+> **Observações**  
+> 1. Requer o aprimoramento _Vitalidade Extra 1_
+> 0. Este aprimoramento pode ser comprado até o máximo de **2** vezes
+> 0. O aprimoramento só pode ser comprado a cada **3** níveis.
+
+- **Efeitos Adicionais**
+  - O personagem ganha **+30** __PV__
+
+## Energia espiritual extra 1(1 ponto)
+
+O personagem possui uma energia espiritual maior que o normal.
+
+> **Observações**  
+> 1. Este aprimoramento pode ser comprado até o máximo de **2** vezes
+> 0. O aprimoramento só pode ser comprado a cada **3** níveis.
+
+- **Efeitos Adicionais**
+  - O personagem ganha **+6** __*ki*__
+
+## Energia espiritual extra 2 (1 ponto)
+
+O personagem possui uma energia espiritual muito maior que o normal.
+
+> **Observações**  
+> 1. Requer o aprimoramento _Energia Espiritual Extra 1_
+> 0. Este aprimoramento pode ser comprado até o máximo de **2** vezes
+> 0. O aprimoramento só pode ser comprado a cada **3** níveis.
+
+
+- **Efeitos Adicionais**
+  - O personagem ganha **+15** __*ki*__
+
 
 ## Evasão (1 ponto)
-Quando o personagem for alvo de um disparo, e se o personagem tirar um acerto critico no teste de resistência (1/4 da Agilidade no máximo de 25 AGI) de agilidade, o personagem não sofrerá dano.
+O personalidade possui habilidades de esquiva que vão além do normal, podendo esquivar completamente de um disparo.
 
-## Disparo aprimorado (0 a 2 pontos)
-- **0 ponto**: 50% do dano causado pelo seu disparo não pode ser reduzido com _IP_ a um custo de +1 de __*ki*__ para doutrinas de até nível 3, e +2 de __*ki*__ para doutrinas acima do nível 3.
-- **1 ponto**: 60% do dano causado pelo seu disparo não pode ser reduzido com _IP_ a um custo de +1 de __*ki*__ para doutrinas de até nível 3, e +2 de __*ki*__ para doutrinas acima do nível 3; seu disparo não pode ser neutralizado por outras doutrinas a um custo de a um custo de +1 de __*ki*__ para doutrinas de até nível 3, e +2 de __*ki*__ para doutrinas acima do nível 3. 
-- **2 pontos**: 70% do dano causado pelo seu disparo não pode ser reduzido com _IP_ a um custo de +1 de __*ki*__ para doutrinas de até nível 3, e +2 de __*ki*__ para doutrinas acima do nível 3; seu disparo é mais difícil de ser desviado, e o oponente sofre um redutor de -5% de chance de esquiva por rank a um custo de a um custo de +1 de __*ki*__ para doutrinas de até nível 3, e +2 de __*ki*__ para doutrinas acima do nível 3.
+- **Efeitos Adicionais**
+  - O personagem consegue fugir completamente de um disparo se conseguir um acerto crítico num teste crítico de _AGI_ (1/4 de _AGI_ com máximo de 25).
+
+## Disparo aprimorado 1 (0 pontos)
+O personagem possui habilidades diferenciadas em seu disparo que dificultam a sua absorção pelos inimigos.
+
+- **Custo**: **+1** __*ki*__ (**+1** a partir de doutrina nível 4).
+- **Efeitos Adicionais**
+  - **50%** do dano causado pelo seu disparo não pode ser reduzido com _IP_
+ 
+## Disparo aprimorado 2 (1 ponto)
+O personagem possui habilidades diferenciadas em seu disparo que dificultam a sua absorção pelos inimigos.
+
+> **Observações**  
+> 1. Requer o aprimoramento _Disparo Aprimorado 1_
+
+- **Custo**: **+1** __*ki*__ (**+1** a partir de doutrina nível 4).
+- **Efeitos Adicionais**
+  - **60%** do dano causado pelo seu disparo não pode ser reduzido com _IP_
+  - O seu disparo não pode ser neutralizado por outras disciplinas.
+
+## Disparo aprimorado 3 (1 ponto)
+O personagem possui habilidades diferenciadas em seu disparo que dificultam a sua absorção pelos inimigos.
+ 
+> **Observações**  
+> 1. Requer o aprimoramento _Disparo Aprimorado 2_
+
+- **Custo**: **+1** __*ki*__ (**+1** a partir de doutrina nível 4).
+- 
+- **Efeitos Adicionais**
+  - **70%** do dano causado pelo seu disparo não pode ser reduzido com _IP_
+  - O seu disparo não pode ser neutralizado por outras disciplinas
+  - Seu disparo é mais difícil de ser desviado causando um redutor de **-5%** de chance de esquiva por rank ao inimigo.
 
 ## Treinamento árduo (2 pontos)
 O personagem passou por um treino rigoroso, tornando-o mais capacitado que o normal.
