@@ -967,7 +967,7 @@ O personagem lança-se em pedaços contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+14** e **+20** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - **Esquiva**: O adversário perde **-5%** de sua esquiva contra essa técnica.
 
@@ -1015,8 +1015,8 @@ O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+12** e **+17** por rank
-- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano**: **4D6+12** e **+18** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -1184,7 +1184,7 @@ O personagem lança os yo-yos contra o adversário causando dano e diminuindo a 
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+14** e **+18** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - Durante o ataque, é aplicado ao oponente **-5%** de chance de _Esquiva_ por rank 
 
@@ -1300,7 +1300,7 @@ O personagem lança uma grande bola de fogo contra seus adversários causando da
 - **Tipo**: Disparo
 - **Alvos**: **4** alvos e **+1** por rank
 - **Dano**: **4D6+12** e **+17** por rank
-- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -1323,7 +1323,7 @@ O personagem lança um disparo contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+14** e **+20** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -1394,7 +1394,7 @@ O personagem lança uma grande bola de energia contra o adversário causando dan
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+14** e **+20** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -1528,7 +1528,7 @@ O personagem cria um disparo na forma de um dragão de gelo contra o adversário
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+14** e **+19** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -1595,7 +1595,7 @@ O personagem lança um grande furacão contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+14** e **+20** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -1665,7 +1665,7 @@ O personagem energiza sua mão, aonde ele tocar causará um grande onda de destr
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+14** e **+19** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -1971,7 +1971,7 @@ O personagem lança um disparo contra o adversário.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+14** e **+20** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -2043,8 +2043,8 @@ O personagem torna-se _Imortal_ e ganha _Regeneração_ passivamente.
 - **Alvos**: Si mesmo
 - **Custo**: N/A
 - **Efeitos Adicionais**
-  - _Imortal_ : O personagem **1** _PV_ por rodada
-  - _Regeneração_: _Dano Mínimo_ **+1** por rodada
+  - _Imortal_ : Ao morrer o personagem regenera **1** _PV_ por rodada
+  - _Regeneração_: Regenera _Dano Mínimo_ **+1** _PV_ por rodada
 
 <br>
 <br>
@@ -2103,7 +2103,7 @@ O personagem lança um raio na forma de um arco-íris contra o adversário causa
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+14** e **+19** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -2291,7 +2291,7 @@ O personagem atinge o oponente com uma investida, causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+14** e **+20** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -2348,7 +2348,7 @@ O personagem cria um turbilhão em volta de si mesmo e aplica uma investida cont
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+14** e **+19** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
 
