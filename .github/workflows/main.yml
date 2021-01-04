@@ -29,14 +29,6 @@ jobs:
           output_dir: dist
           images_dir: img
           build_html: false
-      
-      - name: test
-        run: |
-          ls
-          echo '==========='
-          ls dist
-          echo '==========='
-          pwd
           
       - name: Setup GitVersion
         run: |
@@ -68,6 +60,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }} 
-          asset_path: ./dist/RPG.pdf
+          asset_path: ./dist/rpg.pdf
           asset_name: yu-yu-hakusho-rpg.${{ env.SemVer }}.pdf
           asset_content_type: application/pdf
