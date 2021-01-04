@@ -41,7 +41,7 @@ jobs:
       - name: test
         run: |
           ls
-          ls ./doc
+          ls ./dist
           
       - name: Create Release
         id: create_release
