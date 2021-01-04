@@ -2,16 +2,15 @@
 
 <br>
 
-![YuYu Hakusho RPG Logo](https://raw.githubusercontent.com/jenipappo/yu-yu-hakusho-rpg/main/img/yuyuhakusho.jpg)
+![YuYu Hakusho RPG Logo](./img/yuyuhakusho.jpg)
 
 
 <br>
 
-##### ATUALIZAÇÃO: **01/01/2021**  
 ##### POR 
 - Marcio Alves (**Peixe**)
 - Anderson Silva (**Dinho**)
-- Erico Granja (**Knighmare**)
+- Erico Granja (**Knightmare**)
 - Bruno Silva  (**Tera**)
 
 Em caso de dúvidas, visite https://github.com/jenipappo/yu-yu-hakusho-rpg
