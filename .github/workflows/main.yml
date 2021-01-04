@@ -6,7 +6,7 @@ on:
     branches:
       - main
     paths-ignore:
-      - '.github/workflows/main.yaml'
+      - '.github/workflows/main.yml'
       - 'README.MD'
       - LICENSE
       
