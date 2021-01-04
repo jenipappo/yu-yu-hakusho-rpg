@@ -503,8 +503,8 @@ O personagem cria um campo de batalha que concede bônus de _ATQ_ e _DEF_. O efe
   - **Duração**: **1** cena
   - **Bônus**
     - _ATQ_: **+5%** por rank
-    - _DEF_: **+5%** por rank
-  
+    - _DEF_: **+5%** por rank 
+
 
 <br>
 
@@ -2686,8 +2686,6 @@ O personagem cria um turbilhão em volta de si mesmo e aplica uma investida cont
 
 <br>
 
-# Doutrinas de NPCs
-
 ## Cura espiritual
 
 <br>
@@ -2701,10 +2699,10 @@ O personagem cria um turbilhão em volta de si mesmo e aplica uma investida cont
 O personagem pode curar alguém ferido.
 
 - **Tipo**: Encantamento
-- **Canalização**: **2** rodadas
+- **Canalização**: **1** rodadas
 - **Alvos**: **1**
-- **Custo**: **2** __*ki*__ e **+1** por rank  
-- **Cura**: **4D6+8** e **+13** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank  
+- **Cura**: **2D6+4** e **+7** por rank
 
 <br>
 
@@ -2712,44 +2710,47 @@ O personagem pode curar alguém ferido.
 O personagem pode curar alguém ferido.
 
 - **Tipo**: Encantamento
-- **Canalização**: **2** rodadas
+- **Canalização**: **1** rodadas
 - **Alvos**: **1**
-- **Custo**: **3** __*ki*__ e **+1** por rank  
-- **Cura**: **4D6+10** e **+15** por rank
+- **Custo**: **6** __*ki*__ e **+1** por rank  
+- **Cura**: **2D6+5** e **+8** por rank
 
 <br>
 
-### Nível 3: Cura 3
+### Nível 3: Panacéia
 O personagem pode curar doenças graves e outros efeitos como envenenamento. 
 
 - **Tipo**: Encantamento
-- **Canalização**: **2** rodadas
+- **Canalização**: **1** rodadas
 - **Alvos**: **1**
-- **Custo**: **4** __*ki*__   
+- **Custo**: **6** __*ki*__   
 - **Cura**: N/A
 - **Efeitos Adicionais**
   - Cura doenças graves e outros efeitos como envenenamento
 
 <br>
 
-### Nível 4: Cura 4
+### Nível 4: Cura 3
 O personagem pode curar alguém ferido.
 
 - **Tipo**: Encantamento
-- **Canalização**: **3** rodadas
+- **Canalização**: **1** rodadas
 - **Alvos**: **1**
-- **Custo**: **4** __*ki*__ e **+1** por rank  
-- **Cura**: **4D6+12** e **+17** por rank
+- **Custo**: **7** __*ki*__ e **+1** por rank  
+- **Cura**: **2D6+6** e **+9** por rank
 
 <br>
 
-### Nível 5: Cura 5
+### Nível 5: Restauração
 O personagem pode curar alguém ferido.
 
+> **Observação**
+> Não pode ser usado em combate.
+ 
 - **Tipo**: Encantamento
-- **Canalização**: **3** rodadas
+- **Canalização**: **10** minutos
 - **Alvos**: **1**
-- **Custo**: **5** __*ki*__ e **+1** por rank  
+- **Custo**: **20** __*ki*__
 - **Cura**: **4D6+14** e **+19** por rank
 
 <br>
@@ -2757,15 +2758,19 @@ O personagem pode curar alguém ferido.
 ### Nível 6: Ressurreição
 O personagem pode ressuscitar qualquer criatura com a permissão do Rei-kai.
 
+> **Observação**
+> Não pode ser usado em combate.
+
 - **Tipo**: Encantamento
-- **Canalização**: **10** rodadas
+- **Canalização**: **1** hora
 - **Alvos**: **1**
-- **Custo**: **100%** __*ki*__   
-- **Cura**: N/A
+- **Custo**: **100%** __*ki*__
 - **Efeitos Adicionais**
   - Ressuscita o alvo com **100%** __*PV*__ e __*ki*__.
 
 <br>
+
+# Doutrinas de NPCs
 
 ## Kin’ niku Souza
 
