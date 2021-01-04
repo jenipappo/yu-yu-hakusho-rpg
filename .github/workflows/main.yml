@@ -1,11 +1,17 @@
 name: Document Publish
 
+
 on:
   push:
     paths:
       - 'doc/**'
+
+on:
+  push:
     tags:
       - 'v*'       
+      
+on:
   workflow_dispatch:
 
 jobs:
