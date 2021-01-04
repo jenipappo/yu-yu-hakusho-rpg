@@ -441,17 +441,29 @@ O personagem cria um campo de batalha semelhante ao efeito esfriar da doutrina d
 
   - **Custo**: **2** __*ki*__ e **+1** por rank 
   - **Duração**:" **1** cena
-  - - **Bônus**
-  - _ATQ_: **+5%** por rank
-  - _DEF_: **+5%** por rank
+  - **Bônus**
+    - _ATQ_: **+5%** por rank
+    - _DEF_: **+5%** por rank
   
 
 ## Criar arma espiritual* (2 pontos)
-O personagem pode criar uma arma ou energizar os golpes corpo a corpo com energia espiritual, semelhante a qualquer doutrina que cause o dano da arma ou dos punhos 2D6+2 de dano e +1D6 de dano por rank; ou amplia a arma espiritual causando 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de __*ki*__. Custa 4 de __*ki*__ +1 de __*ki*__ para cada rank acima do rank E.  
+O personagem cria uma arma ou energiza seus golpes corpo a corpo com energia espiritual. 
+
+- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Duração**:" **1** cena
+- **Bônus**
+  - Dano da arma ou dos **2D6+4** e **+1D6** por rank
 
 ## Último recurso (1 ponto)
-O personagem pode acessar o próximo nível de sua doutrina durante a batalha, e a próxima doutrina usada será elevada a um rank acima mesmo no rank S Supremo. Entretanto, é preciso gastar o __*ki*__ da doutrina e o resto do __*ki*__ que sobrar e mais 5 _PVs_.
+O personagem pode acessar o próximo nível de sua doutrina durante a batalha.
 
+- **Custo**: N/A
+- **Duração**:" **1** cena
+- **Bônus**
+  - O personagem pode usar o próximo nível de uma de suas doutrinas e a doutrina escolhida contará como um rank acima do atual.
+- **Efeitos Adicionais**
+  - A próxima doutrina a ser executada custará seu valor de __*ki*__, o restante da reserva de __*ki*__ e mais 5 _PVS_.
+  
 ## Ataques múltiplos (2 pontos) 
 O personagem pode executar um golpe adicional por rank, caso um dos golpes múltiplos falhe, a manobra acaba.
 
