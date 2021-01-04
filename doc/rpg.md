@@ -360,10 +360,21 @@ Oni com aparência grotesca, o oni mais comum de se ver no ma-kai. O oni monstru
 - Monstruoso redutor de -5 em carisma* (-1)
 - Má fama rei-kai (-2) 
 
-## Descendente de Clã Maligno
-Criatura que detém poderes incríveis, portador do sangue da tribo do mal. O descendente de clã maligno tem um bônus de +20 em todos os seus atributos físicos, _PVs_, __*youki*__ e +10 de _IP_, suas doutrinas são elevadas um rank acima mesmo no rank S Supremo. Porém o personagem precisa morrer a partir do rank A para ressuscitar com este poder. O personagem só consegue controlar a transformação a partir do rank S.
+## Descendente de Clã Maligno (7 pontos)
+Criatura que detém poderes incríveis, portador do sangue da tribo do mal. O personagem precisa morrer a partir do rank A para ressuscitar com este poder e só consegue controlar a transformação a partir do rank S.
 
-**Custo**: 7 pontos  
+ - **Bônus**
+  - _FOR_: **+20**
+  - _CONS_: **+20**
+  - _AGI_: **+20**
+  - _DES_: **+20**
+  - _PV_: **+20**.
+  - _KI_: **+20**
+  - _IP_: **+10**
+- **Efeitos Adicionais**
+  - Eleva as doutrinas e aprimoramentos em **1** rank, mesmo no rank S Supremo 
+
+<br>
 **Aprimoramentos**: 
 - Descendente de clã maligno* (14)
 - Doutrinado (2)
