@@ -20,20 +20,10 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v1
  
-      - name: Setup GitVersion
-        run: |
-          git fetch --unshallow 
-          dotnet tool install -g GitVersion.Tool --version=5.6.0 
-          dotnet gitversion /output json /config "${{ github.workspace }}/GitVersion.yml"
-          echo "SemVer=$(dotnet gitversion /output json /config "${{ github.workspace }}/GitVersion.yml" /showvariable SemVer /verbosity Quiet)" >> $GITHUB_ENV
-
-      - name: 📋 Get Commits since last Release
-        id: changes
-        uses: simbo/changes-since-last-release-action@v1
-        
-      - uses: mkrakowitzer/actions-makepdfs@v1.3
+      - name: Generate PDF
+        uses: mkrakowitzer/actions-makepdfs@v1.3
         with:
           markdown_dir: doc
           output_dir: dist
@@ -45,6 +35,17 @@ jobs:
           ls dist
           echo '==========='
           pwd
+          
+      - name: Setup GitVersion
+        run: |
+          git fetch --unshallow 
+          dotnet tool install -g GitVersion.Tool --version=5.6.0 
+          dotnet gitversion /output json /config "${{ github.workspace }}/GitVersion.yml"
+          echo "SemVer=$(dotnet gitversion /output json /config "${{ github.workspace }}/GitVersion.yml" /showvariable SemVer /verbosity Quiet)" >> $GITHUB_ENV
+
+      - name: 📋 Get Commits since last Release
+        id: changes
+        uses: simbo/changes-since-last-release-action@v1           
           
       - name: Create Release
         id: create_release
