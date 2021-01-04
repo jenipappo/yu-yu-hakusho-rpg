@@ -1,29 +1,21 @@
-#  Yu Yu Hakusho RPG
+#  YUYU HAKUSHO
+
+
+ATUALIZAÇÃO: **30/12/2020**  
+POR **Marcio Alves da Silva (Peixe), Anderson Paulo da Silva (Dinho), Erico Granja e Bruno Vinicius Dias da Silva**  
+Em caso de dúvidas, Endereço de e-mail do autor: marcio.economics@hotmail.com  
+BASEADO NO SUPLEMENTO DE **MARCELO MATOS “GUAXINIM”**, **AJOTA** & **GRUPO DE RPG PVH**  
 
 <br>
-
-![Yu Yu Hakusho RPG Logo](https://raw.githubusercontent.com/jenipappo/yu-yu-hakusho-rpg/main/img/yuyuhakusho.jpg)
-
-
 <br>
-
-##### POR 
-- Marcio Alves (**Peixe**)
-- Anderson Silva (**Dinho**)
-- Erico Granja (**Knightmare**)
-- Bruno Silva  (**Tera**)
-
-Em caso de dúvidas, visite https://github.com/jenipappo/yu-yu-hakusho-rpg
-
-Baseado no suplemento de: Marcelo Matos (**Guaxinim**), **Ajota** e **Grupo de RPG PVH**  
-
-<div style="page-break-after: always; visibility: hidden"></div>
 
 
 # O Início
 
-> _Vou usar só 30% do meu poder!_  
-> **Toguro**, Irmão mais velho
+<br>
+
+> _Vou usar só 30% do meu poder!_
+**Toguro** (irmão mais velho)
 
 <br>
 
@@ -62,8 +54,8 @@ Após isso, ele deveria impedir Sansui Shinobu e sua turma de abrir um buraco qu
 `Retirado da Revista Herói números: 114, 119, 121, 128 & 129`. 
 
 
-<div style="page-break-after: always; visibility: hidden"></div>
-
+<br>
+<br>
 
 # Os Mundos
 ## Terra
@@ -91,27 +83,28 @@ Os reinos são povoamentos no Ma-Kai. Alguns se tornam grandes cidades cheias de
 
 #### **Reino Gandara**
 Um Reino com uma tecnologia muitíssimo avançada.
-- **Quem Domina**: Um demônio de classe S chamado Yomi.
-- **Distancia**: 20 dias.
+Quem Domina: Um demônio de classe S chamado Yomi.
+**Distancia**: 20 dias.
 
 #### **Reino De Mukuro**
 
 Um Reino com uma tecnologia um pouco avançada.
-- **Quem Domina**: Um demônio de classe S chamado Mukuro.
-- **Distancia**: 23 dias.
+Quem Domina: Um demônio de classe S chamado Mukuro.
+**Distancia**: 23 dias.
 
 #### **Reino de Reizen**
 Um Reino com pouca tecnologia.
-- **Quem Domina**: Um demônio de classe S chamado Reizen.
-- **Distancia**: 30 dias.
+Quem Domina: Um demônio de classe S chamado Reizen.
+**Distancia**: 30 dias.
 
 #### **País do Gelo**
 Um Reino bem isolado, acima das nuvens e muito frio para qualquer monstro ou pessoa normal aguentar por muito tempo, apenas Mulheres do Gelo vivem nesse Reino.
-- **Quem Domina**: Um conselho formado pelas mais velhas Mulheres de Gelo do Reino.
-- **Distancia**: 100 dias, para encontra-lo também precisará da bússola do Detetive Sobrenatural para encontrar o You-ki delas então, ou apenas usando o Jagan, fora isso é impossível, pois o Reino encontra-se acima das nuvens.
+**Quem Domina**: Um conselho formado pelas mais velhas Mulheres de Gelo do Reino.
+**Distancia**: 100 dias, para encontra-lo também precisará da bússola do Detetive Sobrenatural para encontrar o You-__*ki*__ delas então, ou apenas usando o Jagan, fora isso é impossível,
+pois o Reino encontra-se acima das nuvens.\
 
 > **Observacão**  
-Em função baixa temperatura, não se pode permanecer mais que 30 dias no País de Gelo, exceto se o personagem for mestre na Doutrina Gelo.
+Não se pode permanecer mais que 30 dias no País de Gelo, por causa da baixa temperatura, exceto se o personagem for mestre na Doutrina Gelo.
 
 #### **Outros**
 Existem vários outros Reinos no mundo das trevas, pois ele é muito grande e o Rei-Kai apenas conhece pouca parte dele, por isso aventureiros podem partir em busca de novos reinos a serem conquistados, mas é melhor irem logo esperando pelo pior...
@@ -121,102 +114,96 @@ Existem vários outros Reinos no mundo das trevas, pois ele é muito grande e o 
 ## Mei-Kai - O Outro Mundo
 Esse é um mundo parecido com o Ma-Kai, mas é um lugar habitado por demônios poderosíssimos, a maioria de classe S superior. Antes de existir a barreira entre os mundos, esses demônios eram muito temidos. Eles buscam certos itens que possibilitariam anular a barreira espiritual, e eles já tiveram várias tentativas fracassadas. O governante desse mundo era um demônio poderosíssimo, mais poderoso do que monstros da classe S, como Yusuke Urameshi. É um lugar muito mais terrível de se ver ou viver do que o Ma- Kai, dado o poder das criaturas que vivem por lá. As doutrinas só podem ser adquiridas de duas formas: No momento de criação de personagem comprando-se o aprimoramento Doutrinado, ou durante a aventura, através de um mestre e árduos treinamentos.
 
-<div style="page-break-after: always; visibility: hidden"></div>
+<br>
+<br>
 
 # Regras e Sistema
 
-<br>
+## TABELA DE NÍVEIS E PROEZAS FISÍCAS
+| NÍVEL  | _PV_       | ATRIBUTO  | APRIMOR.  | PERÍCIA   | DOUTRINA  | __*ki*__     | RANK
+|-------:|---------:|----------:|----------:|----------:|----------:|-------:|------
+| 1      | +6       | 111       | 8	        | 400       | 2         | +3     | E-
+| 2      | +12      | +1        | +1	    | +25       | 2         | +6     | E+-
+| 3      | +18      | +2        | +1	    | +50       | +1        | +9     | E+
+| 4      | +24      | +3        | +1	    | +75       | +1        | +12    | D-
+| 5      | +30      | +4        | +2	    | +100      | +2        | +15    | D+-
+| 6      | +36      | +5        | +2	    | +125      | +2        | +18    | D+
+| 7      | +42      | +6        | +2	    | +150      | +3        | +21    | C-
+| 8      | +48      | +7        | +3	    | +175      | +3        | +24    | C+-
+| 9      | +54      | +8        | +3	    | +200      | +4        | +27    | C+
+| 10     | +60      | +9        | +3	    | +225      | +4        | +30    | B-
+| 11     | +66      | +10       | +4	    | +250      | +5        | +33    | B+-
+| 12     | +72      | +11       | +4	    | +275      | +5        | +36    | B+
+| 13     | +78      | +12       | +4	    | +300      | +6        | +39    | A-
+| 14     | +84      | +13       | +5	    | +325      | +6        | +42    | A+-
+| 15     | +90      | +14       | +5	    | +350      | +7        | +45    | A+
+| 16     | +96      | +15       | +5	    | +375      | +7        | +48    | S-
+| 17     | +102     | +16       | +6	    | +400      | +8        | +51    | S+-
+| 18     | +108     | +17       | +6	    | +425      | +8        | +54    | S+
+| 19     | +126     | +20       | +7	    | +500      | +9        | +63    | SS
 
-## Tabela de níveis
-
-| NÍVEL  | _PV_     | ATRIBUTO  | APRIMOR.  | PERÍCIA   | DOUTRINA  | __*ki*__ | RANK
-|-------:|---------:|----------:|----------:|----------:|----------:|---------:|------
-| 1      | +6       | 111       | 8	        | 400       | 2         | +3       | E-
-| 2      | +12      | +1        | +1	      | +25       | 2         | +6       | E+-
-| 3      | +18      | +2        | +1	      | +50       | +1        | +9       | E+
-| 4      | +24      | +3        | +1	      | +75       | +1        | +12      | D-
-| 5      | +30      | +4        | +2	      | +100      | +2        | +15      | D+-
-| 6      | +36      | +5        | +2	      | +125      | +2        | +18      | D+
-| 7      | +42      | +6        | +2	      | +150      | +3        | +21      | C-
-| 8      | +48      | +7        | +3	      | +175      | +3        | +24      | C+-
-| 9      | +54      | +8        | +3	      | +200      | +4        | +27      | C+
-| 10     | +60      | +9        | +3	      | +225      | +4        | +30      | B-
-| 11     | +66      | +10       | +4	      | +250      | +5        | +33      | B+-
-| 12     | +72      | +11       | +4	      | +275      | +5        | +36      | B+
-| 13     | +78      | +12       | +4	      | +300      | +6        | +39      | A-
-| 14     | +84      | +13       | +5	      | +325      | +6        | +42      | A+-
-| 15     | +90      | +14       | +5	      | +350      | +7        | +45      | A+
-| 16     | +96      | +15       | +5	      | +375      | +7        | +48      | S-
-| 17     | +102     | +16       | +6	      | +400      | +8        | +51      | S+-
-| 18     | +108     | +17       | +6	      | +425      | +8        | +54      | S+
-| 19     | +126     | +20       | +7	      | +500      | +9        | +63      | SS
-
-<div style="page-break-after: always; visibility: hidden"></div>
-
- ## Tabela de Proezas Físicas
 
 | Atributo	| Carregar (kg)	| Levantar (kg)	| Bônus de dano	| AGI Velocidade (m/s)
 |----------:|--------------:|--------------:|--------------:|---------------------:
-| 1-2	      | 15            | 30            | -3	          | 1,5
-| 3-4	      | 20            | 40            | -2	          | 2
-| 5-6	      | 25            | 50            | -1	          | 2,5
-| 7-8	      | 30            | 60            | -1	          | 3
-| 9	        | 35	          | 70            | 0             | 3,5
-| 10	      | 40            | 80            | 0	            | 4
-| 11	      | 45            | 90            | 0	            | 4,5
-| 12	      | 50            | 100           | 0	            | 5 (Caminhar)
-| 13	      | 55            | 110           | 0	            | 5,5
-| 14	      | 60            | 125           | 0	            | 6
-| 15	      | 70            | 140           | 1	            | 7
-| 16	      | 80            | 160           | 1	            | 8
-| 17	      | 90            | 180           | 2	            | 9
-| 18	      | 100           | 200           | 2	            | 10
-| 19	      | 110           | 225           | 3	            | 11
-| 20	      | 125           | 250           | 3	            | 12
-| 21	      | 140           | 280           | 4	            | 14
-| 22	      | 160           | 310           | 4	            | 16
-| 23	      | 180           | 355           | 5	            | 18
-| 24	      | 200           | 400           | 5	            | 20
-| 25	      | 225           | 450           | 6	            | 22
-| 26	      | 250           | 500           | 6	            | 25
-| 27	      | 280           | 560           | 7	            | 28
-| 28	      | 310           | 630           | 7	            | 30 (100km/h)
-| 29	      | 355           | 710           | 8	            | 35
-| 30	      | 400           | 800           | 8	            | 40
-| 31	      | 450           | 900           | 9	            | 45
-| 32	      | 500           | 1000          | 9	            | 50
-| 33	      | 560           | 1120          | 10	          | 56
-| 34	      | 630           | 1260          | 10	          | 63
-| 35	      | 710           | 1420          | 11	          | 70 (Ferrari)
-| 36	      | 800           | 1600          | 11	          | 80
-| 37	      | 900           | 1800          | 12	          | 90
-| 38	      | 1000          | 2000          | 12	          | 100
-| 39	      | 1100          | 2200          | 13	          | 110
-| 40	      | 1250          | 2500          | 13	          | 125
-| 41	      | 1400          | 2800          | 14	          | 140
-| 42	      | 1600          | 3200          | 14	          | 160
-| 43	      | 1800          | 3600          | 15	          | 180
-| 44	      | 2000          | 4000          | 15	          | 200
-| 45	      | 2200          | 4400          | 16	          | 220
-| 46	      | 2500          | 5000          | 16	          | 250
-| 47	      | 2800          | 5600          | 17	          | 280
-| 48	      | 3200          | 6400          | 17	          | 320
-| 49	      | 3600          | 7200          | 18	          | 360
-| 50	      | 4000          | 8000          | 18	          | 400
-| 51	      | 4400          | 8800          | 19	          | 440
-| 52	      | 5000          | 10000         | 19	          | 500
-| 53	      | 5600          | 11200         | 20	          | 560
-| 54	      | 6400          | 12800         | 20	          | 640
-| 55	      | 7200          | 14400         | 21	          | 720
-| 56	      | 8000          | 16000         | 21	          | 800
-| 57	      | 8800          | 17600         | 22	          | 880
-| 58	      | 10000         | 20000         | 22	          | 1000
-| 59	      | 11200         | 22400         | 23	          | 1120
-| 60	      | 12800         | 25600         | 23	          | 1280
-| 61	      | 14400         | 28800         | 24	          | 1440
+| 1-2	    | 15            | 30            | -3	        | 1,5
+| 3-4	    | 20            | 40            | -2	        | 2
+| 5-6	    | 25            | 50            | -1	        | 2,5
+| 7-8	    | 30            | 60            | -1	        | 3
+| 9	        | 35	        | 70            | 0             | 3,5
+| 10	    | 40            | 80            | 0	            | 4
+| 11	    | 45            | 90            | 0	            | 4,5
+| 12	    | 50            | 100           | 0	            | 5 (Caminhar)
+| 13	    | 55            | 110           | 0	            | 5,5
+| 14	    | 60            | 125           | 0	            | 6
+| 15	    | 70            | 140           | 1	            | 7
+| 16	    | 80            | 160           | 1	            | 8
+| 17	    | 90            | 180           | 2	            | 9
+| 18	    | 100           | 200           | 2	            | 10
+| 19	    | 110           | 225           | 3	            | 11
+| 20	    | 125           | 250           | 3	            | 12
+| 21	    | 140           | 280           | 4	            | 14
+| 22	    | 160           | 310           | 4	            | 16
+| 23	    | 180           | 355           | 5	            | 18
+| 24	    | 200           | 400           | 5	            | 20
+| 25	    | 225           | 450           | 6	            | 22
+| 26	    | 250           | 500           | 6	            | 25
+| 27	    | 280           | 560           | 7	            | 28
+| 28	    | 310           | 630           | 7	            | 30 (100km/h)
+| 29	    | 355           | 710           | 8	            | 35
+| 30	    | 400           | 800           | 8	            | 40
+| 31	    | 450           | 900           | 9	            | 45
+| 32	    | 500           | 1000          | 9	            | 50
+| 33	    | 560           | 1120          | 10	        | 56
+| 34	    | 630           | 1260          | 10	        | 63
+| 35	    | 710           | 1420          | 11	        | 70 (Ferrari)
+| 36	    | 800           | 1600          | 11	        | 80
+| 37	    | 900           | 1800          | 12	        | 90
+| 38	    | 1000          | 2000          | 12	        | 100
+| 39	    | 1100          | 2200          | 13	        | 110
+| 40	    | 1250          | 2500          | 13	        | 125
+| 41	    | 1400          | 2800          | 14	        | 140
+| 42	    | 1600          | 3200          | 14	        | 160
+| 43	    | 1800          | 3600          | 15	        | 180
+| 44	    | 2000          | 4000          | 15	        | 200
+| 45	    | 2200          | 4400          | 16	        | 220
+| 46	    | 2500          | 5000          | 16	        | 250
+| 47	    | 2800          | 5600          | 17	        | 280
+| 48	    | 3200          | 6400          | 17	        | 320
+| 49	    | 3600          | 7200          | 18	        | 360
+| 50	    | 4000          | 8000          | 18	        | 400
+| 51	    | 4400          | 8800          | 19	        | 440
+| 52	    | 5000          | 10000         | 19	        | 500
+| 53	    | 5600          | 11200         | 20	        | 560
+| 54	    | 6400          | 12800         | 20	        | 640
+| 55	    | 7200          | 14400         | 21	        | 720
+| 56	    | 8000          | 16000         | 21	        | 800
+| 57	    | 8800          | 17600         | 22	        | 880
+| 58	    | 10000         | 20000         | 22	        | 1000
+| 59	    | 11200         | 22400         | 23	        | 1120
+| 60	    | 12800         | 25600         | 23	        | 1280
+| 61	    | 14400         | 28800         | 24	        | 1440
 
-<div style="page-break-after: always; visibility: hidden"></div>
-
+<br>
 
 ## Regras Adicionais 
 
@@ -232,7 +219,7 @@ Os personagens começam com **8** pontos de aprimoramentos, **111** pontos de at
 Algumas doutrinas e atributos elevados permitem o personagem dar ataques adicionais, estes ataques devem ser feitos após o primeiro ataque e depois de todos os ataques adicionais é que deve começar a manobra de ataques múltiplos.
 
 ### **Dano mínimo**
-O personagem causará no mínimo 2 de dano, +1 para cada rank. O dano mínimo não pode ser maior do que o dano máximo. 
+O personagem causará no mínimo 3 de dano, +1 para cada rank acima de E. O dano mínimo não pode ser maior do que o dano máximo. 
 
 ### **Dano crítico**
 O dano de armas leves como punhos, bastão, soqueira, faca ou pistolas causam **1D6** de dano, o dano de armas médias como espadas, lanças ou magnum causam **2D6** de dano, e o dano de armas pesadas como machados, espadas largas, tridentes ou rifles causam **3D6** de dano, apenas a quantidade de dano base da arma é dobrada no acerto crítico.
@@ -252,19 +239,16 @@ O personagem só pode ter 2 doutrinas diferentes e caso maximize as duas, e cont
 Um bônus que aumenta o nível das doutrinas não é cumulativo com nenhum outro bônus que aumente o nível das doutrinas. Ex: Fúria e forma reencarnado.
 
 ### **Morte**
-O personagem morre quando passa de -15 _PVs_ e + (-1 _PV_) por nível de personagem. 
+O personagem morre quando passa de -10 _PVs_ e + (-1 _PV_) por nível de personagem. 
 
 ### **Fúria**
-O mestre decidirá quando o personagem entrará neste estado, geralmente é causado por alguma grande perda, alguns casos de desespero ou humilhação. A fúria fornece um bônus de +10 em todos os seus atributos físicos, _PVs_, rei-ki ou you-ki, _IP_, dano e as doutrinas são elevadas um rank acima mesmo no rank S Supremo.
+O mestre decidirá quando o personagem entrará neste estado, geralmente é causado por alguma grande perda, alguns casos de desespero ou humilhação. A fúria fornece um bônus de +10 em todos os seus atributos físicos, _PVs_, rei-ki ou you-__*ki*__, _IP_, dano e as doutrinas são elevadas um rank acima mesmo no rank S Supremo.
 
 ### **Aumento de poder**
-O personagem tem um limite de vezes que pode aumentar seu poder durante um combate, com doutrinas e aprimoramentos que elevam características por __*ki*__ gasto, a limitação é de até 10 vezes o bônus base e mais 5 vezes o bônus base por rank. Algumas doutrinas tem dinâmicas diferentes, exemplo o nível 5 da doutrina adaptação; trate como 15 vezes o bônus base, já que a disciplina custa 15 de __*ki*__. 
-
-> **Observações**  
-> As doutrinas de níveis 1, 2 e 3 só podem aumentar seu bônus base até 5 vezes, e as doutrinas de níveis 4 ou mais podem aumentar seu bônus base até 10 vezes.
+O personagem tem um limite de vezes que pode aumentar seu poder durante um combate, com doutrinas e aprimoramentos que elevam características por __*ki*__ gasto, a limitação é de até 10 vezes o bônus base e mais 5 vezes o bônus base para cada rank acima do rank E. Algumas doutrinas tem dinâmicas diferentes, exemplo o nível 5 da doutrina adaptação; trate como 15 vezes o bônus base, já que a disciplina custa 15 de __*ki*__. OBS (as doutrinas de níveis 1, 2 e 3 só podem aumentar seu bônus base até 5 vezes, e as doutrinas de níveis 4 ou mais podem aumentar seu bônus base até 10 vezes).
 
 ### **Recuperar energia**
-O personagem recupera 1 _PV_ por rank a cada 20 minutos e 1 de __*ki*__ por rank a cada meia hora de descanso.
+O personagem recupera 1 _PV_ nível por dia e 1 de __*ki*__ a cada meia hora de descanso.
 
 ### **Disputa de rajadas**
 Quando o personagem for alvo de algum disparo ele pode fazer um disparo no turno do oponente, com esta manobra o personagem pula o seu próximo turno. A diferença do dano dos disparos vai atingir o personagem com o disparo mais fraco sem esquiva, a redução do dano com _IP_ é feita normalmente. Não pode haver mais do que 2 rajadas nesta disputa. Este recurso só pode ser utilizado uma vez a cada 5 turnos.
@@ -286,16 +270,16 @@ Ex.: um personagem que tenha duas doutrinas que aumentam o _IP_, uma dessas dout
 Este nível é perfeito para aventuras no Mei-Kai onde tem monstros terríveis, e para que os personagens tenham um nível a mais para ser alcançado, neste nível o personagem ganha +1 ponto de aprimoramento e doutrina, +3 pontos de atributos, +9 pontos de __*ki*__, +18 _PVs_, +75 pontos de perícias, e as doutrinas são elevadas a um rank acima mesmo no rank S, o rank S Supremo é considerado outro rank, trate esta evolução como 3 evoluções normais para poder fazer a ficha do personagem. 
 
 ### **Força 50**
-O personagem pode atacar o adversário a 3 metros de distância por rank, deslocando o ar contra ele com sua imensa força; ganha o aprimoramento _Duro de Matar_. O personagem quando for atingido com um disparo pode fazer o teste de resistência usando sua força em vez de sua agilidade para sofrer metade do dano.
+Com um simples movimento o personagem pode deslocar o ar em direção ao seu oponente causando uma quantidade de dano igual ao dano de seu golpe físico, teste de agilidade para levar metade do dano, o personagem quando for atingido com um disparo pode fazer o teste de resistência usando sua força em vez de sua agilidade para sofrer metade do dano.
 
 ### **Constituição 50**
-O personagem regenera 2 _PV_ por turno, ganha o aprimoramento _Duro de Matar_. O personagem quando for atingido com um disparo pode fazer o teste de resistência usando sua constituição em vez de sua agilidade para sofrer metade do dano.
+O personagem recupera 1 _PV_ por turno, ganha o aprimoramento duro de matar, o personagem quando for atingido com um disparo pode fazer o teste de resistência usando sua constituição em vez de sua agilidade para sofrer metade do dano.
 
 ### **Agilidade 50**
-O personagem ganha **+1** _Ataques Adicionais_.
+O personagem ganha um ataque adicional.
 
 ### **Destreza 50**
-O personagem ganha **+1** _Ataques Adicionais_.
+Idem a agilidade 50.
 
 ### **Novas Perícias**
 - CONHECIMENTO DE DOUTRINAS (0)
@@ -311,7 +295,8 @@ O personagem ganha **+1** _Ataques Adicionais_.
 > **Observações**  
 > Para usar doutrinas é preciso ter pelo menos 40 pontos em teoria das doutrinas.
 
-<div style="page-break-after: always; visibility: hidden"></div>
+<br>
+<br>
 
 # RAÇAS
 Raças são pacotes de aprimoramentos (positivos e/ou negativos) que só podem ser adquiridos  durante a criação do personagem.
@@ -326,12 +311,12 @@ Raças são pacotes de aprimoramentos (positivos e/ou negativos) que só podem s
 ## Humano doutrinado
 Humano que tem capacidade de usar doutrinas e fazer feitos incríveis.
 
-- **Custo**: **2** pontos  
-- **Aprimoramentos**
-  - Doutrinado (**2**)
+**Custo**: 2 pontos  
+**Aprimoramentos**
+- Doutrinado (2)
 
 ## Reencarnado
-Oni caçado, que fugiu de seu local de origem para viver outra vida, uma criatura poderosa e cheia de segredos. O reencarnado tem um bônus de +10 em todos os seus atributos físicos, _PVs_, you-ki e +5 de _IP_, suas doutrinas são elevadas a um rank acima mesmo no rank S Supremo. O personagem só pode controlar a transformação a partir do rank A. 
+Oni caçado, que fugiu de seu local de origem para viver outra vida, uma criatura poderosa e cheia de segredos. O reencarnado tem um bônus de +10 em todos os seus atributos físicos, _PVs_, you-__*ki*__ e +5 de _IP_, suas doutrinas são elevadas a um rank acima mesmo no rank S Supremo. O personagem só pode controlar a transformação a partir do rank A. 
 
 **Custo**: 5 pontos  
 **Aprimoramentos**
@@ -367,7 +352,8 @@ Criatura que detém poderes incríveis, portador do sangue da tribo do mal. O de
 - Caçado pelo Rei-kai (-3)
 - Má fama Rei-kai, Ma-kai e Mei-kai (-6)
 
-<div style="page-break-after: always; visibility: hidden"></div>
+<br>
+<br>
 
 # Aprimoramentos
 
@@ -380,31 +366,11 @@ Criatura que detém poderes incríveis, portador do sangue da tribo do mal. O de
 <br>
 
 ## Doutrinado (2 pontos)
-O personagem passou por um rigoroso treinamento e está apto a usar doutrinas. 
+O personagem passou por um rigoroso treinamento e está apto a usar doutrinas, o personagem possui 2 pontos de doutrinas e +15 de __*ki*__ e +45 _PVs_.
 
-- **Bônus**
-  - _PV_: **+45**.
-  - _KI_: **+15**
-- **Efeitos Adicionais**
-  - Concede **+2** _Pontos de Doutrina_ adicionais 
 
 ## Capacidade de extrair os 120% da força* (2 pontos)
-O personagem em momentos críticos pode elevar de forma grandiosa o seu poder.
-
-> **Observações**  
-> 1. Não pode ser adquirido por personagens das raças _Reencarnado_ ou _Descendente de Clã Maligno_.
-> 0. Apenas disponível a partir do rank B. Inicialmente, apenas o __*mestre*__ pode decidir quando ativar este poder. Do rank A em diante o jogador pode ativá-lo quando desejar. 
-
-- **Bônus**
-  - _FOR_: **+5** 
-  - _CONS_: **+5** 
-  - _AGI_: **+5** 
-  - _DES_: **+5** 
-  - _PV_: **+5** 
-  - _KI_: **+5** 
-  - _IP_: **+3** 
-- **Efeitos Adicionais**
-  - Eleva as doutrinas e aprimooramentos em **1** rank, mesmo no rank S Supremo
+O personagem em momentos críticos pode elevar de forma grandiosa o seu poder, o mestre é quem decide quando o personagem utiliza este poder. O personagem recebe um bônus de +5 em todos os seus atributos físicos, _PVs_, rei-ki, e +3 de _IP_, suas doutrinas são elevadas a um rank acima mesmo no rank S Supremo. O personagem só pode chegar neste estado a partir do rank B, a partir do rank A ele pode extrair este poder no momento que quiser. Pré-requisito não pode ser reencarnado e nem descendente de clã maligno.                                                                                         
 
 ## Energia vital (1 ponto)
 O personagem pode converter 2 _PVs_ em 1 de __*ki*__, esta manobra só pode ser usada uma vez por luta, e no máximo pode ser gasto 20 _PVs_, a partir do rank C pode ser gasto no máximo 40 _PVs_.
@@ -412,22 +378,9 @@ O personagem pode converter 2 _PVs_ em 1 de __*ki*__, esta manobra só pode ser 
 ## Mestre (1 ponto)
 O personagem pode contar com um tutor bastante experiente e forte para doutriná-lo e ajudá-lo quando for realmente necessário.
 
-## Saltar (1 ponto)
-O personagem pode saltar longas distâncias.
-
-  - **Custo**: **0** __*ki*__
-  - **Duração**:" **1** cena
-  - **Efeitos Adicionais**
-    - Salta até **10** metros, **15** metros no rank B e **20** metros no rank S
-
-## Voar (2 pontos)
-O personagem pode voar.
-
-  - **Custo**: **3** __*ki*__
-  - **Duração**:" **1** cena
-  - **Efeitos Adicionais**
-    - Voa com o dobro do deslocamento
-    - _Saltar_
+## Deslocamento avançado* (1 a 2 pontos) 
+- **1 ponto**: O personagem pode saltar até 10 metros, 15 metros no rank B, 20 metros no rank S. 
+- **2 pontos**: O personagem pode voar, o vôo tem o dobro do deslocamento da terra. Custa 3 de __*ki*__.
 
 ## Criar área de batalha* (2 pontos)
 O personagem pode criar um campo de batalha semelhante ao efeito esfriar da doutrina do gelo, mas não é necessário que seja um campo de gelo pode ser qualquer outro efeito visual. O personagem recebe um bônus de +5% no ataque e na defesa por rank. Custa 2 de __*ki*__ e +1 de __*ki*__ para cada rank acima do rank E. 
@@ -445,13 +398,13 @@ O personagem pode executar um golpe adicional por rank, caso um dos golpes múlt
 O personagem pode sentir o __*ki*__ das pessoas em um raio de 100 metros por rank e ter uma estimativa do poder dessas pessoas, além de poder sentir o tipo de __*ki*__ se é maligno ou benigno.
 
 ## Resistência espiritual* (1 ponto)
-O personagem recebe um bônus de _IP_: **+5**, ao **Custo**: **5** __*ki*__; a partir do rank C, o personagem recebe um bônus de _IP_: **+10**, ao **Custo**: **10** __*ki*__; a partir do rank A, o personagem recebe um bônus de _IP_: **+15**, ao **Custo**: **10** __*ki*__.
+O personagem recebe um bônus de +1 de _IP_ por __*ki*__ gasto, podendo chegar até +5 de _IP_; a partir do rank C o bônus pode chegar até +10 de _IP_.
 
 ## Força espiritual* (1 ponto)
-O personagem recebe um bônus de _DANO_: **+5**, ao **Custo**: **5** __*ki*__; a partir do rank C, o personagem recebe um bônus de _DANO_: **+10**, ao **Custo**: **10** __*ki*__.
+O personagem recebe um bônus de +1 de dano por __*ki*__ gasto, podendo chegar até +5 de dano, a partir do rank C o bônus pode chegar até +10 de dano.
 
 ## Aura espiritual* (3 pontos)
-O personagem recebe um bônus de _IP_: **+5** e  _DANO_: **+5**, ao **Custo**: **5** __*ki*__; a partir do rank C, o personagem recebe um bônus de _IP_: **+10** e  _DANO_: **+10**, ao **Custo**: **10** __*ki*__; a partir do rank A, o personagem recebe um bônus de _IP_: **+15** e  _DANO_: **+10**, ao **Custo**: **10** __*ki*__.
+O personagem recebe um bônus de +1 de _IP_ e dano por __*ki*__ gasto, podendo chegar até +5 de _IP_ e dano, a partir do rank C o bônus pode chegar até +10 de _IP_ e dano.
 
 ## Aumento de atributos físicos* (1 ponto)
 O personagem recebe um bônus de +1 em um de seus atributos físicos por __*ki*__ gasto, podendo chegar até +5 pontos em um de seus atributos, a partir do rank C o bônus pode chegar até +10 pontos. 3 pontos: O personagem recebe um bônus de +1 em todos os seus atributos físicos por __*ki*__ gasto, podendo chegar até +5 pontos em todos os seus atributos, a partir do rank C o bônus pode chegar até +10 pontos.
@@ -480,55 +433,24 @@ Quando o personagem for alvo de um disparo, e se o personagem tirar um acerto cr
 - **2 pontos**: 70% do dano causado pelo seu disparo não pode ser reduzido com _IP_ a um custo de +1 de __*ki*__ para doutrinas de até nível 3, e +2 de __*ki*__ para doutrinas acima do nível 3; seu disparo é mais difícil de ser desviado, e o oponente sofre um redutor de -5% de chance de esquiva por rank a um custo de a um custo de +1 de __*ki*__ para doutrinas de até nível 3, e +2 de __*ki*__ para doutrinas acima do nível 3.
 
 ## Treinamento árduo (2 pontos)
-O personagem passou por um treino rigoroso, tornando-o mais capacitado que o normal.
-
-> **Observações**  
-> 1. Este aprimoramento pode ser comprado até o máximo de **3** vezes
-> 0. O aprimoramento só pode ser comprado a cada **5** níveis.
-
-- **Efeitos Adicionais**
-  - O personagem ganha **+1** ponto em uma de suas doutrinas.
-
+O personagem aumenta uma de suas doutrinas em +1 ponto, esse aprimoramento pode ser comprado até 3 vezes, alternando a compra a cada 5 níveis.
 
 ## Aparar golpes (1 ponto)
-A partir do quarto ataque corpo a corpo sofrido o personagem poderá fazer um teste de aparar para evitar o gole.
- 
-> **Observações**  
-> 1. Este aprimoramento tem como pré-requisito o rank C
-> 0. Caso este recurso seja utilizado o personagem não poderá utilizar outras técnicas de contra-ataque.
-
-- **Efeitos Adicionais**
-  - O personagem faz o teste de aparar com **50%** de chance de evitar o golpe caso seja do mesmo rank que o inimigo.
-  - Para cada rank a mais que o inimigo, as chances aumentam em **10%**.
-  - Para cada rank a menos que o inimigo, as chances diminuem em **10%**.
-
-
-<div style="page-break-after: always; visibility: hidden"></div>
+A partir do quarto ataque corpo a copo sofrido o personagem poderá fazer um teste de aparar com 50% de chance de evitar o golpe, com mais ou menos 10% de chance de acerto para cada rank a mais ou a menos do oponente. Pré-requisito rank C, caso este recurso seja utilizado o personagem não poderá usar doutrinas como contra-ataque ou golpe de ruptura em sequência desta manobra. 
 
 # Aprimoramentos Negativos
-<br>
-
-> **Observações**  
-> 1. Os aprimoramentos negativos servem como moeda de troca para ganhar pontos de aprimoramento.
-> 0. Cada aprimoramento negativo lhe dará um valor correspondente (entre parênteses)
-> 0. Os aprimoramentos negativos possuem algum tipo de ônus que irá incidir em seu personagem. Alguns podem ser ônus sociais ou até mesmo ônus em termos de custos de _KI_ para execução de uma disciplina. Cabe ao **jogador** balancear os seus aprimoramentos negativos e ao **narrador** cobrar os ônus destes.
-
 ## Detetive sobrenatural (2 pontos)
 O personagem deve favores ao mundo espiritual e sempre está sujeito as ordens do Rei-Kai.
-
 
 ## Inimigo (1 a 2 pontos)
 - **1 ponto**: Seu personagem tem um inimigo do mesmo rank.
 - **2 pontos**: Seu personagem tem dois inimigos do mesmo rank, ou um inimigo um rank acima.
 
-## Caçado (3 pontos)
+## Caçado (3 pontos:)
 O personagem é caçada por um dos reinos Rei-Kai, Ma-Kai ou Mei-Kai 
 
 ## Mal instruído (3 pontos)
-O personagem não teve um bom treinamento e ele não controla bem o seu __*ki*__. 
-
-- **Ônus**
-  - _KI_: **+2** de custo para todas as disciplinas e aprimoramentos
+O personagem não teve um bom treinamento e ele não controla bem o seu __*ki*__. Acrescente +2 de __*ki*__ ao custo total de todas as disciplinas e aprimoramentos.
 
 ## Código de honra dos heróis (1 ponto)
 O personagem sente que tem o dever de sempre ajudar as pessoas.
@@ -555,16 +477,18 @@ O personagem é sádico e gosta de torturar as pessoas e fazê-las sofrer, apena
 - **1 ponto**: O personagem é malvisto em uma região ou até mesmo em um país.
 - **2 pontos**: O personagem é malvisto em um plano.
 
-<div style="page-break-after: always; visibility: hidden"></div>
+<br>
+<br>
 
 # Doutrinas
 
 <br>
 
 > **Obervações**  
-> 1. O campo de fogo dissipa o campo de gelo e vice-versa, sendo necessário reativar novamente um dos campos.  
-> 0. O tamanho dos campos, criados pelas doutrinas e aprimoramentos, tem um raio de 25 metros por rank e uma altura de 5 metros por rank, o campo acompanha o personagem.
- 
+> 1. Doutrinas marcadas com `*`, duram todo combate ou cena.  
+> 0. O campo de fogo dissipa o campo de gelo e vice-versa, sendo necessário reativar novamente um dos campos.  
+> 0. Todos os disparos causam +XD6+Y de dano, onde X é igual quantidade de dados e Y é igual ao dano base da doutrina. Exemplo: uma Grande Bola de Fogo causa 3D6+3 de dano por rank, no rank E ela causaria 6D6+6 de dano, no rank D causaria 9D6+9 de dano, no rank C causaria 12D6+12 de dano e assim sucessivamente).
+
 <br>
 <br>
 
@@ -573,95 +497,103 @@ O personagem é sádico e gosta de torturar as pessoas e fazê-las sofrer, apena
 <br>
 
 > **Obervações**   
-> Quando o personagem alcança o nível 6 da doutrina, ele adiquiri as duas técnicas deste nível.
+> Os níveis 6 da doutrina Heikohadouken são comprados separadamente e não é obrigatório a compra dos dois níveis 6 para poder comprar o nível 7).
 
 <br>
 
-### Nível 1: Reigun
-O personagem lança um disparo contra o adversário causando dano. 
+### Nível 1**: Reigun**
+O personagem lança um disparo contra o adversário causando dano por rank. Ao atingir o rank D, esta doutrina é aprimorada, tornando-se mais forte, destrutiva e **custosa**. Alcança potencial máximo a partir do rank C, tornando-se devastadora. 
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **3D6** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Rank D**: **3D6+4** por rank
+- **Custo Rank D**: **4** __*ki*__ e **+1** por rank
+- **Dano Rank C**: **4D6+4** por rank
+- **Custo Rank C**: **5** __*ki*__ e **+1** por rank
+
+<br>
 
 > **Observações**  
-> 1. Nos ranks E e D, o personagem pode usar o reigun até 4 vezes por dia. Nos ranks C e B, o personagem pode usar o reigun até 6 vezes por dia. A partir do rank A, o uso do Reigun é ilimitado. 
-> 0. Esta doutrina passa a ter nível 3 no rank D e nível 5 a partir do rank C.
-
-- **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+5** e **+22** por rank 
-- **Custo**: **4** __*ki*__ e **+1** por rank
+> Nos ranks E e D, o personagem pode usar o reigun até 4 vezes por dia. Nos ranks C e B, o personagem pode usar o reigun até 6 vezes por dia. A partir do rank A, o uso do Reigun é ilimitado. 
 
 <br>
 
-### Nível 2: Shotgun
-O personagem lança um disparo que ataca vários oponentes. Ao atingir o rank C, esta doutrina é aprimorada.
+### Nível 2: **Shotgun**
+O personagem lança um disparo que ataca vários oponentes.
 
 - **Tipo**: Disparo
-- **Alvos**: **4** e **+1** por rank
-- **Dano**: **4D6+8** e **+18** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Alvos**: **4** alvos e **+1** por rank
+- **Dano**: **2D6+4** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 3: Energizar golpes
-O personagem energiza seus golpes corpo a corpo com energia espiritual, causando mais dano.
+### Nível 3: **Energizar golpes***
+O personagem energiza seus golpes corpo a corpo com energia espiritual causando dano por rank. O dano pode ser ampliado ao custo de  adicional de **+1** de __*ki*__. 
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+4** e **+1D6** por rank 
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **2D6+2** e **+1D6** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank 
+- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 4: Reigun tiro veloz
+### Nível 4: **Reigun tiro veloz**
 O personagem pode lançar 2 reiguns em um único turno, após o uso deste recurso o personagem fica 2 dias sem poder usar __*ki*__. Perde imediatamente todos os bônus oriundos de doutrinas e aprimoramentos como: armas de __*ki*__, campos de batalha, _Aumento de Atributos_, _IP_ e dano. Isso inclui _Tranca Espiritual_, _Forma Reencarnada_, _Descendente de Clã Maligno_ e _Capacidade de Extrair 120% da Força_ entre outros. 
 
 > **Obserevações**  
 > Bônus passivos como os aprimoramentos _Vitalidade Extra_, _Energia Espiritual Extra_ ou _Evasão_ não são cessados. 
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: Idem a cada um dos reiguns
+- **Alvos**: 1
+- **Dano**: **4D6+4** por rank
 - **Custo**: **10** __*ki*__ e **+2** por rank. Ao final do disparo, toda a reserva de __*ki*__ restante é zerada
   
 <br>
 
-### Nível 5: Reikodan
+### Nível 5: **Reikodan**
 Um golpe que causa dano, porém perde eficiência com a distância.
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+15** e **+21** por rank (a cada 1 metro de distância diminui em **4**)
+- **Alvos**: 1
+- **Dano**: **4D6+5** por rank (a cada 1 metro de distância diminui em **1D6**)
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 6: Sho
+### Nível 6: **Sho**
 O personagem só pode usar esta técnica para tirar a parte maligna de uma pessoa que está em conflito consigo mesmo; se a pessoa decidir desistir do deu lado maligno a parte má da pessoa é destruída; caso contrário, a técnica causa dano.
 
 - **Tipo**: Dispel
-- **Alvos**: **1**
-- **Dano**: **4D6+14** e **+23** por rank
+- **Alvos**: 1
+- **Dano**: **6D6** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 6: Reflexo destrutivo reiko
-O personagem quando for alvo de um disparo de até nível 7, pode absorvê-lo e depois manda-lo de volta contra o adversário, causando o dano do próprio disparo e absorvendo **1** __*ki*__ por nível do poder do disparo. 
+### Nível 6: **Reflexo destrutivo reiko**
+O personagem quando for alvo de um disparo de até nível 6, pode absorvê-lo e depois manda-lo de volta contra o adversário, causando o dano do próprio disparo e absorvendo **1** __*ki*__ por nível do poder do disparo. 
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
+- **Alvos**: 1
 - **Cooldown**: **3** rodadas
 - **Dano**: Equivalente ao dano do disparo inicial
 - **Custo**: Equivalente ao custo de __*ki*__ do disparo original **+5**
 
 <br>
 
-### Nível 7: Tranca espiritual
+### Nível 7: **Tranca espiritual***
 Para se tornar um mestre do Heikohadouken, o personagem precisa dominar a bola espiritual; no início do teste todas as doutrinas e aprimoramentos do personagem são cessados, aliados não podem curá-lo. Para domar a doutrina por completo, deve-se passar em 5 testes de constituição, de um total de 15 testes de resistência. Caso falhe, o destino é a morte. Superando o treinamento, o personagem poderá destrancar toda energia espiritual vinda do treinamento das artes do Heikohadouken. 
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: N/A
 - **Bônus**:
   - _CONS_: **+15**
@@ -671,94 +603,99 @@ Para se tornar um mestre do Heikohadouken, o personagem precisa dominar a bola e
   - _PV_: **+15**
   - _KI_: **+15**
   - _IP_: **+15**
-  - _DANO_: **+3**
+  - Dano corpo a corpo (desamardo): **+1D6+1**
   
 <br>
 <br>
 
 ## Reiken
 
-### Nível 1: Espada simples
-O personagem cria uma espada que causa dano adicional. 
+### Nível 1: **Espada simples***
+O personagem cria uma espada que causa dano por rank; ou cria uma espada mais a um custo adicional. 
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+2** e **+3** por rank 
-- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano**: **2D6** e **+3** por rank 
+- **Custo**: **2** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+2** e **+3** por rank 
+- **Custo Ampliado**: **3** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 2: Espada vara
+### Nível 2: **Espada vara***
 Este nível aumenta a Espada simples para atacar até **6** metros de distância.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
-- **Dano**: **3D6** e **+3** por rank 
+- **Dano**: **2D6** e **+3** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 3: Adagas reiken
-O personagem cria uma espada que causa mais dano. 
+### Nível 3: **Adagas reiken* **
+O personagem cria uma espada que causa dano por rank ou pode potencializá-la causando dano amplificado. 
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+5** e **+1D6** por rank 
-- **Custo**: **4** __*ki*__ **+1** por rank
+- **Dano**: **2D6+3** e **+1D6** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+5** e **+1D6** por rank 
+- **Custo Ampliado**: **4** __*ki*__ **+1** por rank
 
 <br>
 
-### Nível 4: Adagas reiken dupla
+### Nível 4: **Adagas reiken dupla***
 O personagem passa a usar duas adagas reiken, e recebe um bônus de ataque e defesa por rank, ataques adicionais e um bônus de dano. Caso use outra arma apenas receberá o bônus de ataque e defesa. 
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **4** __*ki*__ **+1** por rank
 - **Bônus**: 
-  - _DANO_: **+2** 
+  - Dano: **+2** 
+  - Ataques Adicionais: 1
   - _ATQ_: **+5%** por rank
   - _DEF_: **+5%** por rank
-  - _Ataques Adicionais_: **+1**
 
 <br>
 
-### Nível 5: Ataque surpresa
+### Nível 5: **Ataque surpresa**
 O personagem faz com que sua espada ataque o adversário por de baixo da terra causando dano por rank. Aplica um redutor de chance de esquiva por rank. 
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+12** e **+16** por rank
-- **Custo**: **4** __*ki*__; **+1** por rank
+- **Alvos**: 1
+- **Dano**: **3D6+2** por rank
+- **Custo**: **3** __*ki*__; **+1** por rank
 - **Efeitos Adicionais**:
   - Aplica **-5%** por rank de chance de esquiva ao oponente 
 
 <br>
 
-### Nível 6: Espada maleável
+### Nível 6: **Espada maleável**
 Melhora a espada vara tornando-a muito mais flexível e causando dano extra por rank. Aplica um redutor de  chance de esquiva por rank.
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+14** e **+18** por rank
-- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Alvos**: 1
+- **Dano**: **4D6+2** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**:
   - Aplica **-5%** por rank de chance de esquiva ao oponente 
 
 <br>
 
-### Nível 7: Espada dimensional
+### Nível 7: **Espada dimensional***
 O personagem cria uma espada que causa dano e pode atacar o adversário com alcance incrementado. Esta espada destrói qualquer barreira. 
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
 - **Dano**: **3D6+6** e **+1D6+1** por rank
-- **Alcance**: **3** metros por rank
-- **Custo**: **6** __*ki*__ e **+1** por rank
+- **Alcance**: **2** metros por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
 <br>
@@ -771,21 +708,25 @@ O personagem cria uma espada que causa dano e pode atacar o adversário com alca
 
 <br>
 
-### Nível 1: Criar vegetal
-O personagem cria uma arma de vegetal que amplifica seu dano.
+### Nível 1: **Criar vegetal***
+O personagem cria uma arma de vegetal que amplifica seu dano; pode ser potencializada a um custo adicional de __*ki*__. Torna-se mais devastadora a partir do Rank C.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+2** e **+3** por rank
-- **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Rank C**: **2D6+4** e **+1D6** por rank
-- **Custo Rank C**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **2D6** e **+3** por rank 
+- **Custo**: **2** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+2** e **+4** por rank
+- **Custo Ampliado**: **3** __*ki*__ e **+1** por rank
+- **Dano Rank C**: **2D6+2** e **+1D6** por rank 
+- **Custo Rank C**: **3** __*ki*__ e **+1** por rank
+- **Dano Rank C Ampliado**: **2D6+2** e **+4** por rank
+- **Custo Rank C Ampliado**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 2: Kagon retsuzan shi
-Confere ao personagem _Ataques Adicionais_ pela duração, adicionando também aos ataques um bônus de dano. 
+### Nível 2: **Kagon retsuzan shi**
+Confere ao personagem ataques múltiplos pela duração, adicionando também aos ataques um bônus de dano. 
 
 <br>
 
@@ -796,54 +737,55 @@ Confere ao personagem _Ataques Adicionais_ pela duração, adicionando também a
 <br>
 
 - **Tipo**: Buff
-- **Duração**: **1** turno
+- **Duração**: 1 turno
 - **Alvos**: Si mesmo
-- **Custo**: **5** __*ki*__ (**6** a partir do rank C)
+- **Dano**: N/A
+- **Custo**: **4** __*ki*__ (**5** a partir do rank C)
 - **Bônus**
-  - _DANO_: **+5** (**+6** a partir do rank C)
-  - _Ataques Adicionais_: **+2** (**+3** a partir do rank C)
+  - Dano por ataque: **5** (**6** a partir do rank C)
+  - Ataques Múltiplos: **3** (**4** a partir do rank C)
 
 <br>
 
-### Nível 3: Fuka enbu jin
+### Nível 3: **Fuka enbu jin**
 O personagem cria diversas pétalas que cortam como navalhas os adversários causando dano. 
 
 - **Tipo**: Disparo
 - **Alvos**: **4** e **+1** por rank
-- **Dano**: **4D6+10** e **+15** por rank
+- **Dano**: **3D6+3** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 4: Ojigisou
-O personagem implanta a planta da morte no oponente, o paralisando após um periodo de tempo. Após a paralisação, o oponente morrerá com um comando do personagem. Requer um teste bem-sucedido de _DES_ para implantar a semante na vítima. Requer um teste bem-sucedido de _Conhecimento de Doutrinas_ para não cair no truque. Não funciona com quem conhece o golpe. 
+### Nível 4: **Ojigisou**
+O personagem implanta a planta da morte no oponente, o paralisando após um periodo de tempo. Após a paralização, o oponente morrerá com um comando do personagem. Requer um teste bem-sucedido de _DES_ para implantar a semante na vítima. Requer um teste bem-sucedido de _Conhecimento de Doutrinas_ para não cair no truque. Não funciona com quem conhece o golpe. 
 
 - **Tipo**: Debuff
-- **Duração**: **1** cena
-- **Alvos**: **1**
-- **Custo**: **8** __*ki*__
+- **Duração**: 1 cena
+- **Alvos**: 1
+- **Dano**: N/A
+- **Custo**: **5** __*ki*__
 - **Efeitos Adicionais**
-  - Paralisa o oponente após **1** rodada
+  - Paraliza o oponente após **1** rodada
 
 <br>
 
-### Nível 5: Shoku you shokubutsu
+### Nível 5: **Shoku you shokubutsu***
 O personagem invoca a planta demoníaca que causa dano atacando oponentes e/ou quem se mexer, exceto aliados. 
 
-> **Observações**
-> 1.  A planta demoníaca usa a ação de ataque do invocador para atacar.
-
 - **Tipo**: Invocação
+- **Alvos**: N/A
 - **Custo**: **5** __*ki*__ e **+1** por rank  
 - **Planta Demoníaca**
   - **Dano**: **3D6+4** e **+1D6+1** por rank
 
 <br>
 
-### Nível 6: Sakura
-O personagem invoca uma imensa cerejeira e, neste campo de batalha (tem a mesma dimensão de um campo comum, com exceção da altura ser 50 metros por rank), recebe um bônus de ataque, defesa e testes de resistência de esquiva. As plantas também podem defender disparos (trate isso como o aprimoramento _Evasão_). Oponentes recebem um redutor de ataque, defesa e testes de resistência de esquiva. 
+### Nível 6: **Sakura**
+O personagem invoca uma imensa cerejeira e, neste campo de batalha, recebe um bônus de ataque, defesa e testes de resistência de esquiva. As plantas também podem defender disparos (trate isso como o aprimoramento _Evasão_). Oponentes recebem um redutor de ataque, defesa e testes de resistência de esquiva. 
 
 - **Tipo**: Invocação
+- **Alvos**: N/A
 - **Custo**: **5** __*ki*__ e **+1** por rank  
 - **Bônus**
   - _ATQ_: **+5%** por rank
@@ -857,100 +799,108 @@ O personagem invoca uma imensa cerejeira e, neste campo de batalha (tem a mesma 
 
 <br>
 
-### Nível 7: Kyu ketsu shokubutsu
-O personagem invoca a planta sanguessuga que ataca um oponente que estiver ferido causando dano por periodo de tempo. 
-
-> **Observações**
-> Requer um teste difícil de _AGI_ para se esquivar da invocação. A cada rodada, a vítima pode tentar arrancá-la, requer um teste de _FOR_ vs _FOR_ contra a planta. 
+### Nível 7: **Kyu ketsu shokubutsu**
+O personagem invoca a planta sanguessuga que ataca um oponente que estiver ferido causando dano por periodo de tempo. Requer um teste difícil de _AGI_ para se esquivar da invocação. 
+A cada rodada, a vítima pode tentar arrancá-la, requer um teste de _FOR_ vs _FOR_ contra a planta. 
 
 - **Tipo**: Invocação
-- **Alvos**: **1**
+- **Alvos**: 1
 - **Custo**: **10** __*ki*__. Ao final da invocação, toda a reserva de __*ki*__ restante é zerada
 - **Planta Sanguessuga**
   - _FOR_: _FOR_ do invocador **+10**
-  - _DANO_: **4D6+14** e **+5** por rank (ignora qualquer absorção de dano)
+  - **Dano**: **3D6** por rank (ignora qualquer absorção de dano)
+
 
 <br>
 <br>
 
 ## Ja ou en satsu Ken
 
+<br>
+
 > **Observação**  
 > Humanos não podem ter esse poder.
 
 <br>
 
-### Nível 1: Aquecer
+### Nível 1: **Aquecer***
 O personagem cria um campo de calor intenso aumentando consideravelmente a temperatura da área e causando dano a todos os outros seres que estejam dentro da área da doutrina.
 
 > **Observações**  
-> A regra de dano mínimo não se aplica a esta doutrina. 
+> 1.  A regra de dano mínimo não se aplica a esta doutrina. 
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
-- **Dano**: **+3** por rank
+- **Duração**: 1 cena
+- **Alvos**: N/A
+- **Dano**: 3 por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 2: En satsu rengoku shou
+### Nível 2: **En satsu rengoku shou***
 O personagem cria chamas nas mãos ou em uma arma aumentando seu dano. 
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
-- **Dano**: **3D6** e **+3** por rank
-- **Custo**: **3** __*ki*__ e **+1** por rank 
+- **Dano**: **2D6** e **+3** por rank 
+- **Custo**: **2** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **3D6** e **+3** por rank
+- **Custo Ampliado**: **3** __*ki*__ e **+1** por rank 
 
 <br>
 
-### Nível 3: Rajada de chamas negras
+### Nível 3: **Rajada de chamas negras**
 O personagem lança um disparo de chamas negras contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+10** e **+16** por rank
+- **Dano**: **3D6+4** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 4: Ja ou en satsu Ken
-O personagem cria uma espada de chamas negras que causa dano adicional.
+### Nível 4: **Ja ou en satsu Ken***
+O personagem cria uma espada de chamas que causa dano; ou cria uma espada mais forte que causa 2D6+4 de dano e +1D6+1 de dano por rank, a um custo adicional de +1 de ki. Custa 5 de ki +1 de ki para cada rank acima do rank E.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+4** e **+1D6+1** por rank
-- **Custo**: **5** __*ki*__ e **+1** por rank 
+- **Dano**: **2D6+2** e **+1D6+1** por rank 
+- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+4** e **+1D6+1** por rank
+- **Custo Ampliado**: **5** __*ki*__ e **+1** por rank 
 
 <br>
 
-### Nível 5: En satsu koku ryu há
+### Nível 5: **En satsu koku ryu há**
 O personagem invoca um dragão negro contra o adversário causando dano, este fica mais forte se invocado no mundo das trevas. O oponente pode tentar devolver o dragão de volta para o invocador ao invés de tentar se esquivar. 
 
 > **Observações**  
-> 1.  Para devolver o dragão ao invocador ao invés de esquivar, o oponente precisa ser bem-sucedido num teste difícil de _CONS_.
+> 1.  Para devolver o dragão ao invocador ao invés de esquivar, o oponente precisa de um acerto crítico no teste de resistência de constituição no máximo de 25 de _CONS_.
 > 2. Ao receber o dragão devolvido pelo oponente, o invocador do dragão negro leva 10% do dano sem direito a absorção de dano.
 > 2.1 A partir do rank B o dragão estará perfeito e o controlador não receberá dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+15** e **+21** por rank
+- **Dano**: **4D6+5** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
-  - **Dano**: **4D6+18** e **+21** por rank por rank se utilizado no mundo das trevas
+  - **Dano**: **4D6+7** por rank se utilizado no mundo das trevas
 
 <br>
 
-### Nível 6: Absorver as chamas negras
+### Nível 6: **Absorver as chamas negras***
 Quando o personagem  usar o dragão sobre si mesmo ou quando o dragão for devolvido o personagem pode absorve-lo, recebendo um bônus.
 
 > **Observações**  
-> Após a luta o personagem precisará dormir por pelo menos 4 horas. A partir do rank A o personagem não recebe mais esta penalidade. 
+> 1. Após a luta o personagem precisará dormir por pelo menos 4 horas.
+> 1.1 A partir do rank A o personagem perde esta penalidade. 
  
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: N/A
 - **Bônus**:
   - _CONS_: **+15**
@@ -965,40 +915,47 @@ Quando o personagem  usar o dragão sobre si mesmo ou quando o dragão for devol
 
 ## Bakuretsu Ganshō Dan
 
+<br>
+
 > **Observações**  
 > Humanos não podem ter esse poder.
 
 <br>
 
-### Nível 1: Apedrejar
+### Nível 1: **Apedrejar**
 O personagem lança um disparo de pedras contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+8** e **+13** por rank
+- **Dano**: **2D6** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 2: Braço de pedra
+### Nível 2: **Braço de pedra***
 O personagem fortifica seu braço com pedras que aumentam o seu dano. 
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
-- **Dano**: **3D6** e **+3** por rank
-- **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Rank B**: **3D6+2** e **+1D6** por rank
-- **Custo Rank B**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **2D6** e **+3** por rank 
+- **Custo**: **2** __*ki*__ e **+1** por rank 
+- **Dano Ampliado**: **3D6** e **+3** por rank
+- **Custo Ampliado**: **2** __*ki*__ 
+- **Dano Rank B**: **2D6+2** e **+1D6** por rank 
+- **Custo Rank B**: **3** __*ki*__ e **+1** por rank
+- **Dano Rank B Ampliado**: **3D6+2** e **+1D6** por rank
+- **Custo Rank B Ampliado**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 3: Shura tendo toui
+### Nível 3: **Shura tendo toui***
 O personagem aumenta o seu poder e recebe um bônus.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **5** __*ki*__
 - **Bônus**:
   - _CONS_: **+5**
@@ -1008,19 +965,19 @@ O personagem aumenta o seu poder e recebe um bônus.
 
 <br>
 
-### Nível 4: Investida shura
+### Nível 4: **Investida shura**
 O personagem atinge o adversário com uma investida vindo de qualquer lugar do solo, causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+12** e **+16** por rank
+- **Dano**: **3D6 +3** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - **Esquiva**: O adversário perde **-5%** de sua esquiva contra essa técnica.
 
 <br>
 
-### Nível 5: Pedra explosiva
+### Nível 5: **Pedra explosiva**
 O personagem lança-se em pedaços contra o adversário causando dano.
 
 > **Observações**  
@@ -1029,22 +986,23 @@ O personagem lança-se em pedaços contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+14** e **+20** por rank
-- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Dano**: **4D6 +3** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - **Esquiva**: O adversário perde **-5%** de sua esquiva contra essa técnica.
 
 <br>
 
-### Nível 6: Shura tendo toui sugureta
-O personagem aumenta o seu poder e recebe um bônus em alguns atributos.
+### Nível 6: **Shura tendo toui sugureta***
+O personagem aumenta o seu poder e recebe um bônus.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
-  - _CONS_: **+20**
+  - _CONS_: **+15**
   - _FOR_: **+20**
   - _PV_: **+15**
   - _IP_: **+15**
@@ -1054,87 +1012,101 @@ O personagem aumenta o seu poder e recebe um bônus em alguns atributos.
 
 ## Mei ko sho kai ha
 
-### Nível 1: Grito da destruição
+### Nível 1: **Grito da destruição**
 O personagem lança um disparo contra o adversário causando dano.
 
  - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+8** e **+13** por rank
+- **Dano**: **2D6** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 2: Grito da destruição 2
-O personagem lança um disparo contra o adversário causando dano. 
+### Nível 2: **Grito da destruição2**
+O personagem lança um disparo contra o adversário causando dano 
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+10** e **+15** por rank
+- **Dano**: **3D6** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 <br>
 
-### Nível 3: Grito da destruição 3
+### Nível 3: **Grito da destruição 3**
 O personagem lança um disparo contra o adversário causando dano. 
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+12** e **+18** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **4D6** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 4: Absorção de ki
-O personagem recebe um bônus em alguns atributos.
+### Nível 4: **Absorção de ki***
+O personagem recebe um bônus.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
   - _CONS_: **+15**
   - _FOR_: **+15**
   - _PV_: **+15**
-  - _DANO_: **2D6+1** (apenas quando atacando desamardo)
+  - Dano corpo a corpo (garras e dentes): **2D6+1**
 - **Efeitos Adicionais**
   - Quando o personagem sofrer algum dano oriundo de alguma doutrina, ela absorverá metade do ki gasto usado na tal doutrina.
   - Se o personagem ficar com mais ki do que o máximo permitido no seu nível, ele sofre 2D6 de dano por rank sem absorção de dano.
 
 <br>
 
-### Nível 5: Grito da destruição 4
+### Nível 5: **Grito da destruição 4**
 O personagem lança um disparo contra o adversário causando dano. 
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+15** e **+21** por rank
-- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Dano**: **5D6** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 <br>
 
 ## Ankou Raí jin Ken
 
-### Nível 1: Eletrocutar
+### Nível 1: **Eletrocutar**
 O personagem lança um choque da ponta dos dedos contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+8** e **+13** por rank
+- **Dano**: **2D6** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 2: Arco do trovão das trevas
+### Nível 2: **Arco do trovão das trevas**
 O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+10** e **+15** por rank
+- **Dano**: **3D6** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 3: Kakeru
+### Nível 3: **Soco do trovão***
+O personagem energiza raios nas mãos que causam dano.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+1D6** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank 
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank
+- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank 
+
+<br>
+
+### Nível 4: **Kakeru***
 O personagem cria duplicatas e recebe um bônus.
 
 > **Observações**  
@@ -1145,43 +1117,34 @@ O personagem cria duplicatas e recebe um bônus.
 > 0. Este poder não faz nenhuma doutrina ou ataque multiplicar seus danos por qualquer valor.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**
-  - _PV_: **+20**
+  - _PV_: **+35**
+  - Dano corpo a corpo (garras e dentes): **2D6+1**
 - **Efeitos Adicionais**
-  - Ao usar essa técnica o personagem recebe o aprimoramento _Ataques Múltiplos_.
+  - Ao usar essa técnica o personagem recebe o aprimoramento ataques múltiplos.
 
 <br>
 
-### Nível 4: Soco do trovão
-O personagem energiza raios nas mãos que causam mais dano.
-
-- **Tipo**: Buff
-- **Duração**: **1** cena
-- **Alvos**: Si mesmo
-- **Dano**: **2D6+4** e **+1D6+1** por rank
-- **Custo**: **5** __*ki*__ e **+1** por rank 
-
-<br>
-
-### Nível 5: Riku Goku ankoku Raí kou há
+### Nível 5: **Riku Goku ankoku Raí kou há**
 Após dividir-se em sete (utilizando **Kakeru**), o personagem usa sete choques da ponta dos dedos contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+12** e **+18** por rank
+- **Dano**: **4D6** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 6: Ankoku you rou jin
+### Nível 6: **Ankoku you rou jin**
 Após dividir-se em sete (utilizando **Kakeru**), o personagem usa sete disparos em formato de arco e flecha elétricos contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+15** e **+21** por rank
+- **Dano**: **5D6** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
@@ -1189,12 +1152,13 @@ Após dividir-se em sete (utilizando **Kakeru**), o personagem usa sete disparos
 
 ## Devil yo-yo
 
-### Nível 1: Yo-yo acrobático
+### Nível 1: **Yo-yo acrobático***
 O personagem passa a lutar com um estilo de luta bastante exótico, utilizando yo-yos, e recebe um bônus de _ATQ_ e _DEF_. 
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **2** __*ki*__ e **+1** por rank
 - **Bônus**
   - _ATQ_: **+5%** por rank
@@ -1202,12 +1166,12 @@ O personagem passa a lutar com um estilo de luta bastante exótico, utilizando y
 
 <br>
 
-### Nível 2: Arremesso
+### Nível 2: **Arremesso**
 O personagem prende o oponente com os yo-yos e o arremessa contra o chão causando dano. 
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+10** e **+15** por rank
+- **Alvos**: 1
+- **Dano**: **3D6** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - O teste de _Esquiva_ usa _CONS_ em vez de _AGI_
@@ -1215,39 +1179,39 @@ O personagem prende o oponente com os yo-yos e o arremessa contra o chão causan
 
 <br>
 
-### Nível 3: Yo-yo demoníaco
-O personagem potencializa os yo-yos causando mais dano.
+### Nível 3: **Yo-yo demoníaco***
+O personagem potencializa os yo-yos causando dano, podende ser potencializada por um custo adicional.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+4** e **+1D6** por rank
+- **Dano**: **2D6+2** e **+1D6** por rank
 - **Custo**: **4*** __*ki*__ e **+1** por rank  
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank
+- **Custo Ampliado**: **5*** __*ki*__ e **+1** por rank  
  
 <br>
 
-### Nível 4: Yo-yo Paralisante
-O personagem prende o oponente com os yo-yos. 
-
-> **Observações**
-> Para resistir, o alvo deve ser  bem-sucedido num teste de _CONS_. Caso falhe, a vítima poderá repetir o teste a cada rodada para dissipar o efeito. 
+### Nível 4: **Yo-yo Paralisante**
+O personagem prende o oponente com os yo-yos. Para resistir, o alvo deve ser  bem-sucedido num teste de _CONS_. Caso seja paralisado, a vítima poderá repetir o teste de _CONS_ a cada rodada. 
 
 - **Tipo**: Debuff
 - **Duração**: **1** rodada por rank
-- **Alvos**: **1**
-- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Alvos**: 1
+- **Dano**: N/A
+- **Custo**: **3** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
-  - O alvo fica paralisado não podendo executar nenhuma ação
+  - O alvo fica paralizado não podendo executar nenhuma ação
   
 <br>
 
-### Nível 5: Serpentis
+### Nível 5: **Serpentis**
 O personagem lança os yo-yos contra o adversário causando dano e diminuindo a chance de _Esquiva_. 
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+14** e **+18** por rank
-- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Alvos**: 1
+- **Dano**: **4D6+3** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - Durante o ataque, é aplicado ao oponente **-5%** de chance de _Esquiva_ por rank 
 
@@ -1256,55 +1220,60 @@ O personagem lança os yo-yos contra o adversário causando dano e diminuindo a 
 
 ## Mistai
 
-### Nível 1: Bola de fogo
+### Nível 1: **Bola de fogo**
 O personagem lança uma bola de fogo contra o adversário causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+8** e **+13** por rank
+- **Alvos**: 1
+- **Dano**: **2D6** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 2: Arma do Makai
-O personagem cria uma arma causando mais dano.
+### Nível 2: **Arma do Makai**
+O personagem cria uma arma que causa dano. Pode ser potencializada por um custo extra de __*ki*__.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
-- **Dano**: **3D6** e **+3** por rank
-- **Custo**: **4*** __*ki*__ e **+1** por rank  
-- **Dano Rank C**: **3D6+2** e **+1D6** por rank
-- **Custo Rank C**: **5*** __*ki*__ e **+1** por rank  
+- **Dano**: **2D6** e **+3** por rank
+- **Custo**: **2*** __*ki*__ e **+1** por rank  
+- **Dano Ampliado**: **3D6** e **+3** por rank
+- **Custo Ampliado**: **4*** __*ki*__ e **+1** por rank  
+- **Dano Rank C**: **2D6+2** e **+1D6** por rank
+- **Custo Rank C**: **3*** __*ki*__ e **+1** por rank  
+- **Dano Rank C Ampliado**: **3D6+2** e **+1D6** por rank
+- **Custo Rank C Ampliado**: **5*** __*ki*__ e **+1** por rank  
 
 <br>
 
-### Nível 3: Encolhimento
-O personagem faz uma reza, após seu termino, o oponente encolhe. Requer um teste bem-sucedido de _Conhecimento de Doutrinas_ para o personagem tapar os ouvidos e o efeito se voltar contra o usuário. Caso o personagem conheça a técnica não será preciso nenhum teste para tapar os ouvidos. 
+### Nível 3: **Vácuo cortante**
+O personagem lança um disparo contra o adversário causando dano. 
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **4D6** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
+
+<br>
+
+### Nível 4: **Encolhimento***
+O personagem faz uma reza, após seu termino, o oponente encolhe. Requer um teste bem-sucedido de _Conhecimento de Doutrinas_ para o personagem tapar os ouvidos e o efeito se voltar contra o usuário. 
 
 > **Observações**
 > Pode ser utilizado novamente num alvo afetado para desfazer o efeito.
 
 - **Tipo**: Debuff
-- **Duração**: **1** cena
-- **Alvos**: **1**
-- **Custo**: **9** __*ki*__
+- **Duração**: 1 cena
+- **Alvos**: 1
+- **Dano**: N/A
+- **Custo**: **5** __*ki*__
 - **Efeitos Adicionais**
   - O alvo encolhe e fica com 2 centímetros de altura
 
 <br>
 
-### Nível 4: Vácuo cortante
-O personagem lança um disparo contra o adversário causando dano. 
-
-- **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+12** e **+17** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank
-
-<br>
-
-### Nível 5: Roubar doutrinas
+### Nível 5: **Roubar doutrinas***
 Ao ver qualquer doutrina o personagem poderá copiá-la para usá-la durante a luta. Para aprendê-la permanentemente, deverá passar no teste _INT_ e pagar o custo da doutrina na evolução do personagem. 
 
 > **Observações**  
@@ -1312,8 +1281,9 @@ Ao ver qualquer doutrina o personagem poderá copiá-la para usá-la durante a l
 > 0. Para o personagem aprender permanentemente uma doutrina de nível 7, é preciso ter aprendido antes uma doutrina de nível 6.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **6** __*ki*__
 - **Efeitos Adicionais**
   - A habilida copiada possui exatamente as mesmas regras da original
@@ -1323,81 +1293,84 @@ Ao ver qualquer doutrina o personagem poderá copiá-la para usá-la durante a l
 
 ## Ka shou rappa Ken
 
-### Nível 1: Aquecer
+### Nível 1: **Aquecer***
 O personagem cria um campo de calor intenso aumentando consideravelmente a temperatura da área e causando dano a todos os outros seres que estejam dentro da área da doutrina.
 
 > **Observações**  
 > 1.  A regra de dano mínimo não se aplica a esta doutrina. 
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
+- **Alvos**: N/A
 - **Dano**: **2** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 2: Incinerar
+### Nível 2: **Incinerar**
 O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+10** e **+15** por rank
+- **Alvos**: 1
+- **Dano**: **2D6+3** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 3: Purgatório flamejante
+### Nível 3: **Purgatório flamejante***
 O personagem cria chamas intensas nas mãos ampliando seu dano.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+4** e **+1D6** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **2D6+2** e **+1D6** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank
+- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 4: Grande Bola de fogo
+### Nível 4: **Grande Bola de fogo**
 O personagem lança uma grande bola de fogo contra seus adversários causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: **4** e **+1** por rank
-- **Dano**: **4D6+12** e **+17** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Alvos**: **4** alvos e **+1** por rank
+- **Dano**: **3D6+3** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 5: Aura de fogo
+### Nível 5: **Aura de fogo***
 O personagem cria chamas em todo o corpo, causando dano. 
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+5** e **+1D6+1** por rank 
-- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - Se o oponente atacá-lo com as mãos nuas, ele sofrerá **2D6** de dano, **3D6** de dano no rank C, e **4D6** de dano no rank A. Não se aplica a regra de dano mínimo neste dano.
 
 <br>
 
-### Nível 6: Raio de fogo
+### Nível 6: **Raio de fogo**
 O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+14** e **+20** por rank
-- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Alvos**: 1
+- **Dano**: **4D6+4** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
 ## Sui Ken
-
-### Nível 1: Movimentos cambaleantes
+### Nível 1: **Movimentos cambaleantes***
 O personagem luta cambaleando, no estilo kung fu bêbado, tornando seus movimentos mais imprevisíveis.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **1** __*ki*__ e **+1** por rank
 - **Bônus**
   - _ATQ_: **+5%** por rank
@@ -1405,43 +1378,46 @@ O personagem luta cambaleando, no estilo kung fu bêbado, tornando seus moviment
 
 <br>
 
-### Nível 2: Chute de ondas
+### Nível 2: **Chute de ondas**
 O personagem ataca o oponente com um tremendo chute.
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+10** e **+15** por rank
+- **Alvos**: 1
+- **Dano**: **2D6+3** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 3: Energizar golpes
+### Nível 3: **Energizar golpes**
 O personagem energiza seus golpes corpo a corpo com energia espiritual causando mais dano.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+4** e **+1D6** por rank 
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **2D6+2** e **+1D6** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank 
+- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 4: Bola de energia
+### Nível 4: **Bola de energia**
 O personagem lança uma bola de energia contra o adversário causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+12** e **+17** por rank
+- **Alvos**: 1
+- **Dano**: **3D6+4* por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 5: Aumento de energia sobrenatural
+### Nível 5: **Aumento de energia sobrenatural***
 O personagem, depois de beber muito, recebe um bônus de _FOR_ e _CONS_, _PV_ e _IP_. 
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
   - _CONS_: **+15**
@@ -1451,40 +1427,42 @@ O personagem, depois de beber muito, recebe um bônus de _FOR_ e _CONS_, _PV_ e 
   
 <br>
 
-### Nível 6: Gigante bola de energia
+### Nível 6: **Gigante bola de energia**
 O personagem lança uma grande bola de energia contra o adversário causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+14** e **+20** por rank
-- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Alvos**: 1
+- **Dano**: **4D6+4* por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
 ## Nem Baku Houju no Shou
 
-### Nível 1: Maquiagem de batalha
+### Nível 1: **Maquiagem de batalha***
 O personagem após se maquiar ele fortalece seu corpo.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **5** __*ki*__
 - **Bônus**:
   - _DANO_: **+5**
-  - _IP_: **+5** (**+10** a partir do rank C)
+  - _IP_: **+5**
+- **Bônus Rank C**:
+  - _DANO_: **+5**
+  - _IP_: **+10**
 
 <br>
 
-### Nível 2: Prender membros
-O personagem marca o oponente com o pincel aplicando um redutor no ataque e na defesa. 
-
-> **Observações**
-> Requer um teste de _CONS_ para reduzir a duração do efeito. Caso obtenha um resultado que seja bem sucedido para passar num teste difícil, a vítima resistirá ao efeito por completo.
+### Nível 2: **Prender membros***
+O personagem marca o oponente com o pincel aplicando um redutor no ataque e na defesa. Requer um teste de _CONS_ para reduzir a duração do efeito. Caso obtenha um resultado que seja bem sucedido para passar num teste difícil, a vítima resistirá ao efeito por completo.
 
 - **Tipo**: Debuff
-- **Duração**: **1** cena ou (**1** rodada por rank, caso bem sucedido em teste)
-- **Alvos**: **1**
+- **Duração**: 1 cena ou (1 rodada por rank, caso bem sucedido em teste)
+- **Alvos**: 1
+- **Dano**: N/A
 - **Custo**: **2** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - _ATQ_: **-5%** por rank
@@ -1492,12 +1470,13 @@ O personagem marca o oponente com o pincel aplicando um redutor no ataque e na d
 
 <br>
 
-### Nível 3: Chave de prisão
+### Nível 3: **Chave de prisão***
 O personagem marca o oponente com o pincel aplicando um redutor de _DES_ e _AGI_. Requer um teste bem sucedido de _CONS_ para reduzir o efeito pela metade. Caso obtenha um resultado que seja bem sucedido para passar num teste difícil, a vítima resistirá ao efeito por completo.
 
 - **Tipo**: Debuff
-- **Duração**: **1** cena
-- **Alvos**: **1**
+- **Duração**: 1 cena
+- **Alvos**: 1
+- **Dano**: N/A
 - **Custo**: **5** __*ki*__
 - **Efeitos Adicionais**
   - _DES_: **-10**
@@ -1505,28 +1484,27 @@ O personagem marca o oponente com o pincel aplicando um redutor de _DES_ e _AGI_
   
 <br>
 
-### Nível 4: Paralisar
-O personagem paralisa o oponente. 
-
-> **Observações**
-> Para resistir, o alvo deve ser bem-sucedido num teste de _CONS_. Caso seja paralisado, a vítima poderá repetir o teste a cada rodada para dissipar o efeito.
+### Nível 4: **Paralisar**
+O personagem paralisa o oponente. Para resistir, o alvo deve ser  bem-sucedido num teste de _CONS_. Caso seja paralisado, a vítima poderá repetir o teste de _CONS_ a cada rodada.
 
 - **Tipo**: Debuff
 - **Duração**: **1** rodada por rank
-- **Alvos**: **1**
-- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Alvos**: 1
+- **Dano**: N/A
+- **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
-  - O alvo fica paralisado não podendo executar nenhuma ação
+  - O alvo fica paralizado não podendo executar nenhuma ação
 
 <br>
 
-### Nível 5: Trancar energia espiritual
+### Nível 5: **Trancar energia espiritual**
 O personagem marca o oponente com o pincel causando _Silênciar_ e _Dissipar_. Caso o personagem passe num teste bem-sucedido de _WILL_ ele resiste ao _Dissipar_. Caso obtenha um resultado que seja bem sucedido para passar num teste difícil, a vítima resistirá ao efeito por completo.
 
 - **Tipo**: Debuff
 - **Duração**: **1** rodada por rank
-- **Alvos**: **1**
-- **Custo**: **6** __*ki*__ e **+1** por rank
+- **Alvos**: 1
+- **Dano**: N/A
+- **Custo**: **7** __*ki*__ 
 - **Efeitos Adicionais**
   - _Silênciar_: O oponente não pode utilizar doutrinas
   - _Dissipar_: Desativa todos os bônus das doutrinas já aplicados 
@@ -1535,12 +1513,13 @@ O personagem marca o oponente com o pincel causando _Silênciar_ e _Dissipar_. C
 
 ## Ju Hyō Tsuka
 
-### Nível 1: Esfriar
+### Nível 1: **Esfriar***
 O personagem cria um campo de batalha de gelo que diminui consideravelmente a temperatura da área.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **1** __*ki*__ e **+1** por rank
 - **Bônus**
   - _ATQ_: **+5%** por rank
@@ -1548,117 +1527,119 @@ O personagem cria um campo de batalha de gelo que diminui consideravelmente a te
 
 <br>
 
-### Nível 2: Flauta metralha granizo
+### Nível 2: **Flauta metralha granizo**
 O personagem dispara diversas estacas de granizo contra o adversário causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+10** e **+15** por rank
+- **Alvos**: 1
+- **Dano**: **2D6+4* por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 3: Espada de gelo
+### Nível 3: **Espada de gelo***
 O personagem cria uma espada de gelo no próprio braço ampliando seu dano.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+4** e **+1D6** por rank 
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **2D6+2** e **+1D6** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank 
+- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 4: Congelar
-O personagem congela praticamente todo o corpo do oponente. 
-
-> **Observações**
-> Requer um teste bem-sucedido de _CONS_ para resistir o efeito. A cada rodada, a vítima poderá repetir o teste para dissipar o efeito.
+### Nível 4: **Congelar**
+O personagem congela praticamente todo o corpo do oponente. Requer um teste bem-sucedido de _CONS_ para resistir o efeito.
 
 - **Tipo**: Debuff
-- **Duração**: **1** rodada por rank
-- **Alvos**: **1**
-- **Custo**: **6** __*ki*__ e **+1** por rank
+- **Duração**: 1 rodada por rank
+- **Alvos**: 1
+- **Dano**: N/A
+- **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
-  - Paralisa o oponente durante **1** rodada por rank 
-  - Absorve **1** __*ki*__ por rodada
+  - Paraliza o oponente durante **1** rodada por rank e absorve **1** __*ki*__ por rodada. A cada rodada a vítima poderá fazer um teste de _CONS_ para dissipar o efeito.
   
 <br>
 
-### Nível 5: Espírito maligno do dragão congelante
+### Nível 5: **Espírito maligno do dragão congelante**
 O personagem cria um disparo na forma de um dragão de gelo contra o adversário causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+14** e **+19** por rank
-- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Alvos**: 1
+- **Dano**: **4D6+3* por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
 ## Shura sempu Ken
 
-### Nível 1: Voar
+### Nível 1: **Voar***
 O personagem pode voar e tem o dobro do deslocamento.
 
  **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **3** __*ki*__ 
 - **Efeitos Adicionais**
   - O personagem pode voar e tem o dobro do deslocamento.
 
 <br>
 
-### Nível 2: Braços de ar
+### Nível 2: **Braços de ar**
 O personagem dispara uma rajada de ar contra o adversário causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+10** e **+15** por rank
+- **Alvos**: 1
+- **Dano**: **3D6** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 3: Furacão shura
+### Nível 3: **Furacão shura***
 O personagem cria um furacão em um de seus braços ampliando seu dano. 
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+4** e **+1D6** por rank 
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **2D6+2** e **+1D6** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank 
+- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 4: Fenômeno turbilhão
+### Nível 4: **Fenômeno turbilhão**
 O personagem quando for alvo de um disparo de nível 5 ou menor, ele pode desviá-lo com um grande soco para outro lugar que não seja na direção do oponente.
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
+- **Alvos**: 1
 - **Cooldown**: **3** rodadas
 - **Dano**: Equivalente ao dano do disparo inicial
 - **Custo**: Equivalente ao custo de __*ki*__ do disparo original **+3**
 
 <br>
 
-### Nível 5: Duplo furacão shura
+### Nível 5: **Duplo furacão shura***
 O personagem cria um furacão em cada braço ampliando seu dano.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
 - **Dano**: **3D6+4** e **+1D6+1** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 6: Grande furacão shura
+### Nível 6: **Grande furacão shura**
 O personagem lança um grande furacão contra o adversário causando dano. 
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+14** e **+20** por rank
-- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Alvos**: 1
+- **Dano**: **4D6+4** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -1671,47 +1652,53 @@ O personagem lança um grande furacão contra o adversário causando dano.
 
 <br>
 
-### Nível 1: Arma energética
+### Nível 1: **Arma energética***
 O personagem cria uma arma energética para atacar seus adversários.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6** e **+3** por rank 
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 2: Fortalecimento físico
-O personagem aumenta o seu poder e recebe um bônus de _IP_, _FOR_ e _CONS_.
+### Nível 2: **Fortalecimento físico***
+O personagem aumenta o seu poder e recebe um bônus de _IP_, _FOR_ e _CONS_. A partir do rank C, o bônus é incrementado.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **5** __*ki*__
 - **Bônus**:
   - _CONS_: **+5**
   - _FOR_: **+5**
-  - _IP_: **+5** (**+10** a partir do rank C)
+  - _IP_: **+5**
+- **Bônus Rank C**:
+  - _CONS_: **+5**
+  - _FOR_: **+5**
+  - _IP_: **+10**
   
  <br>
 
-### Nível 3: Aureola
+### Nível 3: **Aureola**
 O personagem lança chakrans contra o adversário causando dano .
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+12** e **+16** por rank
+- **Alvos**: 1
+- **Dano**: **3D6+3** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 4: Energia de fúria
+### Nível 4: **Energia de fúria***
 O personagem aumenta de forma considerável o seu poder tornando seu corpo mais forte.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
   - _CONS_: **+10**
@@ -1722,22 +1709,20 @@ O personagem aumenta de forma considerável o seu poder tornando seu corpo mais 
 
 <br>
 
-### Nível 5: Golpe devastador
-O personagem energiza sua mão, aonde ele tocar causará um grande onda de destruição.
+### Nível 5: **Golpe devastador**
+O personagem energiza sua mão, aonde ele tocar causará um grande estrago.
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+14** e **+19** por rank
-- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Alvos**: 1
+- **Dano**: **4D6+4** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
 ## Adaptação
+OBS (humanos não podem ter este poder, criar um bolinho leva 5 turnos. O personagem pode confeccionar um bolinho das trevas que tanto servem para memorizar golpes, quanto servem para as transformações. O número máximo de bolinhos que podem ser criados e carregados são 3 e +1 para cada rank acima do rank E).
 
-> **Observações**  
-> Humanos não podem ter este poder, criar um bolinho leva 5 turnos. O personagem pode confeccionar um bolinho das trevas que tanto servem para memorizar golpes, quanto servem para as transformações. O número máximo de bolinhos que podem ser criados e carregados são 2 e +1 por rank.
-
-### Nível 1: Resistência
+### Nível 1: **Resistência***
 Após o personagem ser atacado ele pode comer um bolinho e ficar resistente ao golpe, absorvendo metade do dano. 
 
 > **Observações**  
@@ -1748,7 +1733,7 @@ Após o personagem ser atacado ele pode comer um bolinho e ficar resistente ao g
 
 <br>
 
-### Nível 2: Invulnerabilidade
+### Nível 2: **Invulnerabilidade***
 Após o personagem ser atacado ele pode comer um bolinho e ficar imune ao golpe, absorvendo todo o dano.
 
 > **Observações**  
@@ -1759,27 +1744,29 @@ Após o personagem ser atacado ele pode comer um bolinho e ficar imune ao golpe,
  
 <br>
 
-### Nível 3: Macaco monstro das trevas
+### Nível 3: **Macaco monstro das trevas***
 O personagem após comer o bolinho se transforma em um macaco monstro do mundo das trevas, recebendo bônus durante a luta.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **5** __*ki*__
 - **Bônus**:
   - _CONS_: **+10**
   - _FOR_: **+10**
   - _PV_: **+5**
-  - _DANO_: **+2D6** (apenas quando atacando desamardo)
+  - Dano corpo a corpo (desamardo): **+2D6**
 
 <br>
 
-### Nível 4: Faisão das trevas
+### Nível 4: **Faisão das trevas***
 O personagem após comer o bolinho se transforma em um faisão das trevas, recebendo bônus durante a luta.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
   - _CONS_: **+10**
@@ -1787,95 +1774,104 @@ O personagem após comer o bolinho se transforma em um faisão das trevas, receb
   - _AGI_: **+10**
   - _DES_: **+10**
   - _PV_: **+10**
-  - _DANO_: **+2D6+1** (apenas quando atacando desamardo)
-- **Efeitos Adicionais**
+  - Dano corpo a corpo (desamardo): **+2D6+1**
+  - **Efeitos Adicionais**
   - Recebe o aprimoramento Vôo
   
   <br>
 
-### Nível 5: Cão monstro das trevas
+### Nível 5: **Cão monstro das trevas***
 O personagem após comer o bolinho se transforma em um Cão monstro das trevas, recebendo bônus durante a luta.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: 15
 - **Bônus**:
   - _CONS_: **+15**
   - _FOR_: **+15**
   - _AGI_: **+15**
   - _DES_: **+15**
+  - _PV_: **+20**
   - _IP_: **+10**
-  - _DANO_: **+2D6+2** (apenas quando atacando desamardo)
+  - Dano corpo a corpo (desamardo): **+2D6+2**
 
 <br>
 
 ## Sombras demoníacas
 
-### Nível 1: Projeção entre mundos
+### Nível 1: **Projeção entre mundos**
 O personagem invoca o manto da morte e caso o oponente seja atingido por esse, é teletransportado para um lugar aleatório num raio de 20km.
 
 > **Observações**  
 > 1. Este ataque funciona semelhante como um disparo, com a diferença que o resultado do teste de _AGI_ indica se o alvo será ou não teletransportado.
 
 - **Tipo**: Disparo
+- **Duração**: N/A
 - **Alvos**: **1**
+- **Dano**: N/A
 - **Custo**: **3** __*ki*__
 
 <br>
 
-### Nível 2: Manipulação de sombras
+### Nível 2: **Manipulação de sombras**
 O personagem lança várias sombras contra o adversário causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+10** e **+15** por rank
-- **Custo**: **2** __*ki*__ e **+1** por rank
+- **Alvos**: 1
+- **Dano**: **2D6+3** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 3: Espada negra
-O personagem cria uma espada que amplifica o dano.
+### Nível 3: **Espada negra***
+O personagem cria uma espada que causa dano por rank; ou cria uma espada mais a um custo adicional. 
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+4** e **+1D6** por rank 
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **2D6+2** e **+1D6** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank 
+- **Custo Ampliado**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 4: Barreira shobako
+### Nível 4: **Barreira shobako**
 O personagem cria uma barreira de ondas que evita o dano de disparos de nível 5 ou menor. 
 
 - **Tipo**: Buff
 - **Alvos**: Si mesmo
 - **Cooldown**: **3** rodadas
+- **Dano**: N/A
 - **Custo**: Equivalente ao custo de __*ki*__ do disparo original **+3**
 
-<br>
+<b>
  
-### Nível 5: Possessão de sombras
+### Nível 5: **Possessão de sombras***
 O personagem se mescla as sombras e recebendo bônus durante a cena.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
   - _CONS_: **+15**
   - _FOR_: **+15**
-  - _PV_: **+20**
+   - _PV_: **+20**
   - _IP_: **+10**
  
  <br>
  
-### Nível 6: Espada sonora das trevas
-O personagem faz sua espada emitir um terrível som em uma área (semelhante a um campo) fazendo monstros de rank E desmaiarem.
+### Nível 6: **Espada sonora das trevas***
+O personagem faz sua espada emitir um terrível som fazendo monstros de rank E desmaiarem.
 
 - **Tipo**: Debuff
-- **Duração**: **1** cena (ou uma rodada por rank se bem sucedido no teste de _WILL_)
-- **Alvos**: todos os oponentes na área
+- **Duração**: 1 cena (ou uma rodada por rank se bem sucedido no teste de _WILL_)
+- **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - Aplica **-5%** de _ATQ_ ao oponente por rank
@@ -1884,12 +1880,12 @@ O personagem faz sua espada emitir um terrível som em uma área (semelhante a u
   
 <br>
 
-### Nível 7: Ondas de sombras demoníacas
+### Nível 7: **Ondas de sombras demoníacas**
 O personagem lança uma rajada de almas contra os adversários causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: **4** e **+1** por rank
-- **Dano**: **4D6+14** e **+20** por rank
+- **Alvos**: **4** alvos e **+1** por rank
+- **Dano**: **4D6+4** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
@@ -1898,47 +1894,47 @@ O personagem lança uma rajada de almas contra os adversários causando dano.
 
 <br>
 
-> **Observações**  
->  Se o oponente tiver um rank a menos ele não pode ver a doutrina, tornando os testes de resistência difíceis.
+OBS (Se o oponente tiver um rank a menos ele não pode ver a doutrina, tornando os testes de resistência difíceis).
 
 <br>
 
-### Nível 1: Toque explosivo
+### Nível 1: **Toque explosivo**
 O personagem toca o adversário causando uma explosão.
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+8** e **+13** por rank
+- **Alvos**: 1
+- **Dano**: **1D6+4** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 2: Granada espiritual
+### Nível 2: **Granada espiritual**
 O personagem lança uma granada contra o adversário causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+10** e **+15** por rank
+- **Alvos**: 1
+- **Dano**: **2D6+4** por rank
 - **Custo**: **2** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 3: Pólvora
+### Nível 3: **Pólvora**
 O personagem invoca várias bombas. A rajada de bombas causa dano a vários inimigos na área.
 
 - **Tipo**: Disparo
-- **Alvos**: **4** e **+1** por rank
-- **Dano**: **4D6+12** e **+16** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Alvos**: **4** alvos e **+1** por rank
+- **Dano**: **3D6+4** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 4: Aura espiritual
+### Nível 4: **Aura espiritual***
 O personagem concentra seu __*ki*__ aumentando suas capacidades físicas.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
   - _CONS_: **+10**
@@ -1949,49 +1945,42 @@ O personagem concentra seu __*ki*__ aumentando suas capacidades físicas.
  
 <br>
 
-### Nível 5: Espírito explosivo
+### Nível 5: **Espírito explosivo**
 O personagem lança-se contra o adversário causando uma grande explosão.
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+15** e **+21** por rank
-- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Alvos**: **4** alvos e **+1** por rank
+- **Dano**: **5D6** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
 ## Battle aura
-
-### Nível 1: Voar
-O personagem pode voar e tem o dobro do deslocamento. 
-
- **Tipo**: Buff
-- **Duração**: **1** cena
-- **Alvos**: Si mesmo
-- **Custo**: **3** __*ki*__ 
-- **Efeitos Adicionais**
-  - O personagem pode voar e tem o dobro do deslocamento.
+### Nível 1: **Voar***
+O personagem pode voar e tem o dobro do deslocamento, custa 3 de ki. 
 
 <br>
 
-### Nível 2: Criar machado
+### Nível 2: **Criar machado***
 O personagem cria uma arma em forma de machado.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
 - **Dano**: **3D6** e **+3** por rank 
 - **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Rank B**: **3D6+2** e **+1D6** por rank
+- **Dano Rank B**: **3D6 +2** e **+1D6** por rank
 - **Custo Rank B**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 3: Aura de Batalha de menor
+### Nível 3: **Aura de Batalha de menor***
 O personagem cria uma aura de energia e recebendo um bônus por uma cena.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **5** __*ki*__
 - **Bônus**:
   - _CONS_: **+5**
@@ -2001,40 +1990,41 @@ O personagem cria uma aura de energia e recebendo um bônus por uma cena.
   
 <br>
 
-### Nível 4: Ataque energético
+### Nível 4: **Ataque energético**
 O personagem lança um disparo teleguiado contra o adversário causando dano e dificultando sua esquiva.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+12** e **+16** por rank
+- **Dano**: **3D6+4** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - Aplica **-5%** de _Esquiva_ ao oponente por rank
   
 <br>
 
-### Nível 5: Battle aura
+### Nível 5: **Battle aura***
 O personagem aumenta o seu poder recebendo um bônus durante a cena.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
   - _CONS_: **+20**
   - _FOR_: **+20**
-  - _IP_: **+10**
-  - _PV_: **+10**
+  - _IP_: **+20**
+  - _PV_: **+20**
   
 <br>
 
-### Nível 6: Battle aura cross atack
+### Nível 6: **Battle aura cross atack**
 O personagem lança um disparo contra o adversário.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+14** e **+20** por rank
-- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Dano**: **4D6+4** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -2042,17 +2032,17 @@ O personagem lança um disparo contra o adversário.
 
 <br>
 
-> **Observaões**
-> Humanos não podem ter esse poder.
+OBS (humanos não podem ter esse poder).
 
 <br>
 
-### Nível 1: Armadura
+### Nível 1: **Armadura***
 O personagem cria um escudo ou armadura para aumentar sua defesa.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **5** __*ki*__
 - **Bônus**:
   - _CONS_: **+5** (**+10** a partir do rank C)
@@ -2061,576 +2051,342 @@ O personagem cria um escudo ou armadura para aumentar sua defesa.
  
 <br>
 
-### Nível 2: Arma
-O personagem cria uma arma que amplifica o dano. 
+### Nível 2: **Arma***
+O personagem cria uma arma. 
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
-- **Dano**: **3D6** e **+3** por rank 
-- **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Rank C**: **3D6+3** e **+3** por rank 
-- **Custo Rank C**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **2D6** e **+3** por rank 
+- **Custo**: **2** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **3D6** e **+3** por rank 
+- **Custo Ampliado**: **3** __*ki*__ e **+1** por rank
+- **Dano Rank C**: **2D6 +3** e **+3** por rank
+- **Custo Rank C**: **3** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **3D6 +3** e **+3** por rank 
+- **Custo Ampliado**: **5** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 3: Derretimento
+### Nível 3: **Arma múltipla**
+O personagem estica partes de seu corpo contra os adversários, causando 3D6+3 de dano por rank, o número de alvos máximo é igual ao rank+4. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+- **Tipo**: Buff
+- **Duração**: 1 turno
+- **Alvos**: **4** e **+1** por rank
+- **Dano**: **3D6 +3** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+
+<br>
+
+### Nível 4: **Derretimento***
 O personagem fica totalmente maleável, sendo mais difícil de ser atingido.
 
 - **Tipo**: Buff
 - **Alvos**: Si mesmo
-- **Duração**: **1** cena
-- **Custo**: **3** __*ki*__ e **+1** por rank  
+- **Duração**: 1 cena
+- **Custo**: **4** __*ki*__ e **+1** por rank  
 - **Bônus**
   - _ATQ_: **+5%** por rank
   - _DEF_: **+5%** por rank
+  - _Esquiva_: **+5%** por rank
   - _Evasão_ 
 
 <br>
 
-### Nível 4: Arma múltipla
-O personagem cria diversos tentaculos a partir do próprio corpo que vão de encontro aos adversários causando dano.
-
-- **Tipo**: Disparo
-- **Duração**: **1** turno
-- **Alvos**: **4** e **+1** por rank
-- **Dano**: **4D6+12** e **+17** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank
-
-<br>
-
-### Nível 5: Imortalidade
+### Nível 5: **Imortalidade***
 O personagem torna-se _Imortal_ e ganha _Regeneração_ passivamente.
 
 - **Tipo**: Buff
+- **Duração**: N/A
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: N/A
 - **Efeitos Adicionais**
-  - _Imortal_ : Ao morrer o personagem regenera **1** _PV_ por rodada
-  - _Regeneração_: Regenera _Dano Mínimo_ **+1** _PV_ por rodada
+  - _Imortal_ : O personagem **1** _PV_ por rodada
+  - _Regeneração_: _Dano Mínimo_ **+1** por rodada
 
 <br>
-<br>
-
-## Laser light
-
-### Nível 1: Feixe de luz
-O personagem lança um feixe de luz contra o adversário causando dano.
-
-- **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+8** e **+13** por rank
-- **Custo**: **1** __*ki*__ e **+1** por rank
-
-<br>
-
-### Nível 2: Espectro
-O personagem lança um espectro contra o adversário causando dano.
-
-- **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+10** e **+15** por rank
-- **Custo**: **2** __*ki*__ e **+1** por rank
-
-<br>
-
-### Nível 3: Aurora hipnótica
-O personagem lança uma aura hipnótica contra o adversário, paralisando-o enquanto o poder durar.
-
-> **Observações**  
-> O oponente precisa fazer um teste de _WILL_ para resistir ao efeito. 
-> A cada rodada a vítima pode fazer um teste de _WILL_ para resistir ao efeito.
-
- **Tipo**: Debuff
-- **Alvos**: **1**
-- **Duração**: **1** cena
-- **Custo**: **5** __*ki*__ e **+1** por rank
-- **Efeitos Adicionais**:
-  - _Paralisado_: O personagem não pode realizar qualquer ação.
-
-<br>
-
-### Nível 4: Arma radiante
-O personagem cria uma espada que amplifica o dano.
-
-- **Tipo**: Buff
-- **Alvos**: Si mesmo
-- **Dano**: **2D6+4** e **+1D6+1** por rank
-- **Custo**: **5** _*ki*_ e **+1** por rank 
-
-<br>
-
-### Nível 5: Ciclone arco-íris
-O personagem lança um raio na forma de um arco-íris contra o adversário causando dano.
-
-- **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+14** e **+19** por rank
-- **Custo**: **5** __*ki*__ e **+1** por rank
-
-<br>
-
-## Olhos demoníacos (jagan)
-
-<br>
-
-> **Observações**  
-> O personagem precisa implantar o olho diabólico, proibido para humanos.
-
-<br>
-
-### Nível 1: Olhar além do alcance
-O personagem ao se concentrar, pode observar qualquer alvo conhecido.
-
-- **Tipo**: Buff
-- **Duração**: **1** cena
-- **Alvos**: Si mesmo
-- **Custo**: **2** __*ki*__
-- **Efeitos Adicionais**
-  - Ao observar um alvo conhecido dentro do mesmo plano, esta visão é limitada a **2** metros de raio tendo o alvo como o ponto de referência
-  
-<br>
-
-### Nível 2: Velocidade sobrenatural
-O personagem aumenta a sua velocidade.
-
-- **Tipo**: Buff
-- **Duração**: **1** cena
-- **Alvos**: Si mesmo
-- **Custo**: **5** __*ki*__
-- **Bônus**:
-  - _AGI_: **+10**
-  - _DES_: **+10**
-
-<br>
-
-### Nível 3: Olho demoníaco
-O personagem paralisa o oponente.
-
-> **Observação**
-> Para resistir, o alvo deve ser bem-sucedido num teste de _WILL_. Caso seja paralisado, a vítima poderá repetir o teste a cada rodada para dissipar o efeito.
-
-
-- **Tipo**: Debuff
-- **Duração**: **1** rodada por rank
-- **Alvos**: **1**
-- **Custo**: **5** __*ki*__ e **+1** por rank
-- **Efeitos Adicionais**
-  - Paralisa o oponente durante **1** rodada por rank
-
-<br>
-
-### Nível 4: Verdadeiros olhos demoníacos
-O personagem faz brotar vários olhos no seu corpo ficando mais monstruoso.
-
-- **Tipo**: Buff
-- **Duração**: **1** cena
-- **Alvos**: Si mesmo
-- **Custo**: **10** __*ki*__
-- **Bônus**:
-  - _CONS_: **+15**
-  - _FOR_: **+15**
-  - _PV_: **+10**
-  - _IP_: **+10**
-  - _CAR_: **-5**
-- **Efeitos Adicionais**
-  - Visão 360°, sendo impossível surpreênde-lo
-  
-<br>
-
-### Nível 5: Dominação
-O personagem domina um alvo _Despertado_ de rank inferior ou múltiplos alvos _Não-Despertados_ (seres sem rank). 
-
-> **Observações**
-> Dominados não obedecerão ordens suicidas, despertando automaticamente e quebrando o vínculo. 
-> O alvo _Despertado_ pode resistir a técnica ao ser bem-sucedido em um teste de _WILL_. 
-
-- **Tipo**: Debuff
-- **Duração**:
-  - _Despertado_: **1** rodada por rank
-  - _Não-Despertados_: **2** horas por rank 
-- **Alvos**: 
-  - _Despertado_: **1**
-  - _Não-Despertados_: **3** por rank
-- **Custo**: 
-  - _Despertado_: **5** __*ki*__  e **+1** por rank
-  - _Não-Despertados_: **5** __*ki*__ e **+1** para cada **3** _Não-Despertados_ adicionais
-- **Efeitos Adicionais**
-  - Domina o(s) alvo(s), podendo dar-lhe(s) ordem arbitrárias.
-
-<br>
-
-### Nível 6: Velocidade máxima
-O personagem aumenta consideravelmente sua velocidade.
-
-- **Tipo**: Buff
-- **Duração**: **1** cena
-- **Alvos**: Si mesmo
-- **Custo**: **10** __*ki*__
-- **Bônus**:
-  - _AGI_: **+25**
-  - _DES_: **+25**
-  - _Ataques Adicionais_: **+1**
-  - _Evasão_
-- **Efeitos Adicionais**
-  - Bônus passivo de **+10** na iniciativa
-  
-<br>
-
-## Shura Nen Do Tō I
-
-### Nível 1: Oscilação shura
-O personagem cria uma armadura de terra e recebe um bônus de _FOR_, _CONS_ e _IP_.
-
-- **Tipo**: Buff
-- **Duração**: **1** cena
-- **Alvos**: Si mesmo
-- **Custo**: **5** __*ki*__
-- **Bônus**:
-  - _CONS_: **+5**
-  - _FOR_: **+5**
-  - _IP_: **+5**
-
-<br>
-
-### Nível 2: Fortificação shura
-O personagem fortifica seu braço com pedras que aumentam o seu dano. 
-
-> **Observações**  
-> O personagem precisa estar com alguma oscilação shura ativa.
-
-- **Tipo**: Buff
-- **Duração**: **1** cena
-- **Alvos**: Si mesmo
-- **Dano**: **3D6** e **+3** por rank
-- **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Rank B**: **3D6+2** e **+1D6** por rank
-- **Custo Rank B**: **4** __*ki*__ e **+1** por rank
-
-<br>
-
-### Nível 3: Rajada de pedras
-O personagem lança um disparo de pedras contra os adversários causando dano.
-
-- **Tipo**: Disparo
-- **Alvos**: **4** e **+1** por rank
-- **Dano**: **4D6+10** e **+14** por rank
-- **Custo**: **3** __*ki*__ e **+1** por rank
-
-<br>
-
-### Nível 4: Bomb Atack
- Opersonagem atingi o oponente com um encontrão causando dano.
-
-> **Observações**  
-> O personagem precisa estar com alguma oscilação shura ativa.
-
-- **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+12** e **+17** por rank
-- **Custo**: **3** __*ki*__ e **+1** por rank
-
-### Nível 5: Oscilação shura maior
-O personagem cria uma armadura de terra maior e recebe um bônus de _FOR_, _CONS_, _PV_ e _IP_.
-
-- **Tipo**: Buff
-- **Duração**: **1** cena
-- **Alvos**: Si mesmo
-- **Custo**: **10** __*ki*__
-- **Bônus**:
-  - _CONS_: **+20**
-  - _FOR_: **+20**
-  - _PV_: **+10**
-  - _IP_: **+10**
-
-<br>
-
-### Nível 6: Big Bomb Atack
-O personagem atinge o oponente com uma investida, causando dano.
-
-> **Observações**  
-> Requer oscilação shura maior ativa.
-
-- **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+14** e **+20** por rank
-- **Custo**: **5** __*ki*__ e **+1** por rank
-
-<br>
-
-## Espadachim das trevas
-
-### Nível 1: Estilo de luta exótico
-O personagem tem um estilo de luta diferenciado, este estilo de luta refinado concede um bônus de _ATQ_, _DEF_.
-
-- **Tipo**: Buff
-- **Duração**: **1** cena
-- **Alvos**: Si mesmo
-- **Custo**: **2** __*ki*__ e **+1** por rank
-- **Bônus**:
-  - _ATQ_: **+5%** por rank
-  - _DEF_: **+5%** por rank
-
-<br>
-
-### Nível 2: Lançar bambolê das trevas
-O personagem lança o Bambolê das trevas contra o adversário causando dano.
-
-- **Tipo**: Disparo
-- **Alvos**:  1
-- **Dano**: **4D6+12** e **+15** por rank
-- **Custo**: **2** __*ki*__ e **+1** por rank
-
-<br>
-
-### Nível 3: Bambolê das trevas
-O personagem amplia o dano Bambolê das trevas que amplifica o dano. 
-
-- **Tipo**: Buff
-- **Duração**: **1** cena
-- **Alvos**: Si mesmo
-- **Dano**: **2D6+4** e **+1D6** por rank
-- **Custo **: **4*** __*ki*__ e **+1** por rank  
-
-<br>
-
-### Nível 4: Redemoinho das trevas
-O personagem quando for alvo de um disparo de nível 5 ou menor, ele pode neutralizá-lo fazendo um redemoinho em volta de si mesmo. 
-
-- **Tipo**: Disparo
-- **Alvos**: **1**
-- **Cooldown**: **3** rodadas
-- **Dano**: Equivalente ao dano do disparo inicial
-- **Custo**: Equivalente ao custo de __*ki*__ do disparo original **+3**
-
-<br>
-
-### Nível 5: Turbilhão das trevas
-O personagem cria um turbilhão em volta de si mesmo e aplica uma investida contra o adversário causando dano.
-
-- **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+14** e **+19** por rank
-- **Custo**: **5** __*ki*__ e **+1** por rank
-
-<br>
-
-## Cura espiritual
-
-<br>
-
-> **Observações**  
-> 1. O pré-requisito desta doutrina é ter a perícia medicina em pelo menos **40%**.
-> 0. Esta doutrina não é apropriada para o combate. A ativação deste poder dura **2** rodadas até o nível **3** e **3** rodadas nos demais. A ressurreição dura **10** rodadas.
-> Apenas para NPCs.
-
-<br>
-
-### Nível 1: Cura
-O personagem pode curar alguém ferido.
-
-- **Tipo**: Buff
-- **Duração**: **1** turno
-- **Alvos**: **1**
-- **Custo**: **2** __*ki*__ e **+1** por rank  
-- **Cura**: **4D6+8** e **+13** por rank
-
-<br>
-
-### Nível 2: Cura 2
-O personagem pode curar alguém ferido.
-
-- **Tipo**: Buff
-- **Duração**: **1** turno
-- **Alvos**: **1**
-- **Custo**: **3** __*ki*__ e **+1** por rank  
-- **Cura**: **4D6+10** e **+15** por rank
-
-<br>
-
-### Nível 3: Cura 3
-O personagem pode curar doenças graves e outros efeitos como envenenamento. 
-
-- **Tipo**: Buff
-- **Duração**: **1** turno
-- **Alvos**: **1**
-- **Custo**: **4** __*ki*__   
-- **Cura**: N/A
-- **Efeitos Adicionais**
-  - Cura doenças graves e outros efeitos como envenenamento
-
-<br>
-
-### Nível 4: Cura 4
-O personagem pode curar alguém ferido.
-
-- **Tipo**: Buff
-- **Duração**: **1** turno
-- **Alvos**: **1**
-- **Custo**: **4** __*ki*__ e **+1** por rank  
-- **Cura**: **4D6+12** e **+17** por rank
-
-<br>
-
-### Nível 5: Cura 5
-O personagem pode curar alguém ferido.
-
-- **Tipo**: Buff
-- **Duração**: **1** turno
-- **Alvos**: **1**
-- **Custo**: **5** __*ki*__ e **+1** por rank  
-- **Cura**: **4D6+14** e **+19** por rank
-
-<br>
-
-### Nível 6: Ressurreição
-O personagem pode ressuscitar qualquer criatura com a permissão do Rei-kai.
-
-> **Observações**  
-> 1.  O alvo ressuscita com **100%** __*PV*__ e __*ki*__.
-
-- **Tipo**: Buff
-- **Duração**: **1** turno
-- **Alvos**: **1**
-- **Custo**: **100%** __*ki*__   
-- **Cura**: N/A
-- **Efeitos Adicionais**
-  - Ressuscita o alvo
-
 <br>
 
 ## Kin’ niku Souza
 
 <br>
 
-> **Observações**  
-> Apenas para NPCs, os níveis desta doutrina não podem ser utilizados na ordem decrescente, os usuários desta doutrina ganham um bônus de +10 na regra de aumento de poder.
+OBS (apenas para NPCS, os níveis desta doutrina não podem ser utilizados na ordem decrescente, os usuários desta doutrina ganham um bônus de +10 na regra de aumento de poder).
 
 <br>
 
-### Nível 1: 20% da força
-O personagem aumenta seu poder e resistência.
+### Nível 1: **20% da força***
+O personagem aumenta sua resistência.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **5**
 - **Bônus**:
-  - _DANO_: **+5**
-  - _IP_: **+5** (**+10** a partir do rank D)
-  
+  - _IP_: **+15**
+  - _PV_: **+15**
+  - Dano corpo a corpo (desamardo): **+15**
+
 <br>
 
-### Nível 2: 40% da força
+### Nível 2: **40% da força***
 O personagem aumenta sua força e resistência.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
-- **Custo**: **5**
+- **Dano**: N/A
+- **Custo**: **10**
 - **Bônus**:
-  - _FOR_: **+10**
-  - _CONS_: **+10**
+  - _FOR_: **+20**
+  - _CONS_: **+20**
 
 <br>
 
-### Nível 3: 60% da força
+### Nível 3: **60% da força***
 O personagem aumenta o sua destreza e seus golpes físicos
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **5**
 - **Bônus**:
-  - _AGI_: **+10**
-  - _DES_: **+10**
-  - _DANO_: **2D6** (apenas quando atacando desamardo)
+  - _AGI_: **+20**
+  - _DES_: **+20**
+  - Dano corpo a corpo (desamardo): **2D6**
 
 <br>
 
-### Nível 4: 80% da força
-O personagem aumenta incrivelmente sua força.
+### Nível 4: **80% da força***
+O personagem aumenta o seu poder e recebe um bônus de +5 em força para cada ki gasto.
+
+<br>
+
+### Nível 5: **100% da força***
+O personagem aumenta o seu poder assumindo a forma completa de obelisco, e recebe um bônus de +30 de constituição, +25 de ip e +10 pvs. Custa 10 de ki.
+
+<br>
+
+
+### Nível 6: **Absorção de energia vital***
+Os monstros de rank E que estiverem na distância de 30 metros por rank morrem e suas almas são absorvidas, e para cada alma absorvida o personagem recupera 3 de ki e de pv. Seus golpes físicos passam a causar 3D6 de dano. Custa 7 de ki.
+
+
+## Lei shu
+
+<br>
+
+OBS (apenas para NPCS).
+
+<br>
+
+### Nível 1: **Contra-ataque**
+Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um golpe, causando 1D6+3 de dano por rank. Requer um teste bem-sucedido de agilidade com um redutor de -5% por rank para levar metade do dano. Este recurso só pode ser utilizado uma vez a cada 3 rodadas. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 2: **Bola arremessável lei shu**
+O personagem lança uma bola contra o adversário causando 2D6+4 de dano por rank. Custa 3 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 3: **Bola lei shu***
+O personagem cria bolas nas mãos que causam 2D6+2 de dano e +1D6 de dano por rank; ou cria bolas mais fortes que causam 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 4: **Granada lei shu**
+O personagem lança várias bolas contra seus adversários causando 3D6+4 de dano por rank, o número máximo de oponentes é igual ao rank+4. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 5: **Gigante bola lei shu**
+O personagem lança uma grande bola contra o adversário causando 4D6+4 de dano por rank. Custa 5 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+## Rahiph Mokuro
+
+<br>
+
+OBS (poder exclusivo de Mokuro).
+
+<br>
+
+### Nível 1: **Punho flamejante***
+O personagem aumenta o seu poder e recebe um bônus.
+
+ de +3 em dano para cada ki gasto.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **10**
-- **Bônus**:
-  - _FOR_: **+50**
+- **Custo**: **5** __*ki*__
+- **Bônus**: 
+  - **Dano**: **+15**
   
-<br>
+### Nível 2: **Resistência***
+O personagem aumenta o seu poder e recebe um bônus
 
-### Nível 5: 100% da força
-O personagem aumenta incrivelmente sua resistência, assumindo a forma completa de obelisco. 
+ de +3 em ip para cada ki gasto.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **10**
+- **Custo**: **5** __*ki*__
+- **Bônus**: 
+  - _IP_: **+15**
+
+<br>
+
+### Nível 3: **Arma energética**
+O personagem energiza os punhos causando dano.
+
+- **Tipo**: Buff
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+1D6** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank
+- **Custo Ampliado**: **4** _*ki*_ e **+1** por rank 
+
+<br>
+
+### Nível 4: **Ataque invisível**
+O personagem lança um disparo que causa dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **4D6+4** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Efeitos Adicionais**
+  - Aplica **-5%** de _Esquiva_ ao oponente por rank
+
+
+<br>
+
+### Nível 5: **Fortalecimento espiritual**
+O personagem eleva seu espirito de luta e recebe um bônus.
+
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **10** __*ki*__
 - **Bônus**:
-  - _CONS_: **+30**
-  - _IP_: **+25**
+  - _ATQ_: **+5%** por rank
+  - _DEF_: **+5%** por rank
+  - _CONS_: **+15**
+  - _FOR_: **+15**
+  - _AGI_: **+15**
+  - _DES_: **+15**
   - _PV_: **+15**
 
+
 <br>
 
-### Nível 6: Absorção de energia vital
-Os monstros de rank E que estiverem na distância de 30 metros por rank morrem e suas almas são absorvidas, e para cada alma absorvida o personagem recupera 3 de ki e de pv.
+### Nível 6: **Corte espacial**
+O personagem corta o espaço onde está o adversário causando dano.
 
-- **Tipo**: Buff
-- **Duração**: **1** cena
-- **Alvos**: Si mesmo
-- **Custo**: **7**
-- **Bônus**:
-  - _DANO_: **3D6** (apenas quando atacando desamardo)
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **5D6+4** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Efeitos Adicionais**
+  - Este poder pode atravessar qualquer barreira.
 
+<br>
+<br>
+
+## Yomi Saihs
+
+<br>
+
+OBS (poder exclusivo de Yomi).
+
+<br>
+
+### Nível 1: **Punho flamejante***
+O personagem aumenta o seu poder e recebe um bônus de +3 em dano para cada ki gasto.
+
+<br>
+
+### Nível 2: **Resistência***
+O personagem aumenta o seu poder e recebe um bônus de +3 em ip para cada ki gasto.
+
+<br>
+
+### Nível 3: **Arma energética**
+O personagem energiza os punhos causando 2D6+2 de dano e +1D6 de dano por rank; ou amplia a energização causando 2D6+4 de dano e +1D6 de dano por rank a um custo adicional de +1 de ki. Custa 4 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
+
+### Nível 4: **Golpe de defesa e ataque madoki**
+O personagem quando for alvo de um disparo de nível 5 ou menor pode evitá-lo com esta barreira e absorve um de ki por nível do poder do disparo. Custa o ki do disparo +4.
+
+<br>
+
+### Nível 5: **Fortalecimento espiritual**
+O personagem eleva seu espirito de luta e recebe um bônus de +15 em todos os seus atributos físicos, pvs e + 5% no ataque e na defesa por rank. Custa 10 de ki.
+
+<br>
+
+### Nível 6: **Ataque total**
+O personagem lança um disparo contra o adversário causando 5D6+4 de dano por rank. Custa 6 de ki e +1 de ki para cada rank acima do rank E.
+
+<br>
 <br>
 
 ## Doutrina do exército do Rei-Kai
 
 <br>
 
-> **Observações**  
-> Apenas para membros da elite do rei-kai.
+OBS (apenas para membros da elite do rei-kai).
 
 <br>
 
-### Nível 1: Voar
+### Nível 1: **Voar***
 O personagem pode voar e tem o deslocamento potencializado. 
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: Até aterrisar
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **3** __*ki*__
 - **Efeitos Adicionais**
   - Se desloca com **2** vezes mais velocidade
 
 <br>
 
-### Nível 2: Energizar
+### Nível 2: **Energizar***
 O personagem aumenta o seu poder.
 
 - **Tipo**: Buff
 - **Alvos**: Si mesmo
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Custo**: **5** __*ki*__  
 - **Bônus**:
   - _IP_: **+10**
-  - _DANO_: **+10** 
+  - Dano: **+10** 
   
+
 <br>
 
-### Nível 3: Arma Espiritual
-O personagem energiza os punhos amplificando o dano.
+### Nível 3: **Ataque energético**
+O personagem energiza os punhos causando dano.
 
 - **Tipo**: Buff
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+5** e **+1D6** por rank
-- **Custo**: **4** _*ki*_ e **+1** por rank 
+- **Dano**: **2D6+2** e **+1D6** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank
+- **Custo Ampliado**: **4** _*ki*_ e **+1** por rank 
 
 <br>
 
-### Nível 4: Abrir/fechar portal
+### Nível 4: **Abrir/fechar portal**
 O personagem pode abrir ou fechar portais que ligam o Ma-kai, Terra (Ningen-kai), Rei-kai. O portal se abre ou fecha gradativamente a cada período de **Canalização** (incrementando ou decrementando o rank do portal)
 
 > **Observações**   
@@ -2646,12 +2402,13 @@ O personagem pode abrir ou fechar portais que ligam o Ma-kai, Terra (Ningen-kai)
 
 <br>
 
-### Nível 5: Aprimoramento espiritual
+### Nível 5: **Aprimoramento espiritual**
 O personagem eleva seu espirito de luta e recebe um bônus.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
   - _ATQ_: **+5%** por rank
@@ -2664,80 +2421,79 @@ O personagem eleva seu espirito de luta e recebe um bônus.
 
 <br>
 
-### Nível 6: Raio maior
+### Nível 6: **Raio maior**
 O personagem lança um raio contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+18** e **+21** por rank
-- **Custo**: **5** __*ki*__ e **+1** por rank
-
-<br>
-
-## Lei shu
-
-<br>
-
-> **Observações**  
-> Apenas para NPCs.
-
-<br>
-
-### Nível 1: Bola arremessável lei shu
-O personagem lança uma bola contra o adversário causando dano.
-
-- **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+11** e **+15** por rank
-- **Custo**: **3** __*ki*__ e **+1** por rank
-
-<br>
-
-### Nível 2: Contra-ataque
-Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-atacar com um golpe
-
-> **Observações**   
-> O oponente pode pode fazer um teste de _AGI_ para absorver metade do dano.
-
-- **Tipo**: Contra-ataque
-- **Alvos**: **1**
-- **Cooldown**: **3** rodadas
-- **Dano**: **4D6+13** e **+17** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank  
-- **Efeitos Adicionais**
-  - Oponente recebe **-5%** por rank no teste de _AGI_
-
-<br>
-
-### Nível 3: Bola lei shu
-O personagem cria bolas nas mãos que amplificam seu dano corpo a corpo.
- 
-- **Tipo**: Buff
-- **Duração**: **1** cena
-- **Alvos**: Si mesmo
-- **Dano**: **2D6+5** e **+1D6** por rank 
+- **Dano**: **4D6+5** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
-
-### Nível 4: Granada lei shu
-O personagem lança várias bolas contra seus adversários causando dano a múltiplos alvos.
-
-- **Tipo**: Disparo
-- **Alvos**: **4** e **+1** por rank
-- **Dano**: **4D6+15** e **+19** por rank
-- **Custo**: **5** __*ki*__ e **+1** por rank
-
 <br>
 
-### Nível 5: Gigante bola lei shu
-O personagem lança uma grande bola contra o adversário causando dano.
+## Laser light
+
+### Nível 1: **Feixe de luz**
+O personagem lança um feixe de luz contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+18** e **+21** por rank
-- **Custo**: **6** __*ki*__ e **+1** por rank
+- **Dano**: **2D6** por rank
+- **Custo**: **1** __*ki*__ e **+1** por rank
 
+
+<br>
+
+### Nível 2: **Espectro**
+O personagem lança um espectro contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **2D6+4** por rank
+- **Custo**: **2** __*ki*__ e **+1** por rank
+
+<br>
+
+### Nível 3: **Aurora hipnótica**
+O personagem lança uma aura hipnótica contra o adversário, paralisando-o enquanto o poder durar.
+
+> **Observações**  
+> O oponente precisa fazer um teste de _WILL_ para resistir ao efeito. 
+> A cada rodada a vítima pode fazer um teste de _WILL_ para resistir ao efeito.
+
+
+- **Tipo**: Debuff
+- **Alvos**: **1**
+- **Duração**: **1** cena
+- **Dano**: N/A
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Efeitos Adicionais**:
+  - _Paralisado_: O personagem não pode realizar qualquer ação.
+
+<br>
+
+### Nível 4: **Arma radiante***
+O personagem cria uma espada que causa dano.
+
+- **Tipo**: Buff
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+1D6+1** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Dano Ampliado**: **2D6+4** e **+1D6+1** por rank
+- **Custo Ampliado**: **5** _*ki*_ e **+1** por rank 
+
+<br>
+
+### Nível 5: **Ciclone arco-íris**
+O personagem lança um raio na forma de um arco-íris contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Dano**: **4D6+3** por rank
+- **Custo**: **4** __*ki*__ e **+1** por rank
+
+<br>
 <br>
 
 ## Brilho Sui Seiki
@@ -2749,244 +2505,415 @@ O personagem lança uma grande bola contra o adversário causando dano.
 
 <br>
 
-### Nível 1: Armadura dourada
+## Nível 1: Armadura dourada*
 O personagem cria uma armadura dourada aumentado o seu poder e recebendo um bônus _IP_, _PV_ e dano.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **5** __*ki*__
 - **Bônus**
   - _IP_: **+5**
   - _PV_: **+5**
-  - _DANO_: **+5**
+  - Dano: **+5**
 
 <br>
 
-### Nível 2: Golpe de ruptura
-Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um tufão, causando dano. 
-
-> **Observações**  
-> O oponente deve realizar um teste bem-sucedido de _AGI_ para reduzir o dano recebido pela metade.
+### Nível 2: **Golpe de ruptura**
+Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um tufão, causando dano. O oponente deve realizar um teste bem-sucedido de _AGI_ para reduzir o dano recebido pela metade.
 
 - **Tipo**: Contra-ataque
-- **Alvos**: **1**
+- **Alvos**: 1
 - **Cooldown**: **3** rodadas
-- **Dano**: **4D6+14** e **+18** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank  
+- **Dano**: **2D6+3** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank  
 - **Efeitos Adicionais**
   - Oponente recebe **-5%** por rank no teste de _AGI_
 
 <br>
 
-### Nível 3: Armadura azul
-O personagem cria uma armadura azul aumentado o seu poder e recebendo um bônus _IP_, _PV_ e dano.
+### Nível 3: **Armadura azul***
+O personagem cria uma armadura dourada aumentado o seu poder e recebendo um bônus _IP_, _PV_ e dano.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **5** __*ki*__
 - **Bônus**
   - _IP_: **+10**
   - _PV_: **+10**
-  - _DANO_: **+10**
+  - Dano: **+10**
   
 <br>
 
-### Nível 4: Brilho sui seiki
-O personagem invoca a aura dos anjos sobre si podendo voar, aprimorando o poder e a resistência de suas armaduras, e elevando o rank de suas doutrinas e aprimoramentos mesmo no rank S Supremo.
+### Nível 4: **Brilho sui seiki**
+O personagem invoca a aura dos anjos sobre si podendo voar, ganhando bônus de atributos e elevando seu rank. 
+
+acima mesmo no rank S Supremo. O bônus da Armadura azul passa a ser +3 em ip, dano e pv para cada ki gasto. Custa 7 de ki.
+
+com o dobro do deslocamento
+
 
 - **Tipo**: Buff
-- **Duraçào**: **1** cena
+- **Duraçào**: 1 cena
 - **Alvos**: Si mesmo
-- **Custo**: **10** __*ki*__
-- **Bônus da armadura dourada**
-  - _IP_: **+10**
-  - _PV_: **+10**
-  - Dano: **+100**
-- **Bônus da armadura azul**
-  - _IP_: **+15**
-  - _PV_: **+15**
-  - Dano: **+15**
+- **Dano**: N/A
+- **Custo**: **7** __*ki*__
+- **Bônus**
+  - _IP_: **+21**
+  - _PV_: **+21**
+  - Dano: **+21**
 - **Efeitos Adicionais**
   - Se desloca com **2** vezes o deslocamento
-  - Eleva as doutrinas e aprimooramentos em **1** rank, mesmo no rank S Supremo
+  - Eleva **1** rank, mesmo no rank S Supremo
 
 <br>
 
-### Nível 5: Rajada sui seiki
+### Nível 5: **Rajada sui seiki**
 O personagem dispara uma rajada de energia sui seiki contra o adversário causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+19** e **+22** por rank
-- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Alvos**: 1
+- **Dano**: **4D6+4** por rank 
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
-## Rahiph Mokuro
+## Olhos demoníacos (jagan)
 
 <br>
 
-> Observações
-> Poder exclusivo de Mokuro.
+OBS (O personagem precisa implantar o olho diabólico, proibido para humanos).
 
 <br>
 
-### Nível 1: Punho flamejante
-O personagem aumenta o seu poder.
+### Nível 1: **Olhar além do alcance**
+O personagem ao se concentrar, pode observar qualquer alvo conhecido.
 
 - **Tipo**: Buff
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
-- **Custo**: **5** __*ki*__
-- **Bônus**: 
-  - _DANO_: **+15**
+- **Dano**: N/A
+- **Custo**: **2** __*ki*__
+- **Efeitos Adicionais**
+  - Ao observar um alvo conhecido dentro do mesmo plano, esta visão é limitada a 2 metros de raio tendo o alvo como o ponto de referência
   
 <br>
 
-### Nível 2: Resistência
-O personagem aumenta o sua resistência.
+### Nível 2: **Velocidade sobrenatural***
+O personagem aumenta a sua velocidade.
 
 - **Tipo**: Buff
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **5** __*ki*__
-- **Bônus**: 
-  - _IP_: **+15**
+- **Bônus**:
+  - _AGI_: **+10**
+  - _DES_: **+10**
 
 <br>
 
-### Nível 3: Arma energética
-O personagem energiza os punhos amplificando o dano.
+### Nível 3: **Olho demoníaco**
+O personagem paralisa o oponente.
 
-- **Tipo**: Buff
-- **Alvos**: Si mesmo
-- **Dano**: **2D6+6** e **+1D6** por rank
-- **Custo**: **4** _*ki*_ e **+1** por rank 
-
-<br>
-
-### Nível 4: Ataque invisível
-O personagem lança um disparo que causa dano.
-
-- **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+18** e **+21** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Tipo**: Debuff
+- **Duração**: 1 rodada por rank
+- **Alvos**: 1
+- **Dano**: N/A
+- **Custo**: **3** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
-  - Aplica **-5%** de _Esquiva_ ao oponente por rank
+  - Paraliza o oponente durante **1** rodada por rank. A cada rodada a vítima poderá fazer um teste de _WILL_ para dissipar o efeito.
 
 <br>
 
-### Nível 5: Fortalecimento espiritual
-O personagem eleva seu espirito de luta e recebe um bônus.
+### Nível 4: **Verdadeiros olhos demoníacos***
+O personagem faz brotar vários olhos no seu corpo ficando mais monstruoso.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
-  - _ATQ_: **+5%** por rank
-  - _DEF_: **+5%** por rank
   - _CONS_: **+15**
   - _FOR_: **+15**
-  - _AGI_: **+15**
-  - _DES_: **+15**
-  - _PV_: **+15**
+  - _PV_: **+10**
+  - _IP_: **+10**
+  - _CAR_: **-5**
+- **Efeitos Adicionais**
+  - Visão 360°, sendo impossível surpreênde-lo
+  
+<br>
+
+### Nível 5: **Dominação**
+O personagem domina um alvo _Despertado_ de rank inferior ou múltiplos alvos _Alheios_ (seres sem rank). O alvo _Despertado_ pode resistir a técnica ao ser bem-sucedido em um teste de _WILL_. 
+
+> **Observações**
+> Dominados não obedecerão ordens suicidas, despertando automaticamente e quebrando o vínculo. 
+
+- **Tipo**: Debuff
+- **Duração**:
+  - _Despertado_: 1 rodada por rank
+  - _Alheios_: 2 horas por rank 
+- **Alvos**: 
+  - _Despertado_: 1 
+  - _Alheios_: 3 por rank
+- **Dano**: N/A
+- **Custo**: 
+  - _Despertado_: **6** __*ki*__ 
+  - _Alheios_: **6** __*ki*__ e **+1** para cada **3** _Alheios_ adicionais
+- **Efeitos Adicionais**
+  - Domina o(s) alvo(s), podendo dar-lhe(s) ordem arbitrárias.
 
 <br>
 
-### Nível 6: Corte espacial
-O personagem corta o espaço onde está o adversário causando dano.
+### Nível 6: **Velocidade máxima***
+O personagem aumenta consideravelmente sua velocidade.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **10** __*ki*__
+- **Bônus**:
+  - _AGI_: **+25**
+  - _DES_: **+25**
+  - _Evasão_
+  - Ataque extra: **+1**
+- **Efeitos Adicionais**
+  - Bônus passivo de **+10** na iniciativa
+  
+<br>
+
+## Shura Nen Do Tō I
+### Nível 1: **Oscilação shura***
+O personagem cria uma armadura de terra e recebe um bônus de _FOR_, _CONS_ e _IP_.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **5** __*ki*__
+- **Bônus**:
+  - _CONS_: **+5**
+  - _FOR_: **+5**
+  - _IP_: **+5**
+
+<br>
+
+### Nível 2: **Fortificação shura***
+O personagem fortifica seu braço com pedras que aumentam o seu dano. 
+
+> **Observações**  
+> O personagem precisa estar com alguma oscilação shura ativa.
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6** e **+3** por rank 
+- **Custo**: **2** __*ki*__ e **+1** por rank 
+- **Dano Ampliado**: **3D6** e **+3** por rank
+- **Custo Ampliado**: **2** __*ki*__ 
+- **Dano Rank B**: **2D6+2** e **+1D6** por rank 
+- **Custo Rank B**: **3** __*ki*__ e **+1** por rank
+- **Dano Rank B Ampliado**: **3D6+2** e **+1D6** por rank
+- **Custo Rank B Ampliado**: **4** __*ki*__ e **+1** por rank
+
+<br>
+
+### Nível 3: **Rajada de pedras**
+O personagem lança um disparo de pedras contra os adversários causando dano.
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+20** e **+23** por rank
-- **Custo**: **5** __*ki*__ e **+1** por rank
-- **Efeitos Adicionais**
-  - Este poder pode atravessar qualquer barreira.
+- **Alvos**: **4** alvos e **+1** por rank
+- **Dano**: **3D6** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
 
-## Yomi Saihs
+### Nível 4: **Bomb Atack**
+ Opersonagem atingi o oponente com um encontrão causando dano.
+
+> **Observações**  
+> O personagem precisa estar com alguma oscilação shura ativa.
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **3D6+4** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
+
+### Nível 5: **Oscilação shura maior***
+O personagem cria uma armadura de terra maior e recebe um bônus de _FOR_, _CONS_, _PV_ e _IP_.
+
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: N/A
+- **Custo**: **5** __*ki*__
+- **Bônus**:
+  - _CONS_: **+20**
+  - _FOR_: **+20**
+  - _PV_: **+10**
+  - _IP_: **+10**
+
+<br>
+
+### Nível 6: **Big Bomb Atack**
+Opersonagem atingi o oponente com um encontrão causando dano.
+
+> **Observações**  
+> O personagem precisa estar com oscilação shura maior ativa.
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Dano**: **4D6+4** por rank 
+- **Custo**: **4** __*ki*__ e **+1** por rank
+
+<br>
+
+## Espadachim das trevas
+
+### Nível 1: **Estilo de luta exótico***
+O personagem tem um estilo de luta diferenciado, este estilo de luta refinado concede um bônus de _ATQ__, _DEF__.
+
+Tipo: Buff
+Duração: 1 cena
+Alvos: Si mesmo
+Custo: 2 ki e +1 por rank
+Bônus
+ATQ: +5% por rank
+DEF: +5% por rank
+
+<br>
+
+### Nível 2: **Lançar bambolê das trevas***
+O personagem lança o Bambolê das trevas contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**:  1
+- **Dano**: **3D6** por rank. 
+- **Custo**: **2** __*ki*__ e **+1** por rank
+
+<br>
+
+### Nível 3: **Bambolê das trevas***
+O personagem amplia o dano Bambolê das trevas que causa dano e pode ser potencializado por um custo adicional de __*ki*__. 
+
+- **Tipo**: Buff
+- **Duração**: 1 cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+1D6** por rank
+- **Custo**: **3*** __*ki*__ e **+1** por rank  
+- **Dano Ampliado**: **2D6+4** e **+1D6** por rank
+- **Custo Ampliado**: **4*** __*ki*__ e **+1** por rank  
+
+<br>
+
+### Nível 4: **Redemoinho das trevas**
+O personagem quando for alvo de um disparo de nível 5 ou menor, ele pode neutralizá-lo fazendo um redemoinho em volta de si mesmo. 
+
+- **Tipo**: Disparo
+- **Alvos**: 1
+- **Cooldown**: **3** rodadas
+- **Dano**: Equivalente ao dano do disparo inicial
+- **Custo**: Equivalente ao custo de __*ki*__ do disparo original **+3**
+
+<br>
+
+### Nível 5: **Turbilhão das trevas**
+O personagem cria um turbilhão em volta de si mesmo e aplica uma investida contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**:  por rank+4
+- **Dano**: **4D6+3** por rank. 
+- **Custo**: **4** __*ki*__ e **+1** por rank
+
+<br>
+
+## Cura espiritual
 
 <br>
 
 > **Observações**  
-> Poder exclusivo de Yomi.
+> 1. O pré-requisito desta doutrina é ter a perícia medicina em pelo menos **40%**.
+> 0. Esta doutrina não é apropriada para o combate. A ativação deste poder dura **2** rodadas até o nível **3** e **3** rodadas nos demais. A ressurreição dura **10** rodadas.
 
 <br>
 
-### Nível 1: Punho flamejante
-O personagem aumenta o seu poder.
+### Nível 1: **Cura**
+O personagem pode curar alguém ferido.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
-- **Alvos**: Si mesmo
-- **Custo**: **5** __*ki*__
-- **Bônus**
-  - _DANO_: **+15**
-  
+- **Duração**: 1 turno
+- **Alvos**: 1
+- **Custo**: **1** __*ki*__ e **+1** por rank  
+- **Cura**: **2D6** por rank.
+
 <br>
 
-### Nível 2: Resistência
-O personagem aumenta o sua resistência.
+### Nível 2: **Cura 2**
+O personagem pode curar alguém ferido.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
-- **Alvos**: Si mesmo
-- **Custo**: **5** __*ki*__
-- **Bônus**
-  - _IP_: **+15**
+- **Duração**: 1 turno
+- **Alvos**: 1
+- **Custo**: **2** __*ki*__ e **+1** por rank  
+- **Cura**: **2D6+3** por rank.
 
 <br>
 
-### Nível 3: Arma energética
-O personagem energiza os punhos elevando o dano causado.
+### Nível 3: **Cura 3**
+O personagem pode curar doenças graves e outros efeitos como envenenamento. 
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
-- **Alvos**: Si mesmo
-- **Dano**: **2D6+6** e **+1D6** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank
-
-<br>
-
-### Nível 4: Golpe de defesa e ataque madoki
-O personagem, enquanto alvo de um disparo de nível 6 ou menor, pode absorve-lo, recarregando sua reserva de __*ki*__.
-
-- **Tipo**: Contra-ataque
-- **Alvos**: **1**
-- **Custo**: Custo do disparo original e **+3**
+- **Duração**: 1 turno
+- **Alvos**: 1
+- **Custo**: **4** __*ki*__   
+- **Cura**: N/A
 - **Efeitos Adicionais**
-  - Regenera **1** __*ki*__ para cada nível do disparo
+  - Cura doenças graves e outros efeitos como envenenamento
 
 <br>
 
-### Nível 5: Fortalecimento espiritual
-O personagem eleva seu espirito de luta e recebe um bônus.
+### Nível 4: **Cura 4**
+O personagem pode curar alguém ferido.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
-- **Alvos**: Si mesmo
-- **Custo**: **10** __*ki*__
-- **Bônus**
-  - _ATQ_: **+5%** por rannk
-  - _DEF_: **+5%** por rannk
-  - _FOR_: **+15**
-  - _CONS_: **+15**
-  - _AGI_: **+15**
-  - _DES_: **+15**
-  - _PV_: **+15**
+- **Duração**: 1 turno
+- **Alvos**: 1
+- **Custo**: **4** __*ki*__ e **+1** por rank  
+- **Cura**: **3D6+3** por rank.
 
 <br>
 
-### Nível 6: Ataque total
-O personagem lança um disparo contra o adversário causando dano.
+### Nível 5: **Cura 5**
+O personagem pode curar alguém ferido.
 
-- **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+20** e **+23** por rank
-- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Tipo**: Buff
+- **Duração**: 1 turno
+- **Alvos**: 1
+- **Custo**: **5** __*ki*__ e **+1** por rank  
+- **Cura**: **4D6+3** por rank.
+
+<br>
+
+### Nível 6: **Ressurreição**
+O personagem pode ressuscitar qualquer criatura com a permissão do Rei-kai.
+
+> **Observações**  
+> 1.  O alvo ressuscita com **100%** __*PV*__ e __*ki*__.
+
+- **Tipo**: Buff
+- **Duração**: 1 turno
+- **Alvos**: 1
+- **Custo**: **100%** __*ki*__   
+- **Cura**: N/A
+- **Efeitos Adicionais**
+  - Ressucita o alvo
 
 <br>
 
@@ -2999,23 +2926,24 @@ O personagem lança um disparo contra o adversário causando dano.
 
 <br>
 
-### Nível 1: Voar
+### Nível 1: Voar*
 O personagem pode voar e tem o deslocamento potencializado. 
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: Até aterrisar
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **3** __*ki*__
 - **Efeitos Adicionais**
   - Se desloca com **3** vezes mais velocidade
 
 <br>
 
-### Nível 2: Estilo de luta proibido
+### Nível 2: **Estilo de luta proibido***
 O personagem conhece técnicas marciais secretas de antigos mestres, e este estilo de luta refinado concede um bônus de _ATQ__, _DEF__ e nos testes de _Esquiva_ por rank. 
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
 - **Custo**: **3** __*ki*__ e **+1** por rank  
 - **Bônus**
@@ -3025,47 +2953,49 @@ O personagem conhece técnicas marciais secretas de antigos mestres, e este esti
   
 <br>
 
-### Nível 3: Golpe de ruptura
+### Nível 3: **Golpe de ruptura**
 Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um tufão, causando dano. O oponente deve realizar um teste bem-sucedido de _AGI_ para reduzir o dano recebido pela metade .
 
 - **Tipo**: Contra-ataque
-- **Alvos**: **1**
-- **Cooldown**: **3** rodadas
-- **Dano**: **4D6+15** e **+19** por rank
+- **Alvos**: 1
+- **Dano**: **3D6+4** por rank
 - **Custo**: **4** __*ki*__ e **+1** por rank  
 - **Efeitos Adicionais**
   - Oponente recebe **-5%** por rank no teste de _AGI_
 
 <br>
 
-### Nível 4: Arma do Mei-kai
-O personagem cria uma arma espiritual do Mei-kai que amplifica o dano. 
+### Nível 4: **Arma do Mei-kai**
+O personagem cria uma arma espiritual do Mei-kai que causa dano e pode ser potencializado por um custo adicional de __*ki*__. 
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
-- **Dano**: **3D6+5** e **+1D6+1** por rank
-- **Custo**: **5*** __*ki*__ e **+1** por rank  
+- **Dano**: **3D6+2** e **+1D6+1** por rank
+- **Custo**: **4*** __*ki*__ e **+1** por rank  
+- **Dano Ampliado**: **3D6+4** e **+1D6+1** por rank
+- **Custo Ampliado**: **5*** __*ki*__ e **+1** por rank  
 
 <br>
 
-### Nível 5: Reflexo destrutivo
-Quando o personagem for alvo de um disparo de nível 7 ou menor, ele pode absorvê-lo e depois manda-lo de volta contra o adversário causando o dano do próprio disparo. 
+### Nível 5: **Reflexo destrutivo**
+Quando o personagem for alvo de um disparo de nível 6 ou menor, ele pode absorvê-lo e depois manda-lo de volta contra o adversário causando o dano do próprio disparo. 
 
 - **Tipo**: Disparo
-- **Alvos**: **1**
+- **Alvos**: 1
 - **Cooldown**: **3** rodadas
 - **Dano**: Equivalente ao dano do disparo inicial
-- **Custo**: Equivalente ao custo de __*ki*__ do disparo original **+4**
+- **Custo**: Equivalente ao custo de __*ki*__ do disparo original **+5**
 
 <br>
 
-### Nível 6: Fortalecimento espiritual
+### Nível 6: **Fortalecimento espiritual***
 O personagem ganha bônus em todos os atributos físicos, _PV_, _IP_ e dano. 
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: **10** __*ki*__
 - **Bônus**:
   - _CONS_: **+15**
@@ -3078,47 +3008,51 @@ O personagem ganha bônus em todos os atributos físicos, _PV_, _IP_ e dano.
 
 <br>
 
-### Nível 7: Copiar poderes
+### Nível 7: **Copiar poderes***
 O personagem quando ve qualquer doutrina pode copiá-la para usá-la durante a luta. Para aprende-la permanentemente, deve gastar **7** de __*ki*__ e ser bem-sucedido no teste de _INT_. Além disso, é preciso pagar o custo da doutrina na evolução do personagem.
 
 - **Tipo**: Buff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: Si mesmo
+- **Dano**: N/A
 - **Custo**: N/A
 - **Efeitos Adicionais**
   - A habilida copiada possui exatamente as mesmas caracteristicas da original
 
 <br>
 
-### Nível 8: Despertar o mal
+### Nível 8: **Despertar o mal***
 O personagem faz a parte má de um ser aflorar e pode ser controlada pelo habitante do Mei-kai. Requer um teste difícil de _WILL_ para resistir ao efeito. A vítima não pode ser forçada a fazer uma ação suicida, caso seja forçada a dominação se dissipará. A duração do controle é de um dia. 
 
 - **Tipo**: Debuff
-- **Duração**: **1** dia
-- **Alvos**: **1**
+- **Duração**: 1 cena
+- **Alvos**: 1
+- **Dano**: N/A
 - **Custo**: **9** __*ki*__.
 
 <br>
 
-### Nível 9: Ilusão Profunda
+### Nível 9: **Ilusão Profunda**
 O personagem cria uma ilusão de acordo com os sentimentos das vítimas, forçando-as a fraquejar. Requer um teste difícil de _WILL_ para resistir ao efeito. Se o oponente sofrer algum dano durante a ilusão, ela será dissipada. A cada rodada durante a ilusão as vítimas precisam ser bem-sucedidas em um teste difícil de _WILL_ para dissipar o efeito. 
 
 - **Tipo**: Debuff
-- **Duração**: **1** cena
+- **Duração**: 1 cena
 - **Alvos**: **4** e **+1** por rank
+- **Dano**: N/A
 - **Custo**: **10** __*ki*__ e **+1** por alvo
 
 <br>
 
-### Nível 10: Ondas energéticas
+### Nível 10: **Ondas energéticas**
 O personagem lança uma rajada energética causando dano em área.
 
 - **Tipo**: Disparo
-- **Alvos**: **4** e **+1** por rank
-- **Dano**: **4D6+22** e **+25** por rank
+- **Alvos**:  por rank+4
+- **Dano**: **6D6+4** por rank. 
 - **Custo**: **7** __*ki*__ e **+1** por rank
 
-<div style="page-break-after: always; visibility: hidden"></div>
+<br>
+<br>
 
 # Territórios
 
