@@ -695,7 +695,7 @@ O personagem cria uma espada que causa dano e pode atacar o adversário com alca
 - **Alvos**: Si mesmo
 - **Dano**: **3D6+6** e **+1D6+1** por rank
 - **Alcance**: **3** metros por rank
-- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Custo**: **6** __*ki*__ e **+1** por rank
 
 <br>
 <br>
@@ -846,7 +846,7 @@ O personagem lança um disparo de chamas negras contra o adversário causando da
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+10** e **+15** por rank
+- **Dano**: **4D6+10** e **+16** por rank
 - **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
@@ -1463,7 +1463,7 @@ O personagem marca o oponente com o pincel causando _Silênciar_ e _Dissipar_. C
 - **Tipo**: Debuff
 - **Duração**: **1** rodada por rank
 - **Alvos**: **1**
-- **Custo**: **7** __*ki*__ 
+- **Custo**: **6** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - _Silênciar_: O oponente não pode utilizar doutrinas
   - _Dissipar_: Desativa todos os bônus das doutrinas já aplicados 
@@ -1515,7 +1515,7 @@ O personagem congela praticamente todo o corpo do oponente.
 - **Tipo**: Debuff
 - **Duração**: **1** rodada por rank
 - **Alvos**: **1**
-- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Custo**: **6** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
   - Paralisa o oponente durante **1** rodada por rank 
   - Absorve **1** __*ki*__ por rodada
