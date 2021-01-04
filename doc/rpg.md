@@ -514,10 +514,29 @@ O personagem recebe um bônus de _IP_ e  _DANO_, aumentando o bônus a medida al
   - _IP_: **+15**
   - _DANO_: **+10**
 
-## Aumento de atributos físicos* (1 ponto)
-O personagem recebe um bônus de +1 em um de seus atributos físicos por __*ki*__ gasto, podendo chegar até +5 pontos em um de seus atributos, a partir do rank C o bônus pode chegar até +10 pontos. 3 pontos: O personagem recebe um bônus de +1 em todos os seus atributos físicos por __*ki*__ gasto, podendo chegar até +5 pontos em todos os seus atributos, a partir do rank C o bônus pode chegar até +10 pontos.
+## Aumento de atributos físicos 1* (1 ponto)
+O personagem recebe um bônus de +1 em um de seus atributos físicos por __*ki*__ gasto, podendo chegar até +5 pontos em um de seus atributos, a partir do rank C o bônus pode chegar até +10 pontos.
 
+- **Custo**: **5**
+-  **Bônus**
+-  **+5** em um atributo físico a sua escolha (_FOR_, _CONS_, _AGI_, _DES_)
+- **Efeitos Adicionais**
+- (**+10** a partir do rank D a um custo adicional de **+5** __*ki*__)
 
+## Aumento de atributos físicos 2* (2 pontos)
+O personagem recebe um bônus de +1 em todos os seus atributos físicos por __*ki*__ gasto, podendo chegar até +5 pontos em todos os seus atributos, a partir do rank C o bônus pode chegar até +10 pontos.
+
+> **Observações**  
+> Requer aprimoramento _Aumento de atributos físicos 1_.
+
+- **Custo**: **5**
+- **Bônus**:
+  - _FOR_: **+5** 
+  - _CONS_: **+5** 
+  - _AGI_: **+5** 
+  - _DES_: **+5** 
+  - **Efeitos Adicionais**
+- (**+10** a partir do rank D a um custo adicional de **+5** __*ki*__)
 
 ## Duro de matar (1 ponto)
 O personagem continua em pé lutando, mesmo estando com _PVs_ negativos.
