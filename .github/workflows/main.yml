@@ -38,7 +38,7 @@ jobs:
           IS_TAG: ${{ startsWith(github.ref, 'refs/tags/v') }}
         run: |
           export
-          if [[ $IS_TAG -eq "true" ]] 
+          if [[ "$IS_TAG" -eq "true" ]] 
           then
               echo "PreRelease=false" >> $GITHUB_ENV
           else
