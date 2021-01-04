@@ -38,6 +38,11 @@ jobs:
           markdown_dir: doc
           output_dir: dist
       
+      - name: test
+        run: |
+          ls
+          ls ./doc
+          
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
