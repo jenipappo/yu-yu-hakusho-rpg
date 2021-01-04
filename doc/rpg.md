@@ -493,6 +493,12 @@ O personagem recebe um bônus de _IP_: **+5**, ao **Custo**: **5** __*ki*__; a p
 ## Força espiritual* (1 ponto)
 O personagem recebe um bônus de _DANO_: **+5**, ao **Custo**: **5** __*ki*__; a partir do rank C, o personagem recebe um bônus de _DANO_: **+10**, ao **Custo**: **10** __*ki*__.
 
+- **Custo**: **5** __*ki*__
+-  **Bônus**
+  - _DANO_: **+5** 
+- **Custo**: **10** __*ki*__ a partir do rank C
+-  **Bônus**
+  - _DANO_: **+10**
 
 ## Aura espiritual* (3 pontos)
 O personagem recebe um bônus de _IP_: **+5** e  _DANO_: **+5**, ao **Custo**: **5** __*ki*__; a partir do rank C, o personagem recebe um bônus de _IP_: **+10** e  _DANO_: **+10**, ao **Custo**: **10** __*ki*__; a partir do rank A, o personagem recebe um bônus de _IP_: **+15** e  _DANO_: **+10**, ao **Custo**: **10** __*ki*__.
