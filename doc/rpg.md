@@ -350,16 +350,19 @@ Oni com aparência humana, mas com o poder e tempo de vida de um oni.
 **Aprimoramentos**
 - Doutrinado (2)
 
-## Oni Monstruosos
-Oni com aparência grotesca, o oni mais comum de se ver no ma-kai. O oni monstruoso tem um bônus de +5 em força e constituição.
+## Oni Monstruoso (3 pontos)
+Oni com aparência grotesca, o oni mais comum de se ver no ma-kai.
 
-**Custo**: 3 pontos  
+- **Bônus**
+  - _FOR_: **+5**
+  - _CONS_: **+5** 
 **Aprimoramentos**
 - Doutrinado (2)
 - Estrutura corpórea aprimorada* (4)
 - Monstruoso redutor de -5 em carisma* (-1)
 - Má fama rei-kai (-2) 
 
+<br>
 ## Descendente de Clã Maligno (7 pontos)
 Criatura que detém poderes incríveis, portador do sangue da tribo do mal. O personagem precisa morrer a partir do rank A para ressuscitar com este poder e só consegue controlar a transformação a partir do rank S.
 
