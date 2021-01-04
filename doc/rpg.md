@@ -251,8 +251,11 @@ O personagem só pode ter 2 doutrinas diferentes e caso maximize as duas, e cont
 ### **Aumento dos níveis de doutrinas**
 Um bônus que aumenta o nível das doutrinas não é cumulativo com nenhum outro bônus que aumente o nível das doutrinas. Ex: Fúria e forma reencarnado.
 
-### **Morte**
-O personagem morre quando passa de -15 _PVs_ e + (-1 _PV_) por nível de personagem. 
+### **Desacordado**
+O personagem fica _Desacordado_ quando seu _PV_ chega a zero, não podendo executar mais nenhuma ação. Enquanto _Desacordado_, o personagem recupera _PV_ passivamente e recobra a consciência quando seu _PV_ volta a ficar positivo.
+
+### **Morto**
+O personagem morre quando acumula dano suficiente para ficar com **-15** _PV_ e **-1** por nível. Este é o fim da jornada do personagem e sua ficha deve ser descartada.
 
 ### **Fúria**
 O mestre decidirá quando o personagem entrará neste estado, geralmente é causado por alguma grande perda, alguns casos de desespero ou humilhação. A fúria fornece um bônus de +10 em todos os seus atributos físicos, _PVs_, rei-ki ou you-ki, _IP_, dano e as doutrinas são elevadas um rank acima mesmo no rank S Supremo.
