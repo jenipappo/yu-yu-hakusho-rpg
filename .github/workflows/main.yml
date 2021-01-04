@@ -29,9 +29,8 @@ jobs:
           output_dir: dist
           build_html: false
           
-      - name: Versionning
+      - name: Versioning
         run: |
-          git fetch --unshallow 
           dotnet tool install -g GitVersion.Tool --version=5.6.0 
           dotnet gitversion /output json /config "${{ github.workspace }}/GitVersion.yml"
           echo "SemVer=$(dotnet gitversion /output json /config "${{ github.workspace }}/GitVersion.yml" /showvariable SemVer /verbosity Quiet)" >> $GITHUB_ENV
