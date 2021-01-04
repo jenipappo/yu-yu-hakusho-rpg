@@ -22,12 +22,16 @@ jobs:
           output_dir: dist
           build_html: false
           
-      - name: GitVersion
-        run: |
-          git fetch --unshallow 
-          dotnet tool install -g GitVersion.Tool --version=5.6.0 
-          dotnet gitversion /output json /config "${{ github.workspace }}/GitVersion.yml"
-          echo "SemVer=$(dotnet gitversion /output json /config "${{ github.workspace }}/GitVersion.yml" /showvariable SemVer /verbosity Quiet)" >> $GITHUB_ENV
+      - name: Versionning
+      #   run: |
+      #     git fetch --unshallow 
+      #     dotnet tool install -g GitVersion.Tool --version=5.6.0 
+      #     dotnet gitversion /output json /config "${{ github.workspace }}/GitVersion.yml"
+      #     echo "SemVer=$(dotnet gitversion /output json /config "${{ github.workspace }}/GitVersion.yml" /showvariable SemVer /verbosity Quiet)" >> $GITHUB_ENV
+        id: version
+        uses: paulhatch/semantic-version@v3.2
+        with:
+          change_path: "doc"
 
       - name: 📋 Get Commits since last Release
         id: changes
