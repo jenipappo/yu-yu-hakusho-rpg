@@ -2607,7 +2607,7 @@ O personagem lança um raio contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+18** e **+21** por rank
-- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
 
