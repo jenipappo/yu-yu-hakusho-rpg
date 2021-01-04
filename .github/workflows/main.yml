@@ -3,11 +3,12 @@ name: Document Publish
 
 on:
   push:
-    paths:
-      - 'doc/**'
-
-    tags:
-      - 'v*'       
+    branches:
+      - main
+    paths-ignore:
+      - '.github/workflows/main.yaml'
+      - 'README.MD'
+      - LICENSE
       
   workflow_dispatch:
 
