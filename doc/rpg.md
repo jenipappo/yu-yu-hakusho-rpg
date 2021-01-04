@@ -404,7 +404,7 @@ O personagem em momentos críticos pode elevar de forma grandiosa o seu poder.
   - _KI_: **+5** 
   - _IP_: **+3** 
 - **Efeitos Adicionais**
-  - Eleva as doutrinas e aprimooramentos em **1** rank, mesmo no rank S Supremo
+  - Eleva as doutrinas e aprimoramentos em **1** rank, mesmo no rank S Supremo
 
 ## Energia vital (1 ponto)
 O personagem pode converter 2 _PVs_ em 1 de __*ki*__, esta manobra só pode ser usada uma vez por luta, e no máximo pode ser gasto 20 _PVs_, a partir do rank C pode ser gasto no máximo 40 _PVs_.
@@ -2781,7 +2781,7 @@ O personagem invoca a aura dos anjos sobre si podendo voar, aprimorando o poder 
   - Dano: **+15**
 - **Efeitos Adicionais**
   - Se desloca com **2** vezes o deslocamento
-  - Eleva as doutrinas e aprimooramentos em **1** rank, mesmo no rank S Supremo
+  - Eleva as doutrinas e aprimoramentos em **1** rank, mesmo no rank S Supremo
 
 <br>
 
