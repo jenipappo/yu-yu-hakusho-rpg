@@ -23,8 +23,6 @@ jobs:
         with:
           input_dir: doc
           output_dir: dist
-          images_dir: img
-          images_path: ./images
           build_html: false
           
       - name: Setup GitVersion

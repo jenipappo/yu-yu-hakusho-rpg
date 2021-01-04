@@ -2,7 +2,7 @@
 
 <br>
 
-![Yu Yu Hakusho RPG Logo](./images/yuyuhakusho.jpg)
+![Yu Yu Hakusho RPG Logo](https://raw.githubusercontent.com/jenipappo/yu-yu-hakusho-rpg/main/img/yuyuhakusho.jpg)
 
 
 <br>
