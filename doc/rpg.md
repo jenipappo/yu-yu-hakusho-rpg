@@ -300,6 +300,13 @@ O personagem ganha **+1** _Ataques Adicionais_.
 ### **Destreza 50**
 O personagem ganha **+1** _Ataques Adicionais_.
 
+### **Canalização**
+_Canalização_ é um efeito em que o personagem concentra seu poder por um periodo de tempo antes de desferir um _Efeito_, _Disparo_ ou _Encantamento_. 
+
+O __*ki*__ é sempre consumido imediatamente após o inicio da _Canalização_, sendo assim, é gasto mesmo que não seja finalizada. O resultado da invocação ocorre imediatamente após o fim do periodo de _Canalização. 
+
+Uma _Canalização_ apenas pode ser interrompida por um efeito ou evento que impeça o personagem de realizar uma ação.  _Paralizar_, _Desacordado_ e _Morte_ são alguns exemplos de efeitos que cancelam a _Canalização_.
+
 ### **Novas Perícias**
 - CONHECIMENTO DE DOUTRINAS (0)
 - CONHECIMENTO DE ONIS (0)
