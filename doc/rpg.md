@@ -406,16 +406,28 @@ O personagem em momentos críticos pode elevar de forma grandiosa o seu poder.
 - **Efeitos Adicionais**
   - Eleva as doutrinas e aprimooramentos em **1** rank, mesmo no rank S Supremo
 
-
 ## Energia vital (1 ponto)
 O personagem pode converter 2 _PVs_ em 1 de __*ki*__, esta manobra só pode ser usada uma vez por luta, e no máximo pode ser gasto 20 _PVs_, a partir do rank C pode ser gasto no máximo 40 _PVs_.
 
 ## Mestre (1 ponto)
 O personagem pode contar com um tutor bastante experiente e forte para doutriná-lo e ajudá-lo quando for realmente necessário.
 
-## Deslocamento avançado* (1 a 2 pontos) 
-- **1 ponto**: O personagem pode saltar até 10 metros, 15 metros no rank B, 20 metros no rank S. 
-- **2 pontos**: O personagem pode voar, o vôo tem o dobro do deslocamento da terra. Custa 3 de __*ki*__.
+## Saltar (1 ponto)
+O personagem pode saltar longas distâncias.
+
+  - **Custo**: **0** __*ki*__
+  - **Duração**:" **1** cena
+  - **Efeitos Adicionais**
+    - Salta até **10** metros, **15** metros no rank B e **20** metros no rank S
+
+## Voar (2 pontos)
+O personagem pode voar.
+
+  - **Custo**: **3** __*ki*__
+  - **Duração**:" **1** cena
+  - **Efeitos Adicionais**
+    - Voa com o dobro do deslocamento
+    - _Saltar_
 
 ## Criar área de batalha* (2 pontos)
 O personagem pode criar um campo de batalha semelhante ao efeito esfriar da doutrina do gelo, mas não é necessário que seja um campo de gelo pode ser qualquer outro efeito visual. O personagem recebe um bônus de +5% no ataque e na defesa por rank. Custa 2 de __*ki*__ e +1 de __*ki*__ para cada rank acima do rank E. 
