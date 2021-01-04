@@ -377,8 +377,7 @@ Criatura que detém poderes incríveis, portador do sangue da tribo do mal. O de
 <br>
 
 > **Observações**
-> 1. Quando for encontrado um `*` após o nome dos aprimoramentos, quer dizer que elas duram toda a luta ou cena.
-> 0. O tamanho dos campos, criados pelas doutrinas e aprimoramentos, tem um raio de 25 metros por rank e uma altura de 5 metros por rank, o campo acompanha o personagem.
+> O tamanho dos campos, criados pelas doutrinas e aprimoramentos, tem um raio de 25 metros por rank e uma altura de 5 metros por rank, o campo acompanha o personagem.
 
 <br>
 
@@ -391,13 +390,16 @@ O personagem passou por um rigoroso treinamento e está apto a usar doutrinas.
 - **Efeitos Adicionais**
   - Concede **+2** _Pontos de Doutrina_ adicionais 
 
-## Capacidade de extrair os 120% da força* (2 pontos)
+<br>
+
+## Capacidade de Extrair 120% da Força (2 pontos)
 O personagem em momentos críticos pode elevar de forma grandiosa o seu poder.
 
 > **Observações**  
 > 1. Não pode ser adquirido por personagens das raças _Reencarnado_ ou _Descendente de Clã Maligno_.
 > 0. Apenas disponível a partir do rank B. Inicialmente, apenas o **narrador** pode decidir quando ativar este poder. Do rank A em diante o jogador pode ativá-lo quando desejar. 
 
+- **Duração**: **1** cena
 - **Bônus**
   - _FOR_: **+5** 
   - _CONS_: **+5** 
@@ -409,26 +411,34 @@ O personagem em momentos críticos pode elevar de forma grandiosa o seu poder.
 - **Efeitos Adicionais**
   - Eleva as doutrinas e aprimoramentos em **1** rank, mesmo no rank S Supremo
 
-## Energia vital (1 ponto)
+<br>
+
+## Energia Vital (1 ponto)
 O personagem pode converter seus pontos de vida em __*ki*__.
 
 > **Observações**  
 > 1. Este aprimoramento só pode ser ativado uma vez por luta.
 > 0. A quantidade máxima de _PVS_ pagos para ativar esse aprimoramento é de 20 _PVS_ no máximo e aumentando para 40 _PVS_ máximos a partir do rank C.
-> 
+
 - **Bônus**
     - _KI_: **+1** a cada 2 _PVS_ gastos
-  
+
+<br>
+
 ## Mestre (1 ponto)
 O personagem pode contar com um tutor bastante experiente e forte para doutriná-lo e ajudá-lo quando for realmente necessário.
+
+<br>
 
 ## Saltar (1 ponto)
 O personagem pode saltar longas distâncias.
 
   - **Custo**: **0** __*ki*__
-  - **Duração**:" **1** cena
+  - **Duração**: **1** cena
   - **Efeitos Adicionais**
     - Salta até **10** metros, **15** metros no rank B e **20** metros no rank S
+
+<br>
 
 ## Voar (2 pontos)
 O personagem pode voar.
@@ -437,38 +447,46 @@ O personagem pode voar.
 > Caso já possua _Saltar_, o **jogador** pode aprender este aprimoramento por apenas **1** ponto.
 
   - **Custo**: **3** __*ki*__
-  - **Duração**:" **1** cena
+  - **Duração**: **1** cena
   - **Efeitos Adicionais**
     - Voa com o dobro do deslocamento
     - _Saltar_
 
-## Criar campo de batalha* (2 pontos)
-O personagem cria um campo de batalha semelhante ao efeito esfriar da doutrina do gelo, mas não necessariamente com esse mesmo elemento. O efeito visual deve ser combinado entre o **narrador** e o **jogador**. 
+<br>
+
+## Criar Campo de Batalha (2 pontos)
+O personagem cria um campo de batalha que concede bônus de _ATQ_ e _DEF_. O efeito visual deve ser combinado entre o **narrador** e o **jogador**. 
 
   - **Custo**: **2** __*ki*__ e **+1** por rank 
-  - **Duração**:" **1** cena
+  - **Duração**: **1** cena
   - **Bônus**
     - _ATQ_: **+5%** por rank
     - _DEF_: **+5%** por rank
   
 
-## Criar arma espiritual* (2 pontos)
+<br>
+
+## Criar Arma Espiritual (2 pontos)
 O personagem cria uma arma ou energiza seus golpes corpo a corpo com energia espiritual. 
 
 - **Custo**: **4** __*ki*__ e **+1** por rank
-- **Duração**:" **1** cena
+- **Duração**: **1** cena
 - **Bônus**
   - Dano da arma ou dos **2D6+4** e **+1D6** por rank
 
-## Último recurso (1 ponto)
+<br>
+
+## Último Recurso (1 ponto)
 O personagem pode acessar o próximo nível de sua doutrina durante a batalha.
 
 - **Bônus**
   - O personagem pode usar o próximo nível de uma de suas doutrinas e a doutrina escolhida contará como um rank acima do atual.
 - **Efeitos Adicionais**
-  - A próxima doutrina a ser executada custará seu valor de __*ki*__, o restante da reserva de __*ki*__ e mais 5 _PVS_.
-  
-## Ataques múltiplos (2 pontos) 
+  - A próxima doutrina a ser executada custará seu valor de __*ki*__, o restante da reserva de __*ki*__ e mais **5** _PV_.
+
+<br>
+
+## Ataques Múltiplos (2 pontos) 
 O personagem executar golpes adicionais num mesmo turno.
 
 > **Observações**  
@@ -478,76 +496,88 @@ O personagem executar golpes adicionais num mesmo turno.
 - **Bônus**
   - **+1** golpe adicional por rank
 
+<br>
+
 ## Sensitivo (1 ponto)
 O personagem pode sentir o __*ki*__ das pessoas em um raio de 100 metros por rank e ter uma estimativa do poder dessas pessoas, além de poder sentir o tipo de __*ki*__ se é maligno ou benigno.
 
-## Resistência espiritual* (1 ponto)
+<br>
+
+## Resistência Espiritual (1 ponto)
 O personagem recebe um bônus de _IP_, aumentando o bônus a medida alcança novos ranks. 
 
-- **Custo**: **5** __*ki*__
--  **Bônus**
-  - _IP_: **+5** 
-- **Custo**: **10** __*ki*__ a partir do rank C
--  **Bônus**
+- **Duração**: **1** cena
+- **Custo**: **5** __*ki*__ (**10** a partir do rank C)
+- **Bônus**
+  - _IP_: **+5**
+- **Bônus Rank C**
   - _IP_: **+10**
-- **Custo**: **10** __*ki*__ a partir do rank A
--  **Bônus**
-  - _IP_: **+15** 
+- **Bônus Rank A**
+  - _IP_: **+15**
 
-## Força espiritual* (1 ponto)
+<br>
+
+## Força Espiritual (1 ponto)
 O personagem recebe um bônus de _DANO_, aumentando o bônus a medida alcança novos ranks.
 
-- **Custo**: **5** __*ki*__
--  **Bônus**
-  - _DANO_: **+5** 
-- **Custo**: **10** __*ki*__ a partir do rank C
--  **Bônus**
+- **Duração**: **1** cena
+- **Custo**: **5** __*ki*__ (**10** a partir do rank C)
+- **Bônus**
+  - _DANO_: **+5**
+- **Bônus Rank C**
   - _DANO_: **+10**
 
-## Aura espiritual* (3 pontos)
+<br>
+
+## Aura Espiritual (3 pontos)
 O personagem recebe um bônus de _IP_ e  _DANO_, aumentando o bônus a medida alcança novos ranks.
 
-- **Custo**: **5** __*ki*__
--  **Bônus**
-  - _IP_: **+5** 
+- **Duração**: **1** cena
+- **Custo**: **5** __*ki*__ (**10** a partir do rank C)
+- **Bônus**
+  - _IP_: **+5**
   - _DANO_: **+5**
-- **Custo**: **10** __*ki*__ a partir do rank C
--  **Bônus**
+- **Bônus Rank C**
   - _IP_: **+10**
   - _DANO_: **+10**
-- **Custo**: **10** __*ki*__ a partir do rank A
--  **Bônus**
+- **Bônus Rank A**
   - _IP_: **+15**
   - _DANO_: **+10**
 
-## Aumento de atributos físicos 1* (1 ponto)
-O personagem recebe um bônus de +1 em um de seus atributos físicos por __*ki*__ gasto, podendo chegar até +5 pontos em um de seus atributos, a partir do rank C o bônus pode chegar até +10 pontos.
+<br>
 
-- **Custo**: **5**
--  **Bônus**
--  **+5** em um atributo físico a sua escolha (_FOR_, _CONS_, _AGI_, _DES_)
-- **Efeitos Adicionais**
-- (**+10** a partir do rank D a um custo adicional de **+5** __*ki*__)
+## Aumento de Atributos Físicos 1 (1 ponto)
+O personagem recebe um bônus em seus atributos físicos. 
 
-## Aumento de atributos físicos 2* (2 pontos)
-O personagem recebe um bônus de +1 em todos os seus atributos físicos por __*ki*__ gasto, podendo chegar até +5 pontos em todos os seus atributos, a partir do rank C o bônus pode chegar até +10 pontos.
+- **Duração**: **1** cena
+- **Custo**: **5** __*ki*__ (**10** a partir do rank D)
+- **Bônus**
+  - _FOR_ ou _CONS_ ou _AGI_ ou _DES_: **+5** (**+10** a partir do rank D)
+
+<br>
+
+## Aumento de Atributos Físicos 2 (2 pontos)
+O personagem recebe um bônus em todos os seus atributos físicos. 
 
 > **Observações**  
-> Requer aprimoramento _Aumento de atributos físicos 1_.
+> Requer aprimoramento _Aumento de Atributos Físicos 1_.
 
-- **Custo**: **5**
+- **Duração**: **1** cena
+- **Custo**: **5** __*ki*__ (**10** a partir do rank D)
 - **Bônus**:
-  - _FOR_: **+5** 
-  - _CONS_: **+5** 
-  - _AGI_: **+5** 
-  - _DES_: **+5** 
-  - **Efeitos Adicionais**
-- (**+10** a partir do rank D a um custo adicional de **+5** __*ki*__)
+  - _FOR_: **+5** (**+10** a partir do rank D)
+  - _CONS_: **+5** (**+10** a partir do rank D)
+  - _AGI_: **+5** (**+10** a partir do rank D)
+  - _DES_: **+5** (**+10** a partir do rank D)
 
-## Duro de matar (1 ponto)
+<br>
+
+## Duro de Matar (1 ponto)
 O personagem possui uma persistência de luta fora do normal, ficando em pé mesmo quando deveria estar _Desacordado_.
 
-## Vitalidade extra 1 (1 ponto)
+<br>
+
+## Vitalidade Extra 1 (1 ponto)
 O personagem possui uma vitalidade maior que o normal.
 
 > **Observações**  
@@ -557,8 +587,9 @@ O personagem possui uma vitalidade maior que o normal.
 - **Efeitos Adicionais**
   - O personagem ganha **+12** __PV__
 
+<br>
 
-## Vitalidade extra 2 (1 ponto)
+## Vitalidade Extra 2 (1 ponto)
 O personagem possui uma vitalidade muito maior que o comum.
 
 > **Observações**  
@@ -569,7 +600,9 @@ O personagem possui uma vitalidade muito maior que o comum.
 - **Efeitos Adicionais**
   - O personagem ganha **+30** __PV__
 
-## Energia espiritual extra 1(1 ponto)
+<br>
+
+## Energia Espiritual Extra 1 (1 ponto)
 
 O personagem possui uma energia espiritual maior que o normal.
 
@@ -580,7 +613,9 @@ O personagem possui uma energia espiritual maior que o normal.
 - **Efeitos Adicionais**
   - O personagem ganha **+6** __*ki*__
 
-## Energia espiritual extra 2 (1 ponto)
+<br>
+
+## Energia Espiritual Extra 2 (1 ponto)
 
 O personagem possui uma energia espiritual muito maior que o normal.
 
@@ -589,10 +624,10 @@ O personagem possui uma energia espiritual muito maior que o normal.
 > 0. Este aprimoramento pode ser comprado até o máximo de **2** vezes
 > 0. O aprimoramento só pode ser comprado a cada **3** níveis.
 
-
 - **Efeitos Adicionais**
   - O personagem ganha **+15** __*ki*__
 
+<br>
 
 ## Evasão (1 ponto)
 O personalidade possui habilidades de esquiva que vão além do normal, podendo esquivar completamente de um disparo.
@@ -600,14 +635,18 @@ O personalidade possui habilidades de esquiva que vão além do normal, podendo 
 - **Efeitos Adicionais**
   - O personagem consegue fugir completamente de um disparo se conseguir um acerto crítico num teste crítico de _AGI_ (1/4 de _AGI_ com máximo de 25).
 
-## Disparo aprimorado 1 (0 pontos)
+<br>
+
+## Disparo Aprimorado 1 (0 pontos)
 O personagem possui habilidades diferenciadas em seu disparo que dificultam a sua absorção pelos inimigos.
 
 - **Custo**: **+1** __*ki*__ (**+1** a partir de doutrina nível 4).
 - **Efeitos Adicionais**
   - **50%** do dano causado pelo seu disparo não pode ser reduzido com _IP_
- 
-## Disparo aprimorado 2 (1 ponto)
+
+<br>
+
+## Disparo Aprimorado 2 (1 ponto)
 O personagem possui habilidades diferenciadas em seu disparo que dificultam a sua absorção pelos inimigos.
 
 > **Observações**  
@@ -618,20 +657,23 @@ O personagem possui habilidades diferenciadas em seu disparo que dificultam a su
   - **60%** do dano causado pelo seu disparo não pode ser reduzido com _IP_
   - O seu disparo não pode ser neutralizado por outras disciplinas.
 
-## Disparo aprimorado 3 (1 ponto)
+<br>
+
+## Disparo Aprimorado 3 (1 ponto)
 O personagem possui habilidades diferenciadas em seu disparo que dificultam a sua absorção pelos inimigos.
  
 > **Observações**  
 > 1. Requer o aprimoramento _Disparo Aprimorado 2_
 
 - **Custo**: **+1** __*ki*__ (**+1** a partir de doutrina nível 4).
-- 
 - **Efeitos Adicionais**
   - **70%** do dano causado pelo seu disparo não pode ser reduzido com _IP_
   - O seu disparo não pode ser neutralizado por outras disciplinas
   - Seu disparo é mais difícil de ser desviado causando um redutor de **-5%** de chance de esquiva por rank ao inimigo.
 
-## Treinamento árduo (2 pontos)
+<br>
+
+## Treinamento Árduo (2 pontos)
 O personagem passou por um treino rigoroso, tornando-o mais capacitado que o normal.
 
 > **Observações**  
@@ -641,8 +683,9 @@ O personagem passou por um treino rigoroso, tornando-o mais capacitado que o nor
 - **Efeitos Adicionais**
   - O personagem ganha **+1** ponto em uma de suas doutrinas.
 
+<br>
 
-## Aparar golpes (1 ponto)
+## Aparar Golpes (1 ponto)
 A partir do quarto ataque corpo a corpo sofrido o personagem poderá fazer um teste de aparar para evitar o gole.
  
 > **Observações**  
@@ -658,6 +701,7 @@ A partir do quarto ataque corpo a corpo sofrido o personagem poderá fazer um te
 <div style="page-break-after: always; visibility: hidden"></div>
 
 # Aprimoramentos Negativos
+
 <br>
 
 > **Observações**  
@@ -665,47 +709,80 @@ A partir do quarto ataque corpo a corpo sofrido o personagem poderá fazer um te
 > 0. Cada aprimoramento negativo lhe dará um valor correspondente (entre parênteses)
 > 0. Os aprimoramentos negativos possuem algum tipo de ônus que irá incidir em seu personagem. Alguns podem ser ônus sociais ou até mesmo ônus em termos de custos de _KI_ para execução de uma disciplina. Cabe ao **jogador** balancear os seus aprimoramentos negativos e ao **narrador** cobrar os ônus destes.
 
-## Detetive sobrenatural (2 pontos)
+<br>
+
+<br>
+
+## Detetive Sobrenatural (2 pontos)
 O personagem deve favores ao mundo espiritual e sempre está sujeito as ordens do Rei-Kai.
 
+<br>
 
-## Inimigo (1 a 2 pontos)
-- **1 ponto**: Seu personagem tem um inimigo do mesmo rank.
-- **2 pontos**: Seu personagem tem dois inimigos do mesmo rank, ou um inimigo um rank acima.
+## Inimigo 1 (1 ponto)
+Seu personagem tem um inimigo do mesmo rank.
+
+<br>
+
+## Inimigo 2 (2 pontos)
+Seu personagem tem dois inimigos do mesmo rank, ou um inimigo um rank acima.
+
+<br>
 
 ## Caçado (3 pontos)
 O personagem é caçada por um dos reinos Rei-Kai, Ma-Kai ou Mei-Kai 
 
-## Mal instruído (3 pontos)
+<br>
+
+## Mal Instruído (3 pontos)
 O personagem não teve um bom treinamento e ele não controla bem o seu __*ki*__. 
 
 - **Ônus**
   - _KI_: **+2** de custo para todas as disciplinas e aprimoramentos
 
-## Código de honra dos heróis (1 ponto)
+<br>
+
+## Código de Honra dos Heróis (1 ponto)
 O personagem sente que tem o dever de sempre ajudar as pessoas.
 
-## Código de honra da honestidade (1 ponto)
+<br>
+
+## Código de Honra da Honestidade (1 ponto)
 O personagem sempre fará o que puder para competir em condições iguais, nunca mentir e nem atacar alguém indefeso ou caído.
 
-## Código de honra dos cavaleiros (1 ponto)
+<br>
+
+## Código de Honra dos Cavaleiros (1 ponto)
 O personagem jamais baterá em uma mulher, e nem permitirá alguém a fazê-lo.
 
-## Incapaz de ocultar o __*ki*__ (1 ponto)
+<br>
+
+## Incapaz de Ocultar o Ki (1 ponto)
 O personagem não foi bem doutrinada ou ele não tem capacidade de controlar sua energia, por isso não pode ocultar o seu __*ki*__.
+
+<br>
 
 ## Odiado (2 pontos)
 O personagem sofre um imenso preconceito com certo tipo de raça ou pessoas de um certo lugar, e essas pessoas farão o possível para fazer a sua vida se tornar um inferno.
 
-## Excesso de confiança (1 ponto)
+<br>
+
+## Excesso de Confiança (1 ponto)
 O personagem acha que suas habilidades são ilimitadas, e nunca vai se dar por vencido e nem fugirá de um desafio.
 
-## Sede de sangue (1 ponto)
+<br>
+
+## Sede de Sangue (1 ponto)
 O personagem é sádico e gosta de torturar as pessoas e fazê-las sofrer, apenas derrubar o oponente não é o bastante para se divertir de verdade. 
 
-## Má fama (1 a 2 pontos)
-- **1 ponto**: O personagem é malvisto em uma região ou até mesmo em um país.
-- **2 pontos**: O personagem é malvisto em um plano.
+<br>
+
+## Má Fama 1 (1 pontos)
+O personagem é malvisto em uma região ou até mesmo em um país.
+
+<br>
+
+## Má Fama 2 (2 pontos)
+O personagem é malvisto em um plano.
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
