@@ -407,8 +407,15 @@ O personagem em momentos críticos pode elevar de forma grandiosa o seu poder.
   - Eleva as doutrinas e aprimoramentos em **1** rank, mesmo no rank S Supremo
 
 ## Energia vital (1 ponto)
-O personagem pode converter 2 _PVs_ em 1 de __*ki*__, esta manobra só pode ser usada uma vez por luta, e no máximo pode ser gasto 20 _PVs_, a partir do rank C pode ser gasto no máximo 40 _PVs_.
+O personagem pode converter seus pontos de vida em __*ki*__, esta manobra só pode ser usada uma vez por luta, e no máximo pode ser gasto 20 _PVs_, a partir do rank C pode ser gasto no máximo 40 _PVs_.
 
+> **Observações**  
+> 1. Este aprimoramento só pode ser ativado uma vez por luta.
+> 0. A quantidade máxima de _PVS_ pagos para ativar esse aprimoramento é de 20 _PVS_ no máximo e aumentando para 40 _PVS_ máximos a partir do rank C.
+> 
+- **Bônus**
+    - _KI_: **+1** a cada 2 _PVS_ gastos
+  
 ## Mestre (1 ponto)
 O personagem pode contar com um tutor bastante experiente e forte para doutriná-lo e ajudá-lo quando for realmente necessário.
 
