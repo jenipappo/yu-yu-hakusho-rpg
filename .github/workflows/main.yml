@@ -6,12 +6,9 @@ on:
     paths:
       - 'doc/**'
 
-on:
-  push:
     tags:
       - 'v*'       
       
-on:
   workflow_dispatch:
 
 jobs:
