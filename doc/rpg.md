@@ -393,7 +393,7 @@ O personagem em momentos críticos pode elevar de forma grandiosa o seu poder.
 
 > **Observações**  
 > 1. Não pode ser adquirido por personagens das raças _Reencarnado_ ou _Descendente de Clã Maligno_.
-> 0. Apenas disponível a partir do rank B. Inicialmente, apenas o __*mestre*__ pode decidir quando ativar este poder. Do rank A em diante o jogador pode ativá-lo quando desejar. 
+> 0. Apenas disponível a partir do rank B. Inicialmente, apenas o **narrador** pode decidir quando ativar este poder. Do rank A em diante o jogador pode ativá-lo quando desejar. 
 
 - **Bônus**
   - _FOR_: **+5** 
@@ -407,7 +407,7 @@ O personagem em momentos críticos pode elevar de forma grandiosa o seu poder.
   - Eleva as doutrinas e aprimoramentos em **1** rank, mesmo no rank S Supremo
 
 ## Energia vital (1 ponto)
-O personagem pode converter seus pontos de vida em __*ki*__, esta manobra só pode ser usada uma vez por luta, e no máximo pode ser gasto 20 _PVs_, a partir do rank C pode ser gasto no máximo 40 _PVs_.
+O personagem pode converter seus pontos de vida em __*ki*__.
 
 > **Observações**  
 > 1. Este aprimoramento só pode ser ativado uma vez por luta.
@@ -436,8 +436,15 @@ O personagem pode voar.
     - Voa com o dobro do deslocamento
     - _Saltar_
 
-## Criar área de batalha* (2 pontos)
-O personagem pode criar um campo de batalha semelhante ao efeito esfriar da doutrina do gelo, mas não é necessário que seja um campo de gelo pode ser qualquer outro efeito visual. O personagem recebe um bônus de +5% no ataque e na defesa por rank. Custa 2 de __*ki*__ e +1 de __*ki*__ para cada rank acima do rank E. 
+## Criar campo de batalha* (2 pontos)
+O personagem cria um campo de batalha semelhante ao efeito esfriar da doutrina do gelo, mas não necessariamente com esse mesmo elemento. O efeito visual deve ser combinado entre o **narrador** e o **jogador**. 
+
+  - **Custo**: **2** __*ki*__ e **+1** por rank 
+  - **Duração**:" **1** cena
+  - - **Bônus**
+  - _ATQ_: **+5%** por rank
+  - _DEF_: **+5%** por rank
+  
 
 ## Criar arma espiritual* (2 pontos)
 O personagem pode criar uma arma ou energizar os golpes corpo a corpo com energia espiritual, semelhante a qualquer doutrina que cause o dano da arma ou dos punhos 2D6+2 de dano e +1D6 de dano por rank; ou amplia a arma espiritual causando 2D6+4 de dano e +1D6 de dano por rank, a um custo adicional de +1 de __*ki*__. Custa 4 de __*ki*__ +1 de __*ki*__ para cada rank acima do rank E.  
