@@ -22,7 +22,7 @@ jobs:
           output_dir: dist
           build_html: false
           
-      - name: Setup GitVersion
+      - name: GitVersion
         run: |
           git fetch --unshallow 
           dotnet tool install -g GitVersion.Tool --version=5.6.0 
@@ -33,18 +33,6 @@ jobs:
         id: changes
         uses: simbo/changes-since-last-release-action@v1           
       
-      - name: Pre-release check
-        env:
-          IS_TAG: ${{ startsWith(github.ref, 'refs/tags/v') }}
-        run: |
-          export
-          if [[ "$IS_TAG" -eq "true" ]] 
-          then
-              echo "PreRelease=false" >> $GITHUB_ENV
-          else
-              echo "PreRelease=true" >> $GITHUB_ENV
-          fi
-          
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
@@ -55,7 +43,7 @@ jobs:
           release_name: Release ${{ env.SemVer }}
           body: ${{ steps.changes.outputs.log }}
           draft: false
-          prerelease: ${{ env.PreRelease }}
+          prerelease: false
                             
       - name: Upload PDF as Release Asset
         id: upload-release-asset 
