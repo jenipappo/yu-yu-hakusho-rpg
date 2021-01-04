@@ -471,7 +471,6 @@ O personagem executar golpes adicionais num mesmo turno.
 > 1. Caso um dos golpes múltiplos erre o alvo, a manobra acaba.
 
 - **Custo**: N/A
-- **Duração**:N/A
 - **Bônus**
   - **+1** golpe adicional por rank
 
@@ -481,8 +480,19 @@ O personagem pode sentir o __*ki*__ das pessoas em um raio de 100 metros por ran
 ## Resistência espiritual* (1 ponto)
 O personagem recebe um bônus de _IP_: **+5**, ao **Custo**: **5** __*ki*__; a partir do rank C, o personagem recebe um bônus de _IP_: **+10**, ao **Custo**: **10** __*ki*__; a partir do rank A, o personagem recebe um bônus de _IP_: **+15**, ao **Custo**: **10** __*ki*__.
 
+- **Custo**: **5** __*ki*__
+-  **Bônus**
+  - _IP_: **+5** 
+- **Custo**: **10** __*ki*__ a partir do rank C
+-  **Bônus**
+  - _IP_: **+10**
+- **Custo**: **10** __*ki*__ a partir do rank A
+-  **Bônus**
+  - _IP_: **+15** 
+
 ## Força espiritual* (1 ponto)
 O personagem recebe um bônus de _DANO_: **+5**, ao **Custo**: **5** __*ki*__; a partir do rank C, o personagem recebe um bônus de _DANO_: **+10**, ao **Custo**: **10** __*ki*__.
+
 
 ## Aura espiritual* (3 pontos)
 O personagem recebe um bônus de _IP_: **+5** e  _DANO_: **+5**, ao **Custo**: **5** __*ki*__; a partir do rank C, o personagem recebe um bônus de _IP_: **+10** e  _DANO_: **+10**, ao **Custo**: **10** __*ki*__; a partir do rank A, o personagem recebe um bônus de _IP_: **+15** e  _DANO_: **+10**, ao **Custo**: **10** __*ki*__.
