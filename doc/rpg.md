@@ -2389,14 +2389,14 @@ O personagem cria um turbilhão em volta de si mesmo e aplica uma investida cont
 
 <br>
 
+# Doutrinas de NPCs
+
 ## Cura espiritual
 
 <br>
 
 > **Observações**  
-> 1. O pré-requisito desta doutrina é ter a perícia medicina em pelo menos **40%**.
-> 0. Esta doutrina não é apropriada para o combate. 
-> Apenas para NPCs.
+> O pré-requisito desta doutrina é ter a perícia medicina em pelo menos **40%**.
 
 <br>
 
@@ -2475,7 +2475,8 @@ O personagem pode ressuscitar qualquer criatura com a permissão do Rei-kai.
 <br>
 
 > **Observações**  
-> Apenas para NPCs, os níveis desta doutrina não podem ser utilizados na ordem decrescente, os usuários desta doutrina ganham um bônus de +10 na regra de aumento de poder.
+> 1. Os níveis desta doutrina não podem ser utilizados na ordem decrescente. 
+> 0. Usuários desta doutrina ganham um bônus de **+10** na regra de aumento de poder.
 
 <br>
 
@@ -2557,7 +2558,7 @@ Os monstros de rank E que estiverem na distância de 30 metros por rank morrem e
 
 <br>
 
-## Doutrina do exército do Rei-Kai
+## Doutrina do Exército do Rei-Kai
 
 <br>
 
@@ -2601,7 +2602,7 @@ O personagem energiza os punhos amplificando o dano.
 
 <br>
 
-### Nível 4: Abrir/fechar portal
+### Nível 4: Abrir/Fechar Portal
 O personagem pode abrir ou fechar portais que ligam o Ma-kai, Terra (Ningen-kai), Rei-kai. O portal se abre ou fecha gradativamente a cada período de _Canalização_(incrementando ou decrementando o rank do portal)
 
 > **Observações**   
@@ -2646,13 +2647,6 @@ O personagem lança um raio contra o adversário causando dano.
 <br>
 
 ## Lei shu
-
-<br>
-
-> **Observações**  
-> Apenas para NPCs.
-
-<br>
 
 ### Nível 1: Bola arremessável lei shu
 O personagem lança uma bola contra o adversário causando dano.
@@ -2716,12 +2710,13 @@ O personagem lança uma grande bola contra o adversário causando dano.
 <br>
 
 > **Observações** 
-> Disponível apenas para personagens de rank S. O portador deste poder pode atravessar qualquer tipo de barreira.
+> 1. Disponível apenas para personagens de rank S. 
+> 0. O portador deste poder pode atravessar qualquer tipo de barreira.
 
 <br>
 
 ### Nível 1: Armadura dourada
-O personagem cria uma armadura dourada aumentado o seu poder e recebendo um bônus _IP_, _PV_ e dano.
+O personagem cria uma armadura dourada aumentado o seu poder e recebendo um bônus _IP_, _PV_ e _DANO_.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
@@ -2751,7 +2746,7 @@ Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca
 <br>
 
 ### Nível 3: Armadura azul
-O personagem cria uma armadura azul aumentado o seu poder e recebendo um bônus _IP_, _PV_ e dano.
+O personagem cria uma armadura azul aumentado o seu poder e recebendo um bônus _IP_, _PV_ e _DANO_.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
@@ -2774,11 +2769,11 @@ O personagem invoca a aura dos anjos sobre si podendo voar, aprimorando o poder 
 - **Bônus da armadura dourada**
   - _IP_: **+10**
   - _PV_: **+10**
-  - Dano: **+100**
+  - _DANO_: **+100**
 - **Bônus da armadura azul**
   - _IP_: **+15**
   - _PV_: **+15**
-  - Dano: **+15**
+  - _DANO_: **+15**
 - **Efeitos Adicionais**
   - Se desloca com **2** vezes o deslocamento
   - Eleva as doutrinas e aprimoramentos em **1** rank, mesmo no rank S Supremo
