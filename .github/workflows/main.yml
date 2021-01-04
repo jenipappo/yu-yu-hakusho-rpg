@@ -20,13 +20,15 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
  
       - name: Generate PDF
-        uses: mkrakowitzer/actions-makepdfs@v1.3
+        uses: baileyjm02/markdown-to-pdf@v1
         with:
-          markdown_dir: doc
+          input_dir: doc
           output_dir: dist
+          images_dir: img
+          build_html: false
       
       - name: test
         run: |
