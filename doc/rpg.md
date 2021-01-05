@@ -840,8 +840,7 @@ O personagem é malvisto em um plano.
 <br>
 
 > **Obervações**  
-> 1. O campo de fogo dissipa o campo de gelo e vice-versa, sendo necessário reativar novamente um dos campos.  
-> 0. O tamanho dos campos, criados pelas doutrinas e aprimoramentos, tem um raio de 25 metros por rank e uma altura de 5 metros por rank, o campo acompanha o personagem.
+> 1. O tamanho dos campos, criados pelas doutrinas e aprimoramentos, tem um raio de 25 metros por rank e uma altura de 5 metros por rank, o campo acompanha o personagem.
  
 <br>
 <br>
@@ -1168,7 +1167,9 @@ O personagem cria um campo de calor intenso aumentando consideravelmente a tempe
 - **Duração**: **1** cena
 - **Dano**: **+3** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
-
+- **Efeitos Adicionais**
+  - Caso _Esfriar_ esteja ativo, ambos os campos se dissipam. 
+  
 <br>
 
 ### Nível 2: En satsu rengoku shou
@@ -1611,6 +1612,8 @@ O personagem cria um campo de calor intenso aumentando consideravelmente a tempe
 - **Duração**: **1** cena
 - **Dano**: **2** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
+- **Efeitos Adicionais**
+  - Caso _Esfriar_ esteja ativo, ambos os campos se dissipam.
 
 <br>
 
@@ -1823,6 +1826,8 @@ O personagem cria um campo de batalha de gelo que diminui consideravelmente a te
 - **Bônus**
   - _ATQ_: **+5%** por rank
   - _DEF_: **+5%** por rank
+- **Efeitos Adicionais**
+  - Caso _Aquecer_ esteja ativo, ambos os campos se dissipam.
 
 <br>
 
