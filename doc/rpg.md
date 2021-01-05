@@ -2698,87 +2698,100 @@ O personagem cria um turbilhão em volta de si mesmo e aplica uma investida cont
 
 <br>
 
-## Cura espiritual
+## Cirurgião do mundo das trevas
 
 <br>
 
 > **Observações**  
-> O pré-requisito desta doutrina é ter a perícia medicina em pelo menos **40%**.
+> 1. O pré-requisito desta doutrina é ter a perícia medicina em pelo menos **40%**.
+> 0. O cirurgião do mundo das trevas pode implantar o Jagan em seus pacientes.
 
 <br>
 
-### Nível 1: Cura
-O personagem pode curar alguém ferido.
+### Nível 1: Transfusão de energia espiritual
+O personagem pode transferir parte de sua energia espiritual para outra criatura e é capaz de recuperar seu __*ki*__ mais rápido que os demais.
 
-- **Tipo**: Encantamento
-- **Canalização**: **1** rodadas
+- **Tipo**: Buff
+- **Alvos**: **1**
+- **Custo**: **4** __*ki*__ e **+1** por rank  
+- **Cura**: **4** __*ki*__ e **+1** por rank
+- - **Efeitos Adicionais**
+  - Recupera **1** __*ki*__ por rank a cada vinte minutos de descanso.
+  - Durante o combate, recupera **1** __*ki*__ a cada **10** rodadas.
+
+<br>
+
+### Nível 2: Cura Espiritual
+O personagem pode curar alguém ferido, doente ou envenenado.
+
+- **Tipo**: Buff
 - **Alvos**: **1**
 - **Custo**: **5** __*ki*__ e **+1** por rank  
-- **Cura**: **2D6+4** e **+7** por rank
-
-<br>
-
-### Nível 2: Cura 2
-O personagem pode curar alguém ferido.
-
-- **Tipo**: Encantamento
-- **Canalização**: **1** rodadas
-- **Alvos**: **1**
-- **Custo**: **6** __*ki*__ e **+1** por rank  
-- **Cura**: **2D6+5** e **+8** por rank
-
-<br>
-
-### Nível 3: Panacéia
-O personagem pode curar doenças graves e outros efeitos como envenenamento. 
-
-- **Tipo**: Encantamento
-- **Canalização**: **1** rodadas
-- **Alvos**: **1**
-- **Custo**: **6** __*ki*__   
-- **Cura**: N/A
+- **Cura**: **2D6+4** e **+4** por rank
 - **Efeitos Adicionais**
-  - Cura doenças graves e outros efeitos como envenenamento
+  - Cura doenças moderadas e outros efeitos como envenenamento
 
 <br>
 
-### Nível 4: Cura 3
-O personagem pode curar alguém ferido.
+### Nível 3: Navalha Espiritual
+O personagem energiza suas mãos com energia espiritual, tornando-as armas cortantes. O cirurgião é capaz de fazer procedimentos cirúrgicos sem o auxílio de pinças, bisturi e tesoura cirúrgica. O conhecimento avançado de anatomia faz seus golpes serem mais precisos.
 
-- **Tipo**: Encantamento
-- **Canalização**: **1** rodadas
+> **Observações**  
+> 1. Exemplo: O personagem que tiver margem de crítico **17**, passará ter **19**. Margem de crítico máxima **25**
+
+- **Tipo**: Buff
+- **Duração**: **1** cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+4** e **+1D6** por rank 
+- **Custo**: **5** __*ki*__ e **+1** por rank
+- **Efeitos Adicionais**
+  - Aumenta a margem de crítico em dois pontos. 
+
+<br>
+
+### Nível 4: Aperfeiçoamento Físico
+Ao tocar uma criatura, o cirurgião é capaz de extrair o potencial latente dela, tornando-a mais forte, resistente e habilidosa. 
+
+- **Tipo**: Buff
+- **Duração**: **1** cena
 - **Alvos**: **1**
-- **Custo**: **7** __*ki*__ e **+1** por rank  
-- **Cura**: **2D6+6** e **+9** por rank
+- **Custo**: **10** __*ki*__
+- **Bônus**:
+  - _CONS_: **+10**
+  - _FOR_: **+10**
+  - _AGI_: **+10**
+  - _DES_: **+10**
+  - _PV_: **+5** (**+10** a partir do rank C)
+  - _IP_: **+5** (**+10** a partir do rank C)
 
 <br>
 
-### Nível 5: Restauração
-O personagem pode curar alguém ferido.
+### Nível 5: Restauração Completa
+O personagem pode curar alguém ferido, doente ou envenenado.
 
-> **Observação**
-> Não pode ser usado em combate.
- 
-- **Tipo**: Encantamento
+- **Tipo**: Buff
 - **Canalização**: **10** minutos
 - **Alvos**: **1**
-- **Custo**: **20** __*ki*__
-- **Cura**: **4D6+14** e **+19** por rank
+- **Custo**: **20** __*ki*__ 
+- **Cura**: **100%** __*PV*__
+- - **Efeitos Adicionais**
+  - Cura qualquer doença curável e outros efeitos como envenenamento
 
 <br>
 
 ### Nível 6: Ressurreição
 O personagem pode ressuscitar qualquer criatura com a permissão do Rei-kai.
 
-> **Observação**
-> Não pode ser usado em combate.
+> **Observações**  
+> 1.  O alvo ressuscita com **100%** __*PV*__ e __*ki*__.
 
-- **Tipo**: Encantamento
+- **Tipo**: Buff
 - **Canalização**: **1** hora
 - **Alvos**: **1**
-- **Custo**: **100%** __*ki*__
+- **Custo**: **100%** __*ki*__   
+- **Cura**: N/A
 - **Efeitos Adicionais**
-  - Ressuscita o alvo com **100%** __*PV*__ e __*ki*__.
+  - Ressuscita o alvo
 
 <br>
 
