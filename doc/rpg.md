@@ -2710,20 +2710,19 @@ O personagem cria um turbilhão em volta de si mesmo e aplica uma investida cont
 ### Nível 1: Transfusão de energia espiritual
 O personagem pode transferir parte de sua energia espiritual para outra criatura e é capaz de recuperar seu __*ki*__ mais rápido que os demais.
 
-- **Tipo**: Buff
+- **Tipo**: Encantamento
 - **Alvos**: **1**
 - **Custo**: **4** __*ki*__ e **+1** por rank  
 - **Cura**: **4** __*ki*__ e **+1** por rank
-- - **Efeitos Adicionais**
+- **Efeitos Adicionais**
   - Recupera **1** __*ki*__ por rank a cada vinte minutos de descanso.
-  - Durante o combate, recupera **1** __*ki*__ a cada **10** rodadas.
-
+  
 <br>
 
 ### Nível 2: Cura Espiritual
 O personagem pode curar alguém ferido, doente ou envenenado.
 
-- **Tipo**: Buff
+- **Tipo**: Encantamento
 - **Alvos**: **1**
 - **Custo**: **5** __*ki*__ e **+1** por rank  
 - **Cura**: **2D6+4** e **+4** por rank
@@ -2768,12 +2767,12 @@ Ao tocar uma criatura, o cirurgião é capaz de extrair o potencial latente dela
 ### Nível 5: Restauração Completa
 O personagem pode curar alguém ferido, doente ou envenenado.
 
-- **Tipo**: Buff
+- **Tipo**: Encantamento
 - **Canalização**: **10** minutos
 - **Alvos**: **1**
 - **Custo**: **20** __*ki*__ 
 - **Cura**: **100%** __*PV*__
-- - **Efeitos Adicionais**
+- **Efeitos Adicionais**
   - Cura qualquer doença curável e outros efeitos como envenenamento
 
 <br>
@@ -2784,7 +2783,7 @@ O personagem pode ressuscitar qualquer criatura com a permissão do Rei-kai.
 > **Observações**  
 > 1.  O alvo ressuscita com **100%** __*PV*__ e __*ki*__.
 
-- **Tipo**: Buff
+- **Tipo**: Encantamento
 - **Canalização**: **1** hora
 - **Alvos**: **1**
 - **Custo**: **100%** __*ki*__   
