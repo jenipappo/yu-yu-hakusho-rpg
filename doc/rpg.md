@@ -89,23 +89,23 @@ Esse é o lugar onde os espíritos maus vivem, é governado por demônios podero
 
 Os reinos são povoamentos no Ma-Kai. Alguns se tornam grandes cidades cheias de tecnologia e cultura, mas outros servem apenas de moradia para Onis que cansaram de lutar e só querem descanso. O Rei-Kai domina uma pequena parte do Ma-Kai (pequena mesmo) e nessa área foi instituída um posto de vigia e um Portal para os outros mundos, mas pelo qual apenas Soldados de Elite do Mundo Espiritual e Detetives Sobrenaturais podem passar livremente, Doutrinados ou Onis de aparência humana, ou meio-humanos, podem passar apenas caso paguem uma taxa de 500 Zenny. Deste lugar foi demarcado um Ponto Zero do Ma- Kai. A distância para se chegar a um Reino é demarcada a partir deste ponto, no caso demoram X dias para se chegar a um Reino partindo deste Ponto Zero. Existem alguns reinos conhecidos no Ma-Kai:
 
-#### **Reino Gandara**
+#### Reino Gandara
 Um Reino com uma tecnologia muitíssimo avançada.
 - **Quem Domina**: Um demônio de classe S chamado Yomi.
 - **Distancia**: 20 dias.
 
-#### **Reino De Mukuro**
+#### Reino De Mukuro
 
 Um Reino com uma tecnologia um pouco avançada.
 - **Quem Domina**: Um demônio de classe S chamado Mukuro.
 - **Distancia**: 23 dias.
 
-#### **Reino de Reizen**
+#### Reino de Reizen
 Um Reino com pouca tecnologia.
 - **Quem Domina**: Um demônio de classe S chamado Reizen.
 - **Distancia**: 30 dias.
 
-#### **País do Gelo**
+#### País do Gelo
 Um Reino bem isolado, acima das nuvens e muito frio para qualquer monstro ou pessoa normal aguentar por muito tempo, apenas Mulheres do Gelo vivem nesse Reino.
 - **Quem Domina**: Um conselho formado pelas mais velhas Mulheres de Gelo do Reino.
 - **Distancia**: 100 dias, para encontra-lo também precisará da bússola do Detetive Sobrenatural para encontrar o You-ki delas então, ou apenas usando o Jagan, fora isso é impossível, pois o Reino encontra-se acima das nuvens.
@@ -113,7 +113,7 @@ Um Reino bem isolado, acima das nuvens e muito frio para qualquer monstro ou pes
 > **Observacão**  
 Em função baixa temperatura, não se pode permanecer mais que 30 dias no País de Gelo, exceto se o personagem for mestre na Doutrina Gelo.
 
-#### **Outros**
+#### Outros
 Existem vários outros Reinos no mundo das trevas, pois ele é muito grande e o Rei-Kai apenas conhece pouca parte dele, por isso aventureiros podem partir em busca de novos reinos a serem conquistados, mas é melhor irem logo esperando pelo pior...
 
 <br>
@@ -225,19 +225,19 @@ Esse é um mundo parecido com o Ma-Kai, mas é um lugar habitado por demônios p
 > **Observações**  
 Apesar do sistema daemon ter sido alterado para propiciar melhores condições de jogo, as demais regras que não tem neste livro devem ser consultadas no livro trevas 3ª edição.
 
-### **Criação de Personagem**
+### Criação de Personagem
 Os personagens começam com **8** pontos de aprimoramentos, **111** pontos de atributos, atributo máximo inicial é **18**, e podem comprar até **3** pontos de aprimoramentos negativos. O __*ki*__ inicial dos seres despertados é igual a soma da _INT_ + _WILL_ dividida por **4** arredondada para cima.
 
-### **Ataques adicionais**
+### Ataques adicionais
 Algumas doutrinas e atributos elevados permitem o personagem dar ataques adicionais, estes ataques devem ser feitos após o primeiro ataque e depois de todos os ataques adicionais é que deve começar a manobra de ataques múltiplos.
 
-### **Dano mínimo**
+### Dano mínimo
 O personagem causará no mínimo 2 de dano, +1 para cada rank. O dano mínimo não pode ser maior do que o dano máximo. 
 
-### **Dano crítico**
+### Dano crítico
 O dano de armas leves como punhos, bastão, soqueira, faca ou pistolas causam **1D6** de dano, o dano de armas médias como espadas, lanças ou magnum causam **2D6** de dano, e o dano de armas pesadas como machados, espadas largas, tridentes ou rifles causam **3D6** de dano, apenas a quantidade de dano base da arma é dobrada no acerto crítico.
 
-### **Combate**
+### Combate
 Os personagens tem 3 ações no turno: 
 - a ação de movimento; 
 - a ação parcial simples consiste em criar campos, aumentar algum atributo (ex. _IP_, _FOR_, _PV_ ou _ATQ_), criar armas e qualquer coisa do tipo que não vise atingir o oponente diretamente com algo causando dano ou não; 
@@ -245,69 +245,69 @@ Os personagens tem 3 ações no turno:
  
 O personagem pode substituir uma ação parcial complexa por outra simples.
 
-### **Quantidade máxima de doutrinas**
+### Quantidade máxima de doutrinas
 O personagem só pode ter 2 doutrinas diferentes e caso maximize as duas, e continue recebendo pontos de doutrinas quando passar de nível, esses pontos de doutrina se converterão em pontos de aprimoramento.
 
-### **Aumento dos níveis de doutrinas**
+### Aumento dos níveis de doutrinas
 Um bônus que aumenta o nível das doutrinas não é cumulativo com nenhum outro bônus que aumente o nível das doutrinas. Ex: Fúria e forma reencarnado.
 
-### **Desacordado**
+### Desacordado
 O personagem fica _Desacordado_ quando seu _PV_ chega a zero, não podendo executar mais nenhuma ação. Enquanto _Desacordado_, o personagem recupera _PV_ passivamente e recobra a consciência quando seu _PV_ volta a ficar positivo.
 
-### **Morto**
+### Morto
 O personagem morre quando acumula dano suficiente para ficar com **-15** _PV_ e **-1** por nível. Este é o fim da jornada do personagem e sua ficha deve ser descartada.
 
-### **Fúria**
+### Fúria
 O mestre decidirá quando o personagem entrará neste estado, geralmente é causado por alguma grande perda, alguns casos de desespero ou humilhação. A fúria fornece um bônus de +10 em todos os seus atributos físicos, _PVs_, rei-ki ou you-ki, _IP_, dano e as doutrinas são elevadas um rank acima mesmo no rank S Supremo.
 
-### **Aumento de poder**
+### Aumento de poder
 O personagem tem um limite de vezes que pode aumentar seu poder durante um combate, com doutrinas e aprimoramentos que elevam características por __*ki*__ gasto, a limitação é de até 10 vezes o bônus base e mais 5 vezes o bônus base por rank. Algumas doutrinas tem dinâmicas diferentes, exemplo o nível 5 da doutrina adaptação; trate como 15 vezes o bônus base, já que a disciplina custa 15 de __*ki*__. 
 
 > **Observações**  
 > As doutrinas de níveis 1, 2 e 3 só podem aumentar seu bônus base até 5 vezes, e as doutrinas de níveis 4 ou mais podem aumentar seu bônus base até 10 vezes.
 
-### **Recuperar energia**
+### Recuperar energia
 O personagem recupera 1 _PV_ por rank a cada 20 minutos e 1 de __*ki*__ por rank a cada meia hora de descanso.
 
-### **Disputa de rajadas**
+### Disputa de rajadas
 Quando o personagem for alvo de algum disparo ele pode fazer um disparo no turno do oponente, com esta manobra o personagem pula o seu próximo turno. A diferença do dano dos disparos vai atingir o personagem com o disparo mais fraco sem esquiva, a redução do dano com _IP_ é feita normalmente. Não pode haver mais do que 2 rajadas nesta disputa. Este recurso só pode ser utilizado uma vez a cada 5 turnos.
 
-### **Acúmulo de bônus na defesa, no ataque e no teste de resistência de esquiva**
+### Acúmulo de bônus na defesa, no ataque e no teste de resistência de esquiva
 Qualquer bônus que aumente ou diminua a defesa ou ataque não é cumulativo com o mesmo bônus vindo de outras doutrinas ou aprimoramentos, a menos que o texto diga o contrário.
 
-### **Armas de __*ki*__ e outros aumentos de danos**
+### Armas de __*ki*__ e outros aumentos de danos
 O personagem só pode portar um recurso deste tipo por vez, caso use outro o primeiro se dissipará. 
 
 Ex.:(um usuário da doutrina Ka shou rappa Ken, que está com o nível 3 da doutrina ativo, e em seguida usar o nível 5, o nível 3 irá se dissipar, isso também ocorre com qualquer outra doutrina ou aprimoramento do tipo).
 
-### **Regra para acúmulo de bônus em algumas características dos personagens**
+### Regra para acúmulo de bônus em algumas características dos personagens
 Bônus que aumentam ou diminua o _IP_, dano, atributos físicos ou outras características não são cumulativos com o mesmo tipo de bônus a menos que o texto informe ao contrário. 
 
 Ex.: um personagem que tenha duas doutrinas que aumentam o _IP_, uma dessas doutrinas aumenta em +1 de _IP_ por __*ki*__ gasto e a outra aumenta em +2 de _IP_ por __*ki*__ gasto, caso o personagem aumente seu _IP_ em +5 com a sua 1º doutrina e +10 de _IP_ com a sua 2º doutrina, o personagem terá um bônus de +10 de _IP_. A única forma do personagem aumentar ainda mais seu _IP_ é através de outras fontes de poder como fúria, forma reencarnado e outros tipos de fontes. O mesmo é válido para aprimoramentos.
 
-### **Nível 19 - Rank S Supremo**
+### Nível 19 - Rank S Supremo
 Este nível é perfeito para aventuras no Mei-Kai onde tem monstros terríveis, e para que os personagens tenham um nível a mais para ser alcançado, neste nível o personagem ganha +1 ponto de aprimoramento e doutrina, +3 pontos de atributos, +9 pontos de __*ki*__, +18 _PVs_, +75 pontos de perícias, e as doutrinas são elevadas a um rank acima mesmo no rank S, o rank S Supremo é considerado outro rank, trate esta evolução como 3 evoluções normais para poder fazer a ficha do personagem. 
 
-### **Força 50**
+### Força 50
 O personagem pode atacar o adversário a 3 metros de distância por rank, deslocando o ar contra ele com sua imensa força; ganha o aprimoramento _Duro de Matar_. O personagem quando for atingido com um disparo pode fazer o teste de resistência usando sua força em vez de sua agilidade para sofrer metade do dano.
 
-### **Constituição 50**
+### Constituição 50
 O personagem regenera 2 _PV_ por turno, ganha o aprimoramento _Duro de Matar_. O personagem quando for atingido com um disparo pode fazer o teste de resistência usando sua constituição em vez de sua agilidade para sofrer metade do dano.
 
-### **Agilidade 50**
+### Agilidade 50
 O personagem ganha **+1** _Ataques Adicionais_.
 
-### **Destreza 50**
+### Destreza 50
 O personagem ganha **+1** _Ataques Adicionais_.
 
-### **Canalização**
+### Canalização
 _Canalização_ é um efeito em que o personagem concentra seu poder por um periodo de tempo antes de desferir um _Efeito_, _Disparo_ ou _Encantamento_. 
 
 O __*ki*__ é sempre consumido imediatamente após o inicio da _Canalização_, sendo assim, é gasto mesmo que não seja finalizada. O resultado da invocação ocorre imediatamente após o fim do periodo de _Canalização. 
 
 Uma _Canalização_ apenas pode ser interrompida por um efeito ou evento que impeça o personagem de realizar uma ação.  _Paralizar_, _Desacordado_ e _Morte_ são alguns exemplos de efeitos que cancelam a _Canalização_.
 
-### **Novas Perícias**
+### Novas Perícias
 - CONHECIMENTO DE DOUTRINAS (0)
 - CONHECIMENTO DE ONIS (0)
 - CONHECIMENTO DA TERRA (0)
