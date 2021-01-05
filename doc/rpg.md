@@ -526,12 +526,11 @@ O personagem cria uma arma ou energiza seus golpes corpo a corpo com energia esp
 <br>
 
 ## Último Recurso (1 ponto)
-O personagem pode acessar o próximo nível de sua doutrina durante a batalha.
+Uma vez por cena, o personagem pode acessar o próximo nível de sua doutrina durante a batalha.
 
-- **Bônus**
-  - O personagem pode usar o próximo nível de uma de suas doutrinas e a doutrina escolhida contará como um rank acima do atual.
 - **Efeitos Adicionais**
-  - A próxima doutrina a ser executada custará seu valor de __*ki*__, o restante da reserva de __*ki*__ e mais **5** _PV_.
+    - A próxima doutrina a ser executada, será elevada em **1** rank, mesmo no rank S Supremo. 
+    - Após o uso da doutrina, sua reserva de __*ki*__ é zerada, e sofre **5** _PV_ de dano que não pode ser absorvido.
 
 <br>
 
