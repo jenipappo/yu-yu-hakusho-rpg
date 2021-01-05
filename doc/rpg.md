@@ -870,7 +870,7 @@ O personagem lança um disparo contra o adversário causando dano.
 <br>
 
 ### Nível 2: Shotgun
-O personagem lança um disparo que ataca vários oponentes. Ao atingir o rank C, esta doutrina é aprimorada.
+O personagem lança um disparo que ataca vários oponentes. 
 
 - **Tipo**: Disparo
 - **Alvos**: **4** e **+1** por rank
