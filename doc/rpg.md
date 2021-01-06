@@ -2704,18 +2704,21 @@ O personagem cria um turbilhão em volta de si mesmo e aplica uma investida cont
 > **Observações**  
 > 1. O pré-requisito desta doutrina é ter a perícia medicina em pelo menos **40%**.
 > 0. O cirurgião do mundo das trevas pode implantar o Jagan em seus pacientes.
+> 0. Quando o personagem alcança o nível 6 da doutrina, ele adiquiri as duas técnicas deste nível.
 
 <br>
 
-### Nível 1: Transfusão de energia espiritual
+### Nível 1: Transfusão de Energia Espiritual
 O personagem pode transferir parte de sua energia espiritual para outra criatura e é capaz de recuperar seu __*ki*__ mais rápido que os demais.
+
+> **Observações**  
+> 1. O cirurgião recupera **1** __*ki*__ por rank a cada vinte minutos de descanso.
 
 - **Tipo**: Encantamento
 - **Alvos**: **1**
 - **Custo**: **4** __*ki*__ e **+1** por rank  
-- **Cura**: **4** __*ki*__ e **+1** por rank
 - **Efeitos Adicionais**
-  - Recupera **1** __*ki*__ por rank a cada vinte minutos de descanso.
+  - Recupera **4** __*ki*__ e **+1** por rank
   
 <br>
 
@@ -2725,17 +2728,16 @@ O personagem pode curar alguém ferido, doente ou envenenado.
 - **Tipo**: Encantamento
 - **Alvos**: **1**
 - **Custo**: **5** __*ki*__ e **+1** por rank  
-- **Cura**: **2D6+4** e **+4** por rank
 - **Efeitos Adicionais**
-  - Cura doenças moderadas e outros efeitos como envenenamento
-
+  - Cura **2D6+4** e **+4** por rank, doenças moderadas e outros efeitos como envenenamento
+  
 <br>
 
 ### Nível 3: Navalha Espiritual
 O personagem energiza suas mãos com energia espiritual, tornando-as armas cortantes. O cirurgião é capaz de fazer procedimentos cirúrgicos sem o auxílio de pinças, bisturi e tesoura cirúrgica. O conhecimento avançado de anatomia faz seus golpes serem mais precisos.
 
 > **Observações**  
-> 1. Exemplo: O personagem que tiver margem de crítico **17**, passará ter **19**. Margem de crítico máxima **25**
+> 1. O personagem que tiver margem de acerto crítico **17**, por exemplo, passará a ter **19**. Mesmo com este bônus, deve-se respeitar a margem de acerto crítico máxima.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
@@ -2764,32 +2766,45 @@ Ao tocar uma criatura, o cirurgião é capaz de extrair o potencial latente dela
 
 <br>
 
-### Nível 5: Restauração Completa
+### Nível 5: Aprimorar Habilidades
+O personagem pode aprimorar algumas de suas doutrinas. 
+
+> **Observações**  
+> 1. Nos ranks E, D e C, o personagem pode usar _Aprimorar Habilidades_ **1** vez por dia; a partir do rank B, **2** vez por dia.
+
+- **Tipo**: Buff
+- **Duração**: **1** cena
+- **Alvos**: Si mesmo
+- **Custo**: **6** __*ki*__
+- **Efeitos Adicionais**
+  - _Navalha Espiritual_: O acerto crítico causa **+1D6** de dano.
+  - _Transfusão de Energia Espiritual_: em combate, passa a recuperar **1** __*ki*__ por rodada.
+  - _Cura Espiritual_: cura **3D6+4** e **+4** por rank.
+  - _Aperfeiçoamento Físico_: o **Bônus** de _PV_ passa a ser **+15** (**+25** a partir do rank C).
+  
+<br>
+
+### Nível 6: Restauração Completa
 O personagem pode curar alguém ferido, doente ou envenenado.
 
 - **Tipo**: Encantamento
 - **Canalização**: **10** minutos
 - **Alvos**: **1**
 - **Custo**: **20** __*ki*__ 
-- **Cura**: **100%** __*PV*__
 - **Efeitos Adicionais**
-  - Cura qualquer doença curável e outros efeitos como envenenamento
-
+  - Cura **100%** __*PV*__, qualquer doença curável e outros efeitos como envenenamento
+  
 <br>
 
 ### Nível 6: Ressurreição
 O personagem pode ressuscitar qualquer criatura com a permissão do Rei-kai.
 
-> **Observações**  
-> 1.  O alvo ressuscita com **100%** __*PV*__ e __*ki*__.
-
 - **Tipo**: Encantamento
 - **Canalização**: **1** hora
 - **Alvos**: **1**
 - **Custo**: **100%** __*ki*__   
-- **Cura**: N/A
 - **Efeitos Adicionais**
-  - Ressuscita o alvo
+  - Ressuscita o alvo **100%** __*PV*__ e __*ki*__.
 
 <br>
 
