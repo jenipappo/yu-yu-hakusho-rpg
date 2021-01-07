@@ -15,7 +15,8 @@ on:
 
 env:
   ReleaseType: '-beta'
-
+  TagSuffix: ''
+  
 jobs:
   Publish:
     runs-on: ubuntu-20.04
@@ -43,6 +44,8 @@ jobs:
         if: startsWith(github.ref, 'refs/tags/v')
         run: |
           echo "ReleaseType=''" >> $GITHUB_ENV 
+          git tag -d v${{ env.SemVer }}
+          git push --tags
 
       - name: 📋 Get Commits since last Release
         id: changes
