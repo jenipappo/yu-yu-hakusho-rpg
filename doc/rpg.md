@@ -192,7 +192,7 @@ Um Reino com pouca tecnologia.
 Um Reino acima das nuvens; isolado e frio demais para qualquer monstro ou humano aguentar por muito tempo. Apenas Mulheres do Gelo vivem nesse Reino.
 
 - **Quem Domina**: Um conselho formado pelas mais velhas Mulheres de Gelo do reino.
-- **Distancia**: 100 dias, para encontra-lo também precisará da bússola do Detetive Sobrenatural para encontrar o You-ki delas então, ou apenas usando o Jagan, fora isso é impossível, pois o Reino encontra-se acima das nuvens.
+- **Distancia**: 100 dias, para encontra-lo também precisará da bússola do Detetive Sobrenatural para encontrar o Youki delas então, ou apenas usando o Jagan, fora isso é impossível, pois o Reino encontra-se acima das nuvens.
 
 > **Observacão**  
 Em função baixa temperatura, não se pode permanecer mais que 30 dias no País de Gelo, exceto se o personagem for mestre na Doutrina Gelo.
@@ -316,10 +316,16 @@ Os personagens começam com **8** pontos de aprimoramentos, **111** pontos de at
 Algumas doutrinas e atributos elevados permitem o personagem dar ataques adicionais, estes ataques devem ser feitos após o primeiro ataque e depois de todos os ataques adicionais é que deve começar a manobra de ataques múltiplos.
 
 ### Dano mínimo
-O personagem causará no mínimo 2 de dano, +1 para cada rank. O dano mínimo não pode ser maior do que o dano máximo. 
+O personagem causará no mínimo **2** de dano, **+1** para cada rank. O dano mínimo não pode ser maior do que o dano máximo. 
+
+### Iniciativa
+De acordo com o sistema daemon, a cada **10** pontos de vantagem na iniciativa, o personagem ganha um ataque adicional. Visando o equilíbrio deste suplemento, esta regra não se aplica. 
+
+### Margem de acerto crítico
+A margem de acerto crítico é limitada a **25**, mesmo que a chance de acerto seja maior do que **100%**.
 
 ### Dano crítico
-O dano de armas leves como punhos, bastão, soqueira, faca ou pistolas causam **1D6** de dano, o dano de armas médias como espadas, lanças ou magnum causam **2D6** de dano, e o dano de armas pesadas como machados, espadas largas, tridentes ou rifles causam **3D6** de dano, apenas a quantidade de dano base da arma é dobrada no acerto crítico.
+O dano de armas leves como punhos, bastão, soqueira, faca ou pistolas causam **1D6** de dano, o dano de armas médias como espadas, lanças ou magnum causam **2D6** de dano, e o dano de armas pesadas como machados, espadas largas, tridentes ou rifles causam **3D6** de dano, apenas a quantidade de dano base da arma é dobrada no acerto crítico. 
 
 ### Combate
 Os personagens tem 3 ações no turno: 
@@ -342,16 +348,13 @@ O personagem fica _Desacordado_ quando seu _PV_ chega a zero, não podendo execu
 O personagem morre quando acumula dano suficiente para ficar com **-15** _PV_ e **-1** por nível. Este é o fim da jornada do personagem e sua ficha deve ser descartada.
 
 ### Fúria
-O mestre decidirá quando o personagem entrará neste estado, geralmente é causado por alguma grande perda, alguns casos de desespero ou humilhação. A fúria fornece um bônus de +10 em todos os seus atributos físicos, _PV_, _KI_, _IP_, dano e as doutrinas são elevadas um rank acima mesmo no rank S Supremo.
+O mestre decidirá quando o personagem entrará neste estado, geralmente é causado por alguma grande perda, alguns casos de desespero ou humilhação. A fúria fornece um bônus de **+10** em todos os seus atributos físicos, _PVs_, reiki ou youki, _IP_, dano e as doutrinas são elevadas um rank acima mesmo no rank S Supremo.
 
 ### Aumento de poder
-O personagem tem um limite de vezes que pode aumentar seu poder durante um combate, com doutrinas e aprimoramentos que elevam características por __*ki*__ gasto, a limitação é de até 10 vezes o bônus base e mais 5 vezes o bônus base por rank. Algumas doutrinas tem dinâmicas diferentes, exemplo o nível 5 da doutrina adaptação; trate como 15 vezes o bônus base, já que a disciplina custa 15 de __*ki*__. 
-
-> **Observações**  
-> As doutrinas de níveis 1, 2 e 3 só podem aumentar seu bônus base até 5 vezes, e as doutrinas de níveis 4 ou mais podem aumentar seu bônus base até 10 vezes.
+O personagem tem um limite de vezes que pode aumentar seu poder durante um combate, com doutrinas e aprimoramentos que elevam características por __*ki*__ gasto, a limitação é de até 10 vezes o bônus base e mais 5 vezes o bônus base por rank. Algumas doutrinas tem dinâmicas diferentes, exemplo o nível 5 da doutrina adaptação; trate como **15** vezes o bônus base, já que a disciplina custa **15** de __*ki*__. 
 
 ### Recuperar energia
-O personagem recupera 1 _PV_ por rank a cada 20 minutos e 1 de __*ki*__ por rank a cada meia hora de descanso.
+O personagem recupera **1** _PV_ por rank a cada 20 minutos e **1** de __*ki*__ por rank a cada meia hora de descanso.
 
 ### Disputa de rajadas
 Quando o personagem for alvo de algum disparo ele pode fazer um disparo no turno do oponente, com esta manobra o personagem pula o seu próximo turno. A diferença do dano dos disparos vai atingir o personagem com o disparo mais fraco sem esquiva, a redução do dano com _IP_ é feita normalmente. Não pode haver mais do que 2 rajadas nesta disputa. Este recurso só pode ser utilizado uma vez a cada 5 turnos.
@@ -365,18 +368,18 @@ O personagem só pode portar um recurso deste tipo por vez, caso use outro o pri
 Ex.:(um usuário da doutrina Ka shou rappa Ken, que está com o nível 3 da doutrina ativo, e em seguida usar o nível 5, o nível 3 irá se dissipar, isso também ocorre com qualquer outra doutrina ou aprimoramento do tipo).
 
 ### Regra para acúmulo de bônus em algumas características dos personagens
-Bônus que aumentam ou diminua o _IP_, dano, atributos físicos ou outras características não são cumulativos com o mesmo tipo de bônus a menos que o texto informe ao contrário. 
+Bônus que aumenta ou diminua o _IP_, dano, atributos físicos ou outras características não são cumulativos com o mesmo tipo de bônus oriundo de uma fonte semelhante.
 
-Ex.: um personagem que tenha duas doutrinas que aumentam o _IP_, uma dessas doutrinas aumenta em +1 de _IP_ por __*ki*__ gasto e a outra aumenta em +2 de _IP_ por __*ki*__ gasto, caso o personagem aumente seu _IP_ em +5 com a sua 1º doutrina e +10 de _IP_ com a sua 2º doutrina, o personagem terá um bônus de +10 de _IP_. A única forma do personagem aumentar ainda mais seu _IP_ é através de outras fontes de poder como fúria, forma reencarnado e outros tipos de fontes. O mesmo é válido para aprimoramentos.
+Ex.: um personagem que tenha duas doutrinas que aumentam o _IP_, uma doutrina aumenta em **+5** e a outra em **+10**; caso o personagem aumente seu _IP_ em **+5** com a sua 1º doutrina e depois **+10** com a sua 2ª, seu bônus total será de _IP_ **+10**. A única forma de aumentar ainda mais seu _IP_ é através de outras fontes de poder como _fúria_, _Reencarnado_, _Resistência Espiritual_ e outros tipos de fontes. O mesmo é válido para os aprimoramentos.
 
 ### Nível 19 - Rank S Supremo
-Este nível é perfeito para aventuras no Meikai onde tem monstros terríveis, e para que os personagens tenham um nível a mais para ser alcançado, neste nível o personagem ganha +1 ponto de aprimoramento e doutrina, +3 pontos de atributos, +9 pontos de __*ki*__, +18 _PV_, +75 pontos de perícias, e as doutrinas são elevadas a um rank acima mesmo no rank S, o rank S Supremo é considerado outro rank, trate esta evolução como 3 evoluções normais para poder fazer a ficha do personagem. 
+Este nível é perfeito para aventuras no Meikai onde tem monstros terríveis, neste nível o personagem ganha **+1** ponto de aprimoramento e doutrina, **+3** pontos de atributos, **+9** pontos de __*ki*__, **+18** _PVs_, **+75** pontos de perícias, e as doutrinas são elevadas a um rank acima mesmo no rank S. O rank S Supremo é considerado outro rank, trate esta evolução como 3 evoluções normais para poder fazer a ficha do personagem. 
 
 ### Força 50
 O personagem pode atacar o adversário a 3 metros de distância por rank, deslocando o ar contra ele com sua imensa força; ganha o aprimoramento _Duro de Matar_. O personagem quando for atingido com um disparo pode fazer o teste de resistência usando sua força em vez de sua agilidade para sofrer metade do dano.
 
 ### Constituição 50
-O personagem regenera 2 _PV_ por turno, ganha o aprimoramento _Duro de Matar_. O personagem quando for atingido com um disparo pode fazer o teste de resistência usando sua constituição em vez de sua agilidade para sofrer metade do dano.
+O personagem regenera **2** _PV_ por turno, ganha o aprimoramento _Duro de Matar_. O personagem quando for atingido com um disparo pode fazer o teste de resistência usando sua constituição em vez de sua agilidade para sofrer metade do dano.
 
 ### Agilidade 50
 O personagem ganha **+1** _Ataques Adicionais_.
@@ -385,7 +388,7 @@ O personagem ganha **+1** _Ataques Adicionais_.
 O personagem ganha **+1** _Ataques Adicionais_.
 
 ### Canalização
-_Canalização_ é um efeito em que o personagem concentra seu poder por um periodo de tempo antes de desferir um _Efeito_, _Disparo_ ou _Encantamento_. 
+_Canalização_ é um efeito em que o personagem concentra seu poder por um período de tempo antes de desferir um _Efeito_, _Disparo_ ou _Encantamento_. 
 
 O __*ki*__ é sempre consumido imediatamente após o inicio da _Canalização_, sendo assim, é gasto mesmo que não seja finalizada. O resultado da invocação ocorre imediatamente após o fim do periodo de _Canalização. 
 
@@ -525,12 +528,12 @@ O personagem passou por um rigoroso treinamento e está apto a usar doutrinas.
 
 <br>
 
-## Capacidade de Extrair 120% da Força (2 pontos)
+## Capacidade de Extrair 120% da Força (3 pontos)
 O personagem em momentos críticos pode elevar de forma grandiosa o seu poder.
 
 > **Observações**  
 > 1. Não pode ser adquirido por personagens das raças _Reencarnado_ ou _Descendente de Clã Maligno_.
-> 0. Apenas disponível a partir do rank B. Inicialmente, apenas o **narrador** pode decidir quando ativar este poder. Do rank A em diante o jogador pode ativá-lo quando desejar. 
+> 0. Inicialmente, apenas o **narrador** pode decidir quando ativar este poder. Do rank B em diante o jogador pode ativá-lo quando desejar. 
 
 - **Duração**: **1** cena
 - **Bônus**
@@ -636,7 +639,7 @@ O personagem pode sentir o __*ki*__ das pessoas em um raio de 100 metros por ran
 <br>
 
 ## Resistência Espiritual (1 ponto)
-O personagem recebe um bônus de _IP_, aumentando o bônus a medida alcança novos ranks. 
+O personagem recebe um bônus de _IP_, aumentando o bônus a medida que alcança novos ranks. 
 
 - **Duração**: **1** cena
 - **Custo**: **5** __*ki*__ (**10** a partir do rank C)
@@ -650,7 +653,7 @@ O personagem recebe um bônus de _IP_, aumentando o bônus a medida alcança nov
 <br>
 
 ## Força Espiritual (1 ponto)
-O personagem recebe um bônus de _DANO_, aumentando o bônus a medida alcança novos ranks.
+O personagem recebe um bônus de _DANO_, aumentando o bônus a medida que alcança novos ranks.
 
 - **Duração**: **1** cena
 - **Custo**: **5** __*ki*__ (**10** a partir do rank C)
@@ -662,7 +665,7 @@ O personagem recebe um bônus de _DANO_, aumentando o bônus a medida alcança n
 <br>
 
 ## Aura Espiritual (3 pontos)
-O personagem recebe um bônus de _IP_ e  _DANO_, aumentando o bônus a medida alcança novos ranks.
+O personagem recebe um bônus de _IP_ e  _DANO_, aumentando o bônus a medida que alcança novos ranks.
 
 - **Duração**: **1** cena
 - **Custo**: **5** __*ki*__ (**10** a partir do rank C)
@@ -679,12 +682,12 @@ O personagem recebe um bônus de _IP_ e  _DANO_, aumentando o bônus a medida al
 <br>
 
 ## Aumento de Atributos Físicos 1 (1 ponto)
-O personagem recebe um bônus em seus atributos físicos. 
+O personagem recebe um bônus em um de seus atributos físicos. 
 
 - **Duração**: **1** cena
-- **Custo**: **5** __*ki*__ (**10** a partir do rank D)
+- **Custo**: **5** __*ki*__ (**10** a partir do rank C)
 - **Bônus**
-  - _FOR_ ou _CONS_ ou _AGI_ ou _DES_: **+5** (**+10** a partir do rank D)
+  - _FOR_ ou _CONS_ ou _AGI_ ou _DES_: **+5** (**+10** a partir do rank C)
 
 <br>
 
@@ -695,12 +698,12 @@ O personagem recebe um bônus em todos os seus atributos físicos.
 > Requer aprimoramento _Aumento de Atributos Físicos 1_.
 
 - **Duração**: **1** cena
-- **Custo**: **5** __*ki*__ (**10** a partir do rank D)
+- **Custo**: **5** __*ki*__ (**10** a partir do rank C)
 - **Bônus**:
-  - _FOR_: **+5** (**+10** a partir do rank D)
-  - _CONS_: **+5** (**+10** a partir do rank D)
-  - _AGI_: **+5** (**+10** a partir do rank D)
-  - _DES_: **+5** (**+10** a partir do rank D)
+  - _FOR_: **+5** (**+10** a partir do rank C)
+  - _CONS_: **+5** (**+10** a partir do rank C)
+  - _AGI_: **+5** (**+10** a partir do rank C)
+  - _DES_: **+5** (**+10** a partir do rank C)
 
 <br>
 
@@ -721,12 +724,11 @@ O personagem possui uma vitalidade maior que o normal.
 
 <br>
 
-## Vitalidade Extra 2 (1 ponto)
+## Vitalidade Extra 2 (2 pontos)
 O personagem possui uma vitalidade muito maior que o comum.
 
 > **Observações**  
-> 1. Requer o aprimoramento _Vitalidade Extra 1_
-> 0. Este aprimoramento pode ser comprado até o máximo de **2** vezes
+> 1. Este aprimoramento pode ser comprado até o máximo de **2** vezes
 > 0. O aprimoramento só pode ser comprado a cada **3** níveis.
 
 - **Efeitos Adicionais**
@@ -739,7 +741,7 @@ O personagem possui uma vitalidade muito maior que o comum.
 O personagem possui uma energia espiritual maior que o normal.
 
 > **Observações**  
-> 1. Este aprimoramento pode ser comprado até o máximo de **2** vezes
+> 1. Este aprimoramento pode ser comprado até o máximo de **3** vezes
 > 0. O aprimoramento só pode ser comprado a cada **3** níveis.
 
 - **Efeitos Adicionais**
@@ -747,13 +749,12 @@ O personagem possui uma energia espiritual maior que o normal.
 
 <br>
 
-## Energia Espiritual Extra 2 (1 ponto)
+## Energia Espiritual Extra 2 (2 pontos)
 
 O personagem possui uma energia espiritual muito maior que o normal.
 
 > **Observações**  
-> 1. Requer o aprimoramento _Energia Espiritual Extra 1_
-> 0. Este aprimoramento pode ser comprado até o máximo de **2** vezes
+> 1. Este aprimoramento pode ser comprado até o máximo de **2** vezes
 > 0. O aprimoramento só pode ser comprado a cada **3** níveis.
 
 - **Efeitos Adicionais**
@@ -762,7 +763,7 @@ O personagem possui uma energia espiritual muito maior que o normal.
 <br>
 
 ## Evasão (1 ponto)
-O personalidade possui habilidades de esquiva que vão além do normal, podendo esquivar completamente de um disparo.
+O personagem possui habilidades de esquiva que vão além do normal, podendo esquivar completamente de um disparo.
 
 - **Efeitos Adicionais**
   - O personagem consegue fugir completamente de um disparo se conseguir um acerto crítico num teste crítico de _AGI_ (1/4 de _AGI_ com máximo de 25).
@@ -774,7 +775,7 @@ O personagem possui habilidades diferenciadas em seu disparo que dificultam a su
 
 - **Custo**: **+1** __*ki*__ (**+1** a partir de doutrina nível 4).
 - **Efeitos Adicionais**
-  - **50%** do dano causado pelo seu disparo não pode ser reduzido com _IP_
+  - **50%** do dano causado pelo seu disparo não pode ser reduzido.
 
 <br>
 
@@ -786,7 +787,7 @@ O personagem possui habilidades diferenciadas em seu disparo que dificultam a su
 
 - **Custo**: **+1** __*ki*__ (**+1** a partir de doutrina nível 4).
 - **Efeitos Adicionais**
-  - **60%** do dano causado pelo seu disparo não pode ser reduzido com _IP_
+  - **60%** do dano causado pelo seu disparo não pode ser reduzido.
   - O seu disparo não pode ser neutralizado por outras disciplinas.
 
 <br>
@@ -799,7 +800,7 @@ O personagem possui habilidades diferenciadas em seu disparo que dificultam a su
 
 - **Custo**: **+1** __*ki*__ (**+1** a partir de doutrina nível 4).
 - **Efeitos Adicionais**
-  - **70%** do dano causado pelo seu disparo não pode ser reduzido com _IP_
+  - **70%** do dano causado pelo seu disparo não pode ser reduzido.
   - O seu disparo não pode ser neutralizado por outras disciplinas
   - Seu disparo é mais difícil de ser desviado causando um redutor de **-5%** de chance de esquiva por rank ao inimigo.
 
@@ -861,7 +862,7 @@ Seu personagem tem dois inimigos do mesmo rank, ou um inimigo um rank acima.
 <br>
 
 ## Caçado (3 pontos)
-O personagem é caçada por um dos reinos Reikai, Makai ou Meikai 
+O personagem é caçado por um dos reinos Reikai, Makai ou Meikai 
 
 <br>
 
@@ -3512,7 +3513,7 @@ O personagem lança uma rajada energética causando dano em área.
 
 # Territórios
 
-OBS (Os territórios não serão utilizados como as doutrinas, com níveis, mas como aprimoramentos pagando-se pontos por eles. Terrenos são poderosos e não gastam Rei-Ki para serem utilizados. Só podem ser adquiridos na criação de personagem.)
+OBS (Os territórios não serão utilizados como as doutrinas, com níveis, mas como aprimoramentos pagando-se pontos por eles. Terrenos são poderosos e não gastam Reiki para serem utilizados. Só podem ser adquiridos na criação de personagem.)
 
 Paralisação (4 pontos de aprimoramentos)
 Pisando em cima da sombra do inimigo, o usuário pode paralisar o oponente por quanto tempo quiser. Após pisar na sombra faça um teste de Will contra a Will do inimigo. Após isso, deve-se permanecer em cima da sombra do inimigo para mantê-lo imóvel.
