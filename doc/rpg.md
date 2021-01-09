@@ -1016,7 +1016,12 @@ O personagem quando for alvo de um disparo de até nível 7, pode absorvê-lo e 
 <br>
 
 ### Nível 7: Tranca Espiritual
-Para se tornar um mestre do Heikohadouken, o personagem precisa dominar a bola espiritual; no início do teste todas as doutrinas e aprimoramentos do personagem são cessados, aliados não podem curá-lo. Para domar a doutrina por completo, deve-se passar em 5 testes de constituição, de um total de 15 testes de resistência. Caso falhe, o destino é a morte. Superando o treinamento, o personagem poderá destrancar toda energia espiritual vinda do treinamento das artes do Heikohadouken. 
+Para se tornar um mestre do Heikohadouken, o personagem precisa dominar a bola espiritual. 
+
+> **Observações**  
+> 1. Para alcançar este nível da doutrina, deve-se passar em **5** testes de _CONS_, de um total de **15**.  
+> 0. Durante o treinamento, todas as doutrinas e aprimoramentos do personagem são cessados; aliados também não podem curá-lo.  
+> 0. Superando o treinamento, o personagem poderá destrancar toda energia espiritual das artes do Heikohadouken, mas lhe restará apenas **1** _PV_. Caso falhe, seu destino é a morte.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
