@@ -2904,7 +2904,6 @@ O personagem pode ressuscitar qualquer criatura com a permissão do Reikai.
 
 > **Observações**  
 > 1. Os níveis desta doutrina não podem ser utilizados na ordem decrescente. 
-> 0. Usuários desta doutrina ganham um bônus de **+10** na regra de aumento de poder.
 
 <br>
 
