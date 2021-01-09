@@ -2546,6 +2546,7 @@ O personagem lança um raio na forma de um arco-íris contra o adversário causa
 
 > **Observações**  
 > O personagem precisa implantar o olho diabólico, proibido para humanos.
+> Ao abrir o olho Jagan (em qualquer instante), o personagem recebe um bônus de **+5** de _PER_.
 
 <br>
 
@@ -2580,7 +2581,6 @@ O personagem paralisa o oponente.
 > **Observação**
 > Para resistir, o alvo deve ser bem-sucedido num teste de _WILL_. Caso seja paralisado, a vítima poderá repetir o teste a cada rodada para dissipar o efeito.
 
-
 - **Tipo**: Debuff
 - **Duração**: **1** rodada por rank
 - **Alvos**: **1**
@@ -2590,25 +2590,7 @@ O personagem paralisa o oponente.
 
 <br>
 
-### Nível 4: Verdadeiros Olhos Demoníacos
-O personagem faz brotar vários olhos no seu corpo ficando mais monstruoso.
-
-- **Tipo**: Buff
-- **Duração**: **1** cena
-- **Alvos**: Si mesmo
-- **Custo**: **10** __*ki*__
-- **Bônus**:
-  - _CONS_: **+15**
-  - _FOR_: **+15**
-  - _PV_: **+10**
-  - _IP_: **+10**
-  - _CAR_: **-5**
-- **Efeitos Adicionais**
-  - Visão 360°, sendo impossível surpreênde-lo
-  
-<br>
-
-### Nível 5: Dominação
+### Nível 4: Dominação
 O personagem domina um alvo _Despertado_ de rank inferior ou múltiplos alvos _Não-Despertados_ (seres sem rank). 
 
 > **Observações**
@@ -2628,6 +2610,25 @@ O personagem domina um alvo _Despertado_ de rank inferior ou múltiplos alvos _N
 - **Efeitos Adicionais**
   - Domina o(s) alvo(s), podendo dar-lhe(s) ordem arbitrárias.
 
+<br>
+
+### Nível 5: Verdadeiros Olhos Demoníacos
+O personagem faz brotar vários olhos no seu corpo ficando mais monstruoso.
+
+- **Tipo**: Buff
+- **Duração**: **1** cena
+- **Alvos**: Si mesmo
+- **Custo**: **10** __*ki*__
+- **Bônus**:
+  - _CONS_: **+15**
+  - _FOR_: **+15**
+  - _PV_: **+15**
+  - _IP_: **+10**
+  - _PER_: **+10**
+  - _CAR_: **-5**
+- **Efeitos Adicionais**
+  - Visão 360°, sendo impossível surpreênde-lo.
+  
 <br>
 
 ### Nível 6: Velocidade Máxima
