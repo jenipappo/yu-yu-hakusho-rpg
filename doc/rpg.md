@@ -2437,10 +2437,10 @@ O personagem cria uma arma que amplifica o dano.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **3D6** e **+3** por rank 
-- **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Rank C**: **3D6+3** e **+3** por rank 
-- **Custo Rank C**: **4** __*ki*__ e **+1** por rank
+- **Dano**: **3D6+2** e **+3** por rank 
+- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Dano Rank C**: **3D6+5** e **+3** por rank 
+- **Custo Rank C**: **5** __*ki*__ e **+1** por rank
 
 <br>
 
