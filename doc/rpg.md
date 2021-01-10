@@ -650,7 +650,7 @@ O personagem recebe um bônus de _IP_, aumentando o bônus a medida que alcança
 
 <br>
 
-## Força Espiritual (1 ponto)
+## Força Espiritual (2 pontos)
 O personagem recebe um bônus de _DANO_, aumentando o bônus a medida que alcança novos ranks.
 
 - **Duração**: **1** cena
@@ -1059,8 +1059,8 @@ Este nível aumenta a Espada simples para atacar até **6** metros de distância
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **3D6** e **+3** por rank 
-- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano**: **3D6+2** e **+3** por rank 
+- **Custo**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
