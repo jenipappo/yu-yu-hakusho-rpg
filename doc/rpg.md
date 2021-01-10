@@ -2047,8 +2047,8 @@ O personagem cria uma arma energética para atacar seus adversários.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6** e **+3** por rank 
-- **Custo**: **2** __*ki*__ e **+1** por rank
+- **Dano**: **2D6+2** e **+3** por rank 
+- **Custo**: **3** __*ki*__ e **+1** por rank
 
 <br>
 
