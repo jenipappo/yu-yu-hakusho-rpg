@@ -1128,6 +1128,7 @@ O personagem cria uma espada que causa dano e pode atacar o adversário com alca
 <br>
 
 ## Plantas Demoníacas 
+
 <br>
 
 > **Observações**  
@@ -1239,6 +1240,8 @@ O personagem invoca a planta sanguessuga que ataca um oponente que estiver ferid
 
 ## Ja Ou En Satsu Ken
 
+<br>
+
 > **Observação**  
 > Humanos não podem ter esse poder.
 
@@ -1330,6 +1333,8 @@ Quando o personagem  usar o dragão sobre si mesmo ou quando o dragão for devol
 <br>
 
 ## Bakuretsu Ganshō Dan
+
+<br>
 
 > **Observações**  
 > Humanos não podem ter esse poder.
@@ -2042,35 +2047,36 @@ O personagem lança um grande furacão contra o adversário causando dano.
 
 <br>
 
-### Nível 1: Fortalecimento Físico
-O personagem aumenta o seu poder e recebe um bônus de _IP_, _PV_ e _CONS_.
+### Nível 1: Arma Energética
+O personagem cria uma arma energética para atacar seus adversários.
+
+- **Tipo**: Buff
+- **Duração**: **1** cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+3** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Rank C**: **2D6+4** e **+1D6** por rank
+- **Custo Rank C**: **4** __*ki*__ e **+1** por rank
+
+<br>
+
+### Nível 2: Fortalecimento Físico
+O personagem aprimora sua capacidade física.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Custo**: **5** __*ki*__
 - **Bônus**:
-  - _CONS_: **+5** (**+10** a partir do rank C)
+  - _FOR_: **+5**
+  - _CONS_: **+5** 
   - _IP_: **+5** (**+10** a partir do rank C)
   - _PV_: **+5**
 
 <br>
 
-### Nível 2: Arma Energética
-O personagem cria uma arma energética para atacar seus adversários.
-
-- **Tipo**: Buff
-- **Duração**: **1** cena
-- **Alvos**: Si mesmo
-- **Dano**: **3D6** e **+3** por rank
-- **Custo**: **3** __*ki*__ e **+1** por rank
-- **Dano Rank B**: **3D6+2** e **+1D6** por rank
-- **Custo Rank B**: **4** __*ki*__ e **+1** por rank
-
-<br>
-
 ### Nível 3: Aureola
-O personagem lança chakrans contra o adversário causando dano .
+O personagem lança chakrans contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
@@ -2107,8 +2113,12 @@ O personagem energiza sua mão, aonde ele tocar causará um grande onda de destr
 
 ## Adaptação
 
+<br>
+
 > **Observações**  
 > Humanos não podem ter este poder, criar um bolinho leva 5 turnos. O personagem pode confeccionar um bolinho das trevas que tanto servem para memorizar golpes, quanto servem para as transformações. O número máximo de bolinhos que podem ser criados e carregados são 2 e +1 por rank.
+
+<br>
 
 ### Nível 1: Resistência
 Após o personagem ser atacado ele pode comer um bolinho e ficar resistente ao golpe, absorvendo metade do dano. 
@@ -2186,7 +2196,7 @@ O personagem após comer o bolinho se transforma em um Cão monstro das trevas, 
 ## Sombras Demoníacas
 
 ### Nível 1: Projeção Entre Mundos
-O personagem invoca o manto da morte e caso o oponente seja atingido por esse, é teletransportado para um lugar aleatório num raio de 20km.
+O personagem invoca o manto da morte e caso o oponente seja atingido por esse, é teletransportado para um lugar aleatório num raio de 10km.
 
 > **Observações**  
 > 1. Este ataque funciona semelhante como um disparo, com a diferença que o resultado do teste de _AGI_ indica se o alvo será ou não teletransportado.
@@ -2491,18 +2501,20 @@ O personagem torna-se _Imortal_ e ganha _Regeneração_ passivamente.
 
 ## Laser Light
 
-### Nível 1: Feixe de Luz
-O personagem lança um feixe de luz contra o adversário causando dano.
+### Nível 1: Projeção Entre Mundos
+O personagem invoca o manto da morte e caso o oponente seja atingido por esse, é teletransportado para um lugar aleatório num raio de 10km.
+
+> **Observações**  
+> 1. Este ataque funciona semelhante como um disparo, com a diferença que o resultado do teste de _AGI_ indica se o alvo será ou não teletransportado.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+8** e **+13** por rank
-- **Custo**: **1** __*ki*__ e **+1** por rank
+- **Custo**: **3** __*ki*__
 
 <br>
 
-### Nível 2: Espectro
-O personagem lança um espectro contra o adversário causando dano.
+### Nível 2: Feixe de Luz
+O personagem lança um feixe de luz contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
@@ -2745,31 +2757,33 @@ O personagem tem um estilo de luta diferenciado, este estilo de luta refinado co
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Custo**: **2** __*ki*__ e **+1** por rank
-- **Bônus**:
+- **Bônus**
   - _ATQ_: **+5%** por rank
   - _DEF_: **+5%** por rank
 
 <br>
 
-### Nível 2: Lançar Bambolê das Trevas
-O personagem lança o Bambolê das trevas contra o adversário causando dano.
-
-- **Tipo**: Disparo
-- **Alvos**:  1
-- **Dano**: **4D6+12** e **+15** por rank
-- **Custo**: **2** __*ki*__ e **+1** por rank
-
-<br>
-
-### Nível 3: Bambolê das Trevas
-O personagem amplia o dano Bambolê das trevas que amplifica o dano. 
+### Nível 2: Bambolê das Trevas
+O personagem amplia o dano do Bambolê das trevas. 
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+4** e **+1D6** por rank
-- **Custo **: **4*** __*ki*__ e **+1** por rank  
+- **Dano**: **3D6+2** e **+3** por rank 
+- **Custo**: **4** __*ki*__ e **+1** por rank
+- **Dano Rank C**: **3D6+5** e **+3** por rank 
+- **Custo Rank C**: **5** __*ki*__ e **+1** por rank
 
+<br>
+
+### Nível 3: Lançar Bambolê das Trevas
+O personagem lança o Bambolê das trevas contra o adversário causando dano.
+
+- **Tipo**: Disparo
+- **Alvos**:  1
+- **Dano**: **4D6+12** e **+16** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
+ 
 <br>
 
 ### Nível 4: Redemoinho das Trevas
@@ -3229,7 +3243,7 @@ O personagem dispara uma rajada de energia sui seiki contra o adversário causan
 
 <br>
 
-> Observações
+> **Observações**  
 > Poder exclusivo de Mokuro.
 
 <br>
