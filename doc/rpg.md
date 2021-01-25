@@ -1460,6 +1460,7 @@ O personagem recebe um bônus em alguns atributos.
   - _CONS_: **+15**
   - _FOR_: **+15**
   - _PV_: **+15**
+  - _IP_: **+5** (**+10** a partir do rank C)
   - _DANO_: **2D6+1** (apenas quando atacando desamardo)
 - **Efeitos Adicionais**
   - Quando o personagem sofrer algum dano oriundo de alguma doutrina, ela absorverá metade do ki gasto usado na tal doutrina.
@@ -2041,30 +2042,32 @@ O personagem lança um grande furacão contra o adversário causando dano.
 
 <br>
 
-### Nível 1: Arma Energética
-O personagem cria uma arma energética para atacar seus adversários.
-
-- **Tipo**: Buff
-- **Duração**: **1** cena
-- **Alvos**: Si mesmo
-- **Dano**: **2D6+2** e **+3** por rank 
-- **Custo**: **3** __*ki*__ e **+1** por rank
-
-<br>
-
-### Nível 2: Fortalecimento Físico
-O personagem aumenta o seu poder e recebe um bônus de _IP_, _FOR_ e _CONS_.
+### Nível 1: Fortalecimento Físico
+O personagem aumenta o seu poder e recebe um bônus de _IP_, _PV_ e _CONS_.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Custo**: **5** __*ki*__
 - **Bônus**:
-  - _CONS_: **+5**
-  - _FOR_: **+5**
+  - _CONS_: **+5** (**+10** a partir do rank C)
   - _IP_: **+5** (**+10** a partir do rank C)
-  
- <br>
+  - _PV_: **+5**
+
+<br>
+
+### Nível 2: Arma Energética
+O personagem cria uma arma energética para atacar seus adversários.
+
+- **Tipo**: Buff
+- **Duração**: **1** cena
+- **Alvos**: Si mesmo
+- **Dano**: **3D6** e **+3** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Rank B**: **3D6+2** e **+1D6** por rank
+- **Custo Rank B**: **4** __*ki*__ e **+1** por rank
+
+<br>
 
 ### Nível 3: Aureola
 O personagem lança chakrans contra o adversário causando dano .
@@ -2273,8 +2276,8 @@ O personagem lança uma rajada de almas contra os adversários causando dano.
 
 <br>
 
-### Nível 1: Toque Explosivo
-O personagem toca o adversário causando uma explosão.
+### Nível 1: Granada Espiritual
+O personagem lança uma granada contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
@@ -2283,13 +2286,16 @@ O personagem toca o adversário causando uma explosão.
 
 <br>
 
-### Nível 2: Granada Espiritual
-O personagem lança uma granada contra o adversário causando dano.
+### Nível 2: Toque Explosivo
+O personagem amplia seu dano causando uma explosão onde tocar.
 
-- **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+10** e **+15** por rank
-- **Custo**: **2** __*ki*__ e **+1** por rank
+- **Tipo**: Buff
+- **Duração**: **1** cena
+- **Alvos**: Si mesmo
+- **Dano**: **3D6** e **+3** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Rank B**: **3D6+2** e **+1D6** por rank
+- **Custo Rank B**: **4** __*ki*__ e **+1** por rank
 
 <br>
 
@@ -2308,14 +2314,15 @@ O personagem concentra seu __*ki*__ aumentando suas capacidades físicas.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
-- **Alvos**: Si mesmo
+- **Alvos**: **1**
 - **Custo**: **10** __*ki*__
 - **Bônus**:
   - _CONS_: **+10**
   - _FOR_: **+10**
-  - _DES_: **+10**
   - _AGI_: **+10**
-  - _PV_: **+10**
+  - _DES_: **+10**
+  - _PV_: **+5** (**+10** a partir do rank C)
+  - _IP_: **+5** (**+10** a partir do rank C)
  
 <br>
 
@@ -2367,7 +2374,7 @@ O personagem cria uma aura de energia e recebendo um bônus por uma cena.
   - _CONS_: **+5**
   - _FOR_: **+5**
   - _IP_: **+5**
-  - _PV_: **+5**
+  - _PV_: **+10**
   
 <br>
 
