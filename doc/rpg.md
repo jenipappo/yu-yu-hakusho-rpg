@@ -310,7 +310,12 @@ Esse é um mundo parecido com o Makai, mas é um lugar habitado por demônios po
 Apesar do sistema daemon ter sido alterado para propiciar melhores condições de jogo, as demais regras que não tem neste livro devem ser consultadas no livro trevas 3ª edição.
 
 ### Criação de Personagem
-Os personagens começam com **8** pontos de aprimoramentos, **111** pontos de atributos, atributo máximo inicial é **18**, e podem comprar até **3** pontos de aprimoramentos negativos. O __*ki*__ inicial dos seres despertados é igual a soma da _INT_ + _WILL_ dividida por **4** arredondada para cima.
+- Os personagens começam com **8** pontos de aprimoramentos, podendo comprar até **3** pontos de aprimoramentos negativos.
+- Os personagens começam com **111** pontos de atributos, o atributo máximo inicial é **18**. 
+- O _PV_ inicial dos seres despertados é igual a soma da _FOR_ + _CONS_ dividida por **2** arredondada para cima.
+- O __*ki*__ inicial dos seres despertados é igual a soma da _INT_ + _WILL_ dividida por **4** arredondada para cima.
+- Os personagens começam com **400** pontos de perícia, o valor máximo inicial das perícias é **50**.
+- Os personagens começam com **2** pontos de doutrina.
 
 ### Ataques Adicionais
 Algumas doutrinas e atributos elevados permitem ao personagem dar _Ataques Adicionais_. Estes ataques sempre são efetuados com precedência aos _Ataques Múltiplos_.
@@ -495,7 +500,7 @@ O personagem assume a sua forma Youkai, recebendo bônus em seus atributos e dou
   - _CONS_: **+20**
   - _AGI_: **+20**
   - _DES_: **+20**
-  - _PV_: **+20**.
+  - _PV_: **+20**
   - _KI_: **+20**
   - _IP_: **+10**
 - **Efeitos Adicionais**
@@ -615,7 +620,7 @@ Uma vez por cena, o personagem pode acessar o próximo nível de sua doutrina du
 
 - **Efeitos Adicionais**
     - A próxima doutrina a ser executada, será elevada em **1** rank, mesmo no rank S Supremo. 
-    - Após o uso da doutrina, sua reserva de __*ki*__ é zerada, e sofre **5** _PV_ de dano que não pode ser absorvido.
+    - Após o uso da doutrina, sua reserva de __*ki*__ é zerada, e sofre **7** _PV_ de dano que não pode ser absorvido.
 
 <br>
 
@@ -1019,7 +1024,7 @@ O personagem quando for alvo de um disparo de até nível 7, pode absorvê-lo e 
 Para se tornar um mestre do Heikohadouken, o personagem precisa dominar a bola espiritual. 
 
 > **Observações**  
-> 1. Para alcançar este nível da doutrina, deve-se passar em **5** testes de _CONS_, de um total de **15**.  
+> 1. Para alcançar este nível da doutrina, deve-se passar em **5** testes de _CONS_, de um total de **13**.  
 > 0. Durante o treinamento, todas as doutrinas e aprimoramentos do personagem são cessados; aliados também não podem curá-lo.  
 > 0. Superando o treinamento, o personagem poderá destrancar toda energia espiritual das artes do Heikohadouken, mas lhe restará apenas **1** _PV_. Caso falhe, seu destino é a morte.
 
@@ -1125,7 +1130,6 @@ O personagem cria uma espada que causa dano e pode atacar o adversário com alca
 - **Custo**: **6** __*ki*__ e **+1** por rank
 
 <br>
-<br>
 
 ## Plantas Demoníacas 
 
@@ -1156,7 +1160,7 @@ Confere ao personagem _Ataques Adicionais_ pela duração, adicionando também a
 
 > **Observações**  
 > 1. Efeito não cumulativo com _Ataques Múltiplos_ ou outras fontes de ataques adicionais.  
-> 0. Não pode ser usado em conjunto com _Shoku you shokubutsu_.
+> 0. Só pode ser usado em conjunto com _Criar Vegetal_.
 
 <br>
 
@@ -1421,30 +1425,33 @@ O personagem aumenta o seu poder e recebe um bônus em alguns atributos.
   - _IP_: **+15**
 
 <br>
-<br>
 
 ## Mei Ko Sho Kai Ha
 
-### Nível 1: Grito da Destruição
+### Nível 1: Arma das profundezas
+O personagem amplia seu dano físico.
+
+- **Tipo**: Buff
+- **Duração**: **1** cena
+- **Alvos**: Si mesmo
+- **Dano**: **2D6+2** e **+3** por rank
+- **Custo**: **3** __*ki*__ e **+1** por rank
+- **Dano Rank C**: **2D6+4** e **+1D6** por rank
+- **Custo Rank C**: **4** __*ki*__ e **+1** por rank
+
+<br>
+
+### Nível 2: Grito da Destruição
 O personagem lança um disparo contra o adversário causando dano.
 
  - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+8** e **+13** por rank
+- **Dano**: **4D6+10** e **+15** por rank
 - **Custo**: **1** __*ki*__ e **+1** por rank
 
 <br>
 
-### Nível 2: Grito da Destruição 2
-O personagem lança um disparo contra o adversário causando dano. 
-
-- **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+10** e **+15** por rank
-- **Custo**: **2** __*ki*__ e **+1** por rank
-<br>
-
-### Nível 3: Grito da Destruição 3
+### Nível 3: Grito da Destruição 2
 O personagem lança um disparo contra o adversário causando dano. 
 
 - **Tipo**: Disparo
@@ -1466,14 +1473,13 @@ O personagem recebe um bônus em alguns atributos.
   - _FOR_: **+15**
   - _PV_: **+15**
   - _IP_: **+5** (**+10** a partir do rank C)
-  - _DANO_: **2D6+1** (apenas quando atacando desamardo)
 - **Efeitos Adicionais**
-  - Quando o personagem sofrer algum dano oriundo de alguma doutrina, ela absorverá metade do ki gasto usado na tal doutrina.
+  - Quando o personagem sofrer algum dano oriundo de alguma doutrina, ele absorverá um quarto do ki gasto usado na tal doutrina.
   - Se o personagem ficar com mais ki do que o máximo permitido no seu nível, ele sofre 2D6 de dano por rank sem absorção de dano.
 
 <br>
 
-### Nível 5: Grito da Destruição 4
+### Nível 5: Grito da Destruição 3
 O personagem lança um disparo contra o adversário causando dano. 
 
 - **Tipo**: Disparo
@@ -1481,7 +1487,6 @@ O personagem lança um disparo contra o adversário causando dano.
 - **Dano**: **4D6+15** e **+21** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
-<br>
 <br>
 
 ## Ankou Raí Jin Ken
@@ -1556,7 +1561,6 @@ Após dividir-se em sete (utilizando **Kakeru**), o personagem usa sete disparos
 - **Dano**: **4D6+15** e **+21** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
-<br>
 <br>
 
 ## Devil Yo-yo
@@ -1759,7 +1763,7 @@ O personagem lança um disparo contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+14** e **+20** por rank
+- **Dano**: **4D6+15** e **+21** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
@@ -1830,7 +1834,7 @@ O personagem lança uma grande bola de energia contra o adversário causando dan
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+14** e **+20** por rank
+- **Dano**: **4D6+15** e **+21** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
@@ -2033,7 +2037,7 @@ O personagem lança um grande furacão contra o adversário causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+14** e **+20** por rank
+- **Dano**: **4D6+15** e **+21** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
@@ -2086,7 +2090,7 @@ O personagem lança chakrans contra o adversário causando dano.
 <br>
 
 ### Nível 4: Energia de Fúria
-O personagem aumenta de forma considerável o seu poder tornando seu corpo mais forte.
+O personagem aumenta de forma considerável o seu poder, tornando seu corpo mais forte.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
@@ -2272,7 +2276,7 @@ O personagem lança uma rajada de almas contra os adversários causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **4** e **+1** por rank
-- **Dano**: **4D6+14** e **+20** por rank
+- **Dano**: **4D6+16** e **+20** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
@@ -2420,7 +2424,7 @@ O personagem lança um disparo contra o adversário.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+14** e **+20** por rank
+- **Dano**: **4D6+15** e **+21** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
@@ -2565,7 +2569,7 @@ O personagem lança um raio na forma de um arco-íris contra o adversário causa
 
 > **Observações**  
 > O personagem precisa implantar o olho diabólico, proibido para humanos.
-> Ao abrir o olho Jagan (em qualquer instante), o personagem recebe um bônus de **+5** de _PER_.
+> Ao abrir o olho Jagan (em qualquer instante), o personagem recebe um bônus de **+5** de _PER_, bônus de **+10** de _PER_ caso _Verdadeiros Olhos Demoníacos_ esteja ativo.
 
 <br>
 
@@ -2591,6 +2595,8 @@ O personagem aumenta a sua velocidade.
 - **Bônus**:
   - _AGI_: **+10**
   - _DES_: **+10**
+- **Efeitos Adicionais**
+  - Bônus passivo de **+5** na iniciativa
 
 <br>
 
@@ -2641,9 +2647,8 @@ O personagem faz brotar vários olhos no seu corpo ficando mais monstruoso.
 - **Bônus**:
   - _CONS_: **+15**
   - _FOR_: **+15**
-  - _PV_: **+15**
+  - _PV_: **+20**
   - _IP_: **+10**
-  - _PER_: **+10**
   - _CAR_: **-5**
 - **Efeitos Adicionais**
   - Visão 360°, sendo impossível surpreênde-lo.
@@ -2743,7 +2748,7 @@ O personagem atinge o oponente com uma investida, causando dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Dano**: **4D6+14** e **+20** por rank
+- **Dano**: **4D6+15** e **+21** por rank
 - **Custo**: **5** __*ki*__ e **+1** por rank
 
 <br>
@@ -2937,7 +2942,7 @@ O personagem aumenta seu poder e resistência.
 - **Alvos**: Si mesmo
 - **Custo**: **5**
 - **Bônus**:
-  - _DANO_: **+5**
+  - _DANO_: **+5** (**+10** a partir do rank S)
   - _IP_: **+5** (**+10** a partir do rank D)
   
 <br>
@@ -2963,8 +2968,8 @@ O personagem aumenta o sua destreza e seus golpes físicos
 - **Alvos**: Si mesmo
 - **Custo**: **5**
 - **Bônus**:
-  - _AGI_: **+10**
-  - _DES_: **+10**
+  - _AGI_: **+10** (**+15** a partir do rank A)
+  - _DES_: **+10** (**+15** a partir do rank A)
   - _DANO_: **2D6** (apenas quando atacando desamardo)
 
 <br>
@@ -2996,7 +3001,7 @@ O personagem aumenta incrivelmente sua resistência, assumindo a forma completa 
 <br>
 
 ### Nível 6: Absorção de Energia Vital
-Os monstros de rank E que estiverem na distância de 30 metros por rank morrem e suas almas são absorvidas, e para cada alma absorvida o personagem recupera 3 de ki e de pv.
+Os monstros de rank E que estiverem na distância de 30 metros por rank morrem e suas almas são absorvidas, e para cada alma absorvida o personagem recupera 3 de __*ki*__ e de _PV_.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
@@ -3427,7 +3432,7 @@ O personagem pode voar e tem o deslocamento potencializado.
 <br>
 
 ### Nível 2: Estilo de Luta Proibido
-O personagem conhece técnicas marciais secretas de antigos mestres, e este estilo de luta refinado concede um bônus de _ATQ__, _DEF__ e nos testes de _Esquiva_ por rank. 
+O personagem conhece técnicas marciais secretas de antigos mestres, e este estilo de luta refinado concede um bônus de _ATQ_, _DEF_ e nos testes de _Esquiva_ por rank. 
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
