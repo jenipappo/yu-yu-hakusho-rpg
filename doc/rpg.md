@@ -211,7 +211,7 @@ Esse é um mundo parecido com o Makai, mas é um lugar habitado por demônios po
 
 ## Tabela de níveis
 
-| NÍVEL  | _PV_     | ATRIBUTO  | APRIMOR.  | PERÍCIA   | DOUTRINA  | _KI_ | RANK
+| NÍVEL  | _[PV](#pv-pontos-de-vida)_     | ATRIBUTO  | APRIMOR.  | PERÍCIA   | DOUTRINA  | _[KI](#ki-reiki--youki)_ | RANK
 |-------:|---------:|----------:|----------:|----------:|----------:|---------:|------
 | 1      | +6       | 111       | 8	        | 400       | 2         | +3       | E-
 | 2      | +12      | +1        | +1	      | +25       | 2         | +6       | E+-
@@ -312,10 +312,56 @@ Download da Ficha: [DOCX](https://raw.githubusercontent.com/jenipappo/yu-yu-haku
   - _[Aprimoramentos Negativos](#aprimoramentos)_ concedem pontos de aprimoramento adicionais.
 - _Atributos_: **111** pontos. 
   - Inicialmente, nenhum atributo deve acumular mais de **18** pontos. 
-- _PV_:  _FOR_ + _CONS_ dividido por **2** (sempre arredondado para cima).
-- _KI_: _INT_ + _WILL_ dividido por **4** (sempre arredondado para cima).
+- _[PV](#pv-pontos-de-vida)_: _[FR](#fr-força)_ + _[CON](#con-constituição)_ dividido por **2** (sempre arredondado para cima).
+- _[KI](#ki-reiki--youki)_: _[INT](#int-inteligência)_ + _[WILL](#will-força-de-vontade)_ dividido por **4** (sempre arredondado para cima).
 - _Perícias_: **400** pontos. 
   - O valor máximo inicial para uma perícias é de **50** pontos.
+
+<br>
+
+## Atributos
+Atributos são características físicas ou mentais do seu personagem. Abaioxo, econtre uma lista dos atributos básicos utilizados neste documento. Para mais detalhes consulte este link: [Editora Daemon - Atributos](https://www.daemon.com.br/home/atributos-em-rpg/).
+
+### CON Constituição
+Determina o vigor, saúde e condição física do Personagem. Usado no cáuculo de _[PV](#pv-pontos-de-vida)_.
+
+### FR Força
+Determina a força física do Personagem, sua capacidade muscular. Concede **+1** de _DANO_ para cada **2** pontos acima de **15**.
+
+### DEX Destreza
+Define a capacidade manual do Personagem, sua acuidade com as mãos e/ou pés. Incrementa _[ATQ](#atq-ataque)_ e _[DEF](#def-defesa)_ (**+1%** por ponto).
+
+### AGI Agilidade
+Ao contrário da Destreza, a Agilidade não é válida para coisas feitas com as mãos, mas sim para o corpo todo. Aumenta a _Iniciativa_.
+
+### INT Inteligência
+Inteligência é a capacidade de resolver problemas. Usado no cáuculo de _[KI](#ki-reiki--youki)_.
+
+### WILL Força de Vontade
+Esta é a capacidade de concentração e determinação do Personagem. Usado no cáuculo de _[KI](#ki-reiki--youki)_.
+
+### PER Percepção
+É a capacidade de observar o mundo à volta e perceber detalhes importantes.
+
+### CAR Carisma
+Determina o charme do Personagem, sua capacidade de fazer com que outras pessoas gostem dele.
+
+### PV Pontos de Vida
+É a quantidade de dano que seu personagem pode levar antes de dicar [desacordado](#desacordado) ou [morrer](#morto). Calculado a partir da seguinte fórmula: _[FR](#fr-força)_ + _[CON](#con-constituição)_ dividido por **2** (sempre arredondado para cima).
+
+### KI Reiki / Youki
+É a quantidade de energia espiritual disponível para que seu personagem  utilize _[doutrinas](#doutrinas)_ ou _[aprimoramentos](#aprimoramentos)_. Calculado a partir da seguinte fórmula: _[INT](#int-inteligência)_ + _[WILL](#will-força-de-vontade)_ dividido por **4** (sempre arredondado para cima).
+
+### IP Indice de Proteção
+É a quantidade de dano que o personagem consegue absorver antes de se ferir efetivamente.
+
+### ATQ Ataque
+É o índice de acerto de um ataque comum. É amortizado pela _[DEF](#def-defesa)_ do oponente, resultando numa porcentagem final que obedece a seguinte fórmula: _[ATQ](#atq-ataque)_ do atacante - _[DEF](#def-defesa)_ do alvo + **50**. 
+
+__*Exemplo*__: um atacante com _[ATQ](#atq-ataque)_ **60%**, ao investir contra um alvo de _[DEF](#def-defesa)_ **70%**, terá **40%** de chance de acerto. Ou seja, acertará o ataque se conseguir um resultado de **40** ou menor, nos dados.
+
+### DEF Defesa
+É o índice de acerto de um movimento de defesa contra um ataque comum. Veja _[ATQ](#atq-ataque)_ para mais detalhes.
 
 ## Regras Adicionais 
 
@@ -325,7 +371,7 @@ Download da Ficha: [DOCX](https://raw.githubusercontent.com/jenipappo/yu-yu-haku
 Apesar do sistema daemon ter sido alterado para propiciar melhores condições de jogo, quaisquer regras que não especificadas neste documento devem ser consultadas no livro Trevas 3ª edição.
 
 ### Ataques Adicionais
-Algumas doutrinas e atributos elevados permitem ao personagem dar _Ataques Adicionais_. Estes ataques sempre são efetuados com precedência aos _Ataques Múltiplos_.
+Algumas doutrinas e atributos elevados permitem ao personagem dar _[Ataques Adicionais](#ataques-adicionais)_. Estes ataques sempre são efetuados com precedência aos _[Ataques Múltiplos](#ataques-múltiplos-2-pontos)_.
 
 ### Dano Mínimo
 O personagem causará no mínimo **2** de dano e **+1** por rank. O dano mínimo não pode ser maior do que o dano máximo. 
@@ -344,7 +390,7 @@ O dano de armas leves como punhos, bastão, soqueira, faca ou pistolas causam **
 ### Combate
 Os personagens tem 3 ações no turno: 
 - a ação de movimento: consiste em locomover-se de quaisquer formas e com quaisquer intuitos em uma batalha. 
-- a ação parcial simples: consiste em criar campos, aumentar algum atributo (ex. _IP_, _FOR_, _PV_ ou _ATQ_), criar armas, ou quaisquer ações que não visem atingir outros alvos diretamente. 
+- a ação parcial simples: consiste em criar campos, aumentar algum atributo (ex. _[IP](#ip-indice-de-proteção)_, _[FR](#fr-força)_, _[PV](#pv-pontos-de-vida)_ ou _[ATQ](#atq-ataque)_), criar armas, ou quaisquer ações que não visem atingir outros alvos diretamente. 
 - ação parcial complexa: consiste em atacar, usar disparos, ou quaisquer ações que visem atingir outros alvos diretamente. 
  
 O personagem pode substituir uma ação parcial complexa por outra simples.
@@ -353,28 +399,28 @@ O personagem pode substituir uma ação parcial complexa por outra simples.
 O personagem só pode ter **2** doutrinas diferentes. Caso maximize ambas, os postos de doutrina adicionais, se converterão em pontos de aprimoramento.
 
 ### Desacordado
-O personagem fica _Desacordado_ quando seu _PV_ chega a zero, não podendo executar mais nenhuma ação. Enquanto _Desacordado_, o personagem recupera _PV_ passivamente e recobra a sua consciência quando seu _PV_ volta a ficar positivo.
+O personagem fica _Desacordado_ quando seu _[PV](#pv-pontos-de-vida)_ chega a zero, não podendo executar mais nenhuma ação. Enquanto _Desacordado_, o personagem recupera _[PV](#pv-pontos-de-vida)_ passivamente e recobra a sua consciência quando seu _[PV](#pv-pontos-de-vida)_ volta a ficar positivo.
 
 ### Morto
-O personagem morre quando acumula dano suficiente para ficar com **-15** _PV_ e **-1** por nível do personagem. Este é o fim da jornada do personagem e sua ficha deve ser descartada.
+O personagem morre quando acumula dano suficiente para ficar com **-15** _[PV](#pv-pontos-de-vida)_ e **-1** por nível do personagem. Este é o fim da jornada do personagem e sua ficha deve ser descartada.
 
 ### Fúria
-O mestre decidirá quando o personagem entrará neste estado. Geralmente é causado por uma grande perda, casos de desespero ou humilhação. A _Fúria_ fornece um bônus de **+10** em todos os seus atributos físicos, _PV_, _KI_, _IP_, _Dano_ e as suas doutrinas são elevadas um rank acima, mesmo no rank S Supremo.
+O mestre decidirá quando o personagem entrará neste estado. Geralmente é causado por uma grande perda, casos de desespero ou humilhação. A _Fúria_ fornece um bônus de **+10** em todos os seus atributos físicos, _[PV](#pv-pontos-de-vida)_, _[KI](#ki-reiki--youki)_, _[IP](#ip-indice-de-proteção)_, _Dano_ e as suas doutrinas são elevadas um rank acima, mesmo no rank S Supremo.
 
 ### Recuperar Energia
-O personagem recupera **1** _PV_ por rank a cada 20 minutos e **1** de _KI_ por rank a cada meia hora de descanso.
+O personagem recupera **1** _[PV](#pv-pontos-de-vida)_ por rank a cada 20 minutos e **1** de _[KI](#ki-reiki--youki)_ por rank a cada meia hora de descanso.
 
 ### Disputa de Disparo
 Quando o personagem for alvo de algum disparo ele pode contra-atacar no turno do oponente com um outro disparo. Ao executar esta manobra, o personagem abdica do seu próximo turno. 
 
-A diferença do dano dos disparos vai atingir o personagem com o disparo mais fraco sem esquiva, mas a redução do dano com _IP_ é feita normalmente. 
+A diferença do dano dos disparos vai atingir o personagem com o disparo mais fraco sem esquiva, mas a redução do dano com _[IP](#ip-indice-de-proteção)_ é feita normalmente. 
 
 > **Observações** 
 > 1. Não pode haver mais do que **2** rajadas nesta disputa.
 > 0. Este recurso só pode ser utilizado uma vez a cada **5** turnos.
 
 ### Acúmulo de Bônus
-Ao acumular bônus de _IP_, _Dano_ ou _Atributos Físicos_, oriundos de fontes semelhantes (exemplo, duas doutrinas), bonificações em um mesmo atributo não podem ser acumuladas, a não ser que expresso o contrário. Permanecerão ativos apenas os bônus de maior valor.
+Ao acumular bônus de _[IP](#ip-indice-de-proteção)_, _Dano_ ou _Atributos Físicos_, oriundos de fontes semelhantes (exemplo, duas doutrinas), bonificações em um mesmo atributo não podem ser acumuladas, a não ser que expresso o contrário. Permanecerão ativos apenas os bônus de maior valor.
 
 > **Observações**
 > É possível acumular bônus quando advindos de fontes distintas - por exemplo, uma doutrina e um aprimoramento ou _Fúria_ e uma raça.
@@ -385,26 +431,26 @@ Ao acumular bônus de _IP_, _Dano_ ou _Atributos Físicos_, oriundos de fontes s
 O personagem só pode portar um recurso deste tipo por vez. Caso utilize outro, o primeiro se dissipará. 
 
 ### Nível 19 - Rank S Supremo
-Neste nível o personagem ganha **+1** ponto de aprimoramento e doutrina, **+3** pontos de atributos, **+9** pontos de _KI_, **+18** _PV_, **+75** pontos de perícias e as doutrinas são elevadas a um rank acima mesmo no rank S. 
+Neste nível o personagem ganha **+1** ponto de aprimoramento e doutrina, **+3** pontos de atributos, **+9** pontos de _[KI](#ki-reiki--youki)_, **+18** _[PV](#pv-pontos-de-vida)_, **+75** pontos de perícias e as doutrinas são elevadas a um rank acima mesmo no rank S. 
 
 O rank S Supremo é considerado como outro rank. Trate esta evolução como **3** evoluções normais para poder fazer a ficha do personagem. 
 
 ### Força 50
-O personagem pode atacar o adversário a 3 metros de distância por rank, deslocando o ar contra ele com sua imensa força; ganha o aprimoramento _Duro de Matar_. Quando alvo de um disparo, pode fazer o teste de resistência usando sua _FOR_ em vez de sua _AGI_.
+O personagem pode atacar o adversário a 3 metros de distância por rank, deslocando o ar contra ele com sua imensa força; ganha o aprimoramento _Duro de Matar_. Quando alvo de um disparo, pode fazer o teste de resistência usando sua _[FR](#fr-força)_ em vez de sua _[AGI](#agi-agilidade)_.
 
 ### Constituição 50
-O personagem regenera **2** _PV_ por turno e ganha o aprimoramento _Duro de Matar_. Quando alvo de um disparo, pode fazer o teste de resistência usando sua _CONS_ em vez de sua _AGI_.
+O personagem regenera **2** _[PV](#pv-pontos-de-vida)_ por turno e ganha o aprimoramento _Duro de Matar_. Quando alvo de um disparo, pode fazer o teste de resistência usando sua _[CON](#con-constituição)_ em vez de sua _[AGI](#agi-agilidade)_.
 
 ### Agilidade 50
-O personagem ganha **+1** _Ataques Adicionais_.
+O personagem ganha **+1** _[Ataques Adicionais](#ataques-adicionais)_.
 
 ### Destreza 50
-O personagem ganha **+1** _Ataques Adicionais_.
+O personagem ganha **+1** _[Ataques Adicionais](#ataques-adicionais)_.
 
 ### Canalização
 _Canalização_ é um efeito em que o personagem concentra seu poder por um período de tempo antes de desferir um _Efeito_, _Disparo_ ou _Encantamento_. 
 
-O _KI_ é sempre consumido imediatamente após o inicio da _Canalização_, sendo assim, é gasto mesmo que não seja finalizada. O resultado da invocação ocorre imediatamente após o fim do periodo de _Canalização. 
+O _[KI](#ki-reiki--youki)_ é sempre consumido imediatamente após o inicio da _Canalização_, sendo assim, é gasto mesmo que não seja finalizada. O resultado da invocação ocorre imediatamente após o fim do periodo de _Canalização. 
 
 Uma _Canalização_ apenas pode ser interrompida por um efeito ou evento que impeça o personagem de realizar uma ação.  _Paralizar_, _Desacordado_ e _Morte_ são alguns exemplos de efeitos que cancelam a _Canalização_.
 
@@ -458,13 +504,13 @@ O personagem assume a sua forma Youkai, recebendo bônus em seus atributos e dou
 > Inicialmente, apenas o **narrador** pode decidir quando ativar este poder. Do rank A em diante o jogador pode ativá-lo quando desejar. 
 
 - **Bônus**
-  - _FOR_: **+10**
-  - _CONS_: **+10**
-  - _AGI_: **+10**
-  - _DES_: **+10**
-  - _PV_: **+10**
-  - _KI_: **+10**
-  - _IP_: **+5**
+  - _[FR](#fr-força)_: **+10**
+  - _[CON](#con-constituição)_: **+10**
+  - _[AGI](#agi-agilidade)_: **+10**
+  - _[DEX](#dex-destreza)_: **+10**
+  - _[PV](#pv-pontos-de-vida)_: **+10**
+  - _[KI](#ki-reiki--youki)_: **+10**
+  - _[IP](#ip-indice-de-proteção)_: **+5**
 - **Efeitos Adicionais**
   - Eleva as doutrinas e aprimoramentos em **1** rank, mesmo no rank S Supremo
 
@@ -482,8 +528,8 @@ Oni com aparência humana, mas com o poder e tempo de vida de um oni.
 Oni com aparência grotesca, o oni mais comum de se ver no Makai.
 
 - **Bônus**
-  - _FOR_: **+5**
-  - _CONS_: **+5** 
+  - _[FR](#fr-força)_: **+5**
+  - _[CON](#con-constituição)_: **+5** 
 - **Aprimoramentos**
   - Doutrinado (2)
   - Estrutura corpórea aprimorada* (4)
@@ -502,13 +548,13 @@ O personagem assume a sua forma Youkai, recebendo bônus em seus atributos e dou
 > Inicialmente, apenas o **narrador** pode decidir quando ativar este poder. Do rank S em diante o jogador pode ativá-lo quando desejar. 
 
  - **Bônus**
-  - _FOR_: **+20**
-  - _CONS_: **+20**
-  - _AGI_: **+20**
-  - _DES_: **+20**
-  - _PV_: **+20**
-  - _KI_: **+20**
-  - _IP_: **+10**
+  - _[FR](#fr-força)_: **+20**
+  - _[CON](#con-constituição)_: **+20**
+  - _[AGI](#agi-agilidade)_: **+20**
+  - _[DEX](#dex-destreza)_: **+20**
+  - _[PV](#pv-pontos-de-vida)_: **+20**
+  - _[KI](#ki-reiki--youki)_: **+20**
+  - _[IP](#ip-indice-de-proteção)_: **+10**
 - **Efeitos Adicionais**
   - Eleva as doutrinas e aprimoramentos em **1** rank, mesmo no rank S Supremo 
 
@@ -535,8 +581,8 @@ O personagem assume a sua forma Youkai, recebendo bônus em seus atributos e dou
 O personagem passou por um rigoroso treinamento e está apto a usar doutrinas. 
 
 - **Bônus**
-  - _PV_: **+45**.
-  - _KI_: **+15**
+  - _[PV](#pv-pontos-de-vida)_: **+45**.
+  - _[KI](#ki-reiki--youki)_: **+15**
 - **Efeitos Adicionais**
   - Concede **+2** _Pontos de Doutrina_ adicionais 
 
@@ -551,27 +597,27 @@ O personagem em momentos críticos pode elevar de forma grandiosa o seu poder.
 
 - **Duração**: **1** cena
 - **Bônus**
-  - _FOR_: **+5** 
-  - _CONS_: **+5** 
-  - _AGI_: **+5** 
-  - _DES_: **+5** 
-  - _PV_: **+5** 
-  - _KI_: **+5** 
-  - _IP_: **+3** 
+  - _[FR](#fr-força)_: **+5** 
+  - _[CON](#con-constituição)_: **+5** 
+  - _[AGI](#agi-agilidade)_: **+5** 
+  - _[DEX](#dex-destreza)_: **+5** 
+  - _[PV](#pv-pontos-de-vida)_: **+5** 
+  - _[KI](#ki-reiki--youki)_: **+5** 
+  - _[IP](#ip-indice-de-proteção)_: **+3** 
 - **Efeitos Adicionais**
   - Eleva as doutrinas e aprimoramentos em **1** rank, mesmo no rank S Supremo
 
 <br>
 
 ## Energia Vital (1 ponto)
-O personagem pode converter seus pontos de vida em _KI_.
+O personagem pode converter seus pontos de vida em _[KI](#ki-reiki--youki)_.
 
 > **Observações**  
 > 1. Este aprimoramento só pode ser ativado uma vez por luta.
-> 0. A quantidade máxima de _PV_ pagos para ativar esse aprimoramento é de **20**. Este valor aumenta para **40** a partir do rank C.
+> 0. A quantidade máxima de _[PV](#pv-pontos-de-vida)_ pagos para ativar esse aprimoramento é de **20**. Este valor aumenta para **40** a partir do rank C.
 
 - **Bônus**
-    - _KI_: **+1** a cada **2** _PV_ gastos
+    - _[KI](#ki-reiki--youki)_: **+1** a cada **2** _[PV](#pv-pontos-de-vida)_ gastos
 
 <br>
 
@@ -583,7 +629,7 @@ O personagem pode contar com um tutor bastante experiente e poderoso para doutri
 ## Saltar (1 ponto)
 O personagem pode saltar longas distâncias.
 
-  - **Custo**: **0** _KI_
+  - **Custo**: **0** _[KI](#ki-reiki--youki)_
   - **Duração**: **1** cena
   - **Efeitos Adicionais**
     - Salta até **10** metros, **15** metros no rank B e **20** metros no rank S
@@ -596,7 +642,7 @@ O personagem pode voar.
 > **Observações**  
 > Requer aprimoramento _Saltar_.
 
- - **Custo**: **3** _KI_
+ - **Custo**: **3** _[KI](#ki-reiki--youki)_
  - **Duração**: **1** cena
  - **Efeitos Adicionais**
    - Voa com o dobro do deslocamento
@@ -604,20 +650,20 @@ O personagem pode voar.
 <br>
 
 ## Criar Campo de Batalha (2 pontos)
-O personagem cria um campo de batalha que concede bônus de _ATQ_ e _DEF_. O efeito visual deve ser combinado entre o **narrador** e o **jogador**. 
+O personagem cria um campo de batalha que concede bônus de _[ATQ](#atq-ataque)_ e _[DEF](#def-defesa)_. O efeito visual deve ser combinado entre o **narrador** e o **jogador**. 
 
-  - **Custo**: **2** _KI_ e **+1** por rank 
+  - **Custo**: **2** _[KI](#ki-reiki--youki)_ e **+1** por rank 
   - **Duração**: **1** cena
   - **Bônus**
-    - _ATQ_: **+5%** por rank
-    - _DEF_: **+5%** por rank 
+    - _[ATQ](#atq-ataque)_: **+5%** por rank
+    - _[DEF](#def-defesa)_: **+5%** por rank 
 
 <br>
 
 ## Criar Arma Espiritual (2 pontos)
 O personagem cria uma arma ou energiza seus golpes corpo a corpo com energia espiritual. 
 
-- **Custo**: **4** _KI_ e **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Duração**: **1** cena
 - **Bônus**
   - Dano da arma ou **2D6+4**, e **+1D6** por rank
@@ -629,7 +675,7 @@ Uma vez por cena, o personagem pode acessar o próximo nível de sua doutrina du
 
 - **Efeitos Adicionais**
     - A próxima doutrina a ser executada, será elevada em **1** rank, mesmo no rank S Supremo. 
-    - Após o uso da doutrina, sua reserva de _KI_ é zerada, e sofre **7** _PV_ de dano que não pode ser absorvido.
+    - Após o uso da doutrina, sua reserva de _[KI](#ki-reiki--youki)_ é zerada, e sofre **7** _[PV](#pv-pontos-de-vida)_ de dano que não pode ser absorvido.
 
 <br>
 
@@ -646,21 +692,21 @@ O personagem executar golpes adicionais num mesmo turno.
 <br>
 
 ## Sensitivo (1 ponto)
-O personagem pode sentir o _KI_ das pessoas em um raio de **100** metros por rank e ter uma estimativa do poder dessas pessoas, além de poder sentir o tipo de _KI_ se é maligno ou benigno.
+O personagem pode sentir o _[KI](#ki-reiki--youki)_ das pessoas em um raio de **100** metros por rank e ter uma estimativa do poder dessas pessoas, além de poder sentir o tipo de _[KI](#ki-reiki--youki)_ se é maligno ou benigno.
 
 <br>
 
 ## Resistência Espiritual (1 ponto)
-O personagem recebe um bônus de _IP_, aumentando o bônus a medida que alcança novos ranks. 
+O personagem recebe um bônus de _[IP](#ip-indice-de-proteção)_, aumentando o bônus a medida que alcança novos ranks. 
 
 - **Duração**: **1** cena
-- **Custo**: **5** _KI_ (**10** a partir do rank C)
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ (**10** a partir do rank C)
 - **Bônus**
-  - _IP_: **+5**
+  - _[IP](#ip-indice-de-proteção)_: **+5**
 - **Bônus Rank C**
-  - _IP_: **+10**
+  - _[IP](#ip-indice-de-proteção)_: **+10**
 - **Bônus Rank A**
-  - _IP_: **+15**
+  - _[IP](#ip-indice-de-proteção)_: **+15**
 
 <br>
 
@@ -668,7 +714,7 @@ O personagem recebe um bônus de _IP_, aumentando o bônus a medida que alcança
 O personagem recebe um bônus de _DANO_, aumentando o bônus a medida que alcança novos ranks.
 
 - **Duração**: **1** cena
-- **Custo**: **5** _KI_ (**10** a partir do rank C)
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ (**10** a partir do rank C)
 - **Bônus**
   - _DANO_: **+5**
 - **Bônus Rank C**
@@ -677,18 +723,18 @@ O personagem recebe um bônus de _DANO_, aumentando o bônus a medida que alcan�
 <br>
 
 ## Aura Espiritual (3 pontos)
-O personagem recebe um bônus de _IP_ e  _DANO_, aumentando estes a medida que alcança novos ranks.
+O personagem recebe um bônus de _[IP](#ip-indice-de-proteção)_ e  _DANO_, aumentando estes a medida que alcança novos ranks.
 
 - **Duração**: **1** cena
-- **Custo**: **5** _KI_ (**10** a partir do rank C)
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ (**10** a partir do rank C)
 - **Bônus**
-  - _IP_: **+5**
+  - _[IP](#ip-indice-de-proteção)_: **+5**
   - _DANO_: **+5**
 - **Bônus Rank C**
-  - _IP_: **+10**
+  - _[IP](#ip-indice-de-proteção)_: **+10**
   - _DANO_: **+10**
 - **Bônus Rank A**
-  - _IP_: **+15**
+  - _[IP](#ip-indice-de-proteção)_: **+15**
   - _DANO_: **+10**
 
 <br>
@@ -697,9 +743,9 @@ O personagem recebe um bônus de _IP_ e  _DANO_, aumentando estes a medida que a
 O personagem recebe um bônus em um de seus atributos físicos. 
 
 - **Duração**: **1** cena
-- **Custo**: **5** _KI_ (**10** a partir do rank C)
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ (**10** a partir do rank C)
 - **Bônus**
-  - _FOR_ ou _CONS_ ou _AGI_ ou _DES_: **+5** (**+10** a partir do rank C)
+  - _[FR](#fr-força)_ ou _[CON](#con-constituição)_ ou _[AGI](#agi-agilidade)_ ou _[DEX](#dex-destreza)_: **+5** (**+10** a partir do rank C)
 
 <br>
 
@@ -710,12 +756,12 @@ O personagem recebe um bônus em todos os seus atributos físicos.
 > Requer aprimoramento _Aumento de Atributos Físicos 1_.
 
 - **Duração**: **1** cena
-- **Custo**: **5** _KI_ (**10** a partir do rank C)
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ (**10** a partir do rank C)
 - **Bônus**:
-  - _FOR_: **+5** (**+10** a partir do rank C)
-  - _CONS_: **+5** (**+10** a partir do rank C)
-  - _AGI_: **+5** (**+10** a partir do rank C)
-  - _DES_: **+5** (**+10** a partir do rank C)
+  - _[FR](#fr-força)_: **+5** (**+10** a partir do rank C)
+  - _[CON](#con-constituição)_: **+5** (**+10** a partir do rank C)
+  - _[AGI](#agi-agilidade)_: **+5** (**+10** a partir do rank C)
+  - _[DEX](#dex-destreza)_: **+5** (**+10** a partir do rank C)
 
 <br>
 
@@ -732,7 +778,7 @@ O personagem possui uma vitalidade maior que o normal.
 > 0. O aprimoramento só pode ser comprado a cada **3** níveis.
 
 - **Efeitos Adicionais**
-  - O personagem ganha **+12** __PV__
+  - O personagem ganha **+12** __[PV](#pv-pontos-de-vida)__
 
 <br>
 
@@ -744,7 +790,7 @@ O personagem possui uma vitalidade muito maior que o comum.
 > 0. O aprimoramento só pode ser comprado a cada **3** níveis.
 
 - **Efeitos Adicionais**
-  - O personagem ganha **+30** __PV__
+  - O personagem ganha **+30** __[PV](#pv-pontos-de-vida)__
 
 <br>
 
@@ -757,7 +803,7 @@ O personagem possui uma energia espiritual maior que o normal.
 > 0. O aprimoramento só pode ser comprado a cada **3** níveis.
 
 - **Efeitos Adicionais**
-  - O personagem ganha **+6** _KI_
+  - O personagem ganha **+6** _[KI](#ki-reiki--youki)_
 
 <br>
 
@@ -770,7 +816,7 @@ O personagem possui uma energia espiritual muito maior que o normal.
 > 0. O aprimoramento só pode ser comprado a cada **3** níveis.
 
 - **Efeitos Adicionais**
-  - O personagem ganha **+15** _KI_
+  - O personagem ganha **+15** _[KI](#ki-reiki--youki)_
 
 <br>
 
@@ -778,14 +824,14 @@ O personagem possui uma energia espiritual muito maior que o normal.
 O personagem possui habilidades de esquiva que vão além do normal, podendo esquivar completamente de um disparo.
 
 - **Efeitos Adicionais**
-  - O personagem consegue fugir completamente de um disparo se conseguir um acerto crítico num teste crítico de _AGI_ (**1/4** de _AGI_ com máximo de 25).
+  - O personagem consegue fugir completamente de um disparo se conseguir um acerto crítico num teste crítico de _[AGI](#agi-agilidade)_ (**1/4** de _[AGI](#agi-agilidade)_ com máximo de 25).
 
 <br>
 
 ## Disparo Aprimorado 1 (0 pontos)
 O personagem possui habilidades diferenciadas em seu disparo que dificultam a sua absorção pelos inimigos.
 
-- **Custo**: **+1** _KI_ (**+1** a partir de doutrina nível 4).
+- **Custo**: **+1** _[KI](#ki-reiki--youki)_ (**+1** a partir de doutrina nível 4).
 - **Efeitos Adicionais**
   - **50%** do dano causado pelo seu disparo não pode ser reduzido.
 
@@ -797,7 +843,7 @@ O personagem possui habilidades diferenciadas em seu disparo que dificultam a su
 > **Observações**  
 > 1. Requer o aprimoramento _Disparo Aprimorado 1_
 
-- **Custo**: **+1** _KI_ (**+1** a partir de doutrina nível 4).
+- **Custo**: **+1** _[KI](#ki-reiki--youki)_ (**+1** a partir de doutrina nível 4).
 - **Efeitos Adicionais**
   - **60%** do dano causado pelo seu disparo não pode ser reduzido.
   - O seu disparo não pode ser neutralizado por outras disciplinas.
@@ -810,7 +856,7 @@ O personagem possui habilidades diferenciadas em seu disparo que dificultam a su
 > **Observações**  
 > 1. Requer o aprimoramento _Disparo Aprimorado 2_
 
-- **Custo**: **+1** _KI_ (**+1** a partir de doutrina nível 4).
+- **Custo**: **+1** _[KI](#ki-reiki--youki)_ (**+1** a partir de doutrina nível 4).
 - **Efeitos Adicionais**
   - **70%** do dano causado pelo seu disparo não pode ser reduzido.
   - O seu disparo não pode ser neutralizado por outras disciplinas
@@ -852,7 +898,7 @@ A partir do quarto ataque corpo a corpo sofrido o personagem poderá fazer um te
 > **Observações**  
 > 1. Os aprimoramentos negativos servem como moeda de troca para ganhar pontos de aprimoramento.
 > 0. Cada aprimoramento negativo lhe dará um valor correspondente (entre parênteses)
-> 0. Os aprimoramentos negativos possuem algum tipo de ônus que irá incidir em seu personagem. Alguns podem ser ônus sociais ou até mesmo ônus em termos de custos de _KI_ para execução de uma disciplina. Cabe ao **jogador** balancear os seus aprimoramentos negativos e ao **narrador** cobrar os ônus destes.
+> 0. Os aprimoramentos negativos possuem algum tipo de ônus que irá incidir em seu personagem. Alguns podem ser ônus sociais ou até mesmo ônus em termos de custos de _[KI](#ki-reiki--youki)_ para execução de uma disciplina. Cabe ao **jogador** balancear os seus aprimoramentos negativos e ao **narrador** cobrar os ônus destes.
 
 <br>
 
@@ -879,10 +925,10 @@ O personagem é caçado por um dos reinos Reikai, Makai ou Meikai
 <br>
 
 ## Mal Instruído (3 pontos)
-O personagem não teve um bom treinamento e ele não controla bem o seu _KI_. 
+O personagem não teve um bom treinamento e ele não controla bem o seu _[KI](#ki-reiki--youki)_. 
 
 - **Ônus**
-  - _KI_: **+2** de custo para todas as disciplinas e aprimoramentos
+  - _[KI](#ki-reiki--youki)_: **+2** de custo para todas as disciplinas e aprimoramentos
 
 <br>
 
@@ -902,7 +948,7 @@ O personagem jamais baterá em uma mulher, e nem permitirá alguém a fazê-lo.
 <br>
 
 ## Incapaz de Ocultar o Ki (1 ponto)
-O personagem não foi bem doutrinada ou ele não tem capacidade de controlar sua energia, por isso não pode ocultar o seu _KI_.
+O personagem não foi bem doutrinada ou ele não tem capacidade de controlar sua energia, por isso não pode ocultar o seu _[KI](#ki-reiki--youki)_.
 
 <br>
 
@@ -960,7 +1006,7 @@ O personagem lança um disparo contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+5** e **+22** por rank 
-- **Custo**: **4** _KI_ e **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -970,7 +1016,7 @@ O personagem lança um disparo que ataca vários oponentes.
 - **Tipo**: Disparo
 - **Alvos**: **4** e **+1** por rank
 - **Dano**: **4D6+8** e **+18** por rank
-- **Custo**: **4** _KI_ e **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -981,20 +1027,20 @@ O personagem energiza seus golpes corpo a corpo com energia espiritual, causando
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+4** e **+1D6** por rank 
-- **Custo**: **4** _KI_ e **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
 ### Nível 4: Reigun Tiro Veloz
-O personagem pode lançar 2 reiguns em um único turno, após o uso deste recurso o personagem fica 2 dias sem poder usar _KI_. Perde imediatamente todos os bônus oriundos de doutrinas e aprimoramentos como: armas de _KI_, campos de batalha, _Aumento de Atributos_, _IP_ e dano. Isso inclui _Tranca Espiritual_, _Forma Reencarnada_, _Descendente de Clã Maligno_ e _Capacidade de Extrair 120% da Força_ entre outros. 
+O personagem pode lançar 2 reiguns em um único turno, após o uso deste recurso o personagem fica 2 dias sem poder usar _[KI](#ki-reiki--youki)_. Perde imediatamente todos os bônus oriundos de doutrinas e aprimoramentos como: armas de _[KI](#ki-reiki--youki)_, campos de batalha, _Aumento de Atributos_, _[IP](#ip-indice-de-proteção)_ e dano. Isso inclui _Tranca Espiritual_, _Forma Reencarnada_, _Descendente de Clã Maligno_ e _Capacidade de Extrair 120% da Força_ entre outros. 
 
 > **Observações**  
-> Bônus passivos como os aprimoramentos _Vitalidade Extra_, _Energia Espiritual Extra_ ou _Evasão_ não são cessados. 
+> Bônus passivos como os aprimoramentos _Vitalidade Extra_, _Energia Espiritual Extra_ ou _[Evasão](#evasão-1-ponto)_ não são cessados. 
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: Idem a cada um dos reiguns
-- **Custo**: **10** _KI_ e **+2** por rank. Ao final do disparo, toda a reserva de _KI_ restante é zerada
+- **Custo**: **10** _[KI](#ki-reiki--youki)_ e **+2** por rank. Ao final do disparo, toda a reserva de _[KI](#ki-reiki--youki)_ restante é zerada
   
 <br>
 
@@ -1004,7 +1050,7 @@ Um golpe que causa dano, porém perde eficiência com a distância.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+15** e **+21** por rank (a cada 1 metro de distância diminui em **4**)
-- **Custo**: **4** _KI_ e **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1014,18 +1060,18 @@ O personagem só pode usar esta técnica para tirar a parte maligna de uma pesso
 - **Tipo**: Dissipar
 - **Alvos**: **1**
 - **Dano**: **4D6+14** e **+23** por rank
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
 ### Nível 6: Reflexo Destrutivo Reiko
-O personagem quando for alvo de um disparo de até nível 7, pode absorvê-lo e depois manda-lo de volta contra o adversário, causando o dano do próprio disparo e absorvendo **1** _KI_ por nível do poder do disparo. 
+O personagem quando for alvo de um disparo de até nível 7, pode absorvê-lo e depois manda-lo de volta contra o adversário, causando o dano do próprio disparo e absorvendo **1** _[KI](#ki-reiki--youki)_ por nível do poder do disparo. 
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Cooldown**: **3** rodadas
 - **Dano**: Equivalente ao dano do disparo inicial
-- **Custo**: Equivalente ao custo de _KI_ do disparo original **+5**
+- **Custo**: Equivalente ao custo de _[KI](#ki-reiki--youki)_ do disparo original **+5**
 
 <br>
 
@@ -1033,22 +1079,22 @@ O personagem quando for alvo de um disparo de até nível 7, pode absorvê-lo e 
 Para se tornar um mestre do Heikohadouken, o personagem precisa dominar a bola espiritual. 
 
 > **Observações**  
-> 1. Para alcançar este nível da doutrina, deve-se passar em **5** testes de _CONS_, de um total de **13**.  
+> 1. Para alcançar este nível da doutrina, deve-se passar em **5** testes de _[CON](#con-constituição)_, de um total de **13**.  
 > 0. Durante o treinamento, todas as doutrinas e aprimoramentos do personagem são cessados; aliados também não podem curá-lo.  
-> 0. Superando o treinamento, o personagem poderá destrancar toda energia espiritual das artes do Heikohadouken, mas lhe restará apenas **1** _PV_. Caso falhe, seu destino é a morte.
+> 0. Superando o treinamento, o personagem poderá destrancar toda energia espiritual das artes do Heikohadouken, mas lhe restará apenas **1** _[PV](#pv-pontos-de-vida)_. Caso falhe, seu destino é a morte.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Custo**: N/A
 - **Bônus**:
-  - _CONS_: **+15**
-  - _FOR_: **+15**
-  - _AGI_: **+15**
-  - _DES_: **+15**
-  - _PV_: **+15**
-  - _KI_: **+15**
-  - _IP_: **+15**
+  - _[CON](#con-constituição)_: **+15**
+  - _[FR](#fr-força)_: **+15**
+  - _[AGI](#agi-agilidade)_: **+15**
+  - _[DEX](#dex-destreza)_: **+15**
+  - _[PV](#pv-pontos-de-vida)_: **+15**
+  - _[KI](#ki-reiki--youki)_: **+15**
+  - _[IP](#ip-indice-de-proteção)_: **+15**
   - _DANO_: **+3**
   
 <br>
@@ -1063,7 +1109,7 @@ O personagem cria uma espada que causa dano adicional.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+2** e **+3** por rank 
-- **Custo**: **3** _KI_ e **+1** por rank
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1074,7 +1120,7 @@ Este nível aumenta a Espada simples para atacar até **6** metros de distância
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **3D6+2** e **+3** por rank 
-- **Custo**: **4** _KI_ e **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1085,7 +1131,7 @@ O personagem cria uma espada que causa mais dano.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+5** e **+1D6** por rank 
-- **Custo**: **4** _KI_ **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ **+1** por rank
 
 <br>
 
@@ -1095,12 +1141,12 @@ O personagem passa a usar duas adagas reiken, e recebe um bônus de ataque e def
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **4** _KI_ **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ **+1** por rank
 - **Bônus**: 
   - _DANO_: **+2** 
-  - _ATQ_: **+5%** por rank
-  - _DEF_: **+5%** por rank
-  - _Ataques Adicionais_: **+1**
+  - _[ATQ](#atq-ataque)_: **+5%** por rank
+  - _[DEF](#def-defesa)_: **+5%** por rank
+  - _[Ataques Adicionais](#ataques-adicionais)_: **+1**
 
 <br>
 
@@ -1110,7 +1156,7 @@ O personagem faz com que sua espada ataque o adversário por de baixo da terra c
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+12** e **+16** por rank
-- **Custo**: **4** _KI_; **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_; **+1** por rank
 - **Efeitos Adicionais**:
   - Aplica **-5%** por rank de chance de esquiva ao oponente 
 
@@ -1122,7 +1168,7 @@ Melhora a espada vara tornando-a muito mais flexível e causando dano extra por 
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+14** e **+18** por rank
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**:
   - Aplica **-5%** por rank de chance de esquiva ao oponente 
 
@@ -1136,7 +1182,7 @@ O personagem cria uma espada que causa dano e pode atacar o adversário com alca
 - **Alvos**: Si mesmo
 - **Dano**: **3D6+6** e **+1D6+1** por rank
 - **Alcance**: **3** metros por rank
-- **Custo**: **6** _KI_ e **+1** por rank
+- **Custo**: **6** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1156,19 +1202,19 @@ O personagem cria uma arma de vegetal que amplifica seu dano.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+2** e **+3** por rank
-- **Custo**: **3** _KI_ e **+1** por rank
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Dano Rank C**: **2D6+4** e **+1D6** por rank
-- **Custo Rank C**: **4** _KI_ e **+1** por rank
+- **Custo Rank C**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
 ### Nível 2: Kagon Retsuzan Shi
-Confere ao personagem _Ataques Adicionais_ pela duração, adicionando também aos ataques um bônus de dano. 
+Confere ao personagem _[Ataques Adicionais](#ataques-adicionais)_ pela duração, adicionando também aos ataques um bônus de dano. 
 
 <br>
 
 > **Observações**  
-> 1. Efeito não cumulativo com _Ataques Múltiplos_ ou outras fontes de ataques adicionais.  
+> 1. Efeito não cumulativo com _[Ataques Múltiplos](#ataques-múltiplos-2-pontos)_ ou outras fontes de ataques adicionais.  
 > 0. Só pode ser usado em conjunto com _Criar Vegetal_.
 
 <br>
@@ -1176,10 +1222,10 @@ Confere ao personagem _Ataques Adicionais_ pela duração, adicionando também a
 - **Tipo**: Buff
 - **Duração**: **1** turno
 - **Alvos**: Si mesmo
-- **Custo**: **5** _KI_ (**6** a partir do rank C)
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ (**6** a partir do rank C)
 - **Bônus**
   - _DANO_: **+5** (**+6** a partir do rank C)
-  - _Ataques Adicionais_: **+2** (**+3** a partir do rank C)
+  - _[Ataques Adicionais](#ataques-adicionais)_: **+2** (**+3** a partir do rank C)
 
 <br>
 
@@ -1189,17 +1235,17 @@ O personagem cria diversas pétalas que cortam como navalhas os adversários cau
 - **Tipo**: Disparo
 - **Alvos**: **4** e **+1** por rank
 - **Dano**: **4D6+10** e **+15** por rank
-- **Custo**: **4** _KI_ e **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
 ### Nível 4: Ojigisou
-O personagem implanta a planta da morte no oponente, o paralisando após um periodo de tempo. Após a paralisação, o oponente morrerá com um comando do personagem. Requer um teste bem-sucedido de _DES_ para implantar a semante na vítima. Requer um teste bem-sucedido de _Conhecimento de Doutrinas_ para não cair no truque. Não funciona com quem conhece o golpe. 
+O personagem implanta a planta da morte no oponente, o paralisando após um periodo de tempo. Após a paralisação, o oponente morrerá com um comando do personagem. Requer um teste bem-sucedido de _[DEX](#dex-destreza)_ para implantar a semante na vítima. Requer um teste bem-sucedido de _Conhecimento de Doutrinas_ para não cair no truque. Não funciona com quem conhece o golpe. 
 
 - **Tipo**: Debuff
 - **Duração**: **1** cena
 - **Alvos**: **1**
-- **Custo**: **8** _KI_
+- **Custo**: **8** _[KI](#ki-reiki--youki)_
 - **Efeitos Adicionais**
   - Paralisa o oponente após **1** rodada
 
@@ -1212,25 +1258,25 @@ O personagem invoca a planta demoníaca que causa dano atacando oponentes e/ou q
 > 1.  A planta demoníaca usa a ação de ataque do invocador para atacar.
 
 - **Tipo**: Invocação
-- **Custo**: **5** _KI_ e **+1** por rank  
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank  
 - **Planta Demoníaca**
   - **Dano**: **3D6+4** e **+1D6+1** por rank
 
 <br>
 
 ### Nível 6: Sakura
-O personagem invoca uma imensa cerejeira e, neste campo de batalha (tem a mesma dimensão de um campo comum, com exceção da altura ser 50 metros por rank), recebe um bônus de ataque, defesa e testes de resistência de esquiva. As plantas também podem defender disparos (trate isso como o aprimoramento _Evasão_). Oponentes recebem um redutor de ataque, defesa e testes de resistência de esquiva. 
+O personagem invoca uma imensa cerejeira e, neste campo de batalha (tem a mesma dimensão de um campo comum, com exceção da altura ser 50 metros por rank), recebe um bônus de ataque, defesa e testes de resistência de esquiva. As plantas também podem defender disparos (trate isso como o aprimoramento _[Evasão](#evasão-1-ponto)_). Oponentes recebem um redutor de ataque, defesa e testes de resistência de esquiva. 
 
 - **Tipo**: Invocação
-- **Custo**: **5** _KI_ e **+1** por rank  
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank  
 - **Bônus**
-  - _ATQ_: **+5%** por rank
-  - _DEF_: **+5%** por rank
+  - _[ATQ](#atq-ataque)_: **+5%** por rank
+  - _[DEF](#def-defesa)_: **+5%** por rank
   - _Esquiva_: **+%5** por rank
-  - _Evasão_ 
+  - _[Evasão](#evasão-1-ponto)_ 
 - **Efeitos Adicionais**
-  - Aplica **-5%** de _ATQ_ ao oponente 
-  - Aplica **-5%** de _DEF_ ao oponente 
+  - Aplica **-5%** de _[ATQ](#atq-ataque)_ ao oponente 
+  - Aplica **-5%** de _[DEF](#def-defesa)_ ao oponente 
   - Aplica **-5%** de _Esquiva_ ao oponente 
 
 <br>
@@ -1239,13 +1285,13 @@ O personagem invoca uma imensa cerejeira e, neste campo de batalha (tem a mesma 
 O personagem invoca a planta sanguessuga que ataca um oponente que estiver ferido causando dano por periodo de tempo. 
 
 > **Observações**
-> Requer um teste difícil de _AGI_ para se esquivar da invocação. A cada rodada, a vítima pode tentar arrancá-la, requer um teste de _FOR_ vs _FOR_ contra a planta. 
+> Requer um teste difícil de _[AGI](#agi-agilidade)_ para se esquivar da invocação. A cada rodada, a vítima pode tentar arrancá-la, requer um teste de _[FR](#fr-força)_ vs _[FR](#fr-força)_ contra a planta. 
 
 - **Tipo**: Invocação
 - **Alvos**: **1**
-- **Custo**: **10** _KI_. Ao final da invocação, toda a reserva de _KI_ restante é zerada
+- **Custo**: **10** _[KI](#ki-reiki--youki)_. Ao final da invocação, toda a reserva de _[KI](#ki-reiki--youki)_ restante é zerada
 - **Planta Sanguessuga**
-  - _FOR_: _FOR_ do invocador **+10**
+  - _[FR](#fr-força)_: _[FR](#fr-força)_ do invocador **+10**
   - _DANO_: **4D6+14** e **+5** por rank (ignora qualquer absorção de dano)
 
 <br>
@@ -1269,7 +1315,7 @@ O personagem cria um campo de calor intenso aumentando consideravelmente a tempe
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Dano**: **+3** por rank
-- **Custo**: **1** _KI_ e **+1** por rank
+- **Custo**: **1** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
   - Caso _Esfriar_ esteja ativo, ambos os campos se dissipam. 
   
@@ -1282,7 +1328,7 @@ O personagem cria chamas nas mãos ou em uma arma aumentando seu dano.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **3D6** e **+3** por rank
-- **Custo**: **3** _KI_ e **+1** por rank 
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank 
 
 <br>
 
@@ -1292,7 +1338,7 @@ O personagem lança um disparo de chamas negras contra o adversário causando da
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+10** e **+16** por rank
-- **Custo**: **3** _KI_ e **+1** por rank
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1303,7 +1349,7 @@ O personagem cria uma espada de chamas negras que causa dano adicional.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+4** e **+1D6+1** por rank
-- **Custo**: **5** _KI_ e **+1** por rank 
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank 
 
 <br>
 
@@ -1311,14 +1357,14 @@ O personagem cria uma espada de chamas negras que causa dano adicional.
 O personagem invoca um dragão negro contra o adversário causando dano, este fica mais forte se invocado no mundo das trevas. O oponente pode tentar devolver o dragão de volta para o invocador ao invés de tentar se esquivar. 
 
 > **Observações**  
-> 1.  Para devolver o dragão ao invocador ao invés de esquivar, o oponente precisa ser bem-sucedido num teste difícil de _CONS_.
+> 1.  Para devolver o dragão ao invocador ao invés de esquivar, o oponente precisa ser bem-sucedido num teste difícil de _[CON](#con-constituição)_.
 > 2. Ao receber o dragão devolvido pelo oponente, o invocador do dragão negro leva 10% do dano sem direito a absorção de dano.
 > 2.1 A partir do rank B o dragão estará perfeito e o controlador não receberá dano.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+15** e **+21** por rank
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
   - **Dano**: **4D6+18** e **+21** por rank por rank se utilizado no mundo das trevas
 
@@ -1335,12 +1381,12 @@ Quando o personagem usar o dragão sobre si mesmo ou quando o dragão for devolv
 - **Alvos**: Si mesmo
 - **Custo**: N/A
 - **Bônus**:
-  - _CONS_: **+15**
-  - _FOR_: **+15**
-  - _AGI_: **+10**
-  - _DES_: **+10**
-  - _PV_: **+20**
-  - _IP_: **+10**
+  - _[CON](#con-constituição)_: **+15**
+  - _[FR](#fr-força)_: **+15**
+  - _[AGI](#agi-agilidade)_: **+10**
+  - _[DEX](#dex-destreza)_: **+10**
+  - _[PV](#pv-pontos-de-vida)_: **+20**
+  - _[IP](#ip-indice-de-proteção)_: **+10**
 
 <br>
 <br>
@@ -1360,7 +1406,7 @@ O personagem lança um disparo de pedras contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+8** e **+13** por rank
-- **Custo**: **1** _KI_ e **+1** por rank
+- **Custo**: **1** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1371,9 +1417,9 @@ O personagem fortifica seu braço com pedras que aumentam o seu dano.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **3D6** e **+3** por rank
-- **Custo**: **3** _KI_ e **+1** por rank
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Dano Rank B**: **3D6+2** e **+1D6** por rank
-- **Custo Rank B**: **4** _KI_ e **+1** por rank
+- **Custo Rank B**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1383,12 +1429,12 @@ O personagem aumenta o seu poder e recebe um bônus.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **5** _KI_
+- **Custo**: **5** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _CONS_: **+5**
-  - _FOR_: **+10**
-  - _PV_: **+5**
-  - _IP_: **+5**
+  - _[CON](#con-constituição)_: **+5**
+  - _[FR](#fr-força)_: **+10**
+  - _[PV](#pv-pontos-de-vida)_: **+5**
+  - _[IP](#ip-indice-de-proteção)_: **+5**
 
 <br>
 
@@ -1398,7 +1444,7 @@ O personagem atinge o adversário com uma investida vindo de qualquer lugar do s
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+12** e **+16** por rank
-- **Custo**: **3** _KI_ e **+1** por rank
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
   - **Esquiva**: O adversário perde **-5%** de sua esquiva contra essa técnica.
 
@@ -1408,13 +1454,13 @@ O personagem atinge o adversário com uma investida vindo de qualquer lugar do s
 O personagem lança-se em pedaços contra o adversário causando dano.
 
 > **Observações**  
-> Se o oponente for bem-sucedido em um teste difícil de _PER_, ele encontrará a pedra coração entre as rochas lançadas.
-> Para capturar a pedra coração é necessário ser atingido pelo disparo e ser bem-sucedido em um teste difícil de _DES_. Caso o oponente destrua a pedra coração, o personagem morrerá.
+> Se o oponente for bem-sucedido em um teste difícil de _[PER](#per-percepção)_, ele encontrará a pedra coração entre as rochas lançadas.
+> Para capturar a pedra coração é necessário ser atingido pelo disparo e ser bem-sucedido em um teste difícil de _[DEX](#dex-destreza)_. Caso o oponente destrua a pedra coração, o personagem morrerá.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+14** e **+20** por rank
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
   - **Esquiva**: O adversário perde **-5%** de sua esquiva contra essa técnica.
 
@@ -1426,12 +1472,12 @@ O personagem aumenta o seu poder e recebe um bônus em alguns atributos.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **10** _KI_
+- **Custo**: **10** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _CONS_: **+20**
-  - _FOR_: **+20**
-  - _PV_: **+15**
-  - _IP_: **+15**
+  - _[CON](#con-constituição)_: **+20**
+  - _[FR](#fr-força)_: **+20**
+  - _[PV](#pv-pontos-de-vida)_: **+15**
+  - _[IP](#ip-indice-de-proteção)_: **+15**
 
 <br>
 
@@ -1444,9 +1490,9 @@ O personagem amplia seu dano físico.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+2** e **+3** por rank
-- **Custo**: **3** _KI_ e **+1** por rank
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Dano Rank C**: **2D6+4** e **+1D6** por rank
-- **Custo Rank C**: **4** _KI_ e **+1** por rank
+- **Custo Rank C**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1456,7 +1502,7 @@ O personagem lança um disparo contra o adversário causando dano.
  - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+10** e **+15** por rank
-- **Custo**: **1** _KI_ e **+1** por rank
+- **Custo**: **1** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1466,7 +1512,7 @@ O personagem lança um disparo contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+12** e **+18** por rank
-- **Custo**: **4** _KI_ e **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1476,14 +1522,14 @@ O personagem recebe um bônus em alguns atributos.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **10** _KI_
+- **Custo**: **10** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _CONS_: **+15**
-  - _FOR_: **+15**
-  - _PV_: **+15**
-  - _IP_: **+5** (**+10** a partir do rank C)
+  - _[CON](#con-constituição)_: **+15**
+  - _[FR](#fr-força)_: **+15**
+  - _[PV](#pv-pontos-de-vida)_: **+15**
+  - _[IP](#ip-indice-de-proteção)_: **+5** (**+10** a partir do rank C)
 - **Efeitos Adicionais**
-  - Quando o personagem sofrer dano oriundo de alguma doutrina, ele absorverá **1/4** do _KI_ gasto usado na tal doutrina. Caso ele sofra mais de um ataque no mesmo turno, ele absorverá _KI_ apenas uma única vez.
+  - Quando o personagem sofrer dano oriundo de alguma doutrina, ele absorverá **1/4** do _[KI](#ki-reiki--youki)_ gasto usado na tal doutrina. Caso ele sofra mais de um ataque no mesmo turno, ele absorverá _[KI](#ki-reiki--youki)_ apenas uma única vez.
   - Se o personagem ficar com mais ki do que o máximo permitido no seu nível, ele sofre 2D6 de dano por rank sem absorção de dano.
 
 <br>
@@ -1494,7 +1540,7 @@ O personagem lança um disparo contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+15** e **+21** por rank
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1506,7 +1552,7 @@ O personagem lança um choque da ponta dos dedos contra o adversário causando d
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+8** e **+13** por rank
-- **Custo**: **1** _KI_ e **+1** por rank
+- **Custo**: **1** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1517,9 +1563,9 @@ O personagem energiza raios nas mãos que causam mais dano.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **3D6** e **+3** por rank
-- **Custo**: **3** _KI_ e **+1** por rank
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Dano Rank C**: **3D6+2** e **+1D6** por rank
-- **Custo Rank C**: **4** _KI_ e **+1** por rank
+- **Custo Rank C**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1536,11 +1582,11 @@ O personagem cria duplicatas e recebe um bônus.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **10** _KI_
+- **Custo**: **10** _[KI](#ki-reiki--youki)_
 - **Bônus**
-  - _PV_: **+25**
+  - _[PV](#pv-pontos-de-vida)_: **+25**
 - **Efeitos Adicionais**
-  - Ao usar essa técnica o personagem recebe o aprimoramento _Ataques Múltiplos_.
+  - Ao usar essa técnica o personagem recebe o aprimoramento _[Ataques Múltiplos](#ataques-múltiplos-2-pontos)_.
 
 <br>
 
@@ -1550,7 +1596,7 @@ O personagem quando for alvo de um disparo de nível 5 ou menor, pode desviá-lo
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Cooldown**: **3** rodadas
-- **Custo**: Equivalente ao custo de _KI_ do disparo original **+3**
+- **Custo**: Equivalente ao custo de _[KI](#ki-reiki--youki)_ do disparo original **+3**
 
 <br>
 
@@ -1560,7 +1606,7 @@ Após dividir-se em sete (utilizando **Kakeru**), o personagem usa sete choques 
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+12** e **+18** por rank
-- **Custo**: **4** _KI_ e **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1570,22 +1616,22 @@ Após dividir-se em sete (utilizando **Kakeru**), o personagem usa sete disparos
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+15** e **+21** por rank
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
 ## Devil Yo-yo
 
 ### Nível 1: Yo-yo Acrobático
-O personagem passa a lutar com um estilo de luta bastante exótico, utilizando yo-yos, e recebe um bônus de _ATQ_ e _DEF_. 
+O personagem passa a lutar com um estilo de luta bastante exótico, utilizando yo-yos, e recebe um bônus de _[ATQ](#atq-ataque)_ e _[DEF](#def-defesa)_. 
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **2** _KI_ e **+1** por rank
+- **Custo**: **2** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Bônus**
-  - _ATQ_: **+5%** por rank
-  - _DEF_: **+5%** por rank
+  - _[ATQ](#atq-ataque)_: **+5%** por rank
+  - _[DEF](#def-defesa)_: **+5%** por rank
 
 <br>
 
@@ -1595,10 +1641,10 @@ O personagem prende o oponente com os yo-yos e o arremessa contra o chão causan
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+10** e **+15** por rank
-- **Custo**: **3** _KI_ e **+1** por rank
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
-  - O teste de _Esquiva_ usa _CONS_ em vez de _AGI_
-  - Não é posssível usar _Evasão_
+  - O teste de _Esquiva_ usa _[CON](#con-constituição)_ em vez de _[AGI](#agi-agilidade)_
+  - Não é posssível usar _[Evasão](#evasão-1-ponto)_
 
 <br>
 
@@ -1609,7 +1655,7 @@ O personagem potencializa os yo-yos causando mais dano.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+4** e **+1D6** por rank
-- **Custo**: **4*** _KI_ e **+1** por rank  
+- **Custo**: **4*** _[KI](#ki-reiki--youki)_ e **+1** por rank  
  
 <br>
 
@@ -1617,12 +1663,12 @@ O personagem potencializa os yo-yos causando mais dano.
 O personagem prende o oponente com os yo-yos. 
 
 > **Observações**
-> Para resistir, o alvo deve ser  bem-sucedido num teste de _CONS_. Caso falhe, a vítima poderá repetir o teste a cada rodada para dissipar o efeito. 
+> Para resistir, o alvo deve ser  bem-sucedido num teste de _[CON](#con-constituição)_. Caso falhe, a vítima poderá repetir o teste a cada rodada para dissipar o efeito. 
 
 - **Tipo**: Debuff
 - **Duração**: **1** rodada por rank
 - **Alvos**: **1**
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
   - O alvo fica paralisado não podendo executar nenhuma ação
   
@@ -1634,7 +1680,7 @@ O personagem lança os yo-yos contra o adversário causando dano e diminuindo a 
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+14** e **+18** por rank
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
   - Durante o ataque, é aplicado ao oponente **-5%** de chance de _Esquiva_ por rank 
 
@@ -1649,7 +1695,7 @@ O personagem lança uma bola de fogo contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+8** e **+13** por rank
-- **Custo**: **1** _KI_ e **+1** por rank
+- **Custo**: **1** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1660,9 +1706,9 @@ O personagem cria uma arma causando mais dano.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **3D6** e **+3** por rank
-- **Custo**: **4*** _KI_ e **+1** por rank  
+- **Custo**: **4*** _[KI](#ki-reiki--youki)_ e **+1** por rank  
 - **Dano Rank C**: **3D6+2** e **+1D6** por rank
-- **Custo Rank C**: **5*** _KI_ e **+1** por rank  
+- **Custo Rank C**: **5*** _[KI](#ki-reiki--youki)_ e **+1** por rank  
 
 <br>
 
@@ -1675,7 +1721,7 @@ O personagem faz uma reza, após seu termino, o oponente encolhe. Requer um test
 - **Tipo**: Debuff
 - **Duração**: **1** cena
 - **Alvos**: **1**
-- **Custo**: **9** _KI_
+- **Custo**: **9** _[KI](#ki-reiki--youki)_
 - **Efeitos Adicionais**
   - O alvo encolhe e fica com 2 centímetros de altura
 
@@ -1687,12 +1733,12 @@ O personagem lança um disparo contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+12** e **+17** por rank
-- **Custo**: **4** _KI_ e **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
 ### Nível 5: Roubar Doutrinas
-Ao ver qualquer doutrina o personagem poderá copiá-la para usá-la durante a luta. Para aprendê-la permanentemente, deverá passar no teste _INT_ e pagar o custo da doutrina na evolução do personagem. 
+Ao ver qualquer doutrina o personagem poderá copiá-la para usá-la durante a luta. Para aprendê-la permanentemente, deverá passar no teste _[INT](#int-inteligência)_ e pagar o custo da doutrina na evolução do personagem. 
 
 > **Observações**  
 > 1. É aconselhável que as doutrinas não recomendadas para jogadores não possam ser copiadas. 
@@ -1701,10 +1747,10 @@ Ao ver qualquer doutrina o personagem poderá copiá-la para usá-la durante a l
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **6** _KI_
+- **Custo**: **6** _[KI](#ki-reiki--youki)_
 - **Efeitos Adicionais**
   - A habilida copiada possui exatamente as mesmas regras da original
-  - O custo de uso da doutrina copiada temporariamente é acrescido de **+1** de _KI_ para doutrinas de até nível **3** ou **+2** para os demais níveis
+  - O custo de uso da doutrina copiada temporariamente é acrescido de **+1** de _[KI](#ki-reiki--youki)_ para doutrinas de até nível **3** ou **+2** para os demais níveis
 
 <br>
 
@@ -1719,7 +1765,7 @@ O personagem cria um campo de calor intenso aumentando consideravelmente a tempe
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Dano**: **2** por rank
-- **Custo**: **1** _KI_ e **+1** por rank
+- **Custo**: **1** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
   - Caso _Esfriar_ esteja ativo, ambos os campos se dissipam.
 
@@ -1731,7 +1777,7 @@ O personagem lança um disparo contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+10** e **+15** por rank
-- **Custo**: **2** _KI_ e **+1** por rank
+- **Custo**: **2** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1742,7 +1788,7 @@ O personagem cria chamas intensas nas mãos ampliando seu dano.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+4** e **+1D6** por rank
-- **Custo**: **4** _KI_ e **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1752,7 +1798,7 @@ O personagem lança uma grande bola de fogo contra seus adversários causando da
 - **Tipo**: Disparo
 - **Alvos**: **4** e **+1** por rank
 - **Dano**: **4D6+12** e **+17** por rank
-- **Custo**: **4** _KI_ e **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1763,7 +1809,7 @@ O personagem cria chamas em todo o corpo, causando dano.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+5** e **+1D6+1** por rank 
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
   - Se o oponente atacá-lo com as mãos nuas, ele sofrerá **2D6** de dano, **3D6** de dano no rank C, e **4D6** de dano no rank A. Não se aplica a regra de dano mínimo neste dano.
 
@@ -1775,7 +1821,7 @@ O personagem lança um disparo contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+15** e **+21** por rank
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1787,10 +1833,10 @@ O personagem luta cambaleando, no estilo kung fu bêbado, tornando seus moviment
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **1** _KI_ e **+1** por rank
+- **Custo**: **1** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Bônus**
-  - _ATQ_: **+5%** por rank
-  - _DEF_: **+5%** por rank
+  - _[ATQ](#atq-ataque)_: **+5%** por rank
+  - _[DEF](#def-defesa)_: **+5%** por rank
 
 <br>
 
@@ -1800,7 +1846,7 @@ O personagem ataca o oponente com um tremendo chute.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+10** e **+15** por rank
-- **Custo**: **2** _KI_ e **+1** por rank
+- **Custo**: **2** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1811,7 +1857,7 @@ O personagem energiza seus golpes corpo a corpo com energia espiritual causando 
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+4** e **+1D6** por rank 
-- **Custo**: **4** _KI_ e **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1821,22 +1867,22 @@ O personagem lança uma bola de energia contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+12** e **+17** por rank
-- **Custo**: **3** _KI_ e **+1** por rank
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
 ### Nível 5: Aumento de Energia Sobrenatural
-O personagem, depois de beber muito, recebe um bônus de _FOR_ e _CONS_, _PV_ e _IP_. 
+O personagem, depois de beber muito, recebe um bônus de _[FR](#fr-força)_ e _[CON](#con-constituição)_, _[PV](#pv-pontos-de-vida)_ e _[IP](#ip-indice-de-proteção)_. 
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **10** _KI_
+- **Custo**: **10** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _CONS_: **+15**
-  - _FOR_: **+15**
-  - _PV_: **+20**
-  - _IP_: **+10**
+  - _[CON](#con-constituição)_: **+15**
+  - _[FR](#fr-força)_: **+15**
+  - _[PV](#pv-pontos-de-vida)_: **+20**
+  - _[IP](#ip-indice-de-proteção)_: **+10**
   
 <br>
 
@@ -1846,7 +1892,7 @@ O personagem lança uma grande bola de energia contra o adversário causando dan
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+15** e **+21** por rank
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1858,10 +1904,10 @@ O personagem após se maquiar ele fortalece seu corpo.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **5** _KI_
+- **Custo**: **5** _[KI](#ki-reiki--youki)_
 - **Bônus**:
   - _DANO_: **+5**
-  - _IP_: **+5** (**+10** a partir do rank C)
+  - _[IP](#ip-indice-de-proteção)_: **+5** (**+10** a partir do rank C)
 
 <br>
 
@@ -1869,28 +1915,28 @@ O personagem após se maquiar ele fortalece seu corpo.
 O personagem marca o oponente com o pincel aplicando um redutor no ataque e na defesa. 
 
 > **Observações**
-> Requer um teste de _CONS_ para reduzir a duração do efeito. Caso obtenha um resultado que seja bem sucedido para passar num teste difícil, a vítima resistirá ao efeito por completo.
+> Requer um teste de _[CON](#con-constituição)_ para reduzir a duração do efeito. Caso obtenha um resultado que seja bem sucedido para passar num teste difícil, a vítima resistirá ao efeito por completo.
 
 - **Tipo**: Debuff
 - **Duração**: **1** cena ou (**1** rodada por rank, caso bem sucedido em teste)
 - **Alvos**: **1**
-- **Custo**: **2** _KI_ e **+1** por rank
+- **Custo**: **2** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
-  - _ATQ_: **-5%** por rank
-  - _DEF_: **-5%** por rank
+  - _[ATQ](#atq-ataque)_: **-5%** por rank
+  - _[DEF](#def-defesa)_: **-5%** por rank
 
 <br>
 
 ### Nível 3: Chave de Prisão
-O personagem marca o oponente com o pincel aplicando um redutor de _DES_ e _AGI_. Requer um teste bem sucedido de _CONS_ para reduzir o efeito pela metade. Caso obtenha um resultado que seja bem sucedido para passar num teste difícil, a vítima resistirá ao efeito por completo.
+O personagem marca o oponente com o pincel aplicando um redutor de _[DEX](#dex-destreza)_ e _[AGI](#agi-agilidade)_. Requer um teste bem sucedido de _[CON](#con-constituição)_ para reduzir o efeito pela metade. Caso obtenha um resultado que seja bem sucedido para passar num teste difícil, a vítima resistirá ao efeito por completo.
 
 - **Tipo**: Debuff
 - **Duração**: **1** cena
 - **Alvos**: **1**
-- **Custo**: **5** _KI_
+- **Custo**: **5** _[KI](#ki-reiki--youki)_
 - **Efeitos Adicionais**
-  - _DES_: **-10**
-  - _AGI_: **-10**
+  - _[DEX](#dex-destreza)_: **-10**
+  - _[AGI](#agi-agilidade)_: **-10**
   
 <br>
 
@@ -1898,24 +1944,24 @@ O personagem marca o oponente com o pincel aplicando um redutor de _DES_ e _AGI_
 O personagem paralisa o oponente. 
 
 > **Observações**
-> Para resistir, o alvo deve ser bem-sucedido num teste de _CONS_. Caso seja paralisado, a vítima poderá repetir o teste a cada rodada para dissipar o efeito.
+> Para resistir, o alvo deve ser bem-sucedido num teste de _[CON](#con-constituição)_. Caso seja paralisado, a vítima poderá repetir o teste a cada rodada para dissipar o efeito.
 
 - **Tipo**: Debuff
 - **Duração**: **1** rodada por rank
 - **Alvos**: **1**
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
   - O alvo fica paralisado não podendo executar nenhuma ação
 
 <br>
 
 ### Nível 5: Trancar Energia Espiritual
-O personagem marca o oponente com o pincel causando _Silênciar_ e _Dissipar_. Caso o personagem passe num teste bem-sucedido de _WILL_ ele resiste ao _Dissipar_. Caso obtenha um resultado que seja bem sucedido para passar num teste difícil, a vítima resistirá ao efeito por completo.
+O personagem marca o oponente com o pincel causando _Silênciar_ e _Dissipar_. Caso o personagem passe num teste bem-sucedido de _[WILL](#will-força-de-vontade)_ ele resiste ao _Dissipar_. Caso obtenha um resultado que seja bem sucedido para passar num teste difícil, a vítima resistirá ao efeito por completo.
 
 - **Tipo**: Debuff
 - **Duração**: **1** rodada por rank
 - **Alvos**: **1**
-- **Custo**: **6** _KI_ e **+1** por rank
+- **Custo**: **6** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
   - _Silênciar_: O oponente não pode utilizar doutrinas
   - _Dissipar_: Desativa todos os bônus das doutrinas já aplicados 
@@ -1930,10 +1976,10 @@ O personagem cria um campo de batalha de gelo que diminui consideravelmente a te
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **1** _KI_ e **+1** por rank
+- **Custo**: **1** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Bônus**
-  - _ATQ_: **+5%** por rank
-  - _DEF_: **+5%** por rank
+  - _[ATQ](#atq-ataque)_: **+5%** por rank
+  - _[DEF](#def-defesa)_: **+5%** por rank
 - **Efeitos Adicionais**
   - Caso _Aquecer_ esteja ativo, ambos os campos se dissipam.
 
@@ -1945,7 +1991,7 @@ O personagem dispara diversas estacas de granizo contra o adversário causando d
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+10** e **+15** por rank
-- **Custo**: **2** _KI_ e **+1** por rank
+- **Custo**: **2** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1956,7 +2002,7 @@ O personagem cria uma espada de gelo no próprio braço ampliando seu dano.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+4** e **+1D6** por rank 
-- **Custo**: **4** _KI_ e **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1964,15 +2010,15 @@ O personagem cria uma espada de gelo no próprio braço ampliando seu dano.
 O personagem congela praticamente todo o corpo do oponente. 
 
 > **Observações**
-> Requer um teste bem-sucedido de _CONS_ para resistir o efeito. A cada rodada, a vítima poderá repetir o teste para dissipar o efeito.
+> Requer um teste bem-sucedido de _[CON](#con-constituição)_ para resistir o efeito. A cada rodada, a vítima poderá repetir o teste para dissipar o efeito.
 
 - **Tipo**: Debuff
 - **Duração**: **1** rodada por rank
 - **Alvos**: **1**
-- **Custo**: **6** _KI_ e **+1** por rank
+- **Custo**: **6** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
   - Paralisa o oponente durante **1** rodada por rank 
-  - Absorve **1** _KI_ por rodada
+  - Absorve **1** _[KI](#ki-reiki--youki)_ por rodada
   
 <br>
 
@@ -1982,7 +2028,7 @@ O personagem cria um disparo na forma de um dragão de gelo contra o adversário
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+14** e **+19** por rank
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -1994,7 +2040,7 @@ O personagem pode voar e tem o dobro do deslocamento.
  **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **3** _KI_ 
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ 
 - **Efeitos Adicionais**
   - O personagem pode voar e tem o dobro do deslocamento.
 
@@ -2006,7 +2052,7 @@ O personagem dispara uma rajada de ar contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+10** e **+15** por rank
-- **Custo**: **2** _KI_ e **+1** por rank
+- **Custo**: **2** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -2017,7 +2063,7 @@ O personagem cria um furacão em um de seus braços ampliando seu dano.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+4** e **+1D6** por rank 
-- **Custo**: **4** _KI_ e **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -2027,7 +2073,7 @@ O personagem quando for alvo de um disparo de nível 5 ou menor, pode desviá-lo
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Cooldown**: **3** rodadas
-- **Custo**: Equivalente ao custo de _KI_ do disparo original **+3**
+- **Custo**: Equivalente ao custo de _[KI](#ki-reiki--youki)_ do disparo original **+3**
 
 <br>
 
@@ -2038,7 +2084,7 @@ O personagem cria um furacão em cada braço ampliando seu dano.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **3D6+4** e **+1D6+1** por rank
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -2048,7 +2094,7 @@ O personagem lança um grande furacão contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+15** e **+21** por rank
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -2068,9 +2114,9 @@ O personagem cria uma arma energética para atacar seus adversários.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+2** e **+3** por rank
-- **Custo**: **3** _KI_ e **+1** por rank
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Dano Rank C**: **2D6+4** e **+1D6** por rank
-- **Custo Rank C**: **4** _KI_ e **+1** por rank
+- **Custo Rank C**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -2080,12 +2126,12 @@ O personagem aprimora sua capacidade física.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **5** _KI_
+- **Custo**: **5** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _FOR_: **+5**
-  - _CONS_: **+5** 
-  - _IP_: **+5** (**+10** a partir do rank C)
-  - _PV_: **+5**
+  - _[FR](#fr-força)_: **+5**
+  - _[CON](#con-constituição)_: **+5** 
+  - _[IP](#ip-indice-de-proteção)_: **+5** (**+10** a partir do rank C)
+  - _[PV](#pv-pontos-de-vida)_: **+5**
 
 <br>
 
@@ -2095,7 +2141,7 @@ O personagem lança chakrans contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+12** e **+16** por rank
-- **Custo**: **3** _KI_ e **+1** por rank
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -2105,13 +2151,13 @@ O personagem aumenta de forma considerável o seu poder, tornando seu corpo mais
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **10** _KI_
+- **Custo**: **10** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _CONS_: **+10**
-  - _FOR_: **+10**
-  - _AGI_: **+10**
-  - _DES_: **+10**
-  - _PV_: **+10**
+  - _[CON](#con-constituição)_: **+10**
+  - _[FR](#fr-força)_: **+10**
+  - _[AGI](#agi-agilidade)_: **+10**
+  - _[DEX](#dex-destreza)_: **+10**
+  - _[PV](#pv-pontos-de-vida)_: **+10**
 
 <br>
 
@@ -2121,7 +2167,7 @@ O personagem energiza sua mão, aonde ele tocar causará um grande onda de destr
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+14** e **+19** por rank
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -2141,7 +2187,7 @@ Após o personagem ser atacado ele pode comer um bolinho e ficar resistente ao g
 > 1. A regra de dano mínimo não é eliminada. 
 > 0. Golpes comuns de luta corpo a corpo sem doutrinas não pode ser memorizados.
 
-- **Custo**: **3** _KI_
+- **Custo**: **3** _[KI](#ki-reiki--youki)_
 
 <br>
 
@@ -2152,7 +2198,7 @@ Após o personagem ser atacado ele pode comer um bolinho e ficar imune ao golpe,
 > 1. A regra de dano mínimo não é eliminada. 
 > 0. Golpes comuns de luta corpo a corpo sem doutrinas não pode ser memorizados.
 
-- **Custo**: **4** _KI_
+- **Custo**: **4** _[KI](#ki-reiki--youki)_
  
 <br>
 
@@ -2162,11 +2208,11 @@ O personagem após comer o bolinho se transforma em um macaco monstro do mundo d
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **5** _KI_
+- **Custo**: **5** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _CONS_: **+10**
-  - _FOR_: **+10**
-  - _PV_: **+5**
+  - _[CON](#con-constituição)_: **+10**
+  - _[FR](#fr-força)_: **+10**
+  - _[PV](#pv-pontos-de-vida)_: **+5**
   - _DANO_: **+2D6** (apenas quando atacando desamardo)
 
 <br>
@@ -2177,13 +2223,13 @@ O personagem após comer o bolinho se transforma em um faisão das trevas, receb
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **10** _KI_
+- **Custo**: **10** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _CONS_: **+10**
-  - _FOR_: **+10**
-  - _AGI_: **+10**
-  - _DES_: **+10**
-  - _PV_: **+10**
+  - _[CON](#con-constituição)_: **+10**
+  - _[FR](#fr-força)_: **+10**
+  - _[AGI](#agi-agilidade)_: **+10**
+  - _[DEX](#dex-destreza)_: **+10**
+  - _[PV](#pv-pontos-de-vida)_: **+10**
   - _DANO_: **+2D6+1** (apenas quando atacando desamardo)
 - **Efeitos Adicionais**
   - Recebe o aprimoramento Vôo
@@ -2198,11 +2244,11 @@ O personagem após comer o bolinho se transforma em um Cão monstro das trevas, 
 - **Alvos**: Si mesmo
 - **Custo**: 15
 - **Bônus**:
-  - _CONS_: **+15**
-  - _FOR_: **+15**
-  - _AGI_: **+15**
-  - _DES_: **+15**
-  - _IP_: **+10**
+  - _[CON](#con-constituição)_: **+15**
+  - _[FR](#fr-força)_: **+15**
+  - _[AGI](#agi-agilidade)_: **+15**
+  - _[DEX](#dex-destreza)_: **+15**
+  - _[IP](#ip-indice-de-proteção)_: **+10**
   - _DANO_: **+2D6+2** (apenas quando atacando desamardo)
 
 <br>
@@ -2213,11 +2259,11 @@ O personagem após comer o bolinho se transforma em um Cão monstro das trevas, 
 O personagem invoca o manto da morte e caso o oponente seja atingido por esse, é teletransportado para um lugar aleatório num raio de 10km.
 
 > **Observações**  
-> 1. Este ataque funciona semelhante como um disparo, com a diferença que o resultado do teste de _AGI_ indica se o alvo será ou não teletransportado.
+> 1. Este ataque funciona semelhante como um disparo, com a diferença que o resultado do teste de _[AGI](#agi-agilidade)_ indica se o alvo será ou não teletransportado.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Custo**: **3** _KI_
+- **Custo**: **3** _[KI](#ki-reiki--youki)_
 
 <br>
 
@@ -2227,7 +2273,7 @@ O personagem lança várias sombras contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+10** e **+15** por rank
-- **Custo**: **2** _KI_ e **+1** por rank
+- **Custo**: **2** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -2238,7 +2284,7 @@ O personagem cria uma espada que amplifica o dano.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+4** e **+1D6** por rank 
-- **Custo**: **4** _KI_ e **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -2248,7 +2294,7 @@ O personagem cria uma barreira de ondas que evita o dano de disparos de nível 5
 - **Tipo**: Buff
 - **Alvos**: Si mesmo
 - **Cooldown**: **3** rodadas
-- **Custo**: Equivalente ao custo de _KI_ do disparo original **+3**
+- **Custo**: Equivalente ao custo de _[KI](#ki-reiki--youki)_ do disparo original **+3**
 
 <br>
  
@@ -2258,12 +2304,12 @@ O personagem se mescla as sombras e recebendo bônus durante a cena.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **10** _KI_
+- **Custo**: **10** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _CONS_: **+15**
-  - _FOR_: **+15**
-  - _PV_: **+20**
-  - _IP_: **+10**
+  - _[CON](#con-constituição)_: **+15**
+  - _[FR](#fr-força)_: **+15**
+  - _[PV](#pv-pontos-de-vida)_: **+20**
+  - _[IP](#ip-indice-de-proteção)_: **+10**
  
  <br>
  
@@ -2271,12 +2317,12 @@ O personagem se mescla as sombras e recebendo bônus durante a cena.
 O personagem faz sua espada emitir um terrível som em uma área (semelhante a um campo) fazendo monstros de rank E desmaiarem.
 
 - **Tipo**: Debuff
-- **Duração**: **1** cena (ou uma rodada por rank se bem sucedido no teste de _WILL_)
+- **Duração**: **1** cena (ou uma rodada por rank se bem sucedido no teste de _[WILL](#will-força-de-vontade)_)
 - **Alvos**: todos os oponentes na área
-- **Custo**: **4** _KI_ e **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
-  - Aplica **-5%** de _ATQ_ ao oponente por rank
-  - Aplica **-5%** de _DEF_ ao oponente por rank
+  - Aplica **-5%** de _[ATQ](#atq-ataque)_ ao oponente por rank
+  - Aplica **-5%** de _[DEF](#def-defesa)_ ao oponente por rank
   - Aplica **-5%** de _Esquiva_ ao oponente por rank
   
 <br>
@@ -2287,7 +2333,7 @@ O personagem lança uma rajada de almas contra os adversários causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **4** e **+1** por rank
 - **Dano**: **4D6+16** e **+20** por rank
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -2306,7 +2352,7 @@ O personagem lança uma granada contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+8** e **+13** por rank
-- **Custo**: **1** _KI_ e **+1** por rank
+- **Custo**: **1** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -2317,9 +2363,9 @@ O personagem amplia seu dano causando uma explosão onde tocar.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **3D6** e **+3** por rank
-- **Custo**: **3** _KI_ e **+1** por rank
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Dano Rank B**: **3D6+2** e **+1D6** por rank
-- **Custo Rank B**: **4** _KI_ e **+1** por rank
+- **Custo Rank B**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -2329,24 +2375,24 @@ O personagem invoca várias bombas. A rajada de bombas causa dano a vários inim
 - **Tipo**: Disparo
 - **Alvos**: **4** e **+1** por rank
 - **Dano**: **4D6+12** e **+16** por rank
-- **Custo**: **4** _KI_ e **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
 ### Nível 4: Aura Espiritual
-O personagem concentra seu _KI_ aumentando suas capacidades físicas.
+O personagem concentra seu _[KI](#ki-reiki--youki)_ aumentando suas capacidades físicas.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: **1**
-- **Custo**: **10** _KI_
+- **Custo**: **10** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _CONS_: **+10**
-  - _FOR_: **+10**
-  - _AGI_: **+10**
-  - _DES_: **+10**
-  - _PV_: **+5** (**+10** a partir do rank C)
-  - _IP_: **+5** (**+10** a partir do rank C)
+  - _[CON](#con-constituição)_: **+10**
+  - _[FR](#fr-força)_: **+10**
+  - _[AGI](#agi-agilidade)_: **+10**
+  - _[DEX](#dex-destreza)_: **+10**
+  - _[PV](#pv-pontos-de-vida)_: **+5** (**+10** a partir do rank C)
+  - _[IP](#ip-indice-de-proteção)_: **+5** (**+10** a partir do rank C)
  
 <br>
 
@@ -2356,7 +2402,7 @@ O personagem lança-se contra o adversário causando uma grande explosão.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+15** e **+21** por rank
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -2368,7 +2414,7 @@ O personagem pode voar e tem o dobro do deslocamento.
  **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **3** _KI_ 
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ 
 - **Efeitos Adicionais**
   - O personagem pode voar e tem o dobro do deslocamento.
 
@@ -2381,9 +2427,9 @@ O personagem cria uma arma em forma de machado.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **3D6** e **+3** por rank 
-- **Custo**: **3** _KI_ e **+1** por rank
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Dano Rank B**: **3D6+2** e **+1D6** por rank
-- **Custo Rank B**: **4** _KI_ e **+1** por rank
+- **Custo Rank B**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -2393,12 +2439,12 @@ O personagem cria uma aura de energia e recebendo um bônus por uma cena.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **5** _KI_
+- **Custo**: **5** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _CONS_: **+5**
-  - _FOR_: **+5**
-  - _IP_: **+5**
-  - _PV_: **+10**
+  - _[CON](#con-constituição)_: **+5**
+  - _[FR](#fr-força)_: **+5**
+  - _[IP](#ip-indice-de-proteção)_: **+5**
+  - _[PV](#pv-pontos-de-vida)_: **+10**
   
 <br>
 
@@ -2408,7 +2454,7 @@ O personagem lança um disparo teleguiado contra o adversário causando dano e d
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+12** e **+16** por rank
-- **Custo**: **3** _KI_ e **+1** por rank
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
   - Aplica **-5%** de _Esquiva_ ao oponente por rank
   
@@ -2420,12 +2466,12 @@ O personagem aumenta o seu poder recebendo um bônus durante a cena.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **10** _KI_
+- **Custo**: **10** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _CONS_: **+20**
-  - _FOR_: **+20**
-  - _IP_: **+10**
-  - _PV_: **+10**
+  - _[CON](#con-constituição)_: **+20**
+  - _[FR](#fr-força)_: **+20**
+  - _[IP](#ip-indice-de-proteção)_: **+10**
+  - _[PV](#pv-pontos-de-vida)_: **+10**
   
 <br>
 
@@ -2435,7 +2481,7 @@ O personagem lança um disparo contra o adversário.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+15** e **+21** por rank
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -2454,11 +2500,11 @@ O personagem cria um escudo ou armadura para aumentar sua defesa.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **5** _KI_
+- **Custo**: **5** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _CONS_: **+5** (**+10** a partir do rank C)
-  - _IP_: **+5** (**+10** a partir do rank C)
-  - _PV_: **+5**
+  - _[CON](#con-constituição)_: **+5** (**+10** a partir do rank C)
+  - _[IP](#ip-indice-de-proteção)_: **+5** (**+10** a partir do rank C)
+  - _[PV](#pv-pontos-de-vida)_: **+5**
  
 <br>
 
@@ -2469,9 +2515,9 @@ O personagem cria uma arma que amplifica o dano.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **3D6+2** e **+3** por rank 
-- **Custo**: **4** _KI_ e **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Dano Rank C**: **3D6+5** e **+3** por rank 
-- **Custo Rank C**: **5** _KI_ e **+1** por rank
+- **Custo Rank C**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -2481,11 +2527,11 @@ O personagem fica totalmente maleável, sendo mais difícil de ser atingido.
 - **Tipo**: Buff
 - **Alvos**: Si mesmo
 - **Duração**: **1** cena
-- **Custo**: **3** _KI_ e **+1** por rank  
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank  
 - **Bônus**
-  - _ATQ_: **+5%** por rank
-  - _DEF_: **+5%** por rank
-  - _Evasão_ 
+  - _[ATQ](#atq-ataque)_: **+5%** por rank
+  - _[DEF](#def-defesa)_: **+5%** por rank
+  - _[Evasão](#evasão-1-ponto)_
 
 <br>
 
@@ -2496,7 +2542,7 @@ O personagem cria diversos tentaculos a partir do próprio corpo que vão de enc
 - **Duração**: **1** turno
 - **Alvos**: **4** e **+1** por rank
 - **Dano**: **4D6+12** e **+17** por rank
-- **Custo**: **4** _KI_ e **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -2507,8 +2553,8 @@ O personagem torna-se _Imortal_ e ganha _Regeneração_ passivamente.
 - **Alvos**: Si mesmo
 - **Custo**: N/A
 - **Efeitos Adicionais**
-  - _Imortal_ : Ao morrer o personagem regenera **1** _PV_ por rodada
-  - _Regeneração_: Regenera _Dano Mínimo_ **+1** _PV_ por rodada
+  - _Imortal_ : Ao morrer o personagem regenera **1** _[PV](#pv-pontos-de-vida)_ por rodada
+  - _Regeneração_: Regenera _Dano Mínimo_ **+1** _[PV](#pv-pontos-de-vida)_ por rodada
 
 <br>
 <br>
@@ -2519,11 +2565,11 @@ O personagem torna-se _Imortal_ e ganha _Regeneração_ passivamente.
 O personagem invoca o manto da morte e caso o oponente seja atingido por esse, é teletransportado para um lugar aleatório num raio de 10km.
 
 > **Observações**  
-> 1. Este ataque funciona semelhante como um disparo, com a diferença que o resultado do teste de _AGI_ indica se o alvo será ou não teletransportado.
+> 1. Este ataque funciona semelhante como um disparo, com a diferença que o resultado do teste de _[AGI](#agi-agilidade)_ indica se o alvo será ou não teletransportado.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
-- **Custo**: **3** _KI_
+- **Custo**: **3** _[KI](#ki-reiki--youki)_
 
 <br>
 
@@ -2533,7 +2579,7 @@ O personagem lança um feixe de luz contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+10** e **+15** por rank
-- **Custo**: **2** _KI_ e **+1** por rank
+- **Custo**: **2** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -2541,13 +2587,13 @@ O personagem lança um feixe de luz contra o adversário causando dano.
 O personagem lança uma aura hipnótica contra o adversário, paralisando-o enquanto o poder durar.
 
 > **Observações**  
-> O oponente precisa fazer um teste de _WILL_ para resistir ao efeito. 
-> A cada rodada a vítima pode fazer um teste de _WILL_ para resistir ao efeito.
+> O oponente precisa fazer um teste de _[WILL](#will-força-de-vontade)_ para resistir ao efeito. 
+> A cada rodada a vítima pode fazer um teste de _[WILL](#will-força-de-vontade)_ para resistir ao efeito.
 
  **Tipo**: Debuff
 - **Alvos**: **1**
 - **Duração**: **1** cena
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**:
   - _Paralisado_: O personagem não pode realizar qualquer ação.
 
@@ -2569,7 +2615,7 @@ O personagem lança um raio na forma de um arco-íris contra o adversário causa
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+14** e **+19** por rank
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -2579,7 +2625,7 @@ O personagem lança um raio na forma de um arco-íris contra o adversário causa
 
 > **Observações**  
 > O personagem precisa implantar o olho diabólico, proibido para humanos.
-> Ao abrir o olho Jagan (em qualquer instante), o personagem recebe um bônus de **+5** de _PER_, bônus de **+10** de _PER_ caso _Verdadeiros Olhos Demoníacos_ esteja ativo.
+> Ao abrir o olho Jagan (em qualquer instante), o personagem recebe um bônus de **+5** de _[PER](#per-percepção)_, bônus de **+10** de _[PER](#per-percepção)_ caso _Verdadeiros Olhos Demoníacos_ esteja ativo.
 
 <br>
 
@@ -2589,7 +2635,7 @@ O personagem ao se concentrar, pode observar qualquer alvo conhecido.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **2** _KI_
+- **Custo**: **2** _[KI](#ki-reiki--youki)_
 - **Efeitos Adicionais**
   - Ao observar um alvo conhecido dentro do mesmo plano, esta visão é limitada a **2** metros de raio tendo o alvo como o ponto de referência
   
@@ -2601,10 +2647,10 @@ O personagem aumenta a sua velocidade.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **5** _KI_
+- **Custo**: **5** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _AGI_: **+10**
-  - _DES_: **+10**
+  - _[AGI](#agi-agilidade)_: **+10**
+  - _[DEX](#dex-destreza)_: **+10**
 - **Efeitos Adicionais**
   - Bônus passivo de **+5** na iniciativa
 
@@ -2614,12 +2660,12 @@ O personagem aumenta a sua velocidade.
 O personagem paralisa o oponente.
 
 > **Observação**
-> Para resistir, o alvo deve ser bem-sucedido num teste de _WILL_. Caso seja paralisado, a vítima poderá repetir o teste a cada rodada para dissipar o efeito.
+> Para resistir, o alvo deve ser bem-sucedido num teste de _[WILL](#will-força-de-vontade)_. Caso seja paralisado, a vítima poderá repetir o teste a cada rodada para dissipar o efeito.
 
 - **Tipo**: Debuff
 - **Duração**: **1** rodada por rank
 - **Alvos**: **1**
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
   - Paralisa o oponente durante **1** rodada por rank
 
@@ -2630,7 +2676,7 @@ O personagem domina um alvo _Despertado_ de rank inferior ou múltiplos alvos _N
 
 > **Observações**
 > Dominados não obedecerão ordens suicidas, despertando automaticamente e quebrando o vínculo. 
-> O alvo _Despertado_ pode resistir a técnica ao ser bem-sucedido em um teste de _WILL_. 
+> O alvo _Despertado_ pode resistir a técnica ao ser bem-sucedido em um teste de _[WILL](#will-força-de-vontade)_. 
 
 - **Tipo**: Debuff
 - **Duração**:
@@ -2640,8 +2686,8 @@ O personagem domina um alvo _Despertado_ de rank inferior ou múltiplos alvos _N
   - _Despertado_: **1**
   - _Não-Despertados_: **3** por rank
 - **Custo**: 
-  - _Despertado_: **5** _KI_  e **+1** por rank
-  - _Não-Despertados_: **5** _KI_ e **+1** para cada **3** _Não-Despertados_ adicionais
+  - _Despertado_: **5** _[KI](#ki-reiki--youki)_  e **+1** por rank
+  - _Não-Despertados_: **5** _[KI](#ki-reiki--youki)_ e **+1** para cada **3** _Não-Despertados_ adicionais
 - **Efeitos Adicionais**
   - Domina o(s) alvo(s), podendo dar-lhe(s) ordem arbitrárias.
 
@@ -2653,13 +2699,13 @@ O personagem faz brotar vários olhos no seu corpo ficando mais monstruoso.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **10** _KI_
+- **Custo**: **10** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _CONS_: **+15**
-  - _FOR_: **+15**
-  - _PV_: **+20**
-  - _IP_: **+10**
-  - _CAR_: **-5**
+  - _[CON](#con-constituição)_: **+15**
+  - _[FR](#fr-força)_: **+15**
+  - _[PV](#pv-pontos-de-vida)_: **+20**
+  - _[IP](#ip-indice-de-proteção)_: **+10**
+  - _[CAR](#car-carisma)_: **-5**
 - **Efeitos Adicionais**
   - Visão 360°, sendo impossível surpreênde-lo.
   
@@ -2671,12 +2717,12 @@ O personagem aumenta consideravelmente sua velocidade.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **10** _KI_
+- **Custo**: **10** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _AGI_: **+25**
-  - _DES_: **+25**
-  - _Ataques Adicionais_: **+1**
-  - _Evasão_
+  - _[AGI](#agi-agilidade)_: **+25**
+  - _[DEX](#dex-destreza)_: **+25**
+  - _[Ataques Adicionais](#ataques-adicionais)_: **+1**
+  - _[Evasão](#evasão-1-ponto)_
 - **Efeitos Adicionais**
   - Bônus passivo de **+10** na iniciativa
   
@@ -2685,16 +2731,16 @@ O personagem aumenta consideravelmente sua velocidade.
 ## Shura Nen Do Tō I
 
 ### Nível 1: Oscilação Shura
-O personagem cria uma armadura de terra e recebe um bônus de _FOR_, _CONS_ e _IP_.
+O personagem cria uma armadura de terra e recebe um bônus de _[FR](#fr-força)_, _[CON](#con-constituição)_ e _[IP](#ip-indice-de-proteção)_.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **5** _KI_
+- **Custo**: **5** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _CONS_: **+5**
-  - _FOR_: **+5**
-  - _IP_: **+5**
+  - _[CON](#con-constituição)_: **+5**
+  - _[FR](#fr-força)_: **+5**
+  - _[IP](#ip-indice-de-proteção)_: **+5**
 
 <br>
 
@@ -2708,9 +2754,9 @@ O personagem fortifica seu braço com pedras que aumentam o seu dano.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **3D6** e **+3** por rank
-- **Custo**: **3** _KI_ e **+1** por rank
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Dano Rank B**: **3D6+2** e **+1D6** por rank
-- **Custo Rank B**: **4** _KI_ e **+1** por rank
+- **Custo Rank B**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -2720,7 +2766,7 @@ O personagem lança um disparo de pedras contra os adversários causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **4** e **+1** por rank
 - **Dano**: **4D6+10** e **+14** por rank
-- **Custo**: **3** _KI_ e **+1** por rank
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -2733,20 +2779,20 @@ O personagem lança um disparo de pedras contra os adversários causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+12** e **+17** por rank
-- **Custo**: **3** _KI_ e **+1** por rank
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 ### Nível 5: Oscilação Shura Maior
-O personagem cria uma armadura de terra maior e recebe um bônus de _FOR_, _CONS_, _PV_ e _IP_.
+O personagem cria uma armadura de terra maior e recebe um bônus de _[FR](#fr-força)_, _[CON](#con-constituição)_, _[PV](#pv-pontos-de-vida)_ e _[IP](#ip-indice-de-proteção)_.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **10** _KI_
+- **Custo**: **10** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _CONS_: **+20**
-  - _FOR_: **+20**
-  - _PV_: **+10**
-  - _IP_: **+10**
+  - _[CON](#con-constituição)_: **+20**
+  - _[FR](#fr-força)_: **+20**
+  - _[PV](#pv-pontos-de-vida)_: **+10**
+  - _[IP](#ip-indice-de-proteção)_: **+10**
 
 <br>
 
@@ -2759,22 +2805,22 @@ O personagem atinge o oponente com uma investida, causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+15** e **+21** por rank
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
 ## Espadachim das Trevas
 
 ### Nível 1: Estilo de Luta Exótico
-O personagem tem um estilo de luta diferenciado, este estilo de luta refinado concede um bônus de _ATQ_, _DEF_.
+O personagem tem um estilo de luta diferenciado, este estilo de luta refinado concede um bônus de _[ATQ](#atq-ataque)_, _[DEF](#def-defesa)_.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **2** _KI_ e **+1** por rank
+- **Custo**: **2** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Bônus**
-  - _ATQ_: **+5%** por rank
-  - _DEF_: **+5%** por rank
+  - _[ATQ](#atq-ataque)_: **+5%** por rank
+  - _[DEF](#def-defesa)_: **+5%** por rank
 
 <br>
 
@@ -2785,9 +2831,9 @@ O personagem amplia o dano do Bambolê das trevas.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **3D6+2** e **+3** por rank 
-- **Custo**: **4** _KI_ e **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Dano Rank C**: **3D6+5** e **+3** por rank 
-- **Custo Rank C**: **5** _KI_ e **+1** por rank
+- **Custo Rank C**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -2797,7 +2843,7 @@ O personagem lança o Bambolê das trevas contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**:  1
 - **Dano**: **4D6+12** e **+16** por rank
-- **Custo**: **3** _KI_ e **+1** por rank
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank
  
 <br>
 
@@ -2807,7 +2853,7 @@ O personagem quando for alvo de um disparo de nível 5 ou menor, ele pode neutra
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Cooldown**: **3** rodadas
-- **Custo**: Equivalente ao custo de _KI_ do disparo original **+3**
+- **Custo**: Equivalente ao custo de _[KI](#ki-reiki--youki)_ do disparo original **+3**
 
 <br>
 
@@ -2817,7 +2863,7 @@ O personagem cria um turbilhão em volta de si mesmo e aplica uma investida cont
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+14** e **+19** por rank
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -2833,16 +2879,16 @@ O personagem cria um turbilhão em volta de si mesmo e aplica uma investida cont
 <br>
 
 ### Nível 1: Transfusão de Energia Espiritual
-O personagem pode transferir parte de sua energia espiritual para outra criatura e é capaz de recuperar seu _KI_ mais rápido que os demais.
+O personagem pode transferir parte de sua energia espiritual para outra criatura e é capaz de recuperar seu _[KI](#ki-reiki--youki)_ mais rápido que os demais.
 
 > **Observações**  
-> 1. O cirurgião recupera **1** _KI_ por rank a cada vinte minutos de descanso.
+> 1. O cirurgião recupera **1** _[KI](#ki-reiki--youki)_ por rank a cada vinte minutos de descanso.
 
 - **Tipo**: Encantamento
 - **Alvos**: **1**
-- **Custo**: **4** _KI_ e **+1** por rank  
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank  
 - **Efeitos Adicionais**
-  - Recupera **4** _KI_ e **+1** por rank
+  - Recupera **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
   
 <br>
 
@@ -2851,7 +2897,7 @@ O personagem pode curar alguém ferido, doente ou envenenado.
 
 - **Tipo**: Encantamento
 - **Alvos**: **1**
-- **Custo**: **5** _KI_ e **+1** por rank  
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank  
 - **Efeitos Adicionais**
   - Cura **2D6+4** e **+4** por rank, doenças moderadas e outros efeitos como envenenamento
   
@@ -2867,7 +2913,7 @@ O personagem energiza suas mãos com energia espiritual, tornando-as armas corta
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+4** e **+1D6** por rank 
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
   - Aumenta a margem de crítico em dois pontos. 
 
@@ -2879,14 +2925,14 @@ Ao tocar uma criatura, o cirurgião é capaz de extrair o potencial latente dela
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: **1**
-- **Custo**: **10** _KI_
+- **Custo**: **10** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _CONS_: **+10**
-  - _FOR_: **+10**
-  - _AGI_: **+10**
-  - _DES_: **+10**
-  - _PV_: **+5** (**+10** a partir do rank C)
-  - _IP_: **+5** (**+10** a partir do rank C)
+  - _[CON](#con-constituição)_: **+10**
+  - _[FR](#fr-força)_: **+10**
+  - _[AGI](#agi-agilidade)_: **+10**
+  - _[DEX](#dex-destreza)_: **+10**
+  - _[PV](#pv-pontos-de-vida)_: **+5** (**+10** a partir do rank C)
+  - _[IP](#ip-indice-de-proteção)_: **+5** (**+10** a partir do rank C)
 
 <br>
 
@@ -2899,12 +2945,12 @@ O personagem pode aprimorar algumas de suas doutrinas.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **6** _KI_
+- **Custo**: **6** _[KI](#ki-reiki--youki)_
 - **Efeitos Adicionais**
   - _Navalha Espiritual_: O acerto crítico causa **+1D6** de dano.
-  - _Transfusão de Energia Espiritual_: em combate, passa a recuperar **1** _KI_ por rodada.
+  - _Transfusão de Energia Espiritual_: em combate, passa a recuperar **1** _[KI](#ki-reiki--youki)_ por rodada.
   - _Cura Espiritual_: cura **3D6+4** e **+4** por rank.
-  - _Aperfeiçoamento Físico_: o **Bônus** de _PV_ passa a ser **+15** (**+25** a partir do rank C).
+  - _Aperfeiçoamento Físico_: o **Bônus** de _[PV](#pv-pontos-de-vida)_ passa a ser **+15** (**+25** a partir do rank C).
   
 <br>
 
@@ -2914,7 +2960,7 @@ O personagem pode curar alguém ferido, doente ou envenenado.
 - **Tipo**: Encantamento
 - **Canalização**: **10** minutos
 - **Alvos**: **1**
-- **Custo**: **20** _KI_ 
+- **Custo**: **20** _[KI](#ki-reiki--youki)_ 
 - **Efeitos Adicionais**
   - Cura **100%** __*PV*__, qualquer doença curável e outros efeitos como envenenamento
   
@@ -2926,9 +2972,9 @@ O personagem pode ressuscitar qualquer criatura com a permissão do Reikai.
 - **Tipo**: Encantamento
 - **Canalização**: **1** hora
 - **Alvos**: **1**
-- **Custo**: **100%** _KI_   
+- **Custo**: **100%** _[KI](#ki-reiki--youki)_   
 - **Efeitos Adicionais**
-  - Ressuscita o alvo **100%** __*PV*__ e _KI_.
+  - Ressuscita o alvo **100%** __*PV*__ e _[KI](#ki-reiki--youki)_.
 
 <br>
 
@@ -2952,7 +2998,7 @@ O personagem aumenta seu poder e resistência.
 - **Custo**: **5**
 - **Bônus**:
   - _DANO_: **+5** (**+10** a partir do rank S)
-  - _IP_: **+5** (**+10** a partir do rank D)
+  - _[IP](#ip-indice-de-proteção)_: **+5** (**+10** a partir do rank D)
   
 <br>
 
@@ -2964,8 +3010,8 @@ O personagem aumenta sua força e resistência.
 - **Alvos**: Si mesmo
 - **Custo**: **5**
 - **Bônus**:
-  - _FOR_: **+10**
-  - _CONS_: **+10**
+  - _[FR](#fr-força)_: **+10**
+  - _[CON](#con-constituição)_: **+10**
 
 <br>
 
@@ -2977,8 +3023,8 @@ O personagem aumenta o sua destreza e seus golpes físicos
 - **Alvos**: Si mesmo
 - **Custo**: **5**
 - **Bônus**:
-  - _AGI_: **+10** (**+15** a partir do rank A)
-  - _DES_: **+10** (**+15** a partir do rank A)
+  - _[AGI](#agi-agilidade)_: **+10** (**+15** a partir do rank A)
+  - _[DEX](#dex-destreza)_: **+10** (**+15** a partir do rank A)
   - _DANO_: **2D6** (apenas quando atacando desamardo)
 
 <br>
@@ -2991,7 +3037,7 @@ O personagem aumenta incrivelmente sua força.
 - **Alvos**: Si mesmo
 - **Custo**: **10**
 - **Bônus**:
-  - _FOR_: **+50**
+  - _[FR](#fr-força)_: **+50**
   
 <br>
 
@@ -3003,14 +3049,14 @@ O personagem aumenta incrivelmente sua resistência, assumindo a forma completa 
 - **Alvos**: Si mesmo
 - **Custo**: **10**
 - **Bônus**:
-  - _CONS_: **+30**
-  - _IP_: **+25**
-  - _PV_: **+15**
+  - _[CON](#con-constituição)_: **+30**
+  - _[IP](#ip-indice-de-proteção)_: **+25**
+  - _[PV](#pv-pontos-de-vida)_: **+15**
 
 <br>
 
 ### Nível 6: Absorção de Energia Vital
-Os monstros de rank E que estiverem na distância de 30 metros por rank morrem e suas almas são absorvidas, e para cada alma absorvida o personagem recupera 3 de _KI_ e de _PV_.
+Os monstros de rank E que estiverem na distância de 30 metros por rank morrem e suas almas são absorvidas, e para cada alma absorvida o personagem recupera 3 de _[KI](#ki-reiki--youki)_ e de _[PV](#pv-pontos-de-vida)_.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
@@ -3036,7 +3082,7 @@ O personagem pode voar e tem o deslocamento potencializado.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **3** _KI_
+- **Custo**: **3** _[KI](#ki-reiki--youki)_
 - **Efeitos Adicionais**
   - Se desloca com **2** vezes mais velocidade
 
@@ -3048,9 +3094,9 @@ O personagem aumenta o seu poder.
 - **Tipo**: Buff
 - **Alvos**: Si mesmo
 - **Duração**: **1** cena
-- **Custo**: **5** _KI_  
+- **Custo**: **5** _[KI](#ki-reiki--youki)_  
 - **Bônus**:
-  - _IP_: **+10**
+  - _[IP](#ip-indice-de-proteção)_: **+10**
   - _DANO_: **+10** 
   
 <br>
@@ -3075,7 +3121,7 @@ O personagem pode abrir ou fechar portais que ligam o Makai, Terra (Ningen-kai),
 
   
 - **Canalização**: **1** semana por rank do portal
-- **Custo**: **10** _KI_ por dia.
+- **Custo**: **10** _[KI](#ki-reiki--youki)_ por dia.
 - **Efeitos Adicionais**
   - O personagem abre um portal por onde monstros de rank igual ou menor a categoria do portal.
 
@@ -3087,15 +3133,15 @@ O personagem eleva seu espirito de luta e recebe um bônus.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **10** _KI_
+- **Custo**: **10** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _ATQ_: **+5%** por rank
-  - _DEF_: **+5%** por rank
-  - _CONS_: **+10**
-  - _FOR_: **+10**
-  - _AGI_: **+10**
-  - _DES_: **+10**
-  - _PV_: **+30**
+  - _[ATQ](#atq-ataque)_: **+5%** por rank
+  - _[DEF](#def-defesa)_: **+5%** por rank
+  - _[CON](#con-constituição)_: **+10**
+  - _[FR](#fr-força)_: **+10**
+  - _[AGI](#agi-agilidade)_: **+10**
+  - _[DEX](#dex-destreza)_: **+10**
+  - _[PV](#pv-pontos-de-vida)_: **+30**
 
 <br>
 
@@ -3105,7 +3151,7 @@ O personagem lança um raio contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+18** e **+21** por rank
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -3117,7 +3163,7 @@ O personagem lança uma bola contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+11** e **+15** por rank
-- **Custo**: **3** _KI_ e **+1** por rank
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -3125,15 +3171,15 @@ O personagem lança uma bola contra o adversário causando dano.
 Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-atacar com um golpe
 
 > **Observações**   
-> O oponente pode pode fazer um teste de _AGI_ para absorver metade do dano.
+> O oponente pode pode fazer um teste de _[AGI](#agi-agilidade)_ para absorver metade do dano.
 
 - **Tipo**: Contra-ataque
 - **Alvos**: **1**
 - **Cooldown**: **3** rodadas
 - **Dano**: **4D6+13** e **+17** por rank
-- **Custo**: **4** _KI_ e **+1** por rank  
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank  
 - **Efeitos Adicionais**
-  - Oponente recebe **-5%** por rank no teste de _AGI_
+  - Oponente recebe **-5%** por rank no teste de _[AGI](#agi-agilidade)_
 
 <br>
 
@@ -3144,7 +3190,7 @@ O personagem cria bolas nas mãos que amplificam seu dano corpo a corpo.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+5** e **+1D6** por rank 
-- **Custo**: **4** _KI_ e **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -3154,7 +3200,7 @@ O personagem lança várias bolas contra seus adversários causando dano a múlt
 - **Tipo**: Disparo
 - **Alvos**: **4** e **+1** por rank
 - **Dano**: **4D6+15** e **+19** por rank
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -3164,7 +3210,7 @@ O personagem lança uma grande bola contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+18** e **+21** por rank
-- **Custo**: **6** _KI_ e **+1** por rank
+- **Custo**: **6** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -3179,15 +3225,15 @@ O personagem lança uma grande bola contra o adversário causando dano.
 <br>
 
 ### Nível 1: Armadura Dourada
-O personagem cria uma armadura dourada aumentado o seu poder e recebendo um bônus _IP_, _PV_ e _DANO_.
+O personagem cria uma armadura dourada aumentado o seu poder e recebendo um bônus _[IP](#ip-indice-de-proteção)_, _[PV](#pv-pontos-de-vida)_ e _DANO_.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **5** _KI_
+- **Custo**: **5** _[KI](#ki-reiki--youki)_
 - **Bônus**
-  - _IP_: **+5**
-  - _PV_: **+5**
+  - _[IP](#ip-indice-de-proteção)_: **+5**
+  - _[PV](#pv-pontos-de-vida)_: **+5**
   - _DANO_: **+5**
 
 <br>
@@ -3196,28 +3242,28 @@ O personagem cria uma armadura dourada aumentado o seu poder e recebendo um bôn
 Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um tufão, causando dano. 
 
 > **Observações**  
-> O oponente deve realizar um teste bem-sucedido de _AGI_ para reduzir o dano recebido pela metade.
+> O oponente deve realizar um teste bem-sucedido de _[AGI](#agi-agilidade)_ para reduzir o dano recebido pela metade.
 
 - **Tipo**: Contra-ataque
 - **Alvos**: **1**
 - **Cooldown**: **3** rodadas
 - **Dano**: **4D6+14** e **+18** por rank
-- **Custo**: **4** _KI_ e **+1** por rank  
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank  
 - **Efeitos Adicionais**
-  - Oponente recebe **-5%** por rank no teste de _AGI_
+  - Oponente recebe **-5%** por rank no teste de _[AGI](#agi-agilidade)_
 
 <br>
 
 ### Nível 3: Armadura Azul
-O personagem cria uma armadura azul aumentado o seu poder e recebendo um bônus _IP_, _PV_ e _DANO_.
+O personagem cria uma armadura azul aumentado o seu poder e recebendo um bônus _[IP](#ip-indice-de-proteção)_, _[PV](#pv-pontos-de-vida)_ e _DANO_.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **5** _KI_
+- **Custo**: **5** _[KI](#ki-reiki--youki)_
 - **Bônus**
-  - _IP_: **+10**
-  - _PV_: **+10**
+  - _[IP](#ip-indice-de-proteção)_: **+10**
+  - _[PV](#pv-pontos-de-vida)_: **+10**
   - _DANO_: **+10**
   
 <br>
@@ -3228,14 +3274,14 @@ O personagem invoca a aura dos anjos sobre si podendo voar, aprimorando o poder 
 - **Tipo**: Buff
 - **Duraçào**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **10** _KI_
+- **Custo**: **10** _[KI](#ki-reiki--youki)_
 - **Bônus da armadura dourada**
-  - _IP_: **+10**
-  - _PV_: **+10**
+  - _[IP](#ip-indice-de-proteção)_: **+10**
+  - _[PV](#pv-pontos-de-vida)_: **+10**
   - _DANO_: **+100**
 - **Bônus da armadura azul**
-  - _IP_: **+15**
-  - _PV_: **+15**
+  - _[IP](#ip-indice-de-proteção)_: **+15**
+  - _[PV](#pv-pontos-de-vida)_: **+15**
   - _DANO_: **+15**
 - **Efeitos Adicionais**
   - Se desloca com **2** vezes o deslocamento
@@ -3249,7 +3295,7 @@ O personagem dispara uma rajada de energia sui seiki contra o adversário causan
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+19** e **+22** por rank
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -3267,7 +3313,7 @@ O personagem aumenta o seu poder.
 
 - **Tipo**: Buff
 - **Alvos**: Si mesmo
-- **Custo**: **5** _KI_
+- **Custo**: **5** _[KI](#ki-reiki--youki)_
 - **Bônus**: 
   - _DANO_: **+15**
   
@@ -3278,9 +3324,9 @@ O personagem aumenta o sua resistência.
 
 - **Tipo**: Buff
 - **Alvos**: Si mesmo
-- **Custo**: **5** _KI_
+- **Custo**: **5** _[KI](#ki-reiki--youki)_
 - **Bônus**: 
-  - _IP_: **+15**
+  - _[IP](#ip-indice-de-proteção)_: **+15**
 
 <br>
 
@@ -3300,7 +3346,7 @@ O personagem lança um disparo que causa dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+18** e **+21** por rank
-- **Custo**: **4** _KI_ e **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
   - Aplica **-5%** de _Esquiva_ ao oponente por rank
 
@@ -3312,15 +3358,15 @@ O personagem eleva seu espirito de luta e recebe um bônus.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **10** _KI_
+- **Custo**: **10** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _ATQ_: **+5%** por rank
-  - _DEF_: **+5%** por rank
-  - _CONS_: **+15**
-  - _FOR_: **+15**
-  - _AGI_: **+15**
-  - _DES_: **+15**
-  - _PV_: **+15**
+  - _[ATQ](#atq-ataque)_: **+5%** por rank
+  - _[DEF](#def-defesa)_: **+5%** por rank
+  - _[CON](#con-constituição)_: **+15**
+  - _[FR](#fr-força)_: **+15**
+  - _[AGI](#agi-agilidade)_: **+15**
+  - _[DEX](#dex-destreza)_: **+15**
+  - _[PV](#pv-pontos-de-vida)_: **+15**
 
 <br>
 
@@ -3330,7 +3376,7 @@ O personagem corta o espaço onde está o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+20** e **+23** por rank
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
   - Este poder pode atravessar qualquer barreira.
 
@@ -3351,7 +3397,7 @@ O personagem aumenta o seu poder.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **5** _KI_
+- **Custo**: **5** _[KI](#ki-reiki--youki)_
 - **Bônus**
   - _DANO_: **+15**
   
@@ -3363,9 +3409,9 @@ O personagem aumenta o sua resistência.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **5** _KI_
+- **Custo**: **5** _[KI](#ki-reiki--youki)_
 - **Bônus**
-  - _IP_: **+15**
+  - _[IP](#ip-indice-de-proteção)_: **+15**
 
 <br>
 
@@ -3376,19 +3422,19 @@ O personagem energiza os punhos elevando o dano causado.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+6** e **+1D6** por rank
-- **Custo**: **4** _KI_ e **+1** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
 ### Nível 4: Golpe de Defesa e Ataque Madoki
-O personagem, enquanto alvo de um disparo de nível 6 ou menor, pode absorve-lo, recarregando sua reserva de _KI_.
+O personagem, enquanto alvo de um disparo de nível 6 ou menor, pode absorve-lo, recarregando sua reserva de _[KI](#ki-reiki--youki)_.
 
 - **Tipo**: Contra-ataque
 - **Alvos**: **1**
 - **Cooldown**: **3** rodadas
 - **Custo**: Custo do disparo original e **+3**
 - **Efeitos Adicionais**
-  - Regenera **1** _KI_ para cada nível do disparo
+  - Regenera **1** _[KI](#ki-reiki--youki)_ para cada nível do disparo
 
 <br>
 
@@ -3398,15 +3444,15 @@ O personagem eleva seu espirito de luta e recebe um bônus.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **10** _KI_
+- **Custo**: **10** _[KI](#ki-reiki--youki)_
 - **Bônus**
-  - _ATQ_: **+5%** por rannk
-  - _DEF_: **+5%** por rannk
-  - _FOR_: **+15**
-  - _CONS_: **+15**
-  - _AGI_: **+15**
-  - _DES_: **+15**
-  - _PV_: **+15**
+  - _[ATQ](#atq-ataque)_: **+5%** por rannk
+  - _[DEF](#def-defesa)_: **+5%** por rannk
+  - _[FR](#fr-força)_: **+15**
+  - _[CON](#con-constituição)_: **+15**
+  - _[AGI](#agi-agilidade)_: **+15**
+  - _[DEX](#dex-destreza)_: **+15**
+  - _[PV](#pv-pontos-de-vida)_: **+15**
 
 <br>
 
@@ -3416,7 +3462,7 @@ O personagem lança um disparo contra o adversário causando dano.
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Dano**: **4D6+20** e **+23** por rank
-- **Custo**: **5** _KI_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
@@ -3435,36 +3481,36 @@ O personagem pode voar e tem o deslocamento potencializado.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **3** _KI_
+- **Custo**: **3** _[KI](#ki-reiki--youki)_
 - **Efeitos Adicionais**
   - Se desloca com **3** vezes mais velocidade
 
 <br>
 
 ### Nível 2: Estilo de Luta Proibido
-O personagem conhece técnicas marciais secretas de antigos mestres, e este estilo de luta refinado concede um bônus de _ATQ_, _DEF_ e nos testes de _Esquiva_ por rank. 
+O personagem conhece técnicas marciais secretas de antigos mestres, e este estilo de luta refinado concede um bônus de _[ATQ](#atq-ataque)_, _[DEF](#def-defesa)_ e nos testes de _Esquiva_ por rank. 
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **3** _KI_ e **+1** por rank  
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank  
 - **Bônus**
-  - _ATQ_: **+5%** por rank
-  - _DEF_: **+5%** por rank
+  - _[ATQ](#atq-ataque)_: **+5%** por rank
+  - _[DEF](#def-defesa)_: **+5%** por rank
   - _Esquiva_: **+%5** por rank
   
 <br>
 
 ### Nível 3: Golpe de Ruptura
-Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um tufão, causando dano. O oponente deve realizar um teste bem-sucedido de _AGI_ para reduzir o dano recebido pela metade .
+Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca-lo com um tufão, causando dano. O oponente deve realizar um teste bem-sucedido de _[AGI](#agi-agilidade)_ para reduzir o dano recebido pela metade .
 
 - **Tipo**: Contra-ataque
 - **Alvos**: **1**
 - **Cooldown**: **3** rodadas
 - **Dano**: **4D6+15** e **+19** por rank
-- **Custo**: **4** _KI_ e **+1** por rank  
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank  
 - **Efeitos Adicionais**
-  - Oponente recebe **-5%** por rank no teste de _AGI_
+  - Oponente recebe **-5%** por rank no teste de _[AGI](#agi-agilidade)_
 
 <br>
 
@@ -3475,7 +3521,7 @@ O personagem cria uma arma espiritual do Meikai que amplifica o dano.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **3D6+5** e **+1D6+1** por rank
-- **Custo**: **5*** _KI_ e **+1** por rank  
+- **Custo**: **5*** _[KI](#ki-reiki--youki)_ e **+1** por rank  
 
 <br>
 
@@ -3486,30 +3532,30 @@ Quando o personagem for alvo de um disparo de nível 7 ou menor, ele pode absorv
 - **Alvos**: **1**
 - **Cooldown**: **3** rodadas
 - **Dano**: Equivalente ao dano do disparo inicial
-- **Custo**: Equivalente ao custo de _KI_ do disparo original **+4**
+- **Custo**: Equivalente ao custo de _[KI](#ki-reiki--youki)_ do disparo original **+4**
 
 <br>
 
 ### Nível 6: Fortalecimento Espiritual
-O personagem ganha bônus em todos os atributos físicos, _PV_, _IP_ e dano. 
+O personagem ganha bônus em todos os atributos físicos, _[PV](#pv-pontos-de-vida)_, _[IP](#ip-indice-de-proteção)_ e dano. 
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **10** _KI_
+- **Custo**: **10** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _CONS_: **+15**
-  - _FOR_: **+15**
-  - _AGI_: **+15**
-  - _DES_: **+15**
-  - _PV_: **+15**
-  - _IP_: **+15**
+  - _[CON](#con-constituição)_: **+15**
+  - _[FR](#fr-força)_: **+15**
+  - _[AGI](#agi-agilidade)_: **+15**
+  - _[DEX](#dex-destreza)_: **+15**
+  - _[PV](#pv-pontos-de-vida)_: **+15**
+  - _[IP](#ip-indice-de-proteção)_: **+15**
   - **Dano**: **+15**
 
 <br>
 
 ### Nível 7: Copiar Poderes
-O personagem quando ve qualquer doutrina pode copiá-la para usá-la durante a luta. Para aprende-la permanentemente, deve gastar **7** de _KI_ e ser bem-sucedido no teste de _INT_. Além disso, é preciso pagar o custo da doutrina na evolução do personagem.
+O personagem quando ve qualquer doutrina pode copiá-la para usá-la durante a luta. Para aprende-la permanentemente, deve gastar **7** de _[KI](#ki-reiki--youki)_ e ser bem-sucedido no teste de _[INT](#int-inteligência)_. Além disso, é preciso pagar o custo da doutrina na evolução do personagem.
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
@@ -3521,22 +3567,22 @@ O personagem quando ve qualquer doutrina pode copiá-la para usá-la durante a l
 <br>
 
 ### Nível 8: Despertar o Mal
-O personagem faz a parte má de um ser aflorar e pode ser controlada pelo habitante do Meikai. Requer um teste difícil de _WILL_ para resistir ao efeito. A vítima não pode ser forçada a fazer uma ação suicida, caso seja forçada a dominação se dissipará. A duração do controle é de um dia. 
+O personagem faz a parte má de um ser aflorar e pode ser controlada pelo habitante do Meikai. Requer um teste difícil de _[WILL](#will-força-de-vontade)_ para resistir ao efeito. A vítima não pode ser forçada a fazer uma ação suicida, caso seja forçada a dominação se dissipará. A duração do controle é de um dia. 
 
 - **Tipo**: Debuff
 - **Duração**: **1** dia
 - **Alvos**: **1**
-- **Custo**: **9** _KI_.
+- **Custo**: **9** _[KI](#ki-reiki--youki)_.
 
 <br>
 
 ### Nível 9: Ilusão Profunda
-O personagem cria uma ilusão de acordo com os sentimentos das vítimas, forçando-as a fraquejar. Requer um teste difícil de _WILL_ para resistir ao efeito. Se o oponente sofrer algum dano durante a ilusão, ela será dissipada. A cada rodada durante a ilusão as vítimas precisam ser bem-sucedidas em um teste difícil de _WILL_ para dissipar o efeito. 
+O personagem cria uma ilusão de acordo com os sentimentos das vítimas, forçando-as a fraquejar. Requer um teste difícil de _[WILL](#will-força-de-vontade)_ para resistir ao efeito. Se o oponente sofrer algum dano durante a ilusão, ela será dissipada. A cada rodada durante a ilusão as vítimas precisam ser bem-sucedidas em um teste difícil de _[WILL](#will-força-de-vontade)_ para dissipar o efeito. 
 
 - **Tipo**: Debuff
 - **Duração**: **1** cena
 - **Alvos**: **4** e **+1** por rank
-- **Custo**: **10** _KI_ e **+1** por alvo
+- **Custo**: **10** _[KI](#ki-reiki--youki)_ e **+1** por alvo
 
 <br>
 
@@ -3546,7 +3592,7 @@ O personagem lança uma rajada energética causando dano em área.
 - **Tipo**: Disparo
 - **Alvos**: **4** e **+1** por rank
 - **Dano**: **4D6+22** e **+25** por rank
-- **Custo**: **7** _KI_ e **+1** por rank
+- **Custo**: **7** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
