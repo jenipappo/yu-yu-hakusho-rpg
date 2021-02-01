@@ -1510,13 +1510,16 @@ O personagem lança um choque da ponta dos dedos contra o adversário causando d
 
 <br>
 
-### Nível 2: Arco do Trovão das Trevas
-O personagem lança um disparo contra o adversário causando dano.
+### Nível 2: Soco do Trovão
+O personagem energiza raios nas mãos que causam mais dano.
 
-- **Tipo**: Disparo
-- **Alvos**: **1**
-- **Dano**: **4D6+10** e **+15** por rank
-- **Custo**: **2** _KI_ e **+1** por rank
+- **Tipo**: Buff
+- **Duração**: **1** cena
+- **Alvos**: Si mesmo
+- **Dano**: **3D6** e **+3** por rank
+- **Custo**: **3** _KI_ e **+1** por rank
+- **Dano Rank C**: **3D6+2** e **+1D6** por rank
+- **Custo Rank C**: **4** _KI_ e **+1** por rank
 
 <br>
 
@@ -1541,14 +1544,13 @@ O personagem cria duplicatas e recebe um bônus.
 
 <br>
 
-### Nível 4: Soco do Trovão
-O personagem energiza raios nas mãos que causam mais dano.
+### Nível 4: Sorasu
+O personagem quando for alvo de um disparo de nível 5 ou menor, pode desviá-lo com um grande soco para outro lugar que não seja na direção do oponente.
 
-- **Tipo**: Buff
-- **Duração**: **1** cena
-- **Alvos**: Si mesmo
-- **Dano**: **2D6+4** e **+1D6+1** por rank
-- **Custo**: **5** _KI_ e **+1** por rank 
+- **Tipo**: Disparo
+- **Alvos**: **1**
+- **Cooldown**: **3** rodadas
+- **Custo**: Equivalente ao custo de _KI_ do disparo original **+3**
 
 <br>
 
@@ -2020,12 +2022,11 @@ O personagem cria um furacão em um de seus braços ampliando seu dano.
 <br>
 
 ### Nível 4: Fenômeno Turbilhão
-O personagem quando for alvo de um disparo de nível 5 ou menor, ele pode desviá-lo com um grande soco para outro lugar que não seja na direção do oponente.
+O personagem quando for alvo de um disparo de nível 5 ou menor, pode desviá-lo com um grande soco para outro lugar que não seja na direção do oponente.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Cooldown**: **3** rodadas
-- **Dano**: Equivalente ao dano do disparo inicial
 - **Custo**: Equivalente ao custo de _KI_ do disparo original **+3**
 
 <br>
@@ -2806,7 +2807,6 @@ O personagem quando for alvo de um disparo de nível 5 ou menor, ele pode neutra
 - **Tipo**: Disparo
 - **Alvos**: **1**
 - **Cooldown**: **3** rodadas
-- **Dano**: Equivalente ao dano do disparo inicial
 - **Custo**: Equivalente ao custo de _KI_ do disparo original **+3**
 
 <br>
@@ -3385,6 +3385,7 @@ O personagem, enquanto alvo de um disparo de nível 6 ou menor, pode absorve-lo,
 
 - **Tipo**: Contra-ataque
 - **Alvos**: **1**
+- **Cooldown**: **3** rodadas
 - **Custo**: Custo do disparo original e **+3**
 - **Efeitos Adicionais**
   - Regenera **1** _KI_ para cada nível do disparo
