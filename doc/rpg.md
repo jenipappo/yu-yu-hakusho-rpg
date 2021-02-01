@@ -345,9 +345,6 @@ O personagem pode substituir uma ação parcial complexa por outra simples.
 ### Quantidade Máxima de Doutrinas
 O personagem só pode ter **2** doutrinas diferentes. Caso maximize ambas, os postos de doutrina adicionais, se converterão em pontos de aprimoramento.
 
-### Aumento dos Níveis de Doutrinas
-Um bônus que aumenta o nível das doutrinas não é cumulativo com nenhum outro bônus que aumente o nível das doutrinas. Por exemplo, _Fúria_ e _Forma Reencarnado_.
-
 ### Desacordado
 O personagem fica _Desacordado_ quando seu _PV_ chega a zero, não podendo executar mais nenhuma ação. Enquanto _Desacordado_, o personagem recupera _PV_ passivamente e recobra a sua consciência quando seu _PV_ volta a ficar positivo.
 
@@ -374,6 +371,8 @@ Ao acumular bônus de _IP_, _Dano_ ou _Atributos Físicos_, oriundos de fontes s
 
 > **Observações**
 > É possível acumular bônus quando advindos de fontes distintas - por exemplo, uma doutrina e um aprimoramento ou _Fúria_ e uma raça.
+> Doutrinas e Aprimoramentos que afetam diretamente a chance de acerto no ataque/defesa não acumulam (exemplo, _Esfriar_ e _Criar Campo de Batalha_). 
+> Um bônus que aumenta o nível das doutrinas não é cumulativo com nenhum outro bônus que aumente o nível das doutrinas(exemplo, _Fúria_ e _Forma Reencarnado_).
 
 ### Armas de Ki e Outros Aumentos de Dano
 O personagem só pode portar um recurso deste tipo por vez. Caso utilize outro, o primeiro se dissipará. 
@@ -587,6 +586,9 @@ O personagem pode saltar longas distâncias.
 ## Voar (2 pontos)
 O personagem pode voar.
 
+> **Observações**  
+> Requer aprimoramento _Saltar_.
+
  - **Custo**: **3** __*ki*__
  - **Duração**: **1** cena
  - **Efeitos Adicionais**
@@ -769,7 +771,7 @@ O personagem possui uma energia espiritual muito maior que o normal.
 O personagem possui habilidades de esquiva que vão além do normal, podendo esquivar completamente de um disparo.
 
 - **Efeitos Adicionais**
-  - O personagem consegue fugir completamente de um disparo se conseguir um acerto crítico num teste crítico de _AGI_ (1/4 de _AGI_ com máximo de 25).
+  - O personagem consegue fugir completamente de um disparo se conseguir um acerto crítico num teste crítico de _AGI_ (**1/4** de _AGI_ com máximo de 25).
 
 <br>
 
@@ -937,7 +939,7 @@ O personagem é malvisto em um plano.
 <br>
 
 > **Obervações**   
-> Quando o personagem alcança o nível 6 da doutrina, ele adiquiri as duas técnicas deste nível.
+> Quando o personagem alcança o nível 6 da doutrina, ele adiquire as duas técnicas deste nível.
 
 <br>
 
@@ -1474,7 +1476,7 @@ O personagem recebe um bônus em alguns atributos.
   - _PV_: **+15**
   - _IP_: **+5** (**+10** a partir do rank C)
 - **Efeitos Adicionais**
-  - Quando o personagem sofrer algum dano oriundo de alguma doutrina, ele absorverá um quarto do ki gasto usado na tal doutrina.
+  - Quando o personagem sofrer dano oriundo de alguma doutrina, ele absorverá **1/4** do __*ki*__ gasto usado na tal doutrina. Caso ele sofra mais de um ataque no mesmo turno, ele absorverá __*ki*__ apenas uma única vez.
   - Se o personagem ficar com mais ki do que o máximo permitido no seu nível, ele sofre 2D6 de dano por rank sem absorção de dano.
 
 <br>
@@ -2819,7 +2821,7 @@ O personagem cria um turbilhão em volta de si mesmo e aplica uma investida cont
 > **Observações**  
 > 1. O pré-requisito desta doutrina é ter a perícia medicina em pelo menos **40%**.
 > 0. O cirurgião do mundo das trevas pode implantar o Jagan em seus pacientes.
-> 0. Quando o personagem alcança o nível 6 da doutrina, ele adiquiri as duas técnicas deste nível.
+> 0. Quando o personagem alcança o nível 6 da doutrina, ele adiquire as duas técnicas deste nível.
 
 <br>
 
