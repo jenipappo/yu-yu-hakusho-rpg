@@ -1318,7 +1318,7 @@ O personagem invoca um dragão negro contra o adversário causando dano, este fi
 <br>
 
 ### Nível 6: Absorver as Chamas Negras
-Quando o personagem  usar o dragão sobre si mesmo ou quando o dragão for devolvido o personagem pode absorve-lo, recebendo um bônus.
+Quando o personagem usar o dragão sobre si mesmo ou quando o dragão for devolvido o personagem pode absorve-lo, recebendo um bônus.
 
 > **Observações**  
 > Após a luta o personagem precisará dormir por pelo menos 4 horas. A partir do rank A o personagem não recebe mais esta penalidade. 
@@ -1528,7 +1528,7 @@ O personagem cria duplicatas e recebe um bônus.
 - **Alvos**: Si mesmo
 - **Custo**: **10** __*ki*__
 - **Bônus**
-  - _PV_: **+20**
+  - _PV_: **+25**
 - **Efeitos Adicionais**
   - Ao usar essa técnica o personagem recebe o aprimoramento _Ataques Múltiplos_.
 
