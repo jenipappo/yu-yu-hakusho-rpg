@@ -57,7 +57,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: v${{ env.SemVer }}${{ env.ReleaseType }}
+          tag_name: v${{ env.SemVer }}
           release_name: Release ${{ env.SemVer }}${{ env.ReleaseType }}
           body: ${{ steps.changes.outputs.log }}
           draft: false

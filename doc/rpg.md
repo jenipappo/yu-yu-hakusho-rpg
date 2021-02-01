@@ -302,20 +302,29 @@ Esse é um mundo parecido com o Makai, mas é um lugar habitado por demônios po
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
+## Guia Rápido Para Criação de Personagem
+Assim como no Trevas, a criação de personagem é feita através da distribuição de pontos pelos vários atributos que o definem.
+
+Download da Ficha: [DOCX](https://raw.githubusercontent.com/jenipappo/yu-yu-hakusho-rpg/main/etc/yu-yu-hakusho-ficha.docx) / [PDF](https://raw.githubusercontent.com/jenipappo/yu-yu-hakusho-rpg/main/etc/yu-yu-hakusho-ficha.pdf)
+
+- _[Doutrina](#doutrinas)_: Primeiramente, escolha que _[Doutrina](#doutrinas)_ seu personagem irá aprender. Esta decisão guiará as escolhas para distribuição de _[Aprimoramentos](#aprimoramentos)_ e _Atributos_. Inicialmente, a doutrina adquirida terá nível **2**.
+- _[Aprimoramentos](#aprimoramentos)_: **8** pontos. 
+  - Durante a criação do personagem, pontos de _[Aprimoramento](#aprimoramentos)_ servem especialmente para selecionar uma _[Raça](#raças)_. Os pontos restantes podem ser utilizados para a aquisição de mais _[Aprimoramentos](#aprimoramentos)_. Também é possível guardá-los para depois.  
+- _[Aprimoramentos Negativos](#aprimoramentos)_: Máx. **3** pontos. 
+  - _[Aprimoramentos Negativos](#aprimoramentos)_ concedem pontos de aprimoramento adicionais.
+- _Atributos_: **111** pontos. 
+  - Inicialmente, nenhum atributo deve acumular mais de **18** pontos. 
+- _PV_:  _FOR_ + _CONS_ dividido por **2** (sempre arredondado para cima).
+- __*ki*__: _INT_ + _WILL_ dividido por **4** (sempre arredondado para cima).
+- _Perícias_: **400** pontos. 
+  - O valor máximo inicial para uma perícias é de **50** pontos.
+
 ## Regras Adicionais 
 
 <br>
 
 > **Observações**  
-Apesar do sistema daemon ter sido alterado para propiciar melhores condições de jogo, as demais regras que não tem neste livro devem ser consultadas no livro trevas 3ª edição.
-
-### Criação de Personagem
-- Os personagens começam com **8** pontos de aprimoramentos, podendo comprar até **3** pontos de aprimoramentos negativos.
-- Os personagens começam com **111** pontos de atributos, o atributo máximo inicial é **18**. 
-- O _PV_ inicial dos seres despertados é igual a soma da _FOR_ + _CONS_ dividida por **2** arredondada para cima.
-- O __*ki*__ inicial dos seres despertados é igual a soma da _INT_ + _WILL_ dividida por **4** arredondada para cima.
-- Os personagens começam com **400** pontos de perícia, o valor máximo inicial das perícias é **50**.
-- Os personagens começam com **2** pontos de doutrina.
+Apesar do sistema daemon ter sido alterado para propiciar melhores condições de jogo, quaisquer regras que não especificadas neste documento devem ser consultadas no livro Trevas 3ª edição.
 
 ### Ataques Adicionais
 Algumas doutrinas e atributos elevados permitem ao personagem dar _Ataques Adicionais_. Estes ataques sempre são efetuados com precedência aos _Ataques Múltiplos_.
@@ -408,7 +417,7 @@ Uma _Canalização_ apenas pode ser interrompida por um efeito ou evento que imp
 - CONHECIMENTO DO REIKAI (0)
 - CONHECIMENTO DO MAKAI (0)
 - CONHECIMENTO DO MEIKAI (0)
-- TEORIA DAS DOUTRINAS (0)                                                                                        
+- TEORIA DAS DOUTRINAS (0)
 
 <br>
 
