@@ -1,26 +1,24 @@
-#  Yu Yu Hakusho RPG
+# YU YU HAKUSHO RPG
 
 <br>
 
 ![Yu Yu Hakusho RPG Logo](https://raw.githubusercontent.com/jenipappo/yu-yu-hakusho-rpg/main/img/yuyuhakusho.jpg)
 
-
 <br>
 
-##### POR 
-- Marcio Alves (**Peixe**)
+Adaptado por: 
 - Anderson Silva (**Dinho**)
-- Erico Granja (**Knightmare**)
 - Bruno Silva  (**Tera**)
+- Erico Granja (**Knightmare**)
+- Marcio Alves (**Peixe**)
 
 Em caso de dúvidas, visite nossa página no GitHub <https://github.com/jenipappo/yu-yu-hakusho-rpg>
 
-Baseado no suplemento de: Marcelo Matos (**Guaxinim**), **Ajota** e **Grupo de RPG PVH**  
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-# O Início
+# O INÍCIO
 
 > _Vou usar só 30% do meu poder!_  
 > **Toguro**, Irmão mais velho
@@ -131,7 +129,7 @@ Em outras fases do torneio: Yomi, Mukuro e Kurama perdem, sendo agora o Rei de M
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-# Os Mundos
+# OS MUNDOS
 
 ## Terra
 
@@ -207,7 +205,7 @@ Esse é um mundo parecido com o Makai, mas é um lugar habitado por demônios po
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-# Regras e Sistema
+# REGRAS E SISTEMA
 
 <br>
 
@@ -524,7 +522,7 @@ O personagem assume a sua forma Youkai, recebendo bônus em seus atributos e dou
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-# Aprimoramentos
+# APRIMORAMENTOS
 
 <br>
 
@@ -544,7 +542,7 @@ O personagem passou por um rigoroso treinamento e está apto a usar doutrinas.
 
 <br>
 
-## Capacidade de Extrair 120% da Força (3 pontos)
+## Capacidade de Extrair 120% da Força (1 ponto)
 O personagem em momentos críticos pode elevar de forma grandiosa o seu poder.
 
 > **Observações**  
@@ -847,7 +845,7 @@ A partir do quarto ataque corpo a corpo sofrido o personagem poderá fazer um te
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-# Aprimoramentos Negativos
+# APRIMORAMENTOS NEGATIVOS
 
 <br>
 
@@ -933,7 +931,7 @@ O personagem é malvisto em um plano.
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-# Doutrinas
+# DOUTRINAS
 
 <br>
 
@@ -2934,7 +2932,7 @@ O personagem pode ressuscitar qualquer criatura com a permissão do Reikai.
 
 <br>
 
-# Doutrinas de NPCs
+# DOUTRINAS DE NPCs
 
 ## Kin’niku Souza
 
@@ -3551,7 +3549,7 @@ O personagem lança uma rajada energética causando dano em área.
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-# Territórios
+# TERRITÓRIOS
 
 OBS (Os territórios não serão utilizados como as doutrinas, com níveis, mas como aprimoramentos pagando-se pontos por eles. Terrenos são poderosos e não gastam Reiki para serem utilizados. Só podem ser adquiridos na criação de personagem.)
 
