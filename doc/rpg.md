@@ -1285,7 +1285,7 @@ O personagem invoca uma imensa cerejeira e, neste campo de batalha (tem a mesma 
 O personagem invoca a planta sanguessuga que ataca um oponente que estiver ferido causando dano por periodo de tempo. 
 
 > **Observações**
-> Requer um teste difícil de _[AGI](#agi-agilidade)_ para se esquivar da invocação. A cada rodada, a vítima pode tentar arrancá-la, requer um teste de _[FR](#fr-força)_ vs _[FR](#fr-força)_ contra a planta. 
+> Requer um teste difícil de _[AGI](#agi-agilidade)_ para se esquivar da invocação. Se o oponente for bem-sucedido no teste, ele não sofrerá dano; caso contrário, a cada rodada, a vítima pode tentar arrancá-la, requer um teste de _[FR](#fr-força)_ vs _[FR](#fr-força)_ contra a planta. 
 
 - **Tipo**: Invocação
 - **Alvos**: **1**
