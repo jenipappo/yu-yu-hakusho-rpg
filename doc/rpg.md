@@ -2117,7 +2117,7 @@ O personagem lança um grande furacão contra o adversário causando dano.
 
 <br>
 
-### Nível 1: Arma Energética
+### Nível 1: Arma de Energia
 O personagem cria uma arma energética para atacar seus adversários.
 
 - **Tipo**: Buff
@@ -3345,8 +3345,8 @@ O personagem energiza os punhos amplificando o dano.
 
 - **Tipo**: Buff
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+6** e **+1D6** por rank
-- **Custo**: **4** _*ki*_ e **+1** por rank 
+- **Dano**: **2D6+6** e **+1D6+1** por rank
+- **Custo**: **5** _*ki*_ e **+1** por rank 
 
 <br>
 
@@ -3431,8 +3431,8 @@ O personagem energiza os punhos elevando o dano causado.
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Dano**: **2D6+6** e **+1D6** por rank
-- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
+- **Dano**: **2D6+6** e **+1D6+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
