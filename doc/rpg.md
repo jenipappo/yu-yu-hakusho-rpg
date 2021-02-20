@@ -1658,7 +1658,9 @@ O personagem potencializa os yo-yos causando mais dano.
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+4** e **+1D6** por rank
-- **Custo**: **4*** _[KI](#ki-reiki--youki)_ e **+1** por rank  
+- **Custo**: **4*** _[KI](#ki-reiki--youki)_ e **+1** por rank 
+- **Dano Rank C**: **2D6+5** e **+1D6+1** por rank 
+- **Custo Rank C**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank 
  
 <br>
 
@@ -2009,6 +2011,8 @@ O personagem cria uma espada de gelo no próprio braço ampliando seu dano.
 - **Alvos**: Si mesmo
 - **Dano**: **2D6+4** e **+1D6** por rank 
 - **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
+- **Dano Rank C**: **2D6+5** e **+1D6+1** por rank 
+- **Custo Rank C**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 
 <br>
 
