@@ -326,7 +326,7 @@ Atributos são características físicas ou mentais do seu personagem. Abaioxo, 
 Determina o vigor, saúde e condição física do Personagem. Usado no cáuculo de _[PV](#pv-pontos-de-vida)_.
 
 ### FR Força
-Determina a força física do Personagem, sua capacidade muscular. Concede **+1** de _DANO_ para cada **2** pontos acima de **15**.
+Determina a força física do Personagem, sua capacidade muscular. Concede **+1** de _DANO_ para cada **2** pontos acima de **15**. Usado no cáuculo de _[PV](#pv-pontos-de-vida)_.
 
 ### DEX Destreza
 Define a capacidade manual do Personagem, sua acuidade com as mãos e/ou pés. Incrementa _[ATQ](#atq-ataque)_ e _[DEF](#def-defesa)_ (**+1%** por ponto).
@@ -368,7 +368,7 @@ __*Exemplo*__: um atacante com _[ATQ](#atq-ataque)_ **60%**, ao investir contra 
 <br>
 
 > **Observações**  
-Apesar do sistema daemon ter sido alterado para propiciar melhores condições de jogo, quaisquer regras que não especificadas neste documento devem ser consultadas no livro Trevas 3ª edição.
+Apesar do sistema daemon ter sido alterado para propiciar melhores condições de jogo, quaisquer regras não especificadas neste documento devem ser consultadas no livro Trevas 3ª edição.
 
 ### Ataques Adicionais
 Algumas doutrinas e atributos elevados permitem ao personagem dar _[Ataques Adicionais](#ataques-adicionais)_. Estes ataques sempre são efetuados com precedência aos _[Ataques Múltiplos](#ataques-múltiplos-2-pontos)_.
@@ -426,6 +426,9 @@ Ao acumular bônus de _[IP](#ip-indice-de-proteção)_, _Dano_ ou _Atributos Fí
 > É possível acumular bônus quando advindos de fontes distintas - por exemplo, uma doutrina e um aprimoramento ou _Fúria_ e uma raça.
 > Doutrinas e Aprimoramentos que afetam diretamente a chance de acerto no ataque/defesa não acumulam (exemplo, _Esfriar_ e _Criar Campo de Batalha_). 
 > Um bônus que aumenta o nível das doutrinas não é cumulativo com nenhum outro bônus que aumente o nível das doutrinas(exemplo, _Fúria_ e _Forma Reencarnado_).
+
+### Campos de Batalha
+O personagem só pode portar um recurso deste tipo por vez. Caso utilize outro, o primeiro se dissipará.
 
 ### Armas de Ki e Outros Aumentos de Dano
 O personagem só pode portar um recurso deste tipo por vez. Caso utilize outro, o primeiro se dissipará. 
