@@ -1004,7 +1004,6 @@ O personagem lança um disparo contra o adversário causando dano.
 
 > **Observações**  
 > 1. Nos ranks E e D, o personagem pode usar o reigun até 4 vezes por dia. Nos ranks C e B, o personagem pode usar o reigun até 6 vezes por dia. A partir do rank A, o uso do Reigun é ilimitado. 
-> 0. Esta doutrina passa a ter nível 3 no rank D e nível 5 a partir do rank C.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
@@ -1068,7 +1067,7 @@ O personagem só pode usar esta técnica para tirar a parte maligna de uma pesso
 <br>
 
 ### Nível 6: Reflexo Destrutivo Reiko
-O personagem quando for alvo de um disparo de até nível 7, pode absorvê-lo e depois manda-lo de volta contra o adversário, causando o dano do próprio disparo e absorvendo **1** _[KI](#ki-reiki--youki)_ por nível do poder do disparo. 
+O personagem quando for alvo de um disparo, pode absorvê-lo e depois manda-lo de volta contra o adversário, causando o dano do próprio disparo e absorvendo **1** _[KI](#ki-reiki--youki)_ por nível do poder do disparo. 
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
@@ -1310,7 +1309,7 @@ O personagem invoca a planta sanguessuga que ataca um oponente que estiver ferid
 <br>
 
 ### Nível 1: Aquecer
-O personagem cria um campo de calor intenso aumentando consideravelmente a temperatura da área e causando dano a todos os seus oponentes que estejam dentro da área da doutrina.
+O personagem cria um campo de calor intenso aumentando consideravelmente a temperatura da área, e causando dano e debuff a todos os seus oponentes que estejam dentro da área da doutrina.
 
 > **Observações**  
 > A regra de dano mínimo não se aplica a esta doutrina. 
@@ -1320,10 +1319,10 @@ O personagem cria um campo de calor intenso aumentando consideravelmente a tempe
 - **Dano**: **+3** por rank
 - **Custo**: **1** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
-  - Caso _Esfriar_ esteja ativo, ambos os campos se dissipam. 
-  - Aplica **-5%** de _[ATQ](#atq-ataque)_ aos oponentes 
-  - Aplica **-5%** de _[DEF](#def-defesa)_ aos oponentes 
-  - Aplica **-5%** de _Esquiva_ aos oponentes
+  - _[ATQ](#atq-ataque)_: **-5%**
+  - _[DEF](#def-defesa)_: **-5%**
+  - _Esquiva_: **-5%**
+  - Caso _Esfriar_ esteja ativo, ambos os campos se dissipam.
   
 <br>
 
@@ -1597,7 +1596,7 @@ O personagem cria duplicatas e recebe um bônus.
 <br>
 
 ### Nível 4: Sorasu
-O personagem quando for alvo de um disparo de nível 5 ou menor, pode desviá-lo com um grande soco para outro lugar que não seja na direção do oponente.
+O personagem quando for alvo de um disparo, pode desviá-lo com um grande soco para outro lugar que não seja na direção do oponente.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
@@ -1765,7 +1764,7 @@ Ao ver qualquer doutrina o personagem poderá copiá-la para usá-la durante a l
 ## Ka Shou Rappa Ken
 
 ### Nível 1: Aquecer
-O personagem cria um campo de calor intenso aumentando consideravelmente a temperatura da área e causando dano a todos os seus oponentes que estejam dentro da área da doutrina.
+O personagem cria um campo de calor intenso aumentando consideravelmente a temperatura da área, e causando dano e debuff a todos os seus oponentes que estejam dentro da área da doutrina.
 
 > **Observações**  
 > 1.  A regra de dano mínimo não se aplica a esta doutrina. 
@@ -1775,10 +1774,10 @@ O personagem cria um campo de calor intenso aumentando consideravelmente a tempe
 - **Dano**: **3** por rank
 - **Custo**: **1** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
+  - _[ATQ](#atq-ataque)_: **-5%**
+  - _[DEF](#def-defesa)_: **-5%**
+  - _Esquiva_: **-5%**
   - Caso _Esfriar_ esteja ativo, ambos os campos se dissipam.
-  - Aplica **-5%** de _[ATQ](#atq-ataque)_ aos oponentes 
-  - Aplica **-5%** de _[DEF](#def-defesa)_ aos oponentes 
-  - Aplica **-5%** de _Esquiva_ aos oponentes
 
 <br>
 
@@ -1933,8 +1932,8 @@ O personagem marca o oponente com o pincel aplicando um redutor no ataque e na d
 - **Alvos**: **1**
 - **Custo**: **2** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
-  - _[ATQ](#atq-ataque)_: **-5%** por rank
-  - _[DEF](#def-defesa)_: **-5%** por rank
+  - _[ATQ](#atq-ataque)_: **-5%**, mais **-5%** para cada **2** ranks acima do rank E.
+  - _[DEF](#def-defesa)_: **-5%**, mais **-5%** para cada **2** ranks acima do rank E.
 
 <br>
 
@@ -2081,7 +2080,7 @@ O personagem cria um furacão em um de seus braços ampliando seu dano.
 <br>
 
 ### Nível 4: Fenômeno Turbilhão
-O personagem quando for alvo de um disparo de nível 5 ou menor, pode desviá-lo com um grande soco para outro lugar que não seja na direção do oponente.
+O personagem quando for alvo de um disparo, pode desviá-lo com um grande soco para outro lugar que não seja na direção do oponente.
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
@@ -2302,7 +2301,7 @@ O personagem cria uma espada que amplifica o dano.
 <br>
 
 ### Nível 4: Barreira Shobako
-O personagem cria uma barreira de ondas que evita o dano de disparos de nível 5 ou menor. 
+O personagem cria uma barreira de ondas que evita o dano de disparos. 
 
 - **Tipo**: Buff
 - **Alvos**: Si mesmo
@@ -2311,7 +2310,21 @@ O personagem cria uma barreira de ondas que evita o dano de disparos de nível 5
 
 <br>
  
-### Nível 5: Possessão de Sombras
+### Nível 5: Espada Sonora das Trevas
+O personagem faz sua espada emitir um terrível som em uma área (semelhante a um campo) fazendo monstros de rank E desmaiarem.
+
+- **Tipo**: Debuff
+- **Duração**: **1** cena (ou uma rodada por rank se bem sucedido no teste de _[WILL](#will-força-de-vontade)_)
+- **Alvos**: todos os oponentes na área
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
+- **Efeitos Adicionais**
+  - _[ATQ](#atq-ataque)_: **-5%**, mais **-5%** para cada **2** ranks acima do rank E.
+  - _[DEF](#def-defesa)_: **-5%**, mais **-5%** para cada **2** ranks acima do rank E.
+  - _Esquiva_: **-5%**, mais **-5%** para cada **2** ranks acima do rank E.
+
+<br>
+
+### Nível 6: Possessão de Sombras
 O personagem se mescla as sombras e recebendo bônus durante a cena.
 
 - **Tipo**: Buff
@@ -2321,23 +2334,11 @@ O personagem se mescla as sombras e recebendo bônus durante a cena.
 - **Bônus**:
   - _[CON](#con-constituição)_: **+15**
   - _[FR](#fr-força)_: **+15**
+  - _[AGI](#agi-agilidade)_: **+5**
+  - _[DEX](#dex-destreza)_: **+5**
   - _[PV](#pv-pontos-de-vida)_: **+20**
   - _[IP](#ip-indice-de-proteção)_: **+10**
  
- <br>
- 
-### Nível 6: Espada Sonora das Trevas
-O personagem faz sua espada emitir um terrível som em uma área (semelhante a um campo) fazendo monstros de rank E desmaiarem.
-
-- **Tipo**: Debuff
-- **Duração**: **1** cena (ou uma rodada por rank se bem sucedido no teste de _[WILL](#will-força-de-vontade)_)
-- **Alvos**: todos os oponentes na área
-- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
-- **Efeitos Adicionais**
-  - Aplica **-5%** de _[ATQ](#atq-ataque)_ aos oponentes por rank
-  - Aplica **-5%** de _[DEF](#def-defesa)_ aos oponentes por rank
-  - Aplica **-5%** de _Esquiva_ aos oponentes por rank
-  
 <br>
 
 ### Nível 7: Ondas de Sombras Demoníacas
@@ -2861,7 +2862,7 @@ O personagem lança o Bambolê das trevas contra o adversário causando dano.
 <br>
 
 ### Nível 4: Redemoinho das Trevas
-O personagem quando for alvo de um disparo de nível 5 ou menor, ele pode neutralizá-lo fazendo um redemoinho em volta de si mesmo. 
+O personagem quando for alvo de um disparo, ele pode neutralizá-lo fazendo um redemoinho em volta de si mesmo. 
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
@@ -3440,7 +3441,7 @@ O personagem energiza os punhos elevando o dano causado.
 <br>
 
 ### Nível 4: Golpe de Defesa e Ataque Madoki
-O personagem, enquanto alvo de um disparo de nível 6 ou menor, pode absorve-lo, recarregando sua reserva de _[KI](#ki-reiki--youki)_.
+O personagem, enquanto alvo de um disparo, pode absorve-lo, recarregando sua reserva de _[KI](#ki-reiki--youki)_.
 
 - **Tipo**: Contra-ataque
 - **Alvos**: **1**
@@ -3539,7 +3540,7 @@ O personagem cria uma arma espiritual do Meikai que amplifica o dano.
 <br>
 
 ### Nível 5: Reflexo Destrutivo
-Quando o personagem for alvo de um disparo de nível 7 ou menor, ele pode absorvê-lo e depois manda-lo de volta contra o adversário causando o dano do próprio disparo. 
+Quando o personagem for alvo de um disparo, ele pode absorvê-lo e depois manda-lo de volta contra o adversário causando o dano do próprio disparo. 
 
 - **Tipo**: Disparo
 - **Alvos**: **1**
