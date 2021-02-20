@@ -1275,9 +1275,9 @@ O personagem invoca uma imensa cerejeira e, neste campo de batalha (tem a mesma 
   - _Esquiva_: **+%5** por rank
   - _[Evasão](#evasão-1-ponto)_ 
 - **Efeitos Adicionais**
-  - Aplica **-5%** de _[ATQ](#atq-ataque)_ ao oponente 
-  - Aplica **-5%** de _[DEF](#def-defesa)_ ao oponente 
-  - Aplica **-5%** de _Esquiva_ ao oponente 
+  - Aplica **-5%** de _[ATQ](#atq-ataque)_ aos oponentes 
+  - Aplica **-5%** de _[DEF](#def-defesa)_ aos oponentes 
+  - Aplica **-5%** de _Esquiva_ aos oponentes 
 
 <br>
 
@@ -2327,9 +2327,9 @@ O personagem faz sua espada emitir um terrível som em uma área (semelhante a u
 - **Alvos**: todos os oponentes na área
 - **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
-  - Aplica **-5%** de _[ATQ](#atq-ataque)_ ao oponente por rank
-  - Aplica **-5%** de _[DEF](#def-defesa)_ ao oponente por rank
-  - Aplica **-5%** de _Esquiva_ ao oponente por rank
+  - Aplica **-5%** de _[ATQ](#atq-ataque)_ aos oponentes por rank
+  - Aplica **-5%** de _[DEF](#def-defesa)_ aos oponentes por rank
+  - Aplica **-5%** de _Esquiva_ aos oponentes por rank
   
 <br>
 
