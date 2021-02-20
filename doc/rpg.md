@@ -1307,7 +1307,7 @@ O personagem invoca a planta sanguessuga que ataca um oponente que estiver ferid
 <br>
 
 ### Nível 1: Aquecer
-O personagem cria um campo de calor intenso aumentando consideravelmente a temperatura da área e causando dano a todos os outros seres que estejam dentro da área da doutrina.
+O personagem cria um campo de calor intenso aumentando consideravelmente a temperatura da área e causando dano a todos os seus oponentes que estejam dentro da área da doutrina.
 
 > **Observações**  
 > A regra de dano mínimo não se aplica a esta doutrina. 
@@ -1318,6 +1318,9 @@ O personagem cria um campo de calor intenso aumentando consideravelmente a tempe
 - **Custo**: **1** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
   - Caso _Esfriar_ esteja ativo, ambos os campos se dissipam. 
+  - Aplica **-5%** de _[ATQ](#atq-ataque)_ aos oponentes 
+  - Aplica **-5%** de _[DEF](#def-defesa)_ aos oponentes 
+  - Aplica **-5%** de _Esquiva_ aos oponentes
   
 <br>
 
@@ -1757,17 +1760,20 @@ Ao ver qualquer doutrina o personagem poderá copiá-la para usá-la durante a l
 ## Ka Shou Rappa Ken
 
 ### Nível 1: Aquecer
-O personagem cria um campo de calor intenso aumentando consideravelmente a temperatura da área e causando dano a todos os outros seres que estejam dentro da área da doutrina.
+O personagem cria um campo de calor intenso aumentando consideravelmente a temperatura da área e causando dano a todos os seus oponentes que estejam dentro da área da doutrina.
 
 > **Observações**  
 > 1.  A regra de dano mínimo não se aplica a esta doutrina. 
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
-- **Dano**: **2** por rank
+- **Dano**: **3** por rank
 - **Custo**: **1** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
   - Caso _Esfriar_ esteja ativo, ambos os campos se dissipam.
+  - Aplica **-5%** de _[ATQ](#atq-ataque)_ aos oponentes 
+  - Aplica **-5%** de _[DEF](#def-defesa)_ aos oponentes 
+  - Aplica **-5%** de _Esquiva_ aos oponentes
 
 <br>
 
