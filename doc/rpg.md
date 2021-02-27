@@ -1436,8 +1436,8 @@ O personagem aumenta o seu poder e recebe um bônus.
 - **Alvos**: Si mesmo
 - **Custo**: **5** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _[CON](#con-constituição)_: **+5**
-  - _[FR](#fr-força)_: **+10**
+  - _[CON](#con-constituição)_: **+10**
+  - _[FR](#fr-força)_: **+5**
   - _[PV](#pv-pontos-de-vida)_: **+5**
   - _[IP](#ip-indice-de-proteção)_: **+5**
 
