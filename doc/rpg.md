@@ -1930,7 +1930,7 @@ O personagem marca o oponente com o pincel aplicando um redutor no ataque e na d
 - **Tipo**: Debuff
 - **Duração**: **1** cena ou (**1** rodada por rank, caso bem sucedido em teste)
 - **Alvos**: **1**
-- **Custo**: **2** _[KI](#ki-reiki--youki)_ e **+1** por rank
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** para cada **2** ranks acima do rank E.
 - **Efeitos Adicionais**
   - _[ATQ](#atq-ataque)_: **-5%**, mais **-5%** para cada **2** ranks acima do rank E.
   - _[DEF](#def-defesa)_: **-5%**, mais **-5%** para cada **2** ranks acima do rank E.
@@ -2316,7 +2316,7 @@ O personagem faz sua espada emitir um terrível som em uma área (semelhante a u
 - **Tipo**: Debuff
 - **Duração**: **1** cena (ou uma rodada por rank se bem sucedido no teste de _[WILL](#will-força-de-vontade)_)
 - **Alvos**: todos os oponentes na área
-- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** para cada **2** ranks acima do rank E.
 - **Efeitos Adicionais**
   - _[ATQ](#atq-ataque)_: **-5%**, mais **-5%** para cada **2** ranks acima do rank E.
   - _[DEF](#def-defesa)_: **-5%**, mais **-5%** para cada **2** ranks acima do rank E.
