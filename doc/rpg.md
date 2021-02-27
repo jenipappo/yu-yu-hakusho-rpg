@@ -405,7 +405,7 @@ O personagem fica _Desacordado_ quando seu _[PV](#pv-pontos-de-vida)_ chega a ze
 O personagem morre quando acumula dano suficiente para ficar com **-15** _[PV](#pv-pontos-de-vida)_ e **-1** por nível do personagem. Este é o fim da jornada do personagem e sua ficha deve ser descartada.
 
 ### Fúria
-O mestre decidirá quando o personagem entrará neste estado. Geralmente é causado por uma grande perda, casos de desespero ou humilhação. A _Fúria_ fornece um bônus de **+10** em todos os seus atributos físicos, _[PV](#pv-pontos-de-vida)_, _[KI](#ki-reiki--youki)_, _[IP](#ip-indice-de-proteção)_, _Dano_ e as suas doutrinas e aprimoramentos são elevadas um rank acima, mesmo no rank S Supremo.
+O mestre decidirá quando o personagem entrará neste estado. Geralmente é causado por uma grande perda, casos de desespero ou humilhação. A _Fúria_ fornece um bônus de **+10** em todos os seus atributos físicos, _[PV](#pv-pontos-de-vida)_, _[KI](#ki-reiki--youki)_, _[IP](#ip-indice-de-proteção)_, _Dano_ e eleva as doutrinas e aprimoramentos em **1** rank, mesmo no rank S Supremo
 
 ### Recuperar Energia
 O personagem recupera **1** _[PV](#pv-pontos-de-vida)_ por rank a cada 20 minutos e **1** de _[KI](#ki-reiki--youki)_ por rank a cada meia hora de descanso.
@@ -425,7 +425,7 @@ Ao acumular bônus de _[IP](#ip-indice-de-proteção)_, _Dano_ ou _Atributos Fí
 > **Observações**
 > É possível acumular bônus quando advindos de fontes distintas - por exemplo, uma doutrina e um aprimoramento ou _Fúria_ e uma raça.
 > Doutrinas e Aprimoramentos que afetam diretamente a chance de acerto no ataque/defesa não acumulam (exemplo, _Movimentos Cambaleantes_ e _Criar Campo de Batalha_). 
-> Um bônus que aumenta o nível das doutrinas e aprimoramentos não é cumulativo com nenhum outro bônus que aumente o nível das doutrinas e aprimoramentos (exemplo, _Fúria_ e _Forma Reencarnado_).
+> Um bônus que eleva as doutrinas e aprimoramentos em **1** rank, mesmo no rank S Supremo; não é cumulativo com nenhum outro bônus que eleva o rank das doutrinas e aprimoramentos (exemplo, _Fúria_ e _Forma Reencarnado_).
 
 ### Campos de Batalha
 O personagem só pode portar um recurso deste tipo por vez. Caso utilize outro, o primeiro se dissipará.
@@ -434,7 +434,7 @@ O personagem só pode portar um recurso deste tipo por vez. Caso utilize outro, 
 O personagem só pode portar um recurso deste tipo por vez. Caso utilize outro, o primeiro se dissipará. 
 
 ### Nível 19 - Rank S Supremo
-Neste nível o personagem ganha **+1** ponto de aprimoramento e doutrina, **+3** pontos de atributos, **+9** pontos de _[KI](#ki-reiki--youki)_, **+18** _[PV](#pv-pontos-de-vida)_, **+75** pontos de perícias e e as suas doutrinas e aprimoramentos são elevadas um rank acima, mesmo no rank S.
+Neste nível o personagem ganha **+1** ponto de aprimoramento e doutrina, **+3** pontos de atributos, **+9** pontos de _[KI](#ki-reiki--youki)_, **+18** _[PV](#pv-pontos-de-vida)_, **+75** pontos de perícias e eleva as doutrinas e aprimoramentos em **1** rank, mesmo no rank S.
 
 O rank S Supremo é considerado como outro rank. Trate esta evolução como **3** evoluções normais para poder fazer a ficha do personagem. 
 
