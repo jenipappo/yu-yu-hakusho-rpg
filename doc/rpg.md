@@ -655,11 +655,11 @@ O personagem pode voar.
 ## Criar Campo de Batalha (2 pontos)
 O personagem cria um campo de batalha que concede bônus de _[ATQ](#atq-ataque)_ e _[DEF](#def-defesa)_. O efeito visual deve ser combinado entre o **narrador** e o **jogador**. 
 
-  - **Custo**: **2** _[KI](#ki-reiki--youki)_ e **+1** por rank 
+  - **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** para cada **2** ranks acima do rank E 
   - **Duração**: **1** cena
   - **Bônus**
-    - _[ATQ](#atq-ataque)_: **+5%** por rank
-    - _[DEF](#def-defesa)_: **+5%** por rank 
+  - _[ATQ](#atq-ataque)_: **+5%**, e **+5%** para cada **2** ranks acima do rank E.
+  - _[DEF](#def-defesa)_: **+5%**, e **+5%** para cada **2** ranks acima do rank E.
 
 <br>
 
@@ -863,7 +863,7 @@ O personagem possui habilidades diferenciadas em seu disparo que dificultam a su
 - **Efeitos Adicionais**
   - **70%** do dano causado pelo seu disparo não pode ser reduzido.
   - O seu disparo não pode ser neutralizado por outras disciplinas
-  - Seu disparo é mais difícil de ser desviado causando um redutor de **-5%** de chance de esquiva por rank ao inimigo.
+  - Seu disparo é mais difícil de ser desviado causando um redutor de **-5%** de chance de _Esquiva_ no seu oponente, mais **-5%** para cada **2** ranks acima do rank E.
 
 <br>
 
@@ -1143,11 +1143,11 @@ O personagem passa a usar duas adagas reiken, e recebe um bônus de ataque e def
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **4** _[KI](#ki-reiki--youki)_ **+1** por rank
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ **+1** para cada **2** ranks acima do rank E
 - **Bônus**: 
   - _DANO_: **+2** 
-  - _[ATQ](#atq-ataque)_: **+5%** por rank
-  - _[DEF](#def-defesa)_: **+5%** por rank
+  - _[ATQ](#atq-ataque)_: **+5%**, e **+5%** para cada **2** ranks acima do rank E.
+  - _[DEF](#def-defesa)_: **+5%**, e **+5%** para cada **2** ranks acima do rank E.
   - _[Ataques Adicionais](#ataques-adicionais)_: **+1**
 
 <br>
@@ -1160,7 +1160,7 @@ O personagem faz com que sua espada ataque o adversário por de baixo da terra c
 - **Dano**: **4D6+12** e **+16** por rank
 - **Custo**: **4** _[KI](#ki-reiki--youki)_; **+1** por rank
 - **Efeitos Adicionais**:
-  - Aplica **-5%** por rank de chance de esquiva ao oponente 
+  - Aplica **-5%** de chance de _Esquiva_ no seu oponente, mais **-5%** para cada **2** ranks acima do rank E. 
 
 <br>
 
@@ -1172,7 +1172,7 @@ Melhora a espada vara tornando-a muito mais flexível e causando dano extra por 
 - **Dano**: **4D6+14** e **+18** por rank
 - **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**:
-  - Aplica **-5%** por rank de chance de esquiva ao oponente 
+  - Aplica **-5%** de chance de _Esquiva_ no seu oponente, mais **-5%** para cada **2** ranks acima do rank E. 
 
 <br>
 
@@ -1270,11 +1270,11 @@ O personagem invoca a planta demoníaca que causa dano atacando oponentes e/ou q
 O personagem invoca uma imensa cerejeira e, neste campo de batalha (tem a mesma dimensão de um campo comum, com exceção da altura ser 50 metros por rank), recebe um bônus de ataque, defesa e testes de resistência de esquiva. As plantas também podem defender disparos (trate isso como o aprimoramento _[Evasão](#evasão-1-ponto)_). Oponentes recebem um redutor de ataque, defesa e testes de resistência de esquiva. 
 
 - **Tipo**: Invocação
-- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank  
+- **Custo**: **6** _[KI](#ki-reiki--youki)_ e **+1** para cada **2** ranks acima do rank E  
 - **Bônus**
-  - _[ATQ](#atq-ataque)_: **+5%** por rank
-  - _[DEF](#def-defesa)_: **+5%** por rank
-  - _Esquiva_: **+%5** por rank
+  - _[ATQ](#atq-ataque)_: **+5%**, e **+5%** para cada **2** ranks acima do rank E.
+  - _[DEF](#def-defesa)_: **+5%**, e **+5%** para cada **2** ranks acima do rank E.
+  - _Esquiva_: **+%5**, e **+5%** para cada **2** ranks acima do rank E. 
   - _[Evasão](#evasão-1-ponto)_ 
 - **Efeitos Adicionais**
   - Aplica **-5%** de _[ATQ](#atq-ataque)_ aos oponentes 
@@ -1317,7 +1317,7 @@ O personagem cria um campo de calor intenso aumentando consideravelmente a tempe
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Dano**: **+3** por rank
-- **Custo**: **1** _[KI](#ki-reiki--youki)_ e **+1** por rank
+- **Custo**: **2** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
   - _[ATQ](#atq-ataque)_: **-5%**
   - _[DEF](#def-defesa)_: **-5%**
@@ -1451,7 +1451,7 @@ O personagem atinge o adversário com uma investida vindo de qualquer lugar do s
 - **Dano**: **4D6+12** e **+16** por rank
 - **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
-  - **Esquiva**: O adversário perde **-5%** de sua esquiva contra essa técnica.
+  - Aplica **-5%** de chance de _Esquiva_ no seu oponente, mais **-5%** para cada **2** ranks acima do rank E.
 
 <br>
 
@@ -1467,7 +1467,7 @@ O personagem lança-se em pedaços contra o adversário causando dano.
 - **Dano**: **4D6+14** e **+20** por rank
 - **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
-  - **Esquiva**: O adversário perde **-5%** de sua esquiva contra essa técnica.
+  - Aplica **-5%** de chance de _Esquiva_ no seu oponente, mais **-5%** para cada **2** ranks acima do rank E.
 
 <br>
 
@@ -1633,10 +1633,10 @@ O personagem passa a lutar com um estilo de luta bastante exótico, utilizando y
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **2** _[KI](#ki-reiki--youki)_ e **+1** por rank
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** para cada **2** ranks acima do rank E
 - **Bônus**
-  - _[ATQ](#atq-ataque)_: **+5%** por rank
-  - _[DEF](#def-defesa)_: **+5%** por rank
+  - _[ATQ](#atq-ataque)_: **+5%**, e **+5%** para cada **2** ranks acima do rank E.
+  - _[DEF](#def-defesa)_: **+5%**, e **+5%** para cada **2** ranks acima do rank E.
 
 <br>
 
@@ -1689,7 +1689,7 @@ O personagem lança os yo-yos contra o adversário causando dano e diminuindo a 
 - **Dano**: **4D6+14** e **+18** por rank
 - **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
-  - Durante o ataque, é aplicado ao oponente **-5%** de chance de _Esquiva_ por rank 
+  - Aplica **-5%** de chance de _Esquiva_ no seu oponente, mais **-5%** para cada **2** ranks acima do rank E. 
 
 <br>
 <br>
@@ -1772,7 +1772,7 @@ O personagem cria um campo de calor intenso aumentando consideravelmente a tempe
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Dano**: **3** por rank
-- **Custo**: **1** _[KI](#ki-reiki--youki)_ e **+1** por rank
+- **Custo**: **2** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
   - _[ATQ](#atq-ataque)_: **-5%**
   - _[DEF](#def-defesa)_: **-5%**
@@ -1843,10 +1843,10 @@ O personagem luta cambaleando, no estilo kung fu bêbado, tornando seus moviment
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **1** _[KI](#ki-reiki--youki)_ e **+1** por rank
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** para cada **2** ranks acima do rank E
 - **Bônus**
-  - _[ATQ](#atq-ataque)_: **+5%** por rank
-  - _[DEF](#def-defesa)_: **+5%** por rank
+  - _[ATQ](#atq-ataque)_: **+5%**, e **+5%** para cada **2** ranks acima do rank E.
+  - _[DEF](#def-defesa)_: **+5%**, e **+5%** para cada **2** ranks acima do rank E.
 
 <br>
 
@@ -1930,7 +1930,7 @@ O personagem marca o oponente com o pincel aplicando um redutor no ataque e na d
 - **Tipo**: Debuff
 - **Duração**: **1** cena ou (**1** rodada por rank, caso bem sucedido em teste)
 - **Alvos**: **1**
-- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** para cada **2** ranks acima do rank E.
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** para cada **2** ranks acima do rank E
 - **Efeitos Adicionais**
   - _[ATQ](#atq-ataque)_: **-5%**, mais **-5%** para cada **2** ranks acima do rank E.
   - _[DEF](#def-defesa)_: **-5%**, mais **-5%** para cada **2** ranks acima do rank E.
@@ -1986,10 +1986,10 @@ O personagem cria um campo de batalha de gelo que diminui consideravelmente a te
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **1** _[KI](#ki-reiki--youki)_ e **+1** por rank
+- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** para cada **2** ranks acima do rank E
 - **Bônus**
-  - _[ATQ](#atq-ataque)_: **+5%** por rank
-  - _[DEF](#def-defesa)_: **+5%** por rank
+  - _[ATQ](#atq-ataque)_: **+5%**, e **+5%** para cada **2** ranks acima do rank E.
+  - _[DEF](#def-defesa)_: **+5%**, e **+5%** para cada **2** ranks acima do rank E.
 - **Efeitos Adicionais**
   - Caso _Aquecer_ esteja ativo, ambos os campos se dissipam.
 
@@ -2316,7 +2316,7 @@ O personagem faz sua espada emitir um terrível som em uma área (semelhante a u
 - **Tipo**: Debuff
 - **Duração**: **1** cena (ou uma rodada por rank se bem sucedido no teste de _[WILL](#will-força-de-vontade)_)
 - **Alvos**: todos os oponentes na área
-- **Custo**: **5** _[KI](#ki-reiki--youki)_ e **+1** para cada **2** ranks acima do rank E.
+- **Custo**: **6** _[KI](#ki-reiki--youki)_ e **+1** para cada **2** ranks acima do rank E
 - **Efeitos Adicionais**
   - _[ATQ](#atq-ataque)_: **-5%**, mais **-5%** para cada **2** ranks acima do rank E.
   - _[DEF](#def-defesa)_: **-5%**, mais **-5%** para cada **2** ranks acima do rank E.
@@ -2470,7 +2470,7 @@ O personagem lança um disparo teleguiado contra o adversário causando dano e d
 - **Dano**: **4D6+12** e **+16** por rank
 - **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
-  - Aplica **-5%** de _Esquiva_ ao oponente por rank
+  - Aplica **-5%** de chance de _Esquiva_ no seu oponente, mais **-5%** para cada **2** ranks acima do rank E.
   
 <br>
 
@@ -2541,10 +2541,9 @@ O personagem fica totalmente maleável, sendo mais difícil de ser atingido.
 - **Tipo**: Buff
 - **Alvos**: Si mesmo
 - **Duração**: **1** cena
-- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank  
-- **Bônus**
-  - _[ATQ](#atq-ataque)_: **+5%** por rank
-  - _[DEF](#def-defesa)_: **+5%** por rank
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** para cada **2** ranks acima do rank E
+  - _[ATQ](#atq-ataque)_: **+5%**, e **+5%** para cada **2** ranks acima do rank E.
+  - _[DEF](#def-defesa)_: **+5%**, e **+5%** para cada **2** ranks acima do rank E.
   - _[Evasão](#evasão-1-ponto)_
 
 <br>
@@ -2831,10 +2830,10 @@ O personagem tem um estilo de luta diferenciado, este estilo de luta refinado co
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **2** _[KI](#ki-reiki--youki)_ e **+1** por rank
+- **Custo**: **2** _[KI](#ki-reiki--youki)_ e **+1** para cada **2** ranks acima do rank E
 - **Bônus**
-  - _[ATQ](#atq-ataque)_: **+5%** por rank
-  - _[DEF](#def-defesa)_: **+5%** por rank
+  - _[ATQ](#atq-ataque)_: **+5%**, e **+5%** para cada **2** ranks acima do rank E.
+  - _[DEF](#def-defesa)_: **+5%**, e **+5%** para cada **2** ranks acima do rank E.
 
 <br>
 
@@ -3149,8 +3148,8 @@ O personagem eleva seu espirito de luta e recebe um bônus.
 - **Alvos**: Si mesmo
 - **Custo**: **10** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _[ATQ](#atq-ataque)_: **+5%** por rank
-  - _[DEF](#def-defesa)_: **+5%** por rank
+  - _[ATQ](#atq-ataque)_: **+5%**, e **+5%** para cada **2** ranks acima do rank E.
+  - _[DEF](#def-defesa)_: **+5%**, e **+5%** para cada **2** ranks acima do rank E.
   - _[CON](#con-constituição)_: **+10**
   - _[FR](#fr-força)_: **+10**
   - _[AGI](#agi-agilidade)_: **+10**
@@ -3193,7 +3192,7 @@ Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca
 - **Dano**: **4D6+13** e **+17** por rank
 - **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank  
 - **Efeitos Adicionais**
-  - Oponente recebe **-5%** por rank no teste de _[AGI](#agi-agilidade)_
+  - Aplica **-5%** de chance de _Esquiva_ no seu oponente, mais **-5%** para cada **2** ranks acima do rank E.
 
 <br>
 
@@ -3264,7 +3263,7 @@ Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca
 - **Dano**: **4D6+14** e **+18** por rank
 - **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank  
 - **Efeitos Adicionais**
-  - Oponente recebe **-5%** por rank no teste de _[AGI](#agi-agilidade)_
+  - Aplica **-5%** de chance de _Esquiva_ no seu oponente, mais **-5%** para cada **2** ranks acima do rank E.
 
 <br>
 
@@ -3362,7 +3361,7 @@ O personagem lança um disparo que causa dano.
 - **Dano**: **4D6+18** e **+21** por rank
 - **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank
 - **Efeitos Adicionais**
-  - Aplica **-5%** de _Esquiva_ ao oponente por rank
+  - Aplica **-5%** de chance de _Esquiva_ no seu oponente, mais **-5%** para cada **2** ranks acima do rank E.
 
 <br>
 
@@ -3374,8 +3373,8 @@ O personagem eleva seu espirito de luta e recebe um bônus.
 - **Alvos**: Si mesmo
 - **Custo**: **10** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _[ATQ](#atq-ataque)_: **+5%** por rank
-  - _[DEF](#def-defesa)_: **+5%** por rank
+  - _[ATQ](#atq-ataque)_: **+5%**, e **+5%** para cada **2** ranks acima do rank E.
+  - _[DEF](#def-defesa)_: **+5%**, e **+5%** para cada **2** ranks acima do rank E.
   - _[CON](#con-constituição)_: **+15**
   - _[FR](#fr-força)_: **+15**
   - _[AGI](#agi-agilidade)_: **+15**
@@ -3460,8 +3459,8 @@ O personagem eleva seu espirito de luta e recebe um bônus.
 - **Alvos**: Si mesmo
 - **Custo**: **10** _[KI](#ki-reiki--youki)_
 - **Bônus**
-  - _[ATQ](#atq-ataque)_: **+5%** por rannk
-  - _[DEF](#def-defesa)_: **+5%** por rannk
+  - _[ATQ](#atq-ataque)_: **+5%**, e **+5%** para cada **2** ranks acima do rank E.
+  - _[DEF](#def-defesa)_: **+5%**, e **+5%** para cada **2** ranks acima do rank E.
   - _[FR](#fr-força)_: **+15**
   - _[CON](#con-constituição)_: **+15**
   - _[AGI](#agi-agilidade)_: **+15**
@@ -3507,11 +3506,11 @@ O personagem conhece técnicas marciais secretas de antigos mestres, e este esti
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: **3** _[KI](#ki-reiki--youki)_ e **+1** por rank  
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** para cada **2** ranks acima do rank E  
 - **Bônus**
-  - _[ATQ](#atq-ataque)_: **+5%** por rank
-  - _[DEF](#def-defesa)_: **+5%** por rank
-  - _Esquiva_: **+%5** por rank
+  - _[ATQ](#atq-ataque)_: **+5%**, e **+5%** para cada **2** ranks acima do rank E.
+  - _[DEF](#def-defesa)_: **+5%**, e **+5%** para cada **2** ranks acima do rank E.
+  - _Esquiva_: **+%5**, e **+5%** para cada **2** ranks acima do rank E.
   
 <br>
 
@@ -3524,7 +3523,7 @@ Caso um oponente erre o seu ataque corpo a corpo, o personagem pode contra-ataca
 - **Dano**: **4D6+15** e **+19** por rank
 - **Custo**: **4** _[KI](#ki-reiki--youki)_ e **+1** por rank  
 - **Efeitos Adicionais**
-  - Oponente recebe **-5%** por rank no teste de _[AGI](#agi-agilidade)_
+  - Aplica **-5%** de chance de _Esquiva_ no seu oponente, mais **-5%** para cada **2** ranks acima do rank E.
 
 <br>
 
