@@ -35,7 +35,7 @@ Ele investiga um pequeno caso envolvendo o roubo de três artefatos do mundo esp
 
 ## Toguro & Genkai
 
-Há algum tempo, quando ainda jovens, Toguro e Genkai começaram a aprender disciplinas de artes marciais. Na época, os dois queriam desenvolver suas capacidades de luta. Mas acontece como todo ser humano, com o passar dos anos a idade cobrou seu preço, se tornando um impecílio para a evolução do casal. 
+Há algum tempo, quando ainda jovens, Toguro e Genkai começaram a aprender doutrinas de artes marciais. Na época, os dois queriam desenvolver suas capacidades de luta. Mas acontece como todo ser humano, com o passar dos anos a idade cobrou seu preço, se tornando um impecílio para a evolução do casal. 
 
 Toguro, mesmo ainda jovem, tinha muita dificuldade para aceitar seu envelhecimento. O rapaz começava a trilhar o caminho para o lado das trevas. Em pouco tempo, começaram a acontecer várias desavenças entre os dois em função de seus, cada vez mais divergentes, objetivos para o futuro. 
 
@@ -396,7 +396,7 @@ Os personagens tem 3 ações no turno:
 O personagem pode substituir uma ação parcial complexa por outra simples.
 
 ### Quantidade Máxima de Doutrinas
-O personagem só pode ter **2** doutrinas diferentes. Caso maximize ambas, os postos de doutrina adicionais, se converterão em pontos de aprimoramento.
+O personagem só pode ter **2** doutrinas diferentes. Caso maximize ambas, os pontos de doutrina adicionais, se converterão em pontos de aprimoramento.
 
 ### Desacordado
 O personagem fica _Desacordado_ quando seu _[PV](#pv-pontos-de-vida)_ chega a zero, não podendo executar mais nenhuma ação. Enquanto _Desacordado_, o personagem recupera _[PV](#pv-pontos-de-vida)_ passivamente e recobra a sua consciência quando seu _[PV](#pv-pontos-de-vida)_ volta a ficar positivo.
@@ -405,7 +405,7 @@ O personagem fica _Desacordado_ quando seu _[PV](#pv-pontos-de-vida)_ chega a ze
 O personagem morre quando acumula dano suficiente para ficar com **-15** _[PV](#pv-pontos-de-vida)_ e **-1** por nível do personagem. Este é o fim da jornada do personagem e sua ficha deve ser descartada.
 
 ### Fúria
-O mestre decidirá quando o personagem entrará neste estado. Geralmente é causado por uma grande perda, casos de desespero ou humilhação. A _Fúria_ fornece um bônus de **+10** em todos os seus atributos físicos, _[PV](#pv-pontos-de-vida)_, _[KI](#ki-reiki--youki)_, _[IP](#ip-indice-de-proteção)_, _Dano_ e as suas doutrinas são elevadas um rank acima, mesmo no rank S Supremo.
+O mestre decidirá quando o personagem entrará neste estado. Geralmente é causado por uma grande perda, casos de desespero ou humilhação. A _Fúria_ fornece um bônus de **+10** em todos os seus atributos físicos, _[PV](#pv-pontos-de-vida)_, _[KI](#ki-reiki--youki)_, _[IP](#ip-indice-de-proteção)_, _Dano_ e as suas doutrinas e aprimoramentos são elevadas um rank acima, mesmo no rank S Supremo.
 
 ### Recuperar Energia
 O personagem recupera **1** _[PV](#pv-pontos-de-vida)_ por rank a cada 20 minutos e **1** de _[KI](#ki-reiki--youki)_ por rank a cada meia hora de descanso.
@@ -424,8 +424,8 @@ Ao acumular bônus de _[IP](#ip-indice-de-proteção)_, _Dano_ ou _Atributos Fí
 
 > **Observações**
 > É possível acumular bônus quando advindos de fontes distintas - por exemplo, uma doutrina e um aprimoramento ou _Fúria_ e uma raça.
-> Doutrinas e Aprimoramentos que afetam diretamente a chance de acerto no ataque/defesa não acumulam (exemplo, _Esfriar_ e _Criar Campo de Batalha_). 
-> Um bônus que aumenta o nível das doutrinas não é cumulativo com nenhum outro bônus que aumente o nível das doutrinas(exemplo, _Fúria_ e _Forma Reencarnado_).
+> Doutrinas e Aprimoramentos que afetam diretamente a chance de acerto no ataque/defesa não acumulam (exemplo, _Movimentos Cambaleantes_ e _Criar Campo de Batalha_). 
+> Um bônus que aumenta o nível das doutrinas e aprimoramentos não é cumulativo com nenhum outro bônus que aumente o nível das doutrinas e aprimoramentos (exemplo, _Fúria_ e _Forma Reencarnado_).
 
 ### Campos de Batalha
 O personagem só pode portar um recurso deste tipo por vez. Caso utilize outro, o primeiro se dissipará.
@@ -434,7 +434,7 @@ O personagem só pode portar um recurso deste tipo por vez. Caso utilize outro, 
 O personagem só pode portar um recurso deste tipo por vez. Caso utilize outro, o primeiro se dissipará. 
 
 ### Nível 19 - Rank S Supremo
-Neste nível o personagem ganha **+1** ponto de aprimoramento e doutrina, **+3** pontos de atributos, **+9** pontos de _[KI](#ki-reiki--youki)_, **+18** _[PV](#pv-pontos-de-vida)_, **+75** pontos de perícias e as doutrinas são elevadas a um rank acima mesmo no rank S. 
+Neste nível o personagem ganha **+1** ponto de aprimoramento e doutrina, **+3** pontos de atributos, **+9** pontos de _[KI](#ki-reiki--youki)_, **+18** _[PV](#pv-pontos-de-vida)_, **+75** pontos de perícias e e as suas doutrinas e aprimoramentos são elevadas um rank acima, mesmo no rank S.
 
 O rank S Supremo é considerado como outro rank. Trate esta evolução como **3** evoluções normais para poder fazer a ficha do personagem. 
 
@@ -849,7 +849,7 @@ O personagem possui habilidades diferenciadas em seu disparo que dificultam a su
 - **Custo**: **+1** _[KI](#ki-reiki--youki)_ (**+1** a partir de doutrina nível 4).
 - **Efeitos Adicionais**
   - **60%** do dano causado pelo seu disparo não pode ser reduzido.
-  - O seu disparo não pode ser neutralizado por outras disciplinas.
+  - O seu disparo não pode ser neutralizado por outras doutrinas.
 
 <br>
 
@@ -862,7 +862,7 @@ O personagem possui habilidades diferenciadas em seu disparo que dificultam a su
 - **Custo**: **+1** _[KI](#ki-reiki--youki)_ (**+1** a partir de doutrina nível 4).
 - **Efeitos Adicionais**
   - **70%** do dano causado pelo seu disparo não pode ser reduzido.
-  - O seu disparo não pode ser neutralizado por outras disciplinas
+  - O seu disparo não pode ser neutralizado por outras doutrinas
   - Seu disparo é mais difícil de ser desviado causando um redutor de **-5%** de chance de _Esquiva_ no seu oponente, mais **-5%** para cada **2** ranks acima do rank E.
 
 <br>
@@ -901,7 +901,7 @@ A partir do quarto ataque corpo a corpo sofrido o personagem poderá fazer um te
 > **Observações**  
 > 1. Os aprimoramentos negativos servem como moeda de troca para ganhar pontos de aprimoramento.
 > 0. Cada aprimoramento negativo lhe dará um valor correspondente (entre parênteses)
-> 0. Os aprimoramentos negativos possuem algum tipo de ônus que irá incidir em seu personagem. Alguns podem ser ônus sociais ou até mesmo ônus em termos de custos de _[KI](#ki-reiki--youki)_ para execução de uma disciplina. Cabe ao **jogador** balancear os seus aprimoramentos negativos e ao **narrador** cobrar os ônus destes.
+> 0. Os aprimoramentos negativos possuem algum tipo de ônus que irá incidir em seu personagem. Alguns podem ser ônus sociais ou até mesmo ônus em termos de custos de _[KI](#ki-reiki--youki)_ para execução de uma doutrina. Cabe ao **jogador** balancear os seus aprimoramentos negativos e ao **narrador** cobrar os ônus destes.
 
 <br>
 
@@ -931,7 +931,7 @@ O personagem é caçado por um dos reinos Reikai, Makai ou Meikai
 O personagem não teve um bom treinamento e ele não controla bem o seu _[KI](#ki-reiki--youki)_. 
 
 - **Ônus**
-  - _[KI](#ki-reiki--youki)_: **+2** de custo para todas as disciplinas e aprimoramentos
+  - _[KI](#ki-reiki--youki)_: **+2** de custo para todas as doutrinas e aprimoramentos
 
 <br>
 
