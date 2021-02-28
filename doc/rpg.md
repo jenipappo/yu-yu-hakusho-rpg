@@ -655,11 +655,11 @@ O personagem pode voar.
 ## Criar Campo de Batalha (2 pontos)
 O personagem cria um campo de batalha que concede bônus de _[ATQ](#atq-ataque)_ e _[DEF](#def-defesa)_. O efeito visual deve ser combinado entre o **narrador** e o **jogador**. 
 
-  - **Custo**: **3** _[KI](#ki-reiki--youki)_ (**5** a partir do rank C)
+  - **Custo**: **3** _[KI](#ki-reiki--youki)_ 
   - **Duração**: **1** cena
   - **Bônus**
-  - _[ATQ](#atq-ataque)_: **+5%** (**+10%** a partir do rank C) 
-  - _[DEF](#def-defesa)_: **+5%** (**+10%** a partir do rank C)
+  - _[ATQ](#atq-ataque)_: **+5%**  
+  - _[DEF](#def-defesa)_: **+5%** 
 
 <br>
 
@@ -742,13 +742,13 @@ O personagem recebe um bônus de _[IP](#ip-indice-de-proteção)_ e  _DANO_, aum
 
 <br>
 
-## Aumento de Atributos Físicos 1 (1 ponto)
+## Aumento de Atributos Físicos 1 (2 pontos)
 O personagem recebe um bônus em um de seus atributos físicos. 
 
 - **Duração**: **1** cena
-- **Custo**: **5** _[KI](#ki-reiki--youki)_ (**10** a partir do rank C)
+- **Custo**: **5** _[KI](#ki-reiki--youki)_
 - **Bônus**
-  - _[FR](#fr-força)_ ou _[CON](#con-constituição)_ ou _[AGI](#agi-agilidade)_ ou _[DEX](#dex-destreza)_: **+5** (**+10** a partir do rank C)
+  - _[FR](#fr-força)_ ou _[CON](#con-constituição)_ ou _[AGI](#agi-agilidade)_ ou _[DEX](#dex-destreza)_: **+5** 
 
 <br>
 
@@ -759,12 +759,12 @@ O personagem recebe um bônus em todos os seus atributos físicos.
 > Requer aprimoramento _Aumento de Atributos Físicos 1_.
 
 - **Duração**: **1** cena
-- **Custo**: **5** _[KI](#ki-reiki--youki)_ (**10** a partir do rank C)
+- **Custo**: **5** _[KI](#ki-reiki--youki)_ 
 - **Bônus**:
-  - _[FR](#fr-força)_: **+5** (**+10** a partir do rank C)
-  - _[CON](#con-constituição)_: **+5** (**+10** a partir do rank C)
-  - _[AGI](#agi-agilidade)_: **+5** (**+10** a partir do rank C)
-  - _[DEX](#dex-destreza)_: **+5** (**+10** a partir do rank C)
+  - _[FR](#fr-força)_: **+5** 
+  - _[CON](#con-constituição)_: **+5** 
+  - _[AGI](#agi-agilidade)_: **+5** 
+  - _[DEX](#dex-destreza)_: **+5**
 
 <br>
 
