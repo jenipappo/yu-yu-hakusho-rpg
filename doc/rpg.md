@@ -424,7 +424,6 @@ Ao acumular bônus de _[IP](#ip-indice-de-proteção)_, _Dano_ ou _Atributos Fí
 
 > **Observações**
 > É possível acumular bônus quando advindos de fontes distintas - por exemplo, uma doutrina e um aprimoramento ou _Fúria_ e uma raça.
-> Doutrinas e Aprimoramentos que afetam diretamente a chance de acerto no ataque/defesa não acumulam (exemplo, _Movimentos Cambaleantes_ e _Criar Campo de Batalha_). 
 > Um bônus que eleva as doutrinas e aprimoramentos em **1** rank, mesmo no rank S Supremo; não é cumulativo com nenhum outro bônus que eleva o rank das doutrinas e aprimoramentos (exemplo, _Fúria_ e _Forma Reencarnado_).
 
 ### Campos de Batalha
@@ -653,14 +652,17 @@ O personagem pode voar.
 <br>
 
 ## Criar Campo de Batalha (2 pontos)
-O personagem cria um campo de batalha que concede bônus de _[ATQ](#atq-ataque)_ e _[DEF](#def-defesa)_. O efeito visual deve ser combinado entre o **narrador** e o **jogador**. 
+O personagem cria um campo de batalha que aplica um redutor no _[ATQ](#atq-ataque)_ e _[DEF](#def-defesa)_ de seus oponentes. O efeito visual deve ser combinado entre o **jogador** e o **narrador**. 
 
-  - **Custo**: **3** _[KI](#ki-reiki--youki)_ 
-  - **Duração**: **1** cena
-  - **Bônus**
-  - _[ATQ](#atq-ataque)_: **+5%**  
-  - _[DEF](#def-defesa)_: **+5%** 
-
+- **Tipo**: Debuff
+- **Duração**: **1** cena (ou uma rodada por rank se bem sucedido em um teste difícil de _[CON](#con-constituição)_)
+- **Alvos**: todos os oponentes na área
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ 
+- **Efeitos Adicionais**
+  - _[ATQ](#atq-ataque)_: **-5%**  
+  - _[DEF](#def-defesa)_: **-5%** 
+  
+  
 <br>
 
 ## Criar Arma Espiritual (2 pontos)
@@ -752,7 +754,7 @@ O personagem recebe um bônus em um de seus atributos físicos.
 
 <br>
 
-## Aumento de Atributos Físicos 2 (2 pontos)
+## Aumento de Atributos Físicos 2 (1 ponto)
 O personagem recebe um bônus em todos os seus atributos físicos. 
 
 > **Observações**  
@@ -1138,7 +1140,7 @@ O personagem cria uma espada que causa mais dano.
 <br>
 
 ### Nível 4: Adagas Reiken Dupla
-O personagem passa a usar duas adagas reiken, e recebe um bônus de ataque e defesa por rank, ataques adicionais e um bônus de dano. Caso use outra arma apenas receberá o bônus de ataque e defesa. 
+O personagem passa a usar duas adagas reiken, e recebe um bônus de _[ATQ](#atq-ataque)_, _[DEF](#def-defesa)_, no dano e um ataque adicional. Caso use outra arma apenas receberá o bônus de _[ATQ](#atq-ataque)_ e _[DEF](#def-defesa)_. 
 
 - **Tipo**: Buff
 - **Duração**: **1** cena
@@ -1267,7 +1269,10 @@ O personagem invoca a planta demoníaca que causa dano atacando oponentes e/ou q
 <br>
 
 ### Nível 6: Sakura
-O personagem invoca uma imensa cerejeira e, neste campo de batalha (tem a mesma dimensão de um campo comum, com exceção da altura ser 50 metros por rank), recebe um bônus de ataque, defesa e testes de resistência de esquiva. As plantas também podem defender disparos (trate isso como o aprimoramento _[Evasão](#evasão-1-ponto)_). Oponentes recebem um redutor de ataque, defesa e testes de resistência de esquiva. 
+O personagem invoca uma imensa cerejeira (tem a mesma dimensão de um campo de batalha comum, com a exceção da altura ser 50 metros por rank), o invocador recebe um bônus de _[ATQ](#atq-ataque)_, _[DEF](#def-defesa)_ e na _Esquiva_. As plantas também podem defender disparos (trate isso como o aprimoramento _[Evasão](#evasão-1-ponto)_). E aplica um redutor no _[ATQ](#atq-ataque)_, _[DEF](#def-defesa)_ e na _Esquiva_ de seus oponentes. 
+
+> **Observações**
+> Requer um teste de difícil de _[CON](#con-constituição)_ para reduzir a duração dos efeitos adicionais em uma rodada por rank. 
 
 - **Tipo**: Invocação
 - **Custo**: **6** _[KI](#ki-reiki--youki)_ (**8** a partir do rank C)
@@ -1309,18 +1314,16 @@ O personagem invoca a planta sanguessuga que ataca um oponente que estiver ferid
 <br>
 
 ### Nível 1: Aquecer
-O personagem cria um campo de calor intenso aumentando consideravelmente a temperatura da área, e causando dano e debuff a todos os seus oponentes que estejam dentro da área da doutrina.
+O personagem cria um campo de calor intenso, aumentando consideravelmente a temperatura da área, e aplica um redutor no _[ATQ](#atq-ataque)_ e _[DEF](#def-defesa)_ de seus oponentes 
 
-> **Observações**  
-> A regra de dano mínimo não se aplica a esta doutrina. 
-
-- **Tipo**: Buff
-- **Duração**: **1** cena
-- **Dano**: **+3** por rank
-- **Custo**: **2** _[KI](#ki-reiki--youki)_ e **+1** por rank
+- **Tipo**: Debuff
+- **Duração**: **1** cena (ou uma rodada por rank se bem sucedido em um teste difícil de _[CON](#con-constituição)_)
+- **Alvos**: todos os oponentes na área
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ 
 - **Efeitos Adicionais**
-  - _[ATQ](#atq-ataque)_: **-5%**
-  - _[DEF](#def-defesa)_: **-5%**
+  - _[ATQ](#atq-ataque)_: **-5%**  
+  - _[DEF](#def-defesa)_: **-5%** 
+- **Efeitos Adicionais**
   - Caso _Esfriar_ esteja ativo, ambos os campos se dissipam.
   
 <br>
@@ -1763,18 +1766,16 @@ Ao ver qualquer doutrina o personagem poderá copiá-la para usá-la durante a l
 ## Ka Shou Rappa Ken
 
 ### Nível 1: Aquecer
-O personagem cria um campo de calor intenso aumentando consideravelmente a temperatura da área, e causando dano e debuff a todos os seus oponentes que estejam dentro da área da doutrina.
+O personagem cria um campo de calor intenso, aumentando consideravelmente a temperatura da área, e aplica um redutor no _[ATQ](#atq-ataque)_ e _[DEF](#def-defesa)_ de seus oponentes 
 
-> **Observações**  
-> 1.  A regra de dano mínimo não se aplica a esta doutrina. 
-
-- **Tipo**: Buff
-- **Duração**: **1** cena
-- **Dano**: **3** por rank
-- **Custo**: **2** _[KI](#ki-reiki--youki)_ e **+1** por rank
+- **Tipo**: Debuff
+- **Duração**: **1** cena (ou uma rodada por rank se bem sucedido em um teste difícil de _[CON](#con-constituição)_)
+- **Alvos**: todos os oponentes na área
+- **Custo**: **4** _[KI](#ki-reiki--youki)_ 
 - **Efeitos Adicionais**
-  - _[ATQ](#atq-ataque)_: **-5%**
-  - _[DEF](#def-defesa)_: **-5%**
+  - _[ATQ](#atq-ataque)_: **-5%**  
+  - _[DEF](#def-defesa)_: **-5%** 
+- **Efeitos Adicionais**
   - Caso _Esfriar_ esteja ativo, ambos os campos se dissipam.
 
 <br>
@@ -1920,18 +1921,16 @@ O personagem após se maquiar ele fortalece seu corpo.
 <br>
 
 ### Nível 2: Prender Membros
-O personagem marca o oponente com o pincel aplicando um redutor no ataque e na defesa. 
-
-> **Observações**
-> Requer um teste de _[CON](#con-constituição)_ para reduzir a duração do efeito. Caso obtenha um resultado que seja bem sucedido para passar num teste difícil, a vítima resistirá ao efeito por completo.
+O personagem marca o oponente com o pincel aplicando um redutor no _[ATQ](#atq-ataque)_, _[DEF](#def-defesa)_ e na _Esquiva_. 
 
 - **Tipo**: Debuff
-- **Duração**: **1** cena ou (**1** rodada por rank, caso bem sucedido em teste)
+- **Duração**: **1** cena (ou uma rodada por rank se bem sucedido em um teste difícil de _[WILL](#will-força-de-vontade)_)
 - **Alvos**: **1**
 - **Custo**: **4** _[KI](#ki-reiki--youki)_ (**6** a partir do rank C)
 - **Efeitos Adicionais**
   - _[ATQ](#atq-ataque)_: **-5%** (**-10%** a partir do rank C) 
   - _[DEF](#def-defesa)_: **-5%** (**-10%** a partir do rank C)
+  - _Esquiva_: **-5%** (**-10%** a partir do rank C)
 
 <br>
 
@@ -2309,10 +2308,10 @@ O personagem cria uma barreira de ondas que evita o dano de disparos.
 <br>
  
 ### Nível 5: Espada Sonora das Trevas
-O personagem faz sua espada emitir um terrível som em uma área (semelhante a um campo) fazendo monstros de rank E desmaiarem.
+O personagem faz sua espada emitir um terrível som em uma área (semelhante a um campo) fazendo monstros de rank E desmaiarem, e aplica um redutor no _[ATQ](#atq-ataque)_, _[DEF](#def-defesa)_ e na _Esquiva_ de seus oponentes.
 
 - **Tipo**: Debuff
-- **Duração**: **1** cena (ou uma rodada por rank se bem sucedido no teste de _[WILL](#will-força-de-vontade)_)
+- **Duração**: **1** cena (ou uma rodada por rank se bem sucedido em um teste difícil de _[WILL](#will-força-de-vontade)_)
 - **Alvos**: todos os oponentes na área
 - **Custo**: **6** _[KI](#ki-reiki--youki)_ (**8** a partir do rank C)
 - **Efeitos Adicionais**
