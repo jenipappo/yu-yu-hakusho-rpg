@@ -1591,7 +1591,8 @@ O personagem cria duplicatas e recebe um bônus.
 - **Alvos**: Si mesmo
 - **Custo**: **10** _[KI](#ki-reiki--youki)_
 - **Bônus**
-  - _[PV](#pv-pontos-de-vida)_: **+25**
+  - _[PV](#pv-pontos-de-vida)_: **+15** 
+  - _[IP](#ip-indice-de-proteção)_: **+5** (**+10** a partir do rank C)
 - **Efeitos Adicionais**
   - Ao usar essa técnica o personagem recebe o aprimoramento _[Ataques Múltiplos](#ataques-múltiplos-2-pontos)_.
 
