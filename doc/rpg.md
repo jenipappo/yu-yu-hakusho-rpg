@@ -2219,9 +2219,10 @@ O personagem após comer o bolinho se transforma em um macaco monstro do mundo d
 - **Alvos**: Si mesmo
 - **Custo**: **5** _[KI](#ki-reiki--youki)_
 - **Bônus**:
-  - _[CON](#con-constituição)_: **+10**
+  - _[CON](#con-constituição)_: **+5**
   - _[FR](#fr-força)_: **+10**
   - _[PV](#pv-pontos-de-vida)_: **+5**
+  - _[IP](#ip-indice-de-proteção)_: **+5**
   - _DANO_: **+2D6** (apenas quando atacando desamardo)
 
 <br>
@@ -2238,7 +2239,8 @@ O personagem após comer o bolinho se transforma em um faisão das trevas, receb
   - _[FR](#fr-força)_: **+10**
   - _[AGI](#agi-agilidade)_: **+10**
   - _[DEX](#dex-destreza)_: **+10**
-  - _[PV](#pv-pontos-de-vida)_: **+10**
+  - _[PV](#pv-pontos-de-vida)_: **+5**
+  - _[IP](#ip-indice-de-proteção)_: **+5**
   - _DANO_: **+2D6+1** (apenas quando atacando desamardo)
 - **Efeitos Adicionais**
   - Recebe o aprimoramento Vôo
@@ -2251,12 +2253,13 @@ O personagem após comer o bolinho se transforma em um Cão monstro das trevas, 
 - **Tipo**: Buff
 - **Duração**: **1** cena
 - **Alvos**: Si mesmo
-- **Custo**: 15
+- **Custo**: **10** _[KI](#ki-reiki--youki)_
 - **Bônus**:
   - _[CON](#con-constituição)_: **+15**
   - _[FR](#fr-força)_: **+15**
-  - _[AGI](#agi-agilidade)_: **+15**
-  - _[DEX](#dex-destreza)_: **+15**
+  - _[AGI](#agi-agilidade)_: **+10**
+  - _[DEX](#dex-destreza)_: **+10**
+  - _[PV](#pv-pontos-de-vida)_: **+10**
   - _[IP](#ip-indice-de-proteção)_: **+10**
   - _DANO_: **+2D6+2** (apenas quando atacando desamardo)
 
